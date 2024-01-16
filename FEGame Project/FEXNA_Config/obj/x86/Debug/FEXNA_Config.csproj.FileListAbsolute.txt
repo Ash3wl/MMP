@@ -1,0 +1,24 @@
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA_Config\bin\x86\Debug\FEXNA_Config.dll
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA_Config\bin\x86\Debug\FEXNA_Config.pdb
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA_Config\bin\x86\Debug\FEXNA_Library.dll
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA_Config\bin\x86\Debug\FEXNA_Library.pdb
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA_Config\obj\x86\Debug\FEXNA_Config.csprojResolveAssemblyReference.cache
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA_Config\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA_Config\obj\x86\Debug\FEXNA_Config.dll
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA_Config\obj\x86\Debug\FEXNA_Config.pdb
+C:\Users\Liam\Desktop\MMP\FEGame Project\FEXNA_Config\bin\x86\Debug\FEXNA_Config.dll
+C:\Users\Liam\Desktop\MMP\FEGame Project\FEXNA_Config\bin\x86\Debug\FEXNA_Config.pdb
+C:\Users\Liam\Desktop\MMP\FEGame Project\FEXNA_Config\bin\x86\Debug\FEXNA_Library.dll
+C:\Users\Liam\Desktop\MMP\FEGame Project\FEXNA_Config\bin\x86\Debug\FEXNA_Library.pdb
+C:\Users\Liam\Desktop\MMP\FEGame Project\FEXNA_Config\obj\x86\Debug\FEXNA_Config.csprojResolveAssemblyReference.cache
+C:\Users\Liam\Desktop\MMP\FEGame Project\FEXNA_Config\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Liam\Desktop\MMP\FEGame Project\FEXNA_Config\obj\x86\Debug\FEXNA_Config.dll
+C:\Users\Liam\Desktop\MMP\FEGame Project\FEXNA_Config\obj\x86\Debug\FEXNA_Config.pdb
+C:\Users\Char\Desktop\MMP\FEGame Project\FEXNA_Config\bin\x86\Debug\FEXNA_Config.dll
+C:\Users\Char\Desktop\MMP\FEGame Project\FEXNA_Config\bin\x86\Debug\FEXNA_Config.pdb
+C:\Users\Char\Desktop\MMP\FEGame Project\FEXNA_Config\bin\x86\Debug\FEXNA_Library.dll
+C:\Users\Char\Desktop\MMP\FEGame Project\FEXNA_Config\bin\x86\Debug\FEXNA_Library.pdb
+C:\Users\Char\Desktop\MMP\FEGame Project\FEXNA_Config\obj\x86\Debug\FEXNA_Config.csprojResolveAssemblyReference.cache
+C:\Users\Char\Desktop\MMP\FEGame Project\FEXNA_Config\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Char\Desktop\MMP\FEGame Project\FEXNA_Config\obj\x86\Debug\FEXNA_Config.dll
+C:\Users\Char\Desktop\MMP\FEGame Project\FEXNA_Config\obj\x86\Debug\FEXNA_Config.pdb

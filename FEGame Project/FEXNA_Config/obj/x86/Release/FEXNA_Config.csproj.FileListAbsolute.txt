@@ -1,0 +1,32 @@
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA_Config\bin\x86\Release\FEXNA_Config.dll
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA_Config\bin\x86\Release\FEXNA_Config.pdb
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA_Config\bin\x86\Release\FEXNA_Library.dll
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA_Config\bin\x86\Release\FEXNA_Library.pdb
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA_Config\obj\x86\Release\FEXNA_Config.csprojResolveAssemblyReference.cache
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA_Config\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA_Config\obj\x86\Release\FEXNA_Config.dll
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA_Config\obj\x86\Release\FEXNA_Config.pdb
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame - 2017.4.16\FEXNA_Config\bin\x86\Release\FEXNA_Config.dll
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame - 2017.4.16\FEXNA_Config\bin\x86\Release\FEXNA_Config.pdb
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame - 2017.4.16\FEXNA_Config\bin\x86\Release\FEXNA_Library.dll
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame - 2017.4.16\FEXNA_Config\bin\x86\Release\FEXNA_Library.pdb
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame - 2017.4.16\FEXNA_Config\obj\x86\Release\FEXNA_Config.csprojResolveAssemblyReference.cache
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame - 2017.4.16\FEXNA_Config\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame - 2017.4.16\FEXNA_Config\obj\x86\Release\FEXNA_Config.dll
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame - 2017.4.16\FEXNA_Config\obj\x86\Release\FEXNA_Config.pdb
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame Project\FEXNA_Config\bin\x86\Release\FEXNA_Config.dll
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame Project\FEXNA_Config\bin\x86\Release\FEXNA_Config.pdb
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame Project\FEXNA_Config\bin\x86\Release\FEXNA_Library.dll
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame Project\FEXNA_Config\bin\x86\Release\FEXNA_Library.pdb
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame Project\FEXNA_Config\obj\x86\Release\FEXNA_Config.csprojResolveAssemblyReference.cache
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame Project\FEXNA_Config\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame Project\FEXNA_Config\obj\x86\Release\FEXNA_Config.dll
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame Project\FEXNA_Config\obj\x86\Release\FEXNA_Config.pdb
+C:\Users\Char\Desktop\MMP\FEGame Project\FEXNA_Config\bin\x86\Release\FEXNA_Config.dll
+C:\Users\Char\Desktop\MMP\FEGame Project\FEXNA_Config\bin\x86\Release\FEXNA_Config.pdb
+C:\Users\Char\Desktop\MMP\FEGame Project\FEXNA_Config\bin\x86\Release\FEXNA_Library.dll
+C:\Users\Char\Desktop\MMP\FEGame Project\FEXNA_Config\bin\x86\Release\FEXNA_Library.pdb
+C:\Users\Char\Desktop\MMP\FEGame Project\FEXNA_Config\obj\x86\Release\FEXNA_Config.csprojResolveAssemblyReference.cache
+C:\Users\Char\Desktop\MMP\FEGame Project\FEXNA_Config\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Char\Desktop\MMP\FEGame Project\FEXNA_Config\obj\x86\Release\FEXNA_Config.dll
+C:\Users\Char\Desktop\MMP\FEGame Project\FEXNA_Config\obj\x86\Release\FEXNA_Config.pdb
