@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Effect.fx</Source>
+      <Name>Effect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Char\Desktop\MMP\FEGame Project\FEGame\FEGame\bin\x86\Debug\Content\Effect.xnb</Output>
+      <Time>2019-02-25T22:45:04.9615315-08:00</Time>
+    </Item>
+    <Item>
+      <Source>manifest.manifest</Source>
+      <Name>manifest</Name>
+      <Importer>ManifestImporter</Importer>
+      <Processor>ManifestProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Char\Desktop\MMP\FEGame Project\FEGame\FEGame\bin\x86\Debug\Content\manifest.xnb</Output>
+      <Time>2019-06-21T22:57:12.8389727-07:00</Time>
+    </Item>
+    <Item>
+      <Source>DiagFont.spritefont</Source>
+      <Name>DiagFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Char\Desktop\MMP\FEGame Project\FEGame\FEGame\bin\x86\Debug\Content\DiagFont.xnb</Output>
+      <Time>2019-02-25T22:45:04.952531-08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{3B113AA2-92B6-42D4-AD75-C78052A6163F}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Char\Desktop\MMP\FEGame Project\FEGame\FEGameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Char\Desktop\MMP\FEGame Project\FEGame\FEGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Char\Desktop\MMP\FEGame Project\FEGame\FEGame\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Char\Desktop\MMP\FEGame Project\FEGame\FEGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Users\Char\Desktop\MMP\FEXNA LIBRARIES\ContentManifestExtensions\bin\x86\Debug\ContentManifestExtensions.dll</Key>
+        <Value>2019-02-25T22:54:20.8543268-08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-03-17T22:26:18.4755669-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

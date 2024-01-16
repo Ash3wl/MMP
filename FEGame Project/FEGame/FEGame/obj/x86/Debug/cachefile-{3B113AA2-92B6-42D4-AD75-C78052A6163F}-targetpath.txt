@@ -1,0 +1,3 @@
+Content\Effect.xnb
+Content\manifest.xnb
+Content\DiagFont.xnb

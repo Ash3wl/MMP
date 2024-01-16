@@ -1,0 +1,72 @@
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEGame\FEGame\bin\x86\Debug\oalinst.exe
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEGame\FEGame\bin\x86\Debug\Content\Effect.xnb
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEGame\FEGame\bin\x86\Debug\Content\manifest.xnb
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEGame\FEGame\bin\x86\Debug\Content\DiagFont.xnb
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEGame\FEGame\bin\x86\Debug\FEGame.exe.config
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEGame\FEGame\bin\x86\Debug\FEGame.exe
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEGame\FEGame\bin\x86\Debug\FEGame.pdb
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEGame\FEGame\bin\x86\Debug\FEXNA.dll
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEGame\FEGame\bin\x86\Debug\FEXNA_Config.dll
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEGame\FEGame\bin\x86\Debug\FEXNA_Library.dll
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEGame\FEGame\bin\x86\Debug\MonoGame.Framework.dll
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEGame\FEGame\bin\x86\Debug\OpenTK.dll
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEGame\FEGame\bin\x86\Debug\NVorbis.dll
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEGame\FEGame\bin\x86\Debug\FEXNA_Library.pdb
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEGame\FEGame\bin\x86\Debug\MonoGame.Framework.pdb
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEGame\FEGame\bin\x86\Debug\FEXNA.pdb
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEGame\FEGame\bin\x86\Debug\FEXNA_Config.pdb
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEGame\FEGame\bin\x86\Debug\NVorbis.pdb
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEGame\FEGame\obj\x86\Debug\FEGame.csprojResolveAssemblyReference.cache
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEGame\FEGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEGame\FEGame\obj\x86\Debug\FEGame.Debug_Monitor.DebugMonitorForm.resources
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEGame\FEGame\obj\x86\Debug\FEGame.csproj.GenerateResource.Cache
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEGame\FEGame\obj\x86\Debug\FEGame.exe
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEGame\FEGame\obj\x86\Debug\FEGame.pdb
+C:\Users\Liam\Desktop\MMP\FEGame Project\FEGame\FEGame\bin\x86\Debug\oalinst.exe
+C:\Users\Liam\Desktop\MMP\FEGame Project\FEGame\FEGame\bin\x86\Debug\Content\Effect.xnb
+C:\Users\Liam\Desktop\MMP\FEGame Project\FEGame\FEGame\bin\x86\Debug\Content\manifest.xnb
+C:\Users\Liam\Desktop\MMP\FEGame Project\FEGame\FEGame\bin\x86\Debug\Content\DiagFont.xnb
+C:\Users\Liam\Desktop\MMP\FEGame Project\FEGame\FEGame\bin\x86\Debug\FEGame.exe.config
+C:\Users\Liam\Desktop\MMP\FEGame Project\FEGame\FEGame\bin\x86\Debug\FEGame.exe
+C:\Users\Liam\Desktop\MMP\FEGame Project\FEGame\FEGame\bin\x86\Debug\FEGame.pdb
+C:\Users\Liam\Desktop\MMP\FEGame Project\FEGame\FEGame\bin\x86\Debug\FEXNA.dll
+C:\Users\Liam\Desktop\MMP\FEGame Project\FEGame\FEGame\bin\x86\Debug\FEXNA_Config.dll
+C:\Users\Liam\Desktop\MMP\FEGame Project\FEGame\FEGame\bin\x86\Debug\FEXNA_Library.dll
+C:\Users\Liam\Desktop\MMP\FEGame Project\FEGame\FEGame\bin\x86\Debug\MonoGame.Framework.dll
+C:\Users\Liam\Desktop\MMP\FEGame Project\FEGame\FEGame\bin\x86\Debug\OpenTK.dll
+C:\Users\Liam\Desktop\MMP\FEGame Project\FEGame\FEGame\bin\x86\Debug\NVorbis.dll
+C:\Users\Liam\Desktop\MMP\FEGame Project\FEGame\FEGame\bin\x86\Debug\FEXNA_Library.pdb
+C:\Users\Liam\Desktop\MMP\FEGame Project\FEGame\FEGame\bin\x86\Debug\MonoGame.Framework.pdb
+C:\Users\Liam\Desktop\MMP\FEGame Project\FEGame\FEGame\bin\x86\Debug\FEXNA.pdb
+C:\Users\Liam\Desktop\MMP\FEGame Project\FEGame\FEGame\bin\x86\Debug\FEXNA_Config.pdb
+C:\Users\Liam\Desktop\MMP\FEGame Project\FEGame\FEGame\bin\x86\Debug\NVorbis.pdb
+C:\Users\Liam\Desktop\MMP\FEGame Project\FEGame\FEGame\obj\x86\Debug\FEGame.csprojResolveAssemblyReference.cache
+C:\Users\Liam\Desktop\MMP\FEGame Project\FEGame\FEGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Liam\Desktop\MMP\FEGame Project\FEGame\FEGame\obj\x86\Debug\FEGame.Debug_Monitor.DebugMonitorForm.resources
+C:\Users\Liam\Desktop\MMP\FEGame Project\FEGame\FEGame\obj\x86\Debug\FEGame.csproj.GenerateResource.Cache
+C:\Users\Liam\Desktop\MMP\FEGame Project\FEGame\FEGame\obj\x86\Debug\FEGame.exe
+C:\Users\Liam\Desktop\MMP\FEGame Project\FEGame\FEGame\obj\x86\Debug\FEGame.pdb
+C:\Users\Char\Desktop\MMP\FEGame Project\FEGame\FEGame\bin\x86\Debug\oalinst.exe
+C:\Users\Char\Desktop\MMP\FEGame Project\FEGame\FEGame\bin\x86\Debug\Content\Effect.xnb
+C:\Users\Char\Desktop\MMP\FEGame Project\FEGame\FEGame\bin\x86\Debug\Content\manifest.xnb
+C:\Users\Char\Desktop\MMP\FEGame Project\FEGame\FEGame\bin\x86\Debug\Content\DiagFont.xnb
+C:\Users\Char\Desktop\MMP\FEGame Project\FEGame\FEGame\bin\x86\Debug\FEGame.exe.config
+C:\Users\Char\Desktop\MMP\FEGame Project\FEGame\FEGame\bin\x86\Debug\FEGame.exe
+C:\Users\Char\Desktop\MMP\FEGame Project\FEGame\FEGame\bin\x86\Debug\FEGame.pdb
+C:\Users\Char\Desktop\MMP\FEGame Project\FEGame\FEGame\bin\x86\Debug\FEXNA.dll
+C:\Users\Char\Desktop\MMP\FEGame Project\FEGame\FEGame\bin\x86\Debug\FEXNA_Config.dll
+C:\Users\Char\Desktop\MMP\FEGame Project\FEGame\FEGame\bin\x86\Debug\FEXNA_Library.dll
+C:\Users\Char\Desktop\MMP\FEGame Project\FEGame\FEGame\bin\x86\Debug\MonoGame.Framework.dll
+C:\Users\Char\Desktop\MMP\FEGame Project\FEGame\FEGame\bin\x86\Debug\OpenTK.dll
+C:\Users\Char\Desktop\MMP\FEGame Project\FEGame\FEGame\bin\x86\Debug\NVorbis.dll
+C:\Users\Char\Desktop\MMP\FEGame Project\FEGame\FEGame\bin\x86\Debug\FEXNA_Library.pdb
+C:\Users\Char\Desktop\MMP\FEGame Project\FEGame\FEGame\bin\x86\Debug\MonoGame.Framework.pdb
+C:\Users\Char\Desktop\MMP\FEGame Project\FEGame\FEGame\bin\x86\Debug\FEXNA.pdb
+C:\Users\Char\Desktop\MMP\FEGame Project\FEGame\FEGame\bin\x86\Debug\FEXNA_Config.pdb
+C:\Users\Char\Desktop\MMP\FEGame Project\FEGame\FEGame\bin\x86\Debug\NVorbis.pdb
+C:\Users\Char\Desktop\MMP\FEGame Project\FEGame\FEGame\obj\x86\Debug\FEGame.csprojResolveAssemblyReference.cache
+C:\Users\Char\Desktop\MMP\FEGame Project\FEGame\FEGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Char\Desktop\MMP\FEGame Project\FEGame\FEGame\obj\x86\Debug\FEGame.Debug_Monitor.DebugMonitorForm.resources
+C:\Users\Char\Desktop\MMP\FEGame Project\FEGame\FEGame\obj\x86\Debug\FEGame.csproj.GenerateResource.Cache
+C:\Users\Char\Desktop\MMP\FEGame Project\FEGame\FEGame\obj\x86\Debug\FEGame.exe
+C:\Users\Char\Desktop\MMP\FEGame Project\FEGame\FEGame\obj\x86\Debug\FEGame.pdb
