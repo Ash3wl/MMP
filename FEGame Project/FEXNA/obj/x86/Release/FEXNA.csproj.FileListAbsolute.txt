@@ -1,0 +1,64 @@
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\bin\x86\Release\FEXNA.dll
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\bin\x86\Release\FEXNA.pdb
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\bin\x86\Release\FEXNA_Config.dll
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\bin\x86\Release\FEXNA_Library.dll
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\bin\x86\Release\MonoGame.Framework.dll
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\bin\x86\Release\NVorbis.dll
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\bin\x86\Release\OpenTK.dll
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\bin\x86\Release\FEXNA_Library.pdb
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\bin\x86\Release\MonoGame.Framework.pdb
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\bin\x86\Release\NVorbis.pdb
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\bin\x86\Release\NVorbis.xml
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\bin\x86\Release\FEXNA_Config.pdb
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\obj\x86\Release\FEXNA.csprojResolveAssemblyReference.cache
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\obj\x86\Release\FEXNA.dll
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\obj\x86\Release\FEXNA.pdb
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame - 2017.4.16\FEXNA\bin\x86\Release\FEXNA.dll
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame - 2017.4.16\FEXNA\bin\x86\Release\FEXNA.pdb
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame - 2017.4.16\FEXNA\bin\x86\Release\FEXNA_Config.dll
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame - 2017.4.16\FEXNA\bin\x86\Release\FEXNA_Library.dll
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame - 2017.4.16\FEXNA\bin\x86\Release\MonoGame.Framework.dll
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame - 2017.4.16\FEXNA\bin\x86\Release\NVorbis.dll
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame - 2017.4.16\FEXNA\bin\x86\Release\OpenTK.dll
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame - 2017.4.16\FEXNA\bin\x86\Release\FEXNA_Library.pdb
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame - 2017.4.16\FEXNA\bin\x86\Release\MonoGame.Framework.pdb
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame - 2017.4.16\FEXNA\bin\x86\Release\NVorbis.pdb
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame - 2017.4.16\FEXNA\bin\x86\Release\NVorbis.xml
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame - 2017.4.16\FEXNA\bin\x86\Release\FEXNA_Config.pdb
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame - 2017.4.16\FEXNA\obj\x86\Release\FEXNA.csprojResolveAssemblyReference.cache
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame - 2017.4.16\FEXNA\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame - 2017.4.16\FEXNA\obj\x86\Release\FEXNA.dll
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame - 2017.4.16\FEXNA\obj\x86\Release\FEXNA.pdb
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame Project\FEXNA\bin\x86\Release\FEXNA.dll
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame Project\FEXNA\bin\x86\Release\FEXNA.pdb
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame Project\FEXNA\bin\x86\Release\FEXNA_Config.dll
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame Project\FEXNA\bin\x86\Release\FEXNA_Library.dll
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame Project\FEXNA\bin\x86\Release\MonoGame.Framework.dll
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame Project\FEXNA\bin\x86\Release\NVorbis.dll
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame Project\FEXNA\bin\x86\Release\OpenTK.dll
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame Project\FEXNA\bin\x86\Release\FEXNA_Library.pdb
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame Project\FEXNA\bin\x86\Release\MonoGame.Framework.pdb
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame Project\FEXNA\bin\x86\Release\NVorbis.pdb
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame Project\FEXNA\bin\x86\Release\NVorbis.xml
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame Project\FEXNA\bin\x86\Release\FEXNA_Config.pdb
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame Project\FEXNA\obj\x86\Release\FEXNA.csprojResolveAssemblyReference.cache
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame Project\FEXNA\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame Project\FEXNA\obj\x86\Release\FEXNA.dll
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame Project\FEXNA\obj\x86\Release\FEXNA.pdb
+C:\Users\Char\Desktop\MMP\FEGame Project\FEXNA\bin\x86\Release\FEXNA.dll
+C:\Users\Char\Desktop\MMP\FEGame Project\FEXNA\bin\x86\Release\FEXNA.pdb
+C:\Users\Char\Desktop\MMP\FEGame Project\FEXNA\bin\x86\Release\FEXNA_Config.dll
+C:\Users\Char\Desktop\MMP\FEGame Project\FEXNA\bin\x86\Release\FEXNA_Library.dll
+C:\Users\Char\Desktop\MMP\FEGame Project\FEXNA\bin\x86\Release\MonoGame.Framework.dll
+C:\Users\Char\Desktop\MMP\FEGame Project\FEXNA\bin\x86\Release\NVorbis.dll
+C:\Users\Char\Desktop\MMP\FEGame Project\FEXNA\bin\x86\Release\OpenTK.dll
+C:\Users\Char\Desktop\MMP\FEGame Project\FEXNA\bin\x86\Release\FEXNA_Library.pdb
+C:\Users\Char\Desktop\MMP\FEGame Project\FEXNA\bin\x86\Release\MonoGame.Framework.pdb
+C:\Users\Char\Desktop\MMP\FEGame Project\FEXNA\bin\x86\Release\NVorbis.pdb
+C:\Users\Char\Desktop\MMP\FEGame Project\FEXNA\bin\x86\Release\NVorbis.xml
+C:\Users\Char\Desktop\MMP\FEGame Project\FEXNA\bin\x86\Release\FEXNA_Config.pdb
+C:\Users\Char\Desktop\MMP\FEGame Project\FEXNA\obj\x86\Release\FEXNA.csprojResolveAssemblyReference.cache
+C:\Users\Char\Desktop\MMP\FEGame Project\FEXNA\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Char\Desktop\MMP\FEGame Project\FEXNA\obj\x86\Release\FEXNA.dll
+C:\Users\Char\Desktop\MMP\FEGame Project\FEXNA\obj\x86\Release\FEXNA.pdb
