@@ -1,0 +1,5 @@
+F:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\FEXNA LIBRARIES\bin\NVorbis.dll
+F:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\FEXNA LIBRARIES\bin\NVorbis.pdb
+F:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\FEXNA LIBRARIES\NVorbis\obj\Debug\NVorbis.csprojResolveAssemblyReference.cache
+F:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\FEXNA LIBRARIES\NVorbis\obj\Debug\NVorbis.dll
+F:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\FEXNA LIBRARIES\NVorbis\obj\Debug\NVorbis.pdb

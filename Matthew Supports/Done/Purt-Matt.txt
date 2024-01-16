@@ -1,0 +1,98 @@
+--Matthew/Purt 1--\f[2|Purt]
+\s[2]
+...|
+
+\f[7|Matthew]
+\s[7]
+...huh?|\n
+Hey, you there!|
+
+\s[2]
+Huh?|
+
+\m[7|5]
+\s[5]
+Yes, hello, hi, salutations.|\n
+Do I know you from somewhere?|\n
+You seem oddly familiar...|
+
+\s[2]
+Oh, its you!|\n
+\f[2|PurtHappy]It's nice to see a fellow customer.|\n
+\f[2|Purt]Your name was...Matthew?|
+
+\f[5|MatthewHappy]
+\s[5]
+OH YEAH, I do know you!\n
+You're the bread delivery guy!|\n
+Your bread is amazing, by the way.|
+
+\f[2|PurtHappy]
+\s[2]
+Freshest in the business.|
+
+\f[5|Matthew]
+\s[5]
+What are you doing here though?\n
+\f[5|MatthewSad]I wouldn't expect a baker in this sort of place.|
+
+\f[2|Purt]
+\s[2]
+Let's just say I got some work to do.|
+
+\f[5|Matthew]
+\s[5]
+I see.|\n
+\f[5|MatthewHappy]A baker and a fighter?|\n
+You must have quite the life.|
+
+\s[2]
+\f[2|PurtHappy]I guess you could say that.|\n
+\f[2|Purt]I've heard that you're a fighter too.|\n
+You've helped Marc once before, haven't you?|
+
+\s[5]
+Ah, yes, that was quite a trip.|\n
+\f[5|Matthew]Though my team seems a lot less..."dynamic" than yours.|\n
+You seem very..."cheery" compared to the others.|
+
+\f[2|PurtSad]
+\s[2]
+I'll take that as a compliment.|\n
+\f[2|Purt]You seem pretty "cheery" yourself, you know.|
+
+\s[5]
+\f[5|MatthewSad]You got me there, I guess.|\n
+\f[5|Matthew]Sounds like I barely know you at all, huh?|
+
+\s[2]
+We can catch up later if you want.|\n
+\f[2|PurtHappy]Maybe over some bread?|
+
+\f[5|MatthewHappy]
+\s[5]
+Sounds good to me!|\n
+I'll be sure to order a lot more from now on.|
+
+\f[2|Purt]
+\s[2]
+The Agonist Bakery thanks you for your business.|
+
+\s[5]
+Oh yeah, and your name is...?|
+
+\s[2]
+Purt.|\n
+\f[2|PurtHappy]Purt Agonist.|
+
+\f[5|Matthew]
+\s[5]
+...|\n
+Oh.|\n
+\f[5|MatthewSad]That's uh.\w[20].\w[20].\w[20]definitely an interesting name.|
+
+\f[2|PurtSad]
+\s[2]
+If I had a coin for everytime someone said that...\n
+There'd be a lot less work for me to do.|
+--End--

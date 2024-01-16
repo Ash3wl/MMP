@@ -1,0 +1,33 @@
+Vandal:
+Neutral
+Sad
+Angry
+
+Matthew:
+Sad
+Happy
+Teary Eyed (Sad)
+
+Ephraim:
+Goofy Smile
+Neutral
+Sad
+
+RS:
+Sad
+Happy
+Angry
+
+Torlo:
+Happy
+
+Ash:
+More Malicious Grin (At Vandal)
+
+Marc:
+Sad
+
+\f[2|RS] - \e[2|0]
+\f[2|RSHappy] -> \e[2|2]
+\f[2|RSSad] -> \e[2|3]
+\f[2|RSAngry] - \e[2|4]

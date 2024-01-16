@@ -1,0 +1,286 @@
+--Matthew X Vandal 1--
+
+\f[2|VandalSad]
+\s[2]
+Uh, Matthew, what exactly are we doing here?|
+
+\f[5|Matthew]
+\s[5]
+What do you mean?\n
+We were called by Marc to help get his stuff.|
+
+\s[2]
+I know, but isn't this a bit sudden?\n
+We barely know any of these guys.|
+
+\s[5]
+Well I'm not complaining.|\n
+\f[5|MatthewHappy]Besides, having more allies is always good, isn't it?\n
+We'll probably get a pretty good reward either way.|
+
+\f[2|Vandal]
+\s[2]
+Actually, talking about more allies...|\n
+Why are we the only ones here?\n
+Shouldn't we call the rest of the team?|\n
+
+\f[5|MatthewSad]
+\s[5]
+O\m[5|5]-oh...|uh...|why should we?|
+
+\f[2|VandalSad]
+\s[2]
+Uh?|\n
+What do you mean, "why"?|\n
+So we don't die, obviously!|
+
+\f[5|Matthew]
+\s[5]
+About that...|\n
+Today is cleaning day back at the residence...|
+
+\f[2|Vandal]
+\s[2]
+What about i-ooooh....|\n
+So that's what we're doing, huh?|
+
+\f[5|MatthewHappy]
+\s[5]
+Hey, I won't tell if you won't.|
+
+\f[2|VandalSad]
+\s[2]
+But she's going to be SO pissed at us.|\n
+You know how she gets in cleaning days.|
+ 
+\f[5|Matthew]
+\s[5]
+And that's why we're here.|
+
+\f[2|VandalHappy]
+\s[2]
+Ah, I get it.|\n
+\f[2|VandalSad]Suddenly, fighting here looks a lot more appealing...|
+
+\f[5|MatthewHappy]
+\s[5]
+I knew you'd understand.\n
+Shall we move?|
+
+\f[2|Vandal]
+\s[2]
+Sure, let's go!|
+
+--End--
+--Matthew x Vandal 2--
+\f[2|Matthew]
+\s[2]
+Yo, Vandy boi.|
+
+\f[5|Vandal]
+\s[5]
+Hey.|
+
+\f[2|MatthewSad]
+\s[2]
+Things have been picking up quite a bit, right?|
+
+\f[5|VandalSad]
+\s[5]
+You can say that again.\n
+Didn't expect we'd be against these kinds of enemies.|
+
+\f[2|Matthew]
+\s[2]
+That's right.|\n
+But you know what they say.\n
+"The bigger the fray, the bigger the pay!"|
+
+\s[5]
+Never heard that one before...|\n
+\f[5|Vandal]But you're right, maybe we can win big here.|
+
+\f[2|MatthewHappy]
+\s[2]
+Yup, that would be nice.|\n
+\f[2|MatthewSad]Work has been lacking lately.|
+
+\f[5|VandalSad]
+\s[5]
+With people like these guys around, I guess people\n
+don't really need simple mercenaries like us.|
+
+\f[2|MatthewSad]
+\s[2]
+Ow, don't say that.|\n
+It hurts my wallet and my feelings...|\n
+\f[2|Matthew]I knew we should have brought fliers.|
+
+\f[5|Vandal]
+\s[5]
+Fliers?\n
+I mean, I don't see any pegasi around here.|
+
+\s[2]
+No, I mean like, paper fliers.|\n
+Maybe we need more advertising.|
+
+\f[5|VandalSad]
+\s[5]
+I doubt that sort of adverstising would work...|\n
+We don't exactly seem like the most trustworthy bunch.|
+
+\s[2]
+Are you sure?\n
+Vesper and Jacke seem to bring in good buiness.|
+
+\s[5]
+Well...|of course they do...|
+
+\f[2|MatthewHappy]
+\s[2]
+Well, either way, if we don't get paid, I'm sure\n
+the people here have some valuable stuff on them...|
+
+\f[5|VandalHappy]
+\s[5]
+Ohoho.|\n
+Now you're speaking my language.|
+--End--
+--Matthew x Vandal3--
+\f[5|VandalSad]
+\s[5]
+...|
+
+\f[2|Matthew]
+\s[2]
+Hey, Vandal, you seem kind of down.\n
+What happened?|
+
+\f[5|Vandal]
+\s[5]
+Oh, hey.|\n
+\f[5|VandalSad]It's nothing, just...|\n
+When they asked us to help recover something invaluable,\n
+I was thinking of something more.\w[20].\w[20].\w[20]appealing.|
+
+\s[2]
+Oh, so that's it...|\n
+\f[2|MatthewSad]I guess it was a bit unexpected.\n
+Who knew Marc was into.\w[20].\w[20].\w[20]literature.|
+
+\s[5]
+Talk about a flop of a treasure.|\n
+\f[5|Vandal]Those wacko magazines aren't even that good.\n
+Even the ones Jerry has are better.|
+
+\f[2|Matthew]
+\s[2]
+Huh?\n
+Does Jerry have those kinds of magazines?|
+
+\f[5|VandalSad]
+\s[5]
+Uh, yeah?\n
+You didn't know?|\n
+\f[5|Vandal]Literally everyone knows he hides them.|
+
+\f[2|MatthewSad]
+\s[2]
+Then how come I don't know that?|
+
+\f[5|VandalSad]
+\s[5]
+We try to keep that info to ourselves.|\n
+\f[5|Vandal]He doesn't know we know, so why ruin his fun?\n
+Poor guy already barely has privacy with Vesper around.|
+
+\f[2|Matthew]
+\s[2]
+Well, alright then.\n
+I guess you learn something new everyday.|
+
+\f[5|VandalHappy]
+\s[5]
+Yep.\n
+Anyway, we should just get this over with.|\n
+\f[5|Vandal]Marc's mags aren't even worth stealing after we're done.|
+
+\f[2|MatthewSad]
+\s[2]
+You can say that again.|
+--End--
+--MatthewxVandal4--
+\f[5|MatthewSad]
+\s[5]
+...|
+
+\f[2|Vandal]
+\s[2]
+Huh?\n
+Matthew, you alright?|
+
+\f[5|Matthew]
+\s[5]
+Oh, I am.|\n
+\f[5|MatthewSad]It's just, fighting with another team feels a bit weird.|
+
+\s[2]
+I can imagine.|\n
+\f[2|VandalHappy]These guys aren't exactly the most normal.|
+
+\f[5|Matthew]
+\s[5]
+Well, neither is our team.\n
+But these guys seem like they're on a whole different level.|\n
+\f[5|MatthewHappy]Their skill is something else.|
+
+\f[2|Vandal]
+\s[2]
+I can agree with you on that.\n
+Though they all seem to have fought themselves before.|
+
+\f[5|Matthew]
+\s[5]
+Ah, so forced teamwork...|\n
+\f[5|MatthewSad]Not exactly a fan, but if it gets us both\n
+alive in the end, I guess I don't mind.|
+
+\f[2|VandalHappy]
+\s[2]
+Not everything can be solved with\n
+the power of friendship, you know.|
+
+\f[5|Matthew]
+\s[5]
+Hey, I'm aware of that!\n
+You know what I mean.|\n
+\f[5|MatthewHappy]A team should be willing to fight for others\n
+as much as they fight for themselves.|
+
+\s[2]
+How honorable of you.|\n
+\f[2|Vandal]Either way, strength comes in bunches.|\n
+Can't really judge them when they get the job done.|
+
+\f[5|Matthew]
+\s[5]
+I suppose.|\n
+I just hope we pull our weight over here.\n
+Would be bad if we made any enemies out of these guys.|
+
+\f[2|VandalHappy]
+\s[2]
+I don't think that's something to be worried about.|\n
+They seem to all be together when shit hits the fan.|
+
+\s[5]
+What a strange relationship that must be.|\n
+\f[5|MatthewHappy]But then again, strangeness comes in bunches as well.|
+
+\s[2]
+And that's our specialty, isn't it?|
+
+\s[5]
+You bet it is.|
+--End--

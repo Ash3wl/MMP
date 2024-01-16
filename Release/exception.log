@@ -1,0 +1,146 @@
+2017/08/26 22:20:45
+Microsoft.Xna.Framework.Content.ContentLoadException: Error loading "Graphics\Pictures\MouseCursor". File not found. ---> System.IO.FileNotFoundException: Error loading "Content\Graphics\Pictures\MouseCursor.xnb". File not found.
+   at Microsoft.Xna.Framework.TitleContainer.OpenStream(String name)
+   at Microsoft.Xna.Framework.Content.ContentManager.OpenStream(String assetName)
+   --- End of inner exception stack trace ---
+   at Microsoft.Xna.Framework.Content.ContentManager.OpenStream(String assetName)
+   at Microsoft.Xna.Framework.Content.ContentManager.ReadAsset[T](String assetName, Action`1 recordDisposableObject)
+   at Microsoft.Xna.Framework.Content.ContentManager.Load[T](String assetName)
+   at FEGame.Game1.LoadContent() in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEGame\FEGame\Source Code\Game1.cs:line 319
+   at Microsoft.Xna.Framework.Game.Initialize()
+   at FEGame.Game1.Initialize() in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEGame\FEGame\Source Code\Game1.cs:line 273
+   at Microsoft.Xna.Framework.Game.RunGame(Boolean useBlockingRun)
+   at Microsoft.Xna.Framework.Game.Run()
+   at FEGame.Program.Main(String[] args) in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEGame\FEGame\Source Code\Program.cs:line 132
+
+2017/09/17 21:38:55
+System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at FEXNA.Game_Battalions.add_item_to_convoy(Item_Data item, Int32 id) in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\Source Code\Game_Battalions.cs:line 186
+   at FEXNA.Game_Actor.send_ring() in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\Source Code\Game_Actor.cs:line 2398
+   at FEXNA.Game_Map.kill_unit(Game_Unit unit, Boolean dead) in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\Source Code\Game_Map\Game_Map.cs:line 1438
+   at FEXNA.Game_Unit.kill(Boolean dead) in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\Source Code\Map Objects\Game_Unit.cs:line 3378
+   at FEXNA.State.Game_Combat_State.update_scene_battle() in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\Source Code\Game_State\Components\Game_Combat_State.cs:line 1587
+   at FEXNA.State.Game_Combat_State.update() in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\Source Code\Game_State\Components\Game_Combat_State.cs:line 229
+   at FEXNA.Game_State.update_state_functions() in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\Source Code\Game_State\Game_State.cs:line 240
+   at FEXNA.Game_State.update() in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\Source Code\Game_State\Game_State.cs:line 216
+   at FEXNA.Scene_Map.update_data() in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\Source Code\Scenes\Scene_Map\Scene_Map.cs:line 635
+   at FEXNA.Scene_Map.update_normal_processing() in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\Source Code\Scenes\Scene_Map\Scene_Map.cs:line 552
+   at FEXNA.Scene_Map.update() in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\Source Code\Scenes\Scene_Map\Scene_Map.cs:line 524
+   at FEXNA.Global.update_scene(KeyboardState key_state) in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\Source Code\Static Classes\Global.cs:line 752
+   at FEGame.Game1.update_scene(GameTime gameTime, KeyboardState key_state, GamePadState controller_state) in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEGame\FEGame\Source Code\Game1.cs:line 1258
+   at FEGame.Game1.Update(GameTime gameTime) in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEGame\FEGame\Source Code\Game1.cs:line 656
+   at Microsoft.Xna.Framework.Game.Tick()
+   at Microsoft.Xna.Framework.Game.HostIdle(Object sender, EventArgs e)
+   at Microsoft.Xna.Framework.GameHost.OnIdle()
+   at Microsoft.Xna.Framework.WindowsGameHost.RunOneFrame()
+   at Microsoft.Xna.Framework.WindowsGameHost.ApplicationIdle(Object sender, EventArgs e)
+   at System.Windows.Forms.Application.ThreadContext.System.Windows.Forms.UnsafeNativeMethods.IMsoComponent.FDoIdle(Int32 grfidlef)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Microsoft.Xna.Framework.WindowsGameHost.Run()
+   at Microsoft.Xna.Framework.Game.RunGame(Boolean useBlockingRun)
+   at Microsoft.Xna.Framework.Game.Run()
+   at FEGame.Program.Main(String[] args) in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEGame\FEGame\Source Code\Program.cs:line 132
+
+2017/09/17 21:40:18
+System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at FEXNA.Game_Battalions.add_item_to_convoy(Item_Data item, Int32 id) in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\Source Code\Game_Battalions.cs:line 186
+   at FEXNA.Game_Actor.send_ring() in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\Source Code\Game_Actor.cs:line 2398
+   at FEXNA.Game_Map.kill_unit(Game_Unit unit, Boolean dead) in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\Source Code\Game_Map\Game_Map.cs:line 1438
+   at FEXNA.Game_Unit.kill(Boolean dead) in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\Source Code\Map Objects\Game_Unit.cs:line 3378
+   at FEXNA.State.Game_Combat_State.update_scene_battle() in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\Source Code\Game_State\Components\Game_Combat_State.cs:line 1587
+   at FEXNA.State.Game_Combat_State.update() in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\Source Code\Game_State\Components\Game_Combat_State.cs:line 229
+   at FEXNA.Game_State.update_state_functions() in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\Source Code\Game_State\Game_State.cs:line 240
+   at FEXNA.Game_State.update() in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\Source Code\Game_State\Game_State.cs:line 216
+   at FEXNA.Scene_Map.update_data() in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\Source Code\Scenes\Scene_Map\Scene_Map.cs:line 635
+   at FEXNA.Scene_Map.update_normal_processing() in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\Source Code\Scenes\Scene_Map\Scene_Map.cs:line 552
+   at FEXNA.Scene_Map.update() in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\Source Code\Scenes\Scene_Map\Scene_Map.cs:line 524
+   at FEXNA.Global.update_scene(KeyboardState key_state) in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\Source Code\Static Classes\Global.cs:line 752
+   at FEGame.Game1.update_scene(GameTime gameTime, KeyboardState key_state, GamePadState controller_state) in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEGame\FEGame\Source Code\Game1.cs:line 1258
+   at FEGame.Game1.Update(GameTime gameTime) in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEGame\FEGame\Source Code\Game1.cs:line 656
+   at Microsoft.Xna.Framework.Game.Tick()
+   at Microsoft.Xna.Framework.Game.HostIdle(Object sender, EventArgs e)
+   at Microsoft.Xna.Framework.GameHost.OnIdle()
+   at Microsoft.Xna.Framework.WindowsGameHost.RunOneFrame()
+   at Microsoft.Xna.Framework.WindowsGameHost.ApplicationIdle(Object sender, EventArgs e)
+   at System.Windows.Forms.Application.ThreadContext.System.Windows.Forms.UnsafeNativeMethods.IMsoComponent.FDoIdle(Int32 grfidlef)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Microsoft.Xna.Framework.WindowsGameHost.Run()
+   at Microsoft.Xna.Framework.Game.RunGame(Boolean useBlockingRun)
+   at Microsoft.Xna.Framework.Game.Run()
+   at FEGame.Program.Main(String[] args) in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEGame\FEGame\Source Code\Program.cs:line 132
+
+2017/09/17 22:04:30
+System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.Convert.ToInt32(String value)
+   at FEXNA.Event_Processor.process_number(String str, Boolean allow_unit) in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\Source Code\Game_System\Event_Processor\Event_Processor_Commands.cs:line 72
+   at FEXNA.Event_Processor.process_number(String str) in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\Source Code\Game_System\Event_Processor\Event_Processor_Commands.cs:line 29
+   at FEXNA.Event_Processor.if_statement_switch(String[] if_key) in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\Source Code\Game_System\Event_Processor\Event_Processor_Commands.cs:line 3534
+   at FEXNA.Event_Processor.test_if_statement() in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\Source Code\Game_System\Event_Processor\Event_Processor_Commands.cs:line 3190
+   at FEXNA.Event_Processor.command_if() in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\Source Code\Game_System\Event_Processor\Event_Processor_Commands.cs:line 3143
+   at FEXNA.Event_Processor.process_command() in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\Source Code\Game_System\Event_Processor\Event_Processor.cs:line 611
+   at FEXNA.Event_Processor.update() in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\Source Code\Game_System\Event_Processor\Event_Processor.cs:line 195
+   at FEXNA.Game_System.update_event(Int32 i) in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\Source Code\Game_System\Game_System.cs:line 775
+   at FEXNA.Game_System.add_event(Int32 id, Boolean run_lone_event, Boolean insert) in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\Source Code\Game_System\Game_System.cs:line 727
+   at FEXNA.Game_State.start_new_events(IEnumerable`1 events_to_start, Boolean run_lone_event, Boolean insert) in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\Source Code\Game_State\Game_State_Events.cs:line 181
+   at FEXNA.Game_State.activate_events_by_action(Event_Action_Triggers action, Int32 timing, Int32 turn) in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\Source Code\Game_State\Game_State_Events.cs:line 128
+   at FEXNA.Game_State.unit_wait_events(Int32 team_turn) in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\Source Code\Game_State\Game_State_Events.cs:line 102
+   at FEXNA.Game_Map.update_unit_wait() in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\Source Code\Game_Map\Game_Map.cs:line 1913
+   at FEXNA.Game_Map.update() in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\Source Code\Game_Map\Game_Map.cs:line 1864
+   at FEXNA.Game_State.update() in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\Source Code\Game_State\Game_State.cs:line 215
+   at FEXNA.Scene_Map.update_data() in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\Source Code\Scenes\Scene_Map\Scene_Map.cs:line 635
+   at FEXNA.Scene_Map.update_normal_processing() in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\Source Code\Scenes\Scene_Map\Scene_Map.cs:line 552
+   at FEXNA.Scene_Map.update() in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\Source Code\Scenes\Scene_Map\Scene_Map.cs:line 524
+   at FEXNA.Global.update_scene(KeyboardState key_state) in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEXNA\Source Code\Static Classes\Global.cs:line 752
+   at FEGame.Game1.update_scene(GameTime gameTime, KeyboardState key_state, GamePadState controller_state) in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEGame\FEGame\Source Code\Game1.cs:line 1258
+   at FEGame.Game1.Update(GameTime gameTime) in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEGame\FEGame\Source Code\Game1.cs:line 656
+   at Microsoft.Xna.Framework.Game.Tick()
+   at Microsoft.Xna.Framework.Game.HostIdle(Object sender, EventArgs e)
+   at Microsoft.Xna.Framework.GameHost.OnIdle()
+   at Microsoft.Xna.Framework.WindowsGameHost.RunOneFrame()
+   at Microsoft.Xna.Framework.WindowsGameHost.ApplicationIdle(Object sender, EventArgs e)
+   at System.Windows.Forms.Application.ThreadContext.System.Windows.Forms.UnsafeNativeMethods.IMsoComponent.FDoIdle(Int32 grfidlef)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Microsoft.Xna.Framework.WindowsGameHost.Run()
+   at Microsoft.Xna.Framework.Game.RunGame(Boolean useBlockingRun)
+   at Microsoft.Xna.Framework.Game.Run()
+   at FEGame.Program.Main(String[] args) in c:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEGame\FEGame\Source Code\Program.cs:line 132
+
+4/13/2018 6:47:28 PM
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at FEXNA.Game_Map.reset_move_arrow(Vector2 target_loc, Int32 range) in c:\Users\Char\Desktop\MMP\FEGame Project\FEXNA\Source Code\Game_Map\Game_Map_MoveRange.cs:line 586
+   at FEXNA.Game_Map.update_move_arrow() in c:\Users\Char\Desktop\MMP\FEGame Project\FEXNA\Source Code\Game_Map\Game_Map_MoveRange.cs:line 563
+   at FEXNA.Game_Map.update() in c:\Users\Char\Desktop\MMP\FEGame Project\FEXNA\Source Code\Game_Map\Game_Map.cs:line 1869
+   at FEXNA.Game_State.update() in c:\Users\Char\Desktop\MMP\FEGame Project\FEXNA\Source Code\Game_State\Game_State.cs:line 236
+   at FEXNA.Scene_Map.update_data() in c:\Users\Char\Desktop\MMP\FEGame Project\FEXNA\Source Code\Scenes\Scene_Map\Scene_Map.cs:line 633
+   at FEXNA.Scene_Map.update_normal_processing() in c:\Users\Char\Desktop\MMP\FEGame Project\FEXNA\Source Code\Scenes\Scene_Map\Scene_Map.cs:line 552
+   at FEXNA.Scene_Map.update() in c:\Users\Char\Desktop\MMP\FEGame Project\FEXNA\Source Code\Scenes\Scene_Map\Scene_Map.cs:line 524
+   at FEXNA.Global.update_scene(KeyboardState key_state) in c:\Users\Char\Desktop\MMP\FEGame Project\FEXNA\Source Code\Static Classes\Global.cs:line 752
+   at FEGame.Game1.update_scene(GameTime gameTime, KeyboardState key_state, GamePadState controller_state) in c:\Users\Char\Desktop\MMP\FEGame Project\FEGame\FEGame\Source Code\Game1.cs:line 1253
+   at FEGame.Game1.Update(GameTime gameTime) in c:\Users\Char\Desktop\MMP\FEGame Project\FEGame\FEGame\Source Code\Game1.cs:line 656
+   at Microsoft.Xna.Framework.Game.Tick()
+   at Microsoft.Xna.Framework.Game.HostIdle(Object sender, EventArgs e)
+   at Microsoft.Xna.Framework.GameHost.OnIdle()
+   at Microsoft.Xna.Framework.WindowsGameHost.RunOneFrame()
+   at Microsoft.Xna.Framework.WindowsGameHost.ApplicationIdle(Object sender, EventArgs e)
+   at System.Windows.Forms.Application.ThreadContext.System.Windows.Forms.UnsafeNativeMethods.IMsoComponent.FDoIdle(Int32 grfidlef)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.Run(Form mainForm)
+   at Microsoft.Xna.Framework.WindowsGameHost.Run()
+   at Microsoft.Xna.Framework.Game.RunGame(Boolean useBlockingRun)
+   at FEGame.Program.Main(String[] args) in c:\Users\Char\Desktop\MMP\FEGame Project\FEGame\FEGame\Source Code\Program.cs:line 132
+

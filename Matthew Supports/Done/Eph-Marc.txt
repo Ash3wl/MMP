@@ -1,0 +1,126 @@
+------Marc x Ephraim-------
+\f[5|Ephraim]
+
+\f[2|MarcHappy]
+\s[2]
+Hello, Ephraim.|
+
+\f[5|EphraimHappy]
+\s[5]
+Oh hey, what's up?|
+
+\f[2|MarcSad]
+\s[2]
+Besides this whole fetch quest thing...\n
+\f[2|Marc]I'm doing alright.|\n
+\f[2|MarcHappy]I appreciate the help of an old buddy.|
+
+\f[5|Ephraim]
+\s[5]
+It's fine.|\n
+It wouldn't have been nice of me to refuse, haha.|
+
+\f[2|MarcSad]
+\s[2]
+That's also at least one more person who\n
+hasn't tried to kill me, here helping me.|
+
+\f[5|EphraimSad]
+\s[5]
+I wonder how many of those exist at this point.|
+
+\f[2|Marc]
+\s[2]
+Now that you mention it...|\n
+\f[2|MarcSad]A LOT of people have tried to kill me by now, huh?|\n
+Evil clones, magic chinchillas...|\n
+I wish they would tone it down a notch.|
+
+\f[5|Ephraim]
+\s[5]
+I think it's pretty obvious, why there's a lot of them.|\n
+\f[5|EphraimHappy]Every hero needs a villain, if I were to guess.|
+
+\f[2|MarcThink]
+\s[2]
+I guess?|\n
+\f[2|Marc]I'm getting bored of being the hero all the time.|\n
+It's getting so overdone by this point.\n
+\f[2|MarcSad]I'm not even that heroic of a character.|
+
+\f[5|EphraimSad]
+\s[5]
+So you'd rather be an enemy?|\n
+\f[5|Ephraim]Hasn't that been done before, though?|
+\f[2|Marc]
+\s[2]
+Yeah I know, but like...|\n
+\f[2|MarcHappy]I feel like I can be an awesome fucking villain.\n
+I'd just need some good fucking motivation and shit.|
+
+\s[5]
+I wonder about that.|\n
+\f[5|EphraimSad]Though from a technical standpoint, I-
+
+\s[2]
+Yeah like, I feel like I can be have this really cool gray morality.\n
+You know, make the player question his ideals and shit?|\n
+Then you can have this sick battle where Reisen and I wo-
+
+\f[5|Ephraim]
+\s[5]
+I know what you're getting at.|\n
+I mean.\w[20].\w[20].\w[20]\f[5|EphraimHappy]I would say it can be good.|
+
+\f[2|Marc]
+\s[2]
+I dunno.|\n
+\f[2|MarcSad]I wouldn't say it's relatively easy, but you know, like,\n
+\f[2|MarcHappy]I always advise people to think outside the box and shit.|
+
+\f[5|EphraimSad]
+\s[5]
+I mean sure, that's all good and all, but...\n
+It doesn't solve the issue.|
+
+\f[2|MarcThink]
+\s[2]
+Huh?|
+
+\f[5|Ephraim]
+\s[5]
+Didn't you just say you wanted people\n
+to "tone it down" with killing you?|\n
+
+\f[2|Marc]
+\s[2]
+I did.|
+
+\f[5|EphraimSad]
+\s[5]
+If you're the enemy, that only makes it worse.|
+
+\s[2]
+...\n
+\f[2|MarcSad]Fuck.|\n
+I guess I'm always prone to dying no matter what.|\n
+\f[2|Marc]Can't I get a break for a change?|\n
+\f[2|MarcSad]...|
+
+\f[5|Ephraim]
+\s[5]
+Don't look at me like that.\n
+\f[5|EphraimSad]You were the one who named it Ragefest.|\n
+\f[5|EphraimHappy]I just did what you asked for.|
+
+\s[2]
+Alright.|\n
+\f[2|Marc]Guess I'll just go die then.|
+
+\f[2|nil]
+
+\f[5|EphraimHappy]
+\s[5]
+Ah Marc...|\n
+\f[5|EphraimSad]What is this contest doing to you?|
+-------End--------

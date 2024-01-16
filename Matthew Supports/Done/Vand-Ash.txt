@@ -1,0 +1,149 @@
+--VandalAsh--
+\f[2|Ash]
+\s[2]
+Hmm...|\n
+We should hurry.|\n
+I'm sure Ciraxis must be getting impatient...|
+
+\f[7|VandalAngry]
+\s[7]
+HEY, YOU THERE!|
+
+\f[2|AshSad]
+\r[2]
+\s[2]
+Uh?|\n
+\r[2]Who's there?|
+
+\s[7]
+HAAAAAAAH-
+
+\f[6|Vandal]
+\m[6|1]
+\w[10]
+\m[2|5]
+
+\r[5]
+\f[5|Ash]
+\s[5]
+Woah, watch out there.|
+
+\r[1]
+\s[1]
+YOU!|
+\s[-2]
+
+\m[1|2]
+\s[2]
+What do you think you're doing?|
+
+\s[5]
+Huh?|\n
+Well, I could ask you the same.|
+
+\s[2]
+Don't play dumb with me.|\n
+You almost zapped me on the way here!|
+
+\s[5]
+Did I really?\n
+\f[5|Ash]I don't recall that.|\n
+\f[5|AshSad]Though looking at you again...\n
+\f[5|AshHappy]You do resemble a common burglar.|\n
+It must have been a misunderstanding.|
+
+\f[2|Vandal]
+\s[2]
+I prefer the term, "treasure hunter".|\n
+\f[2|VandalAngry]And don't give me that "I forgot" shit!|\n
+You were looking right at me when you did it.|
+
+\f[5|AshSad]
+\s[5]How curious.|\n
+\f[5|Ash]Ah, I get it now.|\n
+\f[5|AshHappy]It must have been one of my clones.|
+
+\f[2|VandalSad]
+\s[2]
+Clones?\n
+\f[2|Vandal]Well, whatever.|\n
+What matters is that you don't do it again.|
+
+\f[5|AshSad]
+\s[5]
+Jeez, what a temper.|
+
+\f[2|VandalAngry]
+\s[2]
+I COULD HAVE DIED!|
+\f[5|AshSad]
+\s[5]
+But you didn't.|\n
+\f[5|AshHappy]You should be glad.|\n
+\f[5|Ash]And besides, if you're a thief,\n
+couldn't you have dodged tha-
+
+\f[2|Vandal]
+\s[2]
+Don't finish that sentence, please.|
+
+\f[5|AshSad]
+\s[5]
+Uh, ok?|
+
+\f[2|VandalHappy]
+\s[2]
+So, since you clearly owe me now...|\n
+Is there anything else you can clone besides yourself?|
+
+\f[5|Ash]
+\s[5]
+That's confidential information.|
+
+\f[2|Vandal]
+\s[2]
+What is the source of that power?\n
+Is it natural, a tome, an artifact?|
+\s[-2]
+
+\m[2|3]
+\s[3]
+\f[3|VandalHappy]Are you by chance carrying it?|
+
+\f[5|AshSad]
+\s[5]
+That's even more confidential.|\n
+And please step back now.\n
+\f[5|Ash]I'd rather not have anything stolen.|
+
+\m[3|2]
+\f[2|Vandal]
+\s[2]
+Stolen?|\n
+\f[2|VandalHappy]C'mon, I wouldn't do that...|
+
+\s[5]
+You shouldn't grin while you say that.|
+
+\s[2]
+Don't you believe me?|
+
+\s[5]
+...|
+
+\f[6|AshClone]
+\s[6]
+...|
+
+\s[2]
+Wait, is that the clone from befo-AAAAH
+
+\m[6|2]
+\m[2|1]
+\f[1|nil]
+
+\w[30]
+\s[5]
+.\w[20].\w[20].\w[20].|\n
+\f[5|AshHappy]And there he goes...|
+--End--

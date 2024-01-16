@@ -1,0 +1,100 @@
+--Matthew x Vandal again--
+\f[2|Matthew]
+
+\f[5|Vandal]
+\s[5]
+Yo Matty boi.\n
+You've been holding out well?|
+
+\s[2]
+Yeah, I'm good.|\n
+This was all a bit sudden, though.|
+
+\f[5|VandalHappy]
+\s[5]
+Not like that ever stops us, right?|
+
+\f[2|MatthewSad]
+\s[2]
+Sadly, you're right.|\n
+\f[2|Matthew]You seem pretty comfortable though.\n
+Why is that?|
+
+\f[5|Vandal]
+\s[5]
+You noticed?\n
+Well, let's just say these sorts of\n
+places are kind of my territory.|
+
+\s[2]
+Huh?|\n
+So you've been here before?|
+
+\f[5|VandalHappy]
+\s[5]
+Are you kidding me?|\n
+We're do you think our post-mission loot goes?|
+
+\s[2]
+Oh.|\n
+\r[2]So you sell our stuff on this Black Market?|
+
+\f[5|Vandal]
+\s[5]
+Hey, I didn't say that!|\n
+I only sell leftover goods and enemy junk.\n
+I don't sell our stuff.|\n
+\f[5|VandalSad].\w[30].\w[30].\w[30]for cheap, anyw-
+
+\r[2]
+\s[2]
+What did you say?|
+
+\s[5]
+Oh, \f[5|Vandal]nothing, nothing.\n
+\f[5|VandalHappy]Just talking to myself.|
+
+\f[2|MatthewSad]
+\s[2]
+Anyway, if you know these guys...\n
+\f[2|Matthew]Can't you just get Marc's stuff witout fighting?|
+
+\f[5|Vandal]
+\s[5]
+About that...|\n
+\f[5|VandalSad]Let's just say these guys aren't exactly my friends...|
+
+\s[2]
+What do you mean?|
+
+\s[5]
+I may have.\w[10].\w[10].\w[10]\f[5|Vandal]been kicked out of this place.|
+
+\f[2|MatthewSad]
+\s[2]
+What?|\n
+Why?|
+
+\s[5]
+Stole from the Commander.|\n
+\f[5|VandalHappy]It was a really cool cape, I swear.|
+
+\s[2]
+Oh, for the love of...\n
+\f[2|Matthew]Well, there goes that plan, then.|\n
+I guess fighting is the only option.|
+
+\f[5|Vandal]
+\s[5]
+Yep, seems so.|
+
+\f[2|MatthewSad]
+\s[2]
+Alright, just promise you won't\n
+do something like this again.|\n
+Sheesh.|
+\f[2|nil]
+
+\s[5]
+Haha...|\f[5|VandalHappy]nah.|
+--End--

@@ -1,0 +1,153 @@
+﻿---RSxCiraxis---
+\f[2|RS]
+\s[2]
+General Ciraxis.|\n
+
+\f[5|Ciraxis]
+\s[5]
+Hmm?|\n
+What is it?|
+
+\s[2]
+We must talk.|
+
+\s[5]
+Make it quick.|
+
+\s[2]
+\f[2|RSSad] Just why am I here, exactly?|
+
+\s[5]
+Because I ordered you to be here.|
+
+\s[2]
+This isn't my responsibility.|
+
+\s[5]
+Oh, what's that about now?|
+
+\s[2]
+\f[2|RSSad]I was only recently hired as the Chief of Security.|\n
+\f[2|RS]I've only barely begun updating the security apparatus,|\n
+\f[2|RS]instead of being here, it would be more important to-
+
+\s[5]
+Wrong.|
+
+\s[2]
+.\w[20].\w[20].\w[20]\f[2|RSSad]\m[2|2]Excuse me?|
+
+\s[5]
+My orders hold the highest importance.|
+
+\s[2]
+\f[2|RS]It would benefit you more if I-|
+
+\s[5]
+Haven't you read your contract?|
+
+\s[2]
+\f[2|RSAngry]Every word of it.|
+
+\s[5]
+Did you read the fine print?|
+
+\s[2]
+\f[2|RSHappy]Affirmative.|
+
+\s[5]
+Did you read between the lines?|
+
+\s[2]
+.\w[10].\w[10].\w[10]\f[2|RS]affirmative.\w[10].\w[10].\w[10]|
+
+\s[5]
+Did you read it backwards?|
+
+\s[2]
+.\w[10].\w[10].\w[10]\f[2|RSSad]\m[2|2]I.\w[10].\w[10].\w[10]|
+
+\s[5]
+Did you read the blank space?|
+
+\s[2]
+...|\n
+\f[2|RSAngry]It's blank.|\n
+\f[2|RS]There's nothing there.|
+
+\s[5]
+.\w[20].\w[20].\w[20]|
+
+\s[2]
+\f[2|RS]Are\m[2|2]...you serious?|\n
+
+\s[5]
+Well, that's on you then.|\n
+Can't blame you for missing it, honestly.|\n
+It was written in invisible ink and all.|
+
+\s[2][RSAngry]
+...|\n
+That's nonsense.|
+
+\s[5]
+"The subject's assignments, job description and life are\n
+at the mercy of Ciraxis and as such; prone to adjustments.|\n
+Any violation of this will result in severe punishment."|
+
+\s[2]
+\f[2|RSAngry]Absurd.|
+
+\s[5]
+Couldn't care less what you think.\n
+You were the one who signed it.|\n
+Just do as you're told, gnat.|
+
+\s[2]
+\f[2|RSSad].\w[20].\w[20].\w[20]|
+
+\m[5|4]
+
+\s[4]
+Your pay and benefits are more than generous.\n
+The faster you get this done the faster you can\n
+continue with your duties back at base.|
+
+\m[2|1]
+
+\s[1]
+\f[1|RS]\m[1|1]Very well then, sir.|
+
+\f[1|nil]
+
+\s[4]
+.\w[20].\w[20].\w[20]sir?|
+
+\f[1|RSHappy]
+\s[1]
+...Lord Ciraxis.|
+
+\f[1|nil]
+
+\s[4]
+.\w[20].\w[20].\w[20]|
+
+\f[1|RSSad]
+\s[1]
+.\w[20].\w[20].\w[20]Supreme Commander Ciraxis.|
+
+\s[4]
+That works.|\n
+Now get lost.|\n
+We've wasted enough time here.|
+
+\s[1]
+A\m[1|1]...Very well.|
+
+\f[1|nil]
+
+\s[4]
+\r[4]
+I'll never understand these people.|\n
+What part of "obey without question" do they not understand?|
+---End---

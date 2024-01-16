@@ -1,0 +1,113 @@
+---MarcXMatthew---
+\f[2|Matthew]
+\s[2]
+Heyo Marc!|\n
+\f[2|MatthewHappy]Thanks for the mission.|
+
+\f[5|Marc]
+\s[5]
+Hm?\n
+\f[5|MarcHappy]Oh, Matthew.|\n
+Don't mention it.|\n
+\f[5|MarcSad]I really need to get my shit back.|\n
+\f[5|MarcHappy]Any help counts, even if it's you guys.|
+
+\s[2]
+Hey thanks!|\n
+\f[2|Matthew]Wait\w[10].\w[10].\w[10].\f[2|MatthewSad]that was a compliment, right?|
+
+\s[5]
+Sure it was.|\n
+\f[5|MarcSad]You guys have saved my ass before too.|\n
+\r[5](Even if that was debatably canon.)|
+
+\f[2|Matthew]\s[2]
+What did you say?|
+
+\r[5]\s[5]
+\f[5|Marc]Either way, it's nice to have you two.|
+
+\f[2|MatthewHappy]\s[2]
+No problem.|\n
+\f[2|Matthew]You already seem to have a team yourself, though.|
+
+\s[5]
+\r[5]Oh, these guys?|\n
+\r[5]Yeah, they're\w[10].\w[10].\w[10].\f[5|MarcSad]old friends of mine.|\n
+\f[5|MarcHappy]Don't get on their bad sides.|
+
+\f[2|MatthewSad]\s[2]
+Oh uh, ok?|\n
+\f[2|Matthew]No need to worry about me.|\n
+\f[2|MatthewHappy]I'm used to dealing with a rowdy team, you know.|
+
+\s[5]
+Oh yeah, your team.|\n
+\f[5|Marc]Must be hard to be ordered around all the time.|
+
+\s[2]
+Ye-\w[10].\w[10].\w[10].\f[2|MatthewSad]wait, what?\n
+I don't get ordered around!\n
+I'm the leader!|
+
+\s[5]
+\f[5|MarcSad]Wait.\n
+YOU'RE the leader?|\n
+\f[5|Marc]I thought the leader was Vandal.|
+
+\s[2]
+\w[10].\w[10].\w[10].\m[2|2]Vandal?|
+
+\s[5]
+\f[5|MarcSad]Or, you know, that angry girl...\n
+\f[5|Marc]What was her name\w[10].\w[10].\w[10].Penny?|\n
+\f[5|MarcHappy]Yeah, that one.|
+
+\s[2]
+\w[10].\w[10].\w[10].\m[2|2]Peggie?|
+
+\s[5]
+You just seem so...passive, you know?|\n
+Not really much of a leader type and all.|
+
+\s[2]
+\w[10].\w[10].\w[10].\m[2|2]passive?|
+\s[5]
+Yeah, yeah.|\n
+\f[5|Marc]Don't you agree that it makes more sense?|
+
+\s[2]
+\w[10].\w[10].\w[10].|
+
+\s[5]
+\f[5|MarcSad]Uh\w[10].\w[10].\w[10].Matthew?\n
+Are you doing alright?|
+
+\s[2]
+\f[2|Matthew]Huh?\n
+Oh yeah, I'm uh\w[10].\w[10].\w[10].\m[2|2]\f[2|MatthewHappy]I'm fine!|\n
+Now if you excuse me, \f[2|Matthew]I uh\w[10].\w[10].\w[10].\m[2|2]\f[2|MatthewSad]need a minute.|
+
+\f[2|nil]
+
+\s[5]
+\f[5|Marc]Huh?|\n
+What's up with him?|\n
+\f[5|MarcSad]Did I say something wrong?|
+
+\f[2|MatthewSad]
+\s[2]I said I'm fine!|\n
+\m[2|2]I just\w[10].\w[10].\w[10].\m[2|2]I just\w[10].\w[10].\w[10].\n
+\m[2|2]\f[2|MatthewTearyEyed]My eyes are just a bit sweaty right now.|
+
+\f[2|nil]
+
+\s[5]
+\f[5|Marc]I think I hurt his feelings.|
+
+\s[0]
+I'm\w[10].\w[10].\w[10].fine!|\n
+\w[10].\w[10].\w[10].sniff\w[10].\w[10].\w[10].
+
+\s[5]
+\f[5|MarcSad]Yeah, he's not fine.|

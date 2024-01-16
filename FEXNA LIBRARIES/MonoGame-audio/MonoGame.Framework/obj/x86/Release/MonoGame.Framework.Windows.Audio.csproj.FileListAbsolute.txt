@@ -1,0 +1,30 @@
+F:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\Game Development\FEXNA LIBRARIES\MonoGame-audio\MonoGame.Framework\bin\WindowsGL\Release\MonoGame.Framework.dll
+F:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\Game Development\FEXNA LIBRARIES\MonoGame-audio\MonoGame.Framework\bin\WindowsGL\Release\MonoGame.Framework.pdb
+F:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\Game Development\FEXNA LIBRARIES\MonoGame-audio\MonoGame.Framework\bin\WindowsGL\Release\NVorbis.dll
+F:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\Game Development\FEXNA LIBRARIES\MonoGame-audio\MonoGame.Framework\bin\WindowsGL\Release\OpenTK.dll
+F:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\Game Development\FEXNA LIBRARIES\MonoGame-audio\MonoGame.Framework\bin\WindowsGL\Release\Tao.Sdl.dll
+F:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\Game Development\FEXNA LIBRARIES\MonoGame-audio\MonoGame.Framework\bin\WindowsGL\Release\NVorbis.pdb
+F:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\Game Development\FEXNA LIBRARIES\MonoGame-audio\MonoGame.Framework\bin\WindowsGL\Release\NVorbis.xml
+F:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\Game Development\FEXNA LIBRARIES\MonoGame-audio\MonoGame.Framework\obj\x86\Release\MonoGame.Framework.Windows.Audio.csprojResolveAssemblyReference.cache
+F:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\Game Development\FEXNA LIBRARIES\MonoGame-audio\MonoGame.Framework\obj\x86\Release\MonoGame.Framework.dll
+F:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\Game Development\FEXNA LIBRARIES\MonoGame-audio\MonoGame.Framework\obj\x86\Release\MonoGame.Framework.pdb
+C:\Users\Char\Desktop\MMP\FEXNA LIBRARIES\MonoGame-audio\MonoGame.Framework\bin\WindowsGL\Release\MonoGame.Framework.dll
+C:\Users\Char\Desktop\MMP\FEXNA LIBRARIES\MonoGame-audio\MonoGame.Framework\bin\WindowsGL\Release\MonoGame.Framework.pdb
+C:\Users\Char\Desktop\MMP\FEXNA LIBRARIES\MonoGame-audio\MonoGame.Framework\bin\WindowsGL\Release\NVorbis.dll
+C:\Users\Char\Desktop\MMP\FEXNA LIBRARIES\MonoGame-audio\MonoGame.Framework\bin\WindowsGL\Release\OpenTK.dll
+C:\Users\Char\Desktop\MMP\FEXNA LIBRARIES\MonoGame-audio\MonoGame.Framework\bin\WindowsGL\Release\Tao.Sdl.dll
+C:\Users\Char\Desktop\MMP\FEXNA LIBRARIES\MonoGame-audio\MonoGame.Framework\bin\WindowsGL\Release\NVorbis.pdb
+C:\Users\Char\Desktop\MMP\FEXNA LIBRARIES\MonoGame-audio\MonoGame.Framework\bin\WindowsGL\Release\NVorbis.xml
+C:\Users\Char\Desktop\MMP\FEXNA LIBRARIES\MonoGame-audio\MonoGame.Framework\obj\x86\Release\MonoGame.Framework.Windows.Audio.csprojResolveAssemblyReference.cache
+C:\Users\Char\Desktop\MMP\FEXNA LIBRARIES\MonoGame-audio\MonoGame.Framework\obj\x86\Release\MonoGame.Framework.dll
+C:\Users\Char\Desktop\MMP\FEXNA LIBRARIES\MonoGame-audio\MonoGame.Framework\obj\x86\Release\MonoGame.Framework.pdb
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEXNA LIBRARIES\MonoGame-audio\MonoGame.Framework\bin\WindowsGL\Release\MonoGame.Framework.dll
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEXNA LIBRARIES\MonoGame-audio\MonoGame.Framework\bin\WindowsGL\Release\MonoGame.Framework.pdb
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEXNA LIBRARIES\MonoGame-audio\MonoGame.Framework\bin\WindowsGL\Release\NVorbis.dll
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEXNA LIBRARIES\MonoGame-audio\MonoGame.Framework\bin\WindowsGL\Release\OpenTK.dll
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEXNA LIBRARIES\MonoGame-audio\MonoGame.Framework\bin\WindowsGL\Release\Tao.Sdl.dll
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEXNA LIBRARIES\MonoGame-audio\MonoGame.Framework\bin\WindowsGL\Release\NVorbis.pdb
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEXNA LIBRARIES\MonoGame-audio\MonoGame.Framework\bin\WindowsGL\Release\NVorbis.xml
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEXNA LIBRARIES\MonoGame-audio\MonoGame.Framework\obj\x86\Release\MonoGame.Framework.dll
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEXNA LIBRARIES\MonoGame-audio\MonoGame.Framework\obj\x86\Release\MonoGame.Framework.pdb
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEXNA LIBRARIES\MonoGame-audio\MonoGame.Framework\obj\x86\Release\MonoGame.Framework.Windows.Audio.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Char\Desktop\MMP\FEXNA LIBRARIES\LevelContentPipelineExtension\bin\x86\DebugPipeline\LevelContentPipelineExtension.dll
+C:\Users\Char\Desktop\MMP\FEXNA LIBRARIES\LevelContentPipelineExtension\bin\x86\DebugPipeline\FEXNA_Library.dll
+C:\Users\Char\Desktop\MMP\FEXNA LIBRARIES\LevelContentPipelineExtension\bin\x86\DebugPipeline\FEXNA_Library.pdb
+C:\Users\Char\Desktop\MMP\FEXNA LIBRARIES\LevelContentPipelineExtension\obj\x86\DebugPipeline\LevelContentPipelineExtension.csprojResolveAssemblyReference.cache
+C:\Users\Char\Desktop\MMP\FEXNA LIBRARIES\LevelContentPipelineExtension\obj\x86\DebugPipeline\LevelContentPipelineExtension.dll
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEXNA LIBRARIES\LevelContentPipelineExtension\bin\x86\DebugPipeline\LevelContentPipelineExtension.dll
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEXNA LIBRARIES\LevelContentPipelineExtension\bin\x86\DebugPipeline\FEXNA_Library.dll
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEXNA LIBRARIES\LevelContentPipelineExtension\bin\x86\DebugPipeline\FEXNA_Library.pdb
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEXNA LIBRARIES\LevelContentPipelineExtension\obj\x86\DebugPipeline\LevelContentPipelineExtension.csprojResolveAssemblyReference.cache
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEXNA LIBRARIES\LevelContentPipelineExtension\obj\x86\DebugPipeline\LevelContentPipelineExtension.dll

@@ -1,0 +1,10 @@
+E:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\LIBRARIES\MonoGame-hotfix-3.0.1\ThirdParty\Lidgren.Network\bin\Android\Debug\Lidgren.Network.dll
+E:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\LIBRARIES\MonoGame-hotfix-3.0.1\ThirdParty\Lidgren.Network\bin\Android\Debug\Lidgren.Network.pdb
+E:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\LIBRARIES\MonoGame-hotfix-3.0.1\ThirdParty\Lidgren.Network\bin\Android\Debug\Lidgren.Network.dll.mdb
+E:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\LIBRARIES\MonoGame-hotfix-3.0.1\ThirdParty\Lidgren.Network\bin\Android\Debug\Lidgren.Network.apk
+E:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\LIBRARIES\MonoGame-hotfix-3.0.1\ThirdParty\Lidgren.Network\bin\Android\Debug\Lidgren.Network-Signed.apk
+E:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\LIBRARIES\MonoGame-hotfix-3.0.1\ThirdParty\Lidgren.Network\obj\Debug\Lidgren.Network.dll
+E:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\LIBRARIES\MonoGame-hotfix-3.0.1\ThirdParty\Lidgren.Network\obj\Debug\Lidgren.Network.pdb
+E:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\LIBRARIES\MonoGame-hotfix-3.0.1\ThirdParty\Lidgren.Network\obj\Debug\android\bin\Lidgren.Network.apk
+E:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\LIBRARIES\MonoGame-hotfix-3.0.1\ThirdParty\Lidgren.Network\obj\Debug\R.cs.flag
+E:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\LIBRARIES\MonoGame-hotfix-3.0.1\ThirdParty\Lidgren.Network\obj\Debug\uploadflags.txt

@@ -1,0 +1,29 @@
+--TorloxEphraim--
+\f[1|TorloHappy]
+\s[1]
+Friend!|
+
+\f[6|Ephraim]
+\s[6]
+Huh?|
+
+\s[1]
+It's such a joy to see you, old buddy of mine!|\n
+Might we partake in a friendly chat?|\n
+How have you been?| I, being Marc\w[10].\w[10].\w[10].am feelin-
+
+\s[6]
+Hey, hold on just a second.|\n
+\f[6|EphraimSad]You aren't Marc, are you?|\n
+You're just another lookalike\w[10].\w[10].\w[10].right?|
+
+\s[1]
+\f[1|Torlo]You wound me, my friend.|\n
+\f[1|TorloHappy]We are all Marc!|\n
+As Marc is I and I am him!|\n
+You're a friend\w[10].\w[10].\w[10].\f[1|Torlo]for all of us.|
+
+\s[6]
+\f[6|Ephraim]Uh, I'll pass, thank you.|\n
+\f[6|EphraimSad]This is giving me a headache...|
+--End--

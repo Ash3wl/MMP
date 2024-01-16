@@ -1,0 +1,18 @@
+F:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\FEXNA LIBRARIES\NVorbis\bin\x86\Release\NVorbis.dll
+F:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\FEXNA LIBRARIES\NVorbis\bin\x86\Release\NVorbis.pdb
+F:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\FEXNA LIBRARIES\NVorbis\bin\x86\Release\NVorbis.XML
+F:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\FEXNA LIBRARIES\NVorbis\obj\x86\Release\NVorbis.csprojResolveAssemblyReference.cache
+F:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\FEXNA LIBRARIES\NVorbis\obj\x86\Release\NVorbis.dll
+F:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\FEXNA LIBRARIES\NVorbis\obj\x86\Release\NVorbis.pdb
+C:\Users\Char\Desktop\MMP\FEXNA LIBRARIES\NVorbis\bin\x86\Release\NVorbis.dll
+C:\Users\Char\Desktop\MMP\FEXNA LIBRARIES\NVorbis\bin\x86\Release\NVorbis.pdb
+C:\Users\Char\Desktop\MMP\FEXNA LIBRARIES\NVorbis\bin\x86\Release\NVorbis.XML
+C:\Users\Char\Desktop\MMP\FEXNA LIBRARIES\NVorbis\obj\x86\Release\NVorbis.csprojResolveAssemblyReference.cache
+C:\Users\Char\Desktop\MMP\FEXNA LIBRARIES\NVorbis\obj\x86\Release\NVorbis.dll
+C:\Users\Char\Desktop\MMP\FEXNA LIBRARIES\NVorbis\obj\x86\Release\NVorbis.pdb
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEXNA LIBRARIES\NVorbis\bin\x86\Release\NVorbis.dll
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEXNA LIBRARIES\NVorbis\bin\x86\Release\NVorbis.pdb
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEXNA LIBRARIES\NVorbis\bin\x86\Release\NVorbis.XML
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEXNA LIBRARIES\NVorbis\obj\x86\Release\NVorbis.dll
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEXNA LIBRARIES\NVorbis\obj\x86\Release\NVorbis.pdb
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEXNA LIBRARIES\NVorbis\obj\x86\Release\NVorbis.csprojResolveAssemblyReference.cache

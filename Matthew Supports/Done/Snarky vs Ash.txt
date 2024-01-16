@@ -1,0 +1,40 @@
+--SnarkyxAsh--
+\f[1|SnarkyHappy]
+\s[1]
+Another fool who wishes to fight me?|
+
+\f[6|Ash]
+\s[6]
+Oh, it's you.|\n
+You're that SnarkyJoe guy, right?|
+
+\s[1]
+\f[1|Snarky]SnarkyFoe.|\n
+\f[1|SnarkyHappy]Memorize it, as it will be the name of your slayer!|
+
+\s[6]
+\f[6|AshHappy]Sure, great.|\n
+\f[6|Ash]I've heard that you can duplicate, like me.|\n
+\f[6|AshHappy]I'd like to ask you some questions about that.|
+
+\s[1]
+\f[1|Snarky]And why would I disclose my power to you?|
+
+\s[6]
+\f[6|Ash]Uh...I guess you don't have any reason to...|\n
+\f[6|AshHappy]I would certainly appreciate it, though.|
+
+\s[1]
+Very funny.|\n
+\f[1|SnarkyHappy]Even if I were to tell you...|\n
+You wouldn't live to make any use of it!|
+
+\s[6]
+\f[6|Ash]So you won't tell...|\n
+Well, maybe I can still salvage something...|\n
+\f[6|AshHappy]You know, after dealing with you.|
+
+\s[1]
+ZAHAHAHAHAHAHA!|\n
+We'll see about that!|
+--End--

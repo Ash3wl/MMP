@@ -1,0 +1,12 @@
+C:\Users\Char\Desktop\MMP\FEXNA LIBRARIES\FEXNA_Library\FEXNA_Library\bin\x86\Release\FEXNA_Library.dll
+C:\Users\Char\Desktop\MMP\FEXNA LIBRARIES\FEXNA_Library\FEXNA_Library\bin\x86\Release\FEXNA_Library.pdb
+C:\Users\Char\Desktop\MMP\FEXNA LIBRARIES\FEXNA_Library\FEXNA_Library\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Char\Desktop\MMP\FEXNA LIBRARIES\FEXNA_Library\FEXNA_Library\obj\x86\Release\FEXNA_Library.dll
+C:\Users\Char\Desktop\MMP\FEXNA LIBRARIES\FEXNA_Library\FEXNA_Library\obj\x86\Release\FEXNA_Library.pdb
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEXNA LIBRARIES\FEXNA_Library\FEXNA_Library\bin\x86\Release\FEXNA_Library.dll
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEXNA LIBRARIES\FEXNA_Library\FEXNA_Library\bin\x86\Release\FEXNA_Library.pdb
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEXNA LIBRARIES\FEXNA_Library\FEXNA_Library\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEXNA LIBRARIES\FEXNA_Library\FEXNA_Library\obj\x86\Release\FEXNA_Library.dll
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEXNA LIBRARIES\FEXNA_Library\FEXNA_Library\obj\x86\Release\FEXNA_Library.pdb
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEXNA LIBRARIES\FEXNA_Library\FEXNA_Library\obj\x86\Release\FEXNA_Library.csprojResolveAssemblyReference.cache
+C:\Users\Char\Desktop\MMP\FEXNA LIBRARIES\FEXNA_Library\FEXNA_Library\obj\x86\Release\FEXNA_Library.csprojResolveAssemblyReference.cache

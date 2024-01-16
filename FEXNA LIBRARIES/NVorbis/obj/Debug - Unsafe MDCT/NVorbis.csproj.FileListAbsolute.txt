@@ -1,0 +1,5 @@
+F:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\LIBRARIES\NVorbis\NVorbis\bin\Debug - Unsafe MDCT\NVorbis.dll
+F:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\LIBRARIES\NVorbis\NVorbis\bin\Debug - Unsafe MDCT\NVorbis.pdb
+F:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\LIBRARIES\NVorbis\NVorbis\obj\Debug - Unsafe MDCT\NVorbis.csprojResolveAssemblyReference.cache
+F:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\LIBRARIES\NVorbis\NVorbis\obj\Debug - Unsafe MDCT\NVorbis.dll
+F:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\LIBRARIES\NVorbis\NVorbis\obj\Debug - Unsafe MDCT\NVorbis.pdb

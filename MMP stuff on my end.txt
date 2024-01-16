@@ -1,0 +1,12 @@
+﻿Master weapons + 2
+fix max move to 20 for some promoted classes
+Reisen movement to 6
+Vandal thieving skill descrip adjust
+import all my updated text
+remove Yeetblade from RS inven
+fix Torlo battle sprite
+add correct Baws theme
+Mad Eddy secret shop
+"Woo hoo!!"
+"Thank you! Woo hoo!"
+"Ho ho, no dough!"

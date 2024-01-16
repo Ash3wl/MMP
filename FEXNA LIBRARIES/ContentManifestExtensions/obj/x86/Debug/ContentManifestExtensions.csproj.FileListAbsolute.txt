@@ -1,0 +1,15 @@
+F:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\Game Development\FEXNA LIBRARIES\ContentManifestExtensions\bin\x86\Debug\ContentManifestExtensions.dll
+F:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\Game Development\FEXNA LIBRARIES\ContentManifestExtensions\bin\x86\Debug\ContentManifestExtensions.pdb
+F:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\Game Development\FEXNA LIBRARIES\ContentManifestExtensions\obj\x86\Debug\ContentManifestExtensions.csprojResolveAssemblyReference.cache
+F:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\Game Development\FEXNA LIBRARIES\ContentManifestExtensions\obj\x86\Debug\ContentManifestExtensions.dll
+F:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\Game Development\FEXNA LIBRARIES\ContentManifestExtensions\obj\x86\Debug\ContentManifestExtensions.pdb
+C:\Users\Char\Desktop\MMP\FEXNA LIBRARIES\ContentManifestExtensions\bin\x86\Debug\ContentManifestExtensions.dll
+C:\Users\Char\Desktop\MMP\FEXNA LIBRARIES\ContentManifestExtensions\bin\x86\Debug\ContentManifestExtensions.pdb
+C:\Users\Char\Desktop\MMP\FEXNA LIBRARIES\ContentManifestExtensions\obj\x86\Debug\ContentManifestExtensions.dll
+C:\Users\Char\Desktop\MMP\FEXNA LIBRARIES\ContentManifestExtensions\obj\x86\Debug\ContentManifestExtensions.pdb
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEXNA LIBRARIES\ContentManifestExtensions\bin\x86\Debug\ContentManifestExtensions.dll
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEXNA LIBRARIES\ContentManifestExtensions\bin\x86\Debug\ContentManifestExtensions.pdb
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEXNA LIBRARIES\ContentManifestExtensions\obj\x86\Debug\ContentManifestExtensions.dll
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEXNA LIBRARIES\ContentManifestExtensions\obj\x86\Debug\ContentManifestExtensions.pdb
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEXNA LIBRARIES\ContentManifestExtensions\obj\x86\Debug\ContentManifestExtensions.csprojResolveAssemblyReference.cache
+C:\Users\Char\Desktop\MMP\FEXNA LIBRARIES\ContentManifestExtensions\obj\x86\Debug\ContentManifestExtensions.csprojResolveAssemblyReference.cache

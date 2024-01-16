@@ -1,0 +1,26 @@
+--EphraimxMark--
+\f[1|Mark]
+\s[1]
+Come on now, is this really all you have?|\n
+What a bunch of weaklings...|\n
+\f[1|MarkHappy]Or perhaps we're just too strong!|
+
+\f[6|EphraimHappy]
+\s[6]
+Well, you're pretty tough, I'll give you that.|\n
+It's hard to get a solid hit with so much bulk.|
+
+\s[1]
+So you aknowledge your inferiority?|\n
+You can do nothing against us!\n
+You might as well give up now.|
+
+\s[6]
+Hey now, I didn't say that.|\n
+\f[6|Ephraim]You're bulky, but that doesn't mean invincible.|\n
+\f[6|EphraimHappy]And you're about to learn that the hard way!|
+
+\s[1]
+\f[1|Mark]Meaningless words...|\n
+I'll just have to show how you how weak you are!
+--End--

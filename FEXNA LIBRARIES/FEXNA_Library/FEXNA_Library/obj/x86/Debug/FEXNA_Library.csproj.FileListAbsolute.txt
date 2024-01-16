@@ -1,0 +1,12 @@
+F:\BwdYeti Documents\Desktop\New folder (2)\FEXNA LIBRARIES\FEXNA_Library\FEXNA_Library\bin\x86\Debug\FEXNA_Library.dll
+F:\BwdYeti Documents\Desktop\New folder (2)\FEXNA LIBRARIES\FEXNA_Library\FEXNA_Library\bin\x86\Debug\FEXNA_Library.pdb
+F:\BwdYeti Documents\Desktop\New folder (2)\FEXNA LIBRARIES\FEXNA_Library\FEXNA_Library\obj\x86\Debug\FEXNA_Library.csprojResolveAssemblyReference.cache
+F:\BwdYeti Documents\Desktop\New folder (2)\FEXNA LIBRARIES\FEXNA_Library\FEXNA_Library\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\BwdYeti Documents\Desktop\New folder (2)\FEXNA LIBRARIES\FEXNA_Library\FEXNA_Library\obj\x86\Debug\FEXNA_Library.dll
+F:\BwdYeti Documents\Desktop\New folder (2)\FEXNA LIBRARIES\FEXNA_Library\FEXNA_Library\obj\x86\Debug\FEXNA_Library.pdb
+C:\Users\Char\Desktop\MMP\FEXNA LIBRARIES\FEXNA_Library\FEXNA_Library\bin\x86\Debug\FEXNA_Library.dll
+C:\Users\Char\Desktop\MMP\FEXNA LIBRARIES\FEXNA_Library\FEXNA_Library\bin\x86\Debug\FEXNA_Library.pdb
+C:\Users\Char\Desktop\MMP\FEXNA LIBRARIES\FEXNA_Library\FEXNA_Library\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Char\Desktop\MMP\FEXNA LIBRARIES\FEXNA_Library\FEXNA_Library\obj\x86\Debug\FEXNA_Library.dll
+C:\Users\Char\Desktop\MMP\FEXNA LIBRARIES\FEXNA_Library\FEXNA_Library\obj\x86\Debug\FEXNA_Library.pdb
+C:\Users\Char\Desktop\MMP\FEXNA LIBRARIES\FEXNA_Library\FEXNA_Library\obj\x86\Debug\FEXNA_Library.csprojResolveAssemblyReference.cache

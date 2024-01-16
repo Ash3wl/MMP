@@ -1,0 +1,234 @@
+---Ash x RS---
+\f[2|AshSad]
+\s[2]
+Uh, hello RS.|\n
+\f[2|Ash]Can you get over here for a second?|
+
+\f[5|RS]
+\s[5]
+What is the reason for this, sir?|\n
+Is there some sort of issue?|
+
+\f[2|AshSad]
+\s[2]
+No, no, it's none of that.|\n
+\f[2|AshHappy]I was just hoping we could have a nice talk.|\n
+\f[2|Ash]You work for me, yet I barely know you at all.|
+
+\f[5|RSSad]
+\s[5]
+You request information?|
+
+\s[2]
+I guess you could say that...|\n
+\f[2|AshHappy]This isn't work though, I just want to talk.|\n
+It will be good for both of us, I feel.|
+
+\s[5]
+Just.\w[20].\w[20].talk?|\n
+\f[5|RSHappy]Ah, I comprehend.\n
+Is this is a safety procedure?|\n
+Fortifying bonds to increase battle prowess.|\n
+If so, I'll gladly abide by my duty, sir.|
+
+\f[2|AshSad]
+\s[2]
+Uh.\w[20].\w[20].sure.\w[20].\w[20].\n
+\f[2|Ash]If that makes it easier for you.|
+
+\s[5]
+...|
+
+\s[2]
+...|
+
+\s[5]
+...|
+
+\f[2|AshSad]
+\s[2]
+So.\w[20].\w[20].\w[20]yeah.\w[20].\w[20].\w[20]|\n
+Aren't you going to say something?|\n
+\f[2|Ash]What's holding you up?|
+
+\f[5|RS]
+\s[5]
+That would be the ground, sir.|
+
+\f[2|AshSad]
+\s[2]
+No, I didn't mean\w[20].\w[20].\w[20].\n
+\f[2|Ash]Nevermind, listen...|\n
+You're the Chief of Security, aren't you?\n
+\f[2|AshHappy]Something interesting must have happened.|\n
+Just tell me about how your day was.|
+
+\s[5]
+Oh, I see now.|\n
+\f[5|RSHappy]Would you like to receive my daily report, sir?|
+
+\f[2|Ash]
+\s[2]
+Yeah, sure, that works.|
+
+\f[5|RS]
+\s[5]
+At exactly 10:47 in the morning, a soldier\n
+was seen slipping some sort of powder on\n
+Lord Ciraxis' usual breakfast, sir.|\n
+The soldier was immediatly sent to the\n
+"Fun House" until further notice.|
+
+\s[2]
+Oh, really?\n
+\f[2|AshSad]Did someone try to poison Ciraxis?|
+\s[5]
+\f[2|Ash]After further analysis, the powder was identified as salt.|\n
+\f[2|AshSad]\f[5|RSSad]We tried to contact the accused soldier afterwards, but\n
+we couldn't get a response over his bloocurdling screams.|\n
+\f[5|RS]At 15:18, the sound of footsteps was heard on the garden.\n
+\f[5|RSHappy]The Kobalt Ritter was called in to deal with the invader.|\n
+\f[5|RS]The trespasser was a kid who lost his ball after playing.|
+
+\s[2]
+...|
+
+\s[5]
+\f[5|RSSad]The ball was successfully retrieved, though the kid may\n
+be in need of mental help, sir.|\n
+\f[5|RS]At 18:53, officers Wally and Warren were seen trying\n
+to steal Fleet Admiral Neal's beverage supplies, and\n
+have been relocated to subject 186-F's testing grounds.|\n
+\f[5|RSHappy]At 03:26, I personally took care of all soldiers who\n
+were sleeping before our appointed bedtime of 10 AM, sir.|\n
+\f[5|RS]At 04:43, a red sock was seen mixed with the laundry of-
+
+\s[2]
+Listen, just stop right there, please.\n
+\f[2|Ash]That's more than enough.|
+
+\f[5|RSHappy]
+\s[5]
+Affirmative, sir.|\n
+\f[5|RS]Reducing maximum word output by 40%.|
+
+\f[2|AshSad]
+\s[2]
+No, that's the opposite of what I want.|\n
+\f[2|Ash]Listen, we can talk after we get Marc's stuff back, ok?|\n
+I'll check back with you in a minute.|
+
+\f[5|RSHappy]
+\s[5]
+Affirmative, sir.|\n
+I'll await you in 60 seconds.|
+
+\f[2|AshSad]
+\s[2]
+.\w[20].\w[20].\w[20].|
+
+\f[2|nil]
+
+\f[5|RS]
+\s[5]
+.\w[10].\w[10].\w[10]59.\w[10].\w[10].\w[10]58.\w[10].\w[10].\w[10].
+
+--End--
+---AshxRS2---
+\f[2|Ash]
+\s[2]
+Alright, R.S.|\n
+I'm back.|
+
+\f[5|RSHappy]
+\s[5]
+Oh, hello, sir.|\n
+I took the liberty of waiting\n
+more than our appointed time.|
+
+\f[2|AshSad]
+\s[2]
+What?|\n
+\f[2|Ash]Well, whatever.|\n
+Let's try this again.|
+
+\f[5|RS]\s[5]
+Roger, sir.|\n
+What's your order?|
+
+\f[2|AshSad]\s[2]
+It's not an order but...\n
+\f[2|Ash]Well, let's try something else.\n
+\f[2|AshHappy]I'll talk to you and you'll answer, alright?|
+
+\f[5|RSHappy]\s[5]
+As you command, sir.|
+
+\f[2|AshSad]\s[2]
+Yeah, about that...\n
+\f[2|Ash]Try to sound more.\w[10].\w[10].\w[10]\f[2|AshSad]natural, please.|
+
+\f[5|RS]\s[5]
+Affirmat-err.\w[10].\w[10].\w[10]\f[5|RSSad]alright.|
+
+\f[2|AshHappy]\s[2]
+Great.|\n
+Now, let me see...\n
+Oh, I know!|\n
+You have a daughter, right?\n
+How's she doing?|
+
+\s[5]
+A daughter?\n
+\f[5|RS]Ah, yes, Myrmi.|\n
+Her proficiency with the blade is keen.|\n
+But her dexterity and understanding of\n
+the blade has still not matched that of\n
+a truly praiseworthy swordmaster.|\n
+Yet, her appearance and understanding\n
+of a sword is admirable, and fitting of\n
+a daughter of a leader such as me.|
+
+\f[2|AshSad]\s[2]
+...|
+
+\f[5|RSSad]\s[5]
+Err...I mean...|\n
+\f[5|RS]She's "way cool" and uh...\f[5|RSHappy]nice looking.|
+
+\f[2|AshHappy]\s[2]
+That's better.|\n
+\f[2|Ash]Now\w[20].\w[20].\w[20].\n
+\f[2|AshHappy]What do you do in your free time?|
+
+\f[5|RSSad]\s[5]
+Free time?|\n
+\f[5|RS]You wound me, sir.|\n
+I would never slack of-\f[2|AshSad]\w[20].\w[20].\w[20].\f[5|RSHappy]\m[5|5]err, I mean\w[10].\w[10].\w[10]\n
+I enjoy playing card games.|
+
+\f[2|AshHappy]\s[2]
+That's nice.|\n
+It isn't so hard, is it?|
+\f[5|RSSad]\s[5]
+Sir, \f[2|AshSad]I\w[10].\w[10].\w[10].\f[5|RSHappy]\m[5|5]err, Ash, I.\w[10].\w[10].\w[10]\n
+\f[5|RSSad]If I were to propose \f[2|AshSad]my opinio\w[10].\w[10].\w[10].\f[5|RSHappy]\m[5|5]err, I mean, to be honest, I...|\n
+\f[5|RS]Yes.|\n
+\f[5|RSSad]\f[2|AshHappy]Yes, it is, sir.|
+
+\s[2]
+Hahaha...|\n
+That was pretty fun.|\n
+\f[2|Ash]We should do it again sometime.|
+
+\f[5|RS]\s[5]
+\m[5|5]Please do not-
+
+\f[2|AshHappy]\s[2]
+Alright, I'll see you later.|
+
+\f[2|nil]
+
+\f[5|RSSad]\s[5]
+Sir, I...|\n
+I feel violated.|

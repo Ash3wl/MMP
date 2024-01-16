@@ -1,0 +1,16 @@
+E:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\LIBRARIES\MonoGame-hotfix-3.0.1\ThirdParty\Lidgren.Network\bin\Windows\Debug\Lidgren.Network.dll
+E:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\LIBRARIES\MonoGame-hotfix-3.0.1\ThirdParty\Lidgren.Network\bin\Windows\Debug\Lidgren.Network.pdb
+E:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\LIBRARIES\MonoGame-hotfix-3.0.1\ThirdParty\Lidgren.Network\obj\Debug\Lidgren.Network.dll
+E:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\LIBRARIES\MonoGame-hotfix-3.0.1\ThirdParty\Lidgren.Network\obj\Debug\Lidgren.Network.pdb
+E:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\LIBRARIES\MonoGame-audio\ThirdParty\Lidgren.Network\bin\Windows\Debug\Lidgren.Network.xml
+E:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\LIBRARIES\MonoGame-audio\ThirdParty\Lidgren.Network\bin\Windows\Debug\Lidgren.Network.dll
+E:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\LIBRARIES\MonoGame-audio\ThirdParty\Lidgren.Network\bin\Windows\Debug\Lidgren.Network.pdb
+E:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\LIBRARIES\MonoGame-audio\ThirdParty\Lidgren.Network\obj\Debug\Lidgren.Network.Windows.csprojResolveAssemblyReference.cache
+E:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\LIBRARIES\MonoGame-audio\ThirdParty\Lidgren.Network\obj\Debug\Lidgren.Network.dll
+E:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\LIBRARIES\MonoGame-audio\ThirdParty\Lidgren.Network\obj\Debug\Lidgren.Network.pdb
+F:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\LIBRARIES\MonoGame-audio\ThirdParty\Lidgren.Network\bin\Windows\Debug\Lidgren.Network.xml
+F:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\LIBRARIES\MonoGame-audio\ThirdParty\Lidgren.Network\bin\Windows\Debug\Lidgren.Network.dll
+F:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\LIBRARIES\MonoGame-audio\ThirdParty\Lidgren.Network\bin\Windows\Debug\Lidgren.Network.pdb
+F:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\LIBRARIES\MonoGame-audio\ThirdParty\Lidgren.Network\obj\Debug\Lidgren.Network.Windows.csprojResolveAssemblyReference.cache
+F:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\LIBRARIES\MonoGame-audio\ThirdParty\Lidgren.Network\obj\Debug\Lidgren.Network.dll
+F:\BwdYeti Documents\My Documents\Visual Studio 2010\Projects\LIBRARIES\MonoGame-audio\ThirdParty\Lidgren.Network\obj\Debug\Lidgren.Network.pdb

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.0.3" orientation="orthogonal" renderorder="right-down" width="20" height="27" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="8800898A" tilewidth="16" tileheight="16" tilecount="1024" columns="32">
+  <image source="FEGBA ROMhacking/Tilesets/Tilesets/FE8/8800898A.png" width="512" height="512"/>
+ </tileset>
+ <layer name="Main" width="20" height="27">
+  <properties>
+   <property name="Main" value=""/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJyFVEtOwzAQtUNxG0FBCLgEvwXiBl2CWIVbZBP1ZOk5YNGmhUtQUCQOwFjxqE8v03Tx5CQeP795M5ORd+5YMM06vMvzR3o/knUE+yeC02wX++Scexa8AH4Ev4L7rMO3nN367nlL+7eCu2wXWxh8Z3L2XDB2fUz98P5acEN8K4mdyLqU9e0AFim2TPgj/lawkZgHWRvfPa/3rBEF8LUAfI+8r4LcyGcG32u/y8Xi0XdEPI/5jOF7kTRO4GxB+TMPnq/Ju6gtJy2VfPuiONSBuuLdl1nn39rQVsM9GIc5ziiOPVVtNfBcZf24mvKKcRvyHvOM2q+B58L39zGvnPSgF7XhZeQLroOVm+5ZdVRtqj0AKvIa+2mIL4ccY1ycrU/Bo+97zX1q8bG2OFtV4uOzJfCVrj/XC6pTSHqYT+8uSV9DtUKtmLPFh72nGniml/Sf0dpafHOj9wIh6l1S3vv4GqP3EOpVjJsnviF9Osetoa2luOaAPkuL5SfqDHv4guvXVeuNfgbjTs6Xe4vrY828xat8Vm9hfXAOVUtBepEPe4v5xqRFZ3U1wIczVnj7n8ezqn5GvezfP3MZ5Zo=
+  </data>
+ </layer>
+</map>

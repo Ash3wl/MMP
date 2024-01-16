@@ -1,0 +1,33 @@
+--SnarkyxRS--
+\f[6|RS]
+\s[6]
+Target located.|\n
+Preparing for frontal assault.|
+
+\f[1|SnarkyHappy]
+\s[1]
+ZAHAHAHAHAHAHAHAHA!|\n
+Am I seeing things?|\n
+You would face against me directly?|
+
+\s[6]
+...|
+
+\s[1]
+\f[1|Snarky]How foolish.|\n
+Why, were I not relying on borrowed power...|\n
+\f[1|SnarkyHappy]My magic would overwhelm you in but a second!|
+
+\s[6]
+Your words fall on deaf ears.|\n
+In fact, since you're weaker, as you just said...|\n
+I've no reason to care for your scare tactics.|
+
+\s[1]
+Such brave words coming from such little power.|\n
+Maybe it won't be a second, but a minute will suffice!|
+
+\s[6]
+...|\n
+Engaging in combat.|
+--End--
