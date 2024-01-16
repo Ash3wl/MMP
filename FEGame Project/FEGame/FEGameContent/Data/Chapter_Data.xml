@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Generic="System.Collections.Generic">
+  <Asset Type="Generic:List[FEXNA_Library.Data_Chapter]">
+    <Item>
+      <Id>Pt1</Id>
+      <Prior_Chapters />
+      <Prior_Ranking_Chapters />
+      <Completed_Chapters />
+      <Standalone>true</Standalone>
+      <Chapter_Name>The Black Market</Chapter_Name>
+      <World_Map_Name>Part 1</World_Map_Name>
+      <World_Map_Loc>304 924</World_Map_Loc>
+      <World_Map_Lord_Id>1</World_Map_Lord_Id>
+      <Turn_Themes>
+        <Item></Item>
+        <Item>FadeToDarkness</Item>
+        <Item>RoyalAdvance</Item>
+        <Item>FadeToDarkness</Item>
+        <Item></Item>
+      </Turn_Themes>
+      <Battle_Themes>
+        <Item></Item>
+        <Item>FadeToDarkness</Item>
+        <Item>RoyalAdvance</Item>
+        <Item>FadeToDarkness</Item>
+        <Item></Item>
+      </Battle_Themes>
+      <Battalion>0</Battalion>
+      <Text_Key>Pt1</Text_Key>
+      <Event_Data_Id>Pt1</Event_Data_Id>
+      <Ranking_Turns>8</Ranking_Turns>
+      <Ranking_Combat>200</Ranking_Combat>
+      <Ranking_Exp>2400</Ranking_Exp>
+      <Ranking_Completion>36</Ranking_Completion>
+      <Preset_Data>
+        <Lord_Lvl>10</Lord_Lvl>
+        <Units>22</Units>
+        <Gold>10000</Gold>
+        <Playtime>0</Playtime>
+      </Preset_Data>
+      <Progression_Ids>
+        <Item>Pt1</Item>
+      </Progression_Ids>
+    </Item>
+    <Item>
+      <Id>Pt1x</Id>
+      <Prior_Chapters>
+        <Item>Pt1</Item>
+      </Prior_Chapters>
+      <Prior_Ranking_Chapters />
+      <Completed_Chapters />
+      <Standalone>false</Standalone>
+      <Chapter_Name>Interlude</Chapter_Name>
+      <World_Map_Name>Part 1x</World_Map_Name>
+      <World_Map_Loc>1403 469</World_Map_Loc>
+      <World_Map_Lord_Id>1</World_Map_Lord_Id>
+      <Turn_Themes>
+        <Item></Item>
+        <Item>CreepyAwesome</Item>
+        <Item>CreepyAwesome</Item>
+        <Item>CreepyAwesome</Item>
+        <Item></Item>
+      </Turn_Themes>
+      <Battle_Themes>
+        <Item></Item>
+        <Item>CreepyAwesome</Item>
+        <Item>CreepyAwesome</Item>
+        <Item>CreepyAwesome</Item>
+        <Item></Item>
+      </Battle_Themes>
+      <Battalion>0</Battalion>
+      <Text_Key>Pt1x</Text_Key>
+      <Event_Data_Id>Pt1x</Event_Data_Id>
+      <Ranking_Turns>3</Ranking_Turns>
+      <Ranking_Combat>150</Ranking_Combat>
+      <Ranking_Exp>2000</Ranking_Exp>
+      <Ranking_Completion>10</Ranking_Completion>
+      <Preset_Data>
+        <Lord_Lvl>0</Lord_Lvl>
+        <Units>0</Units>
+        <Gold>0</Gold>
+        <Playtime>0</Playtime>
+      </Preset_Data>
+      <Progression_Ids>
+        <Item>Pt1x</Item>
+      </Progression_Ids>
+    </Item>
+    <Item>
+      <Id>Pt2</Id>
+      <Prior_Chapters>
+        <Item>Pt1x</Item>
+        <Item>Pt1</Item>
+      </Prior_Chapters>
+      <Prior_Ranking_Chapters />
+      <Completed_Chapters />
+      <Standalone>false</Standalone>
+      <Chapter_Name>The Marcvirate</Chapter_Name>
+      <World_Map_Name>Part 2</World_Map_Name>
+      <World_Map_Loc>1403 469</World_Map_Loc>
+      <World_Map_Lord_Id>1</World_Map_Lord_Id>
+      <Turn_Themes>
+        <Item></Item>
+        <Item>Holy War</Item>
+        <Item>PanicStorm</Item>
+        <Item>Holy War</Item>
+        <Item></Item>
+      </Turn_Themes>
+      <Battle_Themes>
+        <Item></Item>
+        <Item>Holy War</Item>
+        <Item>PanicStorm</Item>
+        <Item>Holy War</Item>
+        <Item></Item>
+      </Battle_Themes>
+      <Battalion>0</Battalion>
+      <Text_Key>Pt2</Text_Key>
+      <Event_Data_Id>Pt2</Event_Data_Id>
+      <Ranking_Turns>4</Ranking_Turns>
+      <Ranking_Combat>150</Ranking_Combat>
+      <Ranking_Exp>1600</Ranking_Exp>
+      <Ranking_Completion>44</Ranking_Completion>
+      <Preset_Data>
+        <Lord_Lvl>0</Lord_Lvl>
+        <Units>0</Units>
+        <Gold>0</Gold>
+        <Playtime>0</Playtime>
+      </Preset_Data>
+      <Progression_Ids>
+        <Item>Pt2</Item>
+      </Progression_Ids>
+    </Item>
+    <Item>
+      <Id>Pt3</Id>
+      <Prior_Chapters>
+        <Item>Pt2</Item>
+      </Prior_Chapters>
+      <Prior_Ranking_Chapters />
+      <Completed_Chapters />
+      <Standalone>false</Standalone>
+      <Chapter_Name>GrimaJoe</Chapter_Name>
+      <World_Map_Name>Part 3</World_Map_Name>
+      <World_Map_Loc>1403 469</World_Map_Loc>
+      <World_Map_Lord_Id>1</World_Map_Lord_Id>
+      <Turn_Themes>
+        <Item></Item>
+        <Item>WindsOfTheFuture</Item>
+        <Item>WindsOfTheFuture</Item>
+        <Item>HandfulOfHope</Item>
+        <Item></Item>
+      </Turn_Themes>
+      <Battle_Themes>
+        <Item></Item>
+        <Item>WindsOfTheFuture</Item>
+        <Item>WindsOfTheFuture</Item>
+        <Item>HandfulOfHope</Item>
+        <Item></Item>
+      </Battle_Themes>
+      <Battalion>0</Battalion>
+      <Text_Key>Pt3</Text_Key>
+      <Event_Data_Id>Pt3</Event_Data_Id>
+      <Ranking_Turns>5</Ranking_Turns>
+      <Ranking_Combat>200</Ranking_Combat>
+      <Ranking_Exp>1200</Ranking_Exp>
+      <Ranking_Completion>112</Ranking_Completion>
+      <Preset_Data>
+        <Lord_Lvl>0</Lord_Lvl>
+        <Units>0</Units>
+        <Gold>0</Gold>
+        <Playtime>0</Playtime>
+      </Preset_Data>
+      <Progression_Ids>
+        <Item>Pt3</Item>
+      </Progression_Ids>
+    </Item>
+  </Asset>
+</XnaContent>

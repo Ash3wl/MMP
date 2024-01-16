@@ -1,0 +1,4992 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Generic="System.Collections.Generic">
+  <Asset Type="Generic:Dictionary[int,FEXNA_Library.Data_Class]">
+    <Item>
+      <Key>1</Key>
+      <Value>
+        <Id>1</Id>
+        <Name>Drifter</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+        </Class_Types>
+        <Skills />
+        <Description>An aspiring swordsman with
+almost limitless confidence.</Description>
+        <Caps>
+          <Item>80 15 15 15 15 15 15</Item>
+          <Item>80 15 15 15 15 15 15</Item>
+        </Caps>
+        <Max_WLvl>4 0 0 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion>
+          <Item>
+            <Key>27</Key>
+            <Value>
+              <Item>7 3 1 0 2 0 3 0</Item>
+              <Item>0 0 0 0 0 0 0 0 0 0 0 0 0</Item>
+            </Value>
+          </Item>
+        </Promotion>
+        <Tier>0</Tier>
+        <Mov>5</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Heavy</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>10 2 2 3 0 2 1 7</Item>
+            <Item>75 20 35 40 50 25 25</Item>
+          </Item>
+          <Item>
+            <Item>14 3 3 4 0 3 2 7</Item>
+            <Item>65 15 35 35 40 20 25</Item>
+          </Item>
+          <Item>
+            <Item>18 3 5 6 0 3 2 7</Item>
+            <Item>55 15 30 30 45 15 20</Item>
+          </Item>
+          <Item>
+            <Item>18 3 5 6 0 3 2 7</Item>
+            <Item>75 20 35 40 50 25 25</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>2</Key>
+      <Value>
+        <Id>2</Id>
+        <Name>Squire</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+        </Class_Types>
+        <Skills />
+        <Description>All knights begin somewhere.
+Young, but fiercely loyal.</Description>
+        <Caps>
+          <Item>80 15 15 15 15 15 15</Item>
+          <Item>80 15 15 15 15 15 15</Item>
+        </Caps>
+        <Max_WLvl>4 0 0 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion>
+          <Item>
+            <Key>32</Key>
+            <Value>
+              <Item>3 0 1 1 1 2 1 0</Item>
+              <Item>0 0 0 0 0 0 0 0 0 0 0 0 0</Item>
+            </Value>
+          </Item>
+        </Promotion>
+        <Tier>0</Tier>
+        <Mov>4</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Heavy</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>10 2 2 2 0 2 2 7</Item>
+            <Item>95 25 25 25 60 25 25</Item>
+          </Item>
+          <Item>
+            <Item>14 3 3 3 0 3 3 7</Item>
+            <Item>85 25 25 25 40 25 20</Item>
+          </Item>
+          <Item>
+            <Item>18 4 4 4 0 4 3 7</Item>
+            <Item>75 20 20 20 45 20 20</Item>
+          </Item>
+          <Item>
+            <Item>18 4 4 4 0 4 3 7</Item>
+            <Item>95 25 25 25 60 25 25</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>3</Key>
+      <Value>
+        <Id>3</Id>
+        <Name>Recruit</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+        </Class_Types>
+        <Skills />
+        <Description>This spear-wielding attendant is
+a lowborn noble seeking rank.</Description>
+        <Caps>
+          <Item>80 15 15 15 15 15 15</Item>
+          <Item>80 15 15 15 15 15 15</Item>
+        </Caps>
+        <Max_WLvl>0 4 0 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion>
+          <Item>
+            <Key>31</Key>
+            <Value>
+              <Item>3 0 2 2 0 1 1 0</Item>
+              <Item>0 0 0 0 0 0 0 0 0 0 0 0 0</Item>
+            </Value>
+          </Item>
+        </Promotion>
+        <Tier>0</Tier>
+        <Mov>4</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Heavy</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>12 2 2 1 0 3 0 8</Item>
+            <Item>85 25 40 30 45 25 25</Item>
+          </Item>
+          <Item>
+            <Item>16 3 3 2 0 4 1 8</Item>
+            <Item>75 25 30 25 35 30 20</Item>
+          </Item>
+          <Item>
+            <Item>20 4 3 2 0 6 2 8</Item>
+            <Item>65 20 25 20 40 25 20</Item>
+          </Item>
+          <Item>
+            <Item>20 4 3 2 0 6 2 8</Item>
+            <Item>85 25 40 30 45 25 25</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>4</Key>
+      <Value>
+        <Id>4</Id>
+        <Name>Skywatcher</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+        </Class_Types>
+        <Skills />
+        <Description>Empty-headed lancers with
+their eyes on the clouds.</Description>
+        <Caps>
+          <Item>80 15 15 15 15 15 15</Item>
+          <Item>80 15 15 15 15 15 15</Item>
+        </Caps>
+        <Max_WLvl>0 4 0 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion>
+          <Item>
+            <Key>37</Key>
+            <Value>
+              <Item>2 1 1 1 0 2 1 0</Item>
+              <Item>0 0 0 0 0 0 0 0 0 0 0 0 0</Item>
+            </Value>
+          </Item>
+        </Promotion>
+        <Tier>0</Tier>
+        <Mov>4</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Heavy</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>10 1 3 2 0 2 3 6</Item>
+            <Item>75 25 35 35 50 20 30</Item>
+          </Item>
+          <Item>
+            <Item>14 2 4 3 0 3 4 6</Item>
+            <Item>65 20 35 30 40 20 25</Item>
+          </Item>
+          <Item>
+            <Item>18 2 5 4 0 4 5 6</Item>
+            <Item>65 15 20 25 45 20 25</Item>
+          </Item>
+          <Item>
+            <Item>18 2 5 4 0 4 5 6</Item>
+            <Item>75 25 35 35 50 20 30</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>5</Key>
+      <Value>
+        <Id>5</Id>
+        <Name>Ruffian</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+        </Class_Types>
+        <Skills />
+        <Description>Physically gifted roughnecks
+with no real cause to fight.</Description>
+        <Caps>
+          <Item>80 15 15 15 15 15 15</Item>
+          <Item>80 15 15 15 15 15 15</Item>
+        </Caps>
+        <Max_WLvl>0 0 4 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion>
+          <Item>
+            <Key>25</Key>
+            <Value>
+              <Item>5 3 0 1 1 1 4 0</Item>
+              <Item>0 0 0 0 0 0 0 0 0 0 0 0 0</Item>
+            </Value>
+          </Item>
+        </Promotion>
+        <Tier>0</Tier>
+        <Mov>4</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Heavy</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>16 3 0 1 0 0 1 9</Item>
+            <Item>115 40 25 30 30 30 20</Item>
+          </Item>
+          <Item>
+            <Item>20 4 1 2 0 1 2 9</Item>
+            <Item>105 35 25 25 20 25 20</Item>
+          </Item>
+          <Item>
+            <Item>24 6 2 2 0 2 2 9</Item>
+            <Item>95 25 20 25 25 25 15</Item>
+          </Item>
+          <Item>
+            <Item>24 6 2 2 0 2 2 9</Item>
+            <Item>115 40 25 30 30 30 20</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>6</Key>
+      <Value>
+        <Id>6</Id>
+        <Name>Journeyman</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+        </Class_Types>
+        <Skills />
+        <Description>A young axeman who seeks
+strength from his travels.</Description>
+        <Caps>
+          <Item>80 15 15 15 15 15 15</Item>
+          <Item>80 15 15 15 15 15 15</Item>
+        </Caps>
+        <Max_WLvl>0 0 4 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion>
+          <Item>
+            <Key>24</Key>
+            <Value>
+              <Item>3 4 1 1 2 1 2 0</Item>
+              <Item>0 0 0 0 0 0 0 0 0 0 0 0 0</Item>
+            </Value>
+          </Item>
+        </Promotion>
+        <Tier>0</Tier>
+        <Mov>4</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Heavy</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>14 2 0 0 0 2 1 10</Item>
+            <Item>115 35 25 30 30 30 25</Item>
+          </Item>
+          <Item>
+            <Item>18 3 1 1 0 3 2 10</Item>
+            <Item>105 35 20 25 20 30 20</Item>
+          </Item>
+          <Item>
+            <Item>22 4 1 2 0 5 2 10</Item>
+            <Item>95 30 15 20 25 25 20</Item>
+          </Item>
+          <Item>
+            <Item>22 4 1 2 0 5 2 10</Item>
+            <Item>115 35 25 30 30 30 25</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>7</Key>
+      <Value>
+        <Id>7</Id>
+        <Name>Scout</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+        </Class_Types>
+        <Skills />
+        <Description>This bow-wielding padfoot
+is surprisingly resourceful.</Description>
+        <Caps>
+          <Item>80 15 15 15 15 15 15</Item>
+          <Item>80 15 15 15 15 15 15</Item>
+        </Caps>
+        <Max_WLvl>0 0 0 4 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion>
+          <Item>
+            <Key>19</Key>
+            <Value>
+              <Item>4 1 2 3 2 2 0 0</Item>
+              <Item>0 0 0 0 0 0 0 0 0 0 0 0 0</Item>
+            </Value>
+          </Item>
+        </Promotion>
+        <Tier>0</Tier>
+        <Mov>4</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Heavy</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>8 2 3 2 0 3 2 6</Item>
+            <Item>75 25 35 35 55 20 25</Item>
+          </Item>
+          <Item>
+            <Item>12 3 4 3 0 4 3 6</Item>
+            <Item>65 20 30 30 40 25 25</Item>
+          </Item>
+          <Item>
+            <Item>16 3 6 5 0 4 3 6</Item>
+            <Item>55 20 25 25 45 20 20</Item>
+          </Item>
+          <Item>
+            <Item>16 3 6 5 0 4 3 6</Item>
+            <Item>75 25 35 35 55 20 25</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>8</Key>
+      <Value>
+        <Id>8</Id>
+        <Name>Page</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+          <Item>Mage</Item>
+        </Class_Types>
+        <Skills />
+        <Description>After much time in study, this
+youth gained power over elements.</Description>
+        <Caps>
+          <Item>80 15 15 15 15 15 15</Item>
+          <Item>80 15 15 15 15 15 15</Item>
+        </Caps>
+        <Max_WLvl>0 0 0 0 4 4 4 0 0 0 0 0 0</Max_WLvl>
+        <Promotion>
+          <Item>
+            <Key>45</Key>
+            <Value>
+              <Item>7 3 0 0 2 4 3 0</Item>
+              <Item>0 0 0 0 0 0 0 0 0 0 0 0 0</Item>
+            </Value>
+          </Item>
+        </Promotion>
+        <Tier>0</Tier>
+        <Mov>4</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Heavy</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>10 3 0 1 0 1 2 7</Item>
+            <Item>85 35 30 30 40 25 30</Item>
+          </Item>
+          <Item>
+            <Item>14 4 1 2 0 2 3 7</Item>
+            <Item>75 30 25 30 30 25 25</Item>
+          </Item>
+          <Item>
+            <Item>18 4 2 3 0 3 4 7</Item>
+            <Item>65 25 25 25 35 20 20</Item>
+          </Item>
+          <Item>
+            <Item>18 4 2 3 0 3 4 7</Item>
+            <Item>85 35 30 30 40 25 30</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>9</Key>
+      <Value>
+        <Id>9</Id>
+        <Name>Ascetic</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+          <Item>Mage</Item>
+        </Class_Types>
+        <Skills />
+        <Description>Devotees of a deity or cause.
+Highly resilient to magic.</Description>
+        <Caps>
+          <Item>80 15 15 15 15 15 15</Item>
+          <Item>80 15 15 15 15 15 15</Item>
+        </Caps>
+        <Max_WLvl>0 0 0 0 0 0 0 4 0 0 0 0 0</Max_WLvl>
+        <Promotion>
+          <Item>
+            <Key>39</Key>
+            <Value>
+              <Item>4 3 2 3 0 1 1 0</Item>
+              <Item>0 0 0 0 0 0 0 0 0 0 0 0 0</Item>
+            </Value>
+          </Item>
+        </Promotion>
+        <Tier>0</Tier>
+        <Mov>4</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Heavy</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>8 2 3 1 0 0 3 6</Item>
+            <Item>85 25 30 30 55 20 30</Item>
+          </Item>
+          <Item>
+            <Item>12 3 4 2 0 1 4 6</Item>
+            <Item>75 25 30 25 40 20 25</Item>
+          </Item>
+          <Item>
+            <Item>16 3 5 3 0 2 5 6</Item>
+            <Item>65 20 25 20 45 15 25</Item>
+          </Item>
+          <Item>
+            <Item>16 3 5 3 0 2 5 6</Item>
+            <Item>85 25 30 30 55 20 30</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>10</Key>
+      <Value>
+        <Id>10</Id>
+        <Name>Pupil</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+          <Item>Mage</Item>
+        </Class_Types>
+        <Skills />
+        <Description>A literacy enthusiast who
+researches ancient power.</Description>
+        <Caps>
+          <Item>80 15 15 15 15 15 15</Item>
+          <Item>80 15 15 15 15 15 15</Item>
+        </Caps>
+        <Max_WLvl>0 0 0 0 0 0 0 0 4 0 0 0 0</Max_WLvl>
+        <Promotion>
+          <Item>
+            <Key>44</Key>
+            <Value>
+              <Item>5 3 1 0 3 3 3 0</Item>
+              <Item>0 0 0 0 0 0 0 0 0 0 0 0 0</Item>
+            </Value>
+          </Item>
+        </Promotion>
+        <Tier>0</Tier>
+        <Mov>4</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Heavy</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>10 3 1 0 0 1 1 8</Item>
+            <Item>95 35 30 25 30 30 35</Item>
+          </Item>
+          <Item>
+            <Item>14 4 2 1 0 2 2 8</Item>
+            <Item>85 35 25 25 15 30 30</Item>
+          </Item>
+          <Item>
+            <Item>18 5 2 2 0 3 3 8</Item>
+            <Item>75 30 20 20 20 25 30</Item>
+          </Item>
+          <Item>
+            <Item>18 5 2 2 0 3 3 8</Item>
+            <Item>95 35 30 25 30 30 35</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>11</Key>
+      <Value>
+        <Id>11</Id>
+        <Name>Medic</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+          <Item>Mage</Item>
+        </Class_Types>
+        <Skills />
+        <Description>A promising young healer with
+rudimentary staff training.</Description>
+        <Caps>
+          <Item>80 15 15 15 15 15 15</Item>
+          <Item>80 15 15 15 15 15 15</Item>
+        </Caps>
+        <Max_WLvl>0 0 0 0 0 0 0 0 0 4 0 0 0</Max_WLvl>
+        <Promotion>
+          <Item>
+            <Key>41</Key>
+            <Value>
+              <Item>0 1 2 2 2 3 0 0</Item>
+              <Item>0 0 0 0 0 0 0 0 0 0 0 0 0</Item>
+            </Value>
+          </Item>
+        </Promotion>
+        <Tier>0</Tier>
+        <Mov>4</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Heavy</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>10 1 2 2 0 1 3 5</Item>
+            <Item>85 25 30 30 55 20 30</Item>
+          </Item>
+          <Item>
+            <Item>14 2 3 3 0 2 4 5</Item>
+            <Item>75 25 30 30 40 15 25</Item>
+          </Item>
+          <Item>
+            <Item>18 2 4 4 0 2 6 5</Item>
+            <Item>65 15 25 25 45 15 25</Item>
+          </Item>
+          <Item>
+            <Item>18 2 4 4 0 2 6 5</Item>
+            <Item>85 25 30 30 55 20 30</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>16</Key>
+      <Value>
+        <Id>16</Id>
+        <Name>Myrmidon</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+          <Item>Swordsman</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>78</SkillId>
+          </Item>
+        </Skills>
+        <Description>Swordsmen with a hunger for
+challenge. Unnaturally fast.</Description>
+        <Caps Null="true" />
+        <Max_WLvl>5 0 0 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion>
+          <Item>
+            <Key>51</Key>
+            <Value>
+              <Item>0 3 4 4 1 2 1 0</Item>
+              <Item>31 0 0 0 0 0 0 0 0 0 0 0 0</Item>
+            </Value>
+          </Item>
+        </Promotion>
+        <Tier>1</Tier>
+        <Mov>5</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Light</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>14 1 4 5 0 0 1 7</Item>
+            <Item>65 15 35 35 40 20 25</Item>
+          </Item>
+          <Item>
+            <Item>18 3 5 7 0 1 3 7</Item>
+            <Item>65 15 35 35 45 20 25</Item>
+          </Item>
+          <Item>
+            <Item>22 3 7 9 0 3 5 7</Item>
+            <Item>65 15 35 35 50 20 25</Item>
+          </Item>
+          <Item>
+            <Item>22 3 7 9 0 3 5 7</Item>
+            <Item>75 20 35 40 50 25 25</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>17</Key>
+      <Value>
+        <Id>17</Id>
+        <Name>Thief</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+        </Class_Types>
+        <Skills />
+        <Description>really cool
+description</Description>
+        <Caps Null="true" />
+        <Max_WLvl>5 0 0 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion>
+          <Item>
+            <Key>53</Key>
+            <Value>
+              <Item>2 2 4 4 1 1 0 0</Item>
+              <Item>0 0 0 0 0 0 0 0 0 0 0 0 0</Item>
+            </Value>
+          </Item>
+        </Promotion>
+        <Tier>1</Tier>
+        <Mov>4</Mov>
+        <Mov_Cap>20</Mov_Cap>
+        <Movement_Type>Light</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>12 1 4 4 0 0 1 6</Item>
+            <Item>75 20 30 35 45 20 15</Item>
+          </Item>
+          <Item>
+            <Item>16 1 7 7 0 1 2 6</Item>
+            <Item>75 20 30 35 50 20 15</Item>
+          </Item>
+          <Item>
+            <Item>20 2 9 9 0 2 4 6</Item>
+            <Item>75 20 30 35 55 20 15</Item>
+          </Item>
+          <Item>
+            <Item>20 2 9 9 0 2 4 6</Item>
+            <Item>85 20 35 35 60 20 20</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>19</Key>
+      <Value>
+        <Id>19</Id>
+        <Name>Archer</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>78</SkillId>
+          </Item>
+          <Item>
+            <Level>1</Level>
+            <SkillId>20</SkillId>
+          </Item>
+        </Skills>
+        <Description>Soldiers who attack from a
+distance with their bows.</Description>
+        <Caps Null="true" />
+        <Max_WLvl>0 0 0 5 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion>
+          <Item>
+            <Key>55</Key>
+            <Value>
+              <Item>2 1 5 3 0 4 1 0</Item>
+              <Item>0 0 0 31 0 0 0 0 0 0 0 0 0</Item>
+            </Value>
+          </Item>
+        </Promotion>
+        <Tier>1</Tier>
+        <Mov>5</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Light</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>12 1 5 4 0 1 2 6</Item>
+            <Item>65 20 30 30 40 25 25</Item>
+          </Item>
+          <Item>
+            <Item>16 3 6 6 0 3 3 6</Item>
+            <Item>65 20 30 30 45 25 25</Item>
+          </Item>
+          <Item>
+            <Item>20 4 8 8 0 4 5 6</Item>
+            <Item>65 20 30 30 50 25 25</Item>
+          </Item>
+          <Item>
+            <Item>20 4 8 8 0 4 5 6</Item>
+            <Item>75 25 35 35 55 20 25</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>20</Key>
+      <Value>
+        <Id>20</Id>
+        <Name>Crossbowman</Name>
+        <Class_Types>
+          <Item>Heavy</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>22</SkillId>
+          </Item>
+          <Item>
+            <Level>1</Level>
+            <SkillId>20</SkillId>
+          </Item>
+        </Skills>
+        <Description>Heavy infantry who use their
+strength to wield crossbows.</Description>
+        <Caps Null="true" />
+        <Max_WLvl>0 0 0 5 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion>
+          <Item>
+            <Key>57</Key>
+            <Value>
+              <Item>3 1 5 1 3 5 3 0</Item>
+              <Item>0 0 0 31 0 0 0 0 0 0 0 0 0</Item>
+            </Value>
+          </Item>
+        </Promotion>
+        <Tier>1</Tier>
+        <Mov>5</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Heavy</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>13 3 3 1 0 3 1 8</Item>
+            <Item>85 25 25 30 25 25 30</Item>
+          </Item>
+          <Item>
+            <Item>17 4 5 3 0 5 2 8</Item>
+            <Item>85 25 25 30 30 25 30</Item>
+          </Item>
+          <Item>
+            <Item>21 5 7 5 0 6 4 8</Item>
+            <Item>85 25 25 30 35 25 30</Item>
+          </Item>
+          <Item>
+            <Item>21 5 7 5 0 6 4 8</Item>
+            <Item>95 30 30 30 40 25 30</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>22</Key>
+      <Value>
+        <Id>22</Id>
+        <Name>Soldier</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+        </Class_Types>
+        <Skills />
+        <Description>poke</Description>
+        <Caps>
+          <Item>80 30 30 30 30 30 20</Item>
+          <Item>80 20 20 20 20 20 20</Item>
+        </Caps>
+        <Max_WLvl>0 5 0 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion>
+          <Item>
+            <Key>59</Key>
+            <Value>
+              <Item>2 1 4 3 2 3 1 0</Item>
+              <Item>0 31 0 0 0 0 0 0 0 0 0 0 0</Item>
+            </Value>
+          </Item>
+        </Promotion>
+        <Tier>2</Tier>
+        <Mov>5</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Light</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>14 2 3 2 0 2 1 8</Item>
+            <Item>75 25 30 25 35 30 20</Item>
+          </Item>
+          <Item>
+            <Item>18 3 5 4 0 4 2 8</Item>
+            <Item>75 25 30 25 40 30 20</Item>
+          </Item>
+          <Item>
+            <Item>22 4 7 6 0 6 3 8</Item>
+            <Item>75 25 30 25 45 30 20</Item>
+          </Item>
+          <Item>
+            <Item>22 4 7 6 0 6 3 8</Item>
+            <Item>85 25 40 30 45 25 25</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>23</Key>
+      <Value>
+        <Id>23</Id>
+        <Name>Dracoknight</Name>
+        <Class_Types>
+          <Item>Flier</Item>
+          <Item>FDragon</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>32</SkillId>
+          </Item>
+          <Item>
+            <Level>1</Level>
+            <SkillId>14</SkillId>
+          </Item>
+        </Skills>
+        <Description>Tough men who brave the ill
+temper of their mounts.</Description>
+        <Caps Null="true" />
+        <Max_WLvl>0 5 0 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion>
+          <Item>
+            <Key>61</Key>
+            <Value>
+              <Item>4 4 1 2 4 2 2 0</Item>
+              <Item>0 31 31 0 0 0 0 0 0 0 0 0 0</Item>
+            </Value>
+          </Item>
+        </Promotion>
+        <Tier>1</Tier>
+        <Mov>4</Mov>
+        <Mov_Cap>20</Mov_Cap>
+        <Movement_Type>Flying</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>16 1 0 0 0 3 1 9</Item>
+            <Item>95 30 25 25 15 35 25</Item>
+          </Item>
+          <Item>
+            <Item>20 4 2 1 0 5 1 9</Item>
+            <Item>95 30 25 25 20 35 25</Item>
+          </Item>
+          <Item>
+            <Item>24 5 4 3 0 6 3 9</Item>
+            <Item>95 30 25 25 25 35 25</Item>
+          </Item>
+          <Item>
+            <Item>24 5 4 3 0 6 3 9</Item>
+            <Item>105 35 30 25 25 40 25</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>24</Key>
+      <Value>
+        <Id>24</Id>
+        <Name>Fighter</Name>
+        <Class_Types>
+          <Item>Heavy</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>15</SkillId>
+          </Item>
+        </Skills>
+        <Description>Axe-wielding soldiers whose wild
+style hampers their accuracy.</Description>
+        <Caps Null="true" />
+        <Max_WLvl>0 0 5 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion>
+          <Item>
+            <Key>63</Key>
+            <Value>
+              <Item>4 3 2 2 3 1 2 0</Item>
+              <Item>0 0 31 31 0 0 0 0 0 0 0 0 0</Item>
+            </Value>
+          </Item>
+        </Promotion>
+        <Tier>1</Tier>
+        <Mov>5</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Heavy</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>17 3 0 1 0 1 0 12</Item>
+            <Item>105 35 20 25 20 30 20</Item>
+          </Item>
+          <Item>
+            <Item>21 5 1 2 0 4 1 12</Item>
+            <Item>105 35 20 25 25 30 20</Item>
+          </Item>
+          <Item>
+            <Item>25 8 2 3 0 6 2 12</Item>
+            <Item>105 35 20 25 30 30 20</Item>
+          </Item>
+          <Item>
+            <Item>25 8 2 3 0 6 2 12</Item>
+            <Item>115 35 25 30 30 30 25</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>25</Key>
+      <Value>
+        <Id>25</Id>
+        <Name>Brigand</Name>
+        <Class_Types>
+          <Item>Heavy</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>18</SkillId>
+          </Item>
+        </Skills>
+        <Description>Mighty mountain-thieves who
+prefer the savagery of axes.</Description>
+        <Caps Null="true" />
+        <Max_WLvl>0 0 5 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion>
+          <Item>
+            <Key>62</Key>
+            <Value>
+              <Item>4 3 5 2 1 0 2 0</Item>
+              <Item>0 0 31 0 0 0 0 0 0 0 0 0 0</Item>
+            </Value>
+          </Item>
+        </Promotion>
+        <Tier>1</Tier>
+        <Mov>5</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Heavy</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>19 2 0 1 0 0 0 13</Item>
+            <Item>105 35 25 25 20 25 20</Item>
+          </Item>
+          <Item>
+            <Item>23 6 1 2 0 2 0 13</Item>
+            <Item>105 35 25 25 25 25 20</Item>
+          </Item>
+          <Item>
+            <Item>27 9 2 3 0 3 2 13</Item>
+            <Item>105 35 25 25 30 25 20</Item>
+          </Item>
+          <Item>
+            <Item>27 9 2 3 0 3 2 13</Item>
+            <Item>115 40 25 30 30 30 20</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>26</Key>
+      <Value>
+        <Id>26</Id>
+        <Name>Pirate</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>17</SkillId>
+          </Item>
+        </Skills>
+        <Description>Sea-faring insolents who love
+fighting as much as drinking.</Description>
+        <Caps Null="true" />
+        <Max_WLvl>0 0 5 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion>
+          <Item>
+            <Key>64</Key>
+            <Value>
+              <Item>0 1 4 4 3 3 0 0</Item>
+              <Item>31 0 31 0 0 0 0 0 0 0 0 0 0</Item>
+            </Value>
+          </Item>
+        </Promotion>
+        <Tier>1</Tier>
+        <Mov>5</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Light</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>16 2 2 2 0 0 0 11</Item>
+            <Item>95 25 30 25 30 25 20</Item>
+          </Item>
+          <Item>
+            <Item>20 4 4 4 0 2 0 11</Item>
+            <Item>95 25 30 25 35 25 20</Item>
+          </Item>
+          <Item>
+            <Item>24 6 6 6 0 3 1 11</Item>
+            <Item>95 25 30 25 40 25 20</Item>
+          </Item>
+          <Item>
+            <Item>24 6 6 6 0 3 1 11</Item>
+            <Item>105 25 35 30 40 25 25</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>27</Key>
+      <Value>
+        <Id>27</Id>
+        <Name>Mercenary</Name>
+        <Class_Types>
+          <Item>Heavy</Item>
+          <Item>Swordsman</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>15</SkillId>
+          </Item>
+        </Skills>
+        <Description>better reload the
+checkpoint, lmao</Description>
+        <Caps Null="true" />
+        <Max_WLvl>5 0 0 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion>
+          <Item>
+            <Key>65</Key>
+            <Value>
+              <Item>6 3 4 0 3 0 2 0</Item>
+              <Item>31 0 31 0 0 0 0 0 0 0 0 0 0</Item>
+            </Value>
+          </Item>
+        </Promotion>
+        <Tier>1</Tier>
+        <Mov>5</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Heavy</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>18 6 6 6 0 6 1 10</Item>
+            <Item>95 30 35 30 30 30 30</Item>
+          </Item>
+          <Item>
+            <Item>22 7 8 8 0 8 2 10</Item>
+            <Item>95 30 35 30 35 30 30</Item>
+          </Item>
+          <Item>
+            <Item>26 9 10 10 0 9 3 10</Item>
+            <Item>95 30 35 30 40 30 30</Item>
+          </Item>
+          <Item>
+            <Item>26 9 10 10 0 9 3 10</Item>
+            <Item>105 30 40 35 40 35 30</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>28</Key>
+      <Value>
+        <Id>28</Id>
+        <Name>Merc but stronger</Name>
+        <Class_Types>
+          <Item>Heavy</Item>
+          <Item>Swordsman</Item>
+        </Class_Types>
+        <Skills />
+        <Description>better reload the
+checkpoint, lmao</Description>
+        <Caps>
+          <Item>80 28 29 25 23 21 20</Item>
+          <Item>80 28 29 25 23 21 20</Item>
+        </Caps>
+        <Max_WLvl>0 0 0 0 0 0 0 0 0 0 0 1 5</Max_WLvl>
+        <Promotion>
+          <Item>
+            <Key>65</Key>
+            <Value>
+              <Item>6 3 4 0 3 0 2 0</Item>
+              <Item>31 0 31 0 0 0 0 0 0 0 0 0 0</Item>
+            </Value>
+          </Item>
+        </Promotion>
+        <Tier>1</Tier>
+        <Mov>5</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Heavy</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>18 6 6 6 0 6 1 10</Item>
+            <Item>95 30 35 30 30 30 30</Item>
+          </Item>
+          <Item>
+            <Item>22 7 8 8 0 8 2 10</Item>
+            <Item>95 30 35 30 35 30 30</Item>
+          </Item>
+          <Item>
+            <Item>26 9 10 10 0 9 3 10</Item>
+            <Item>95 30 35 30 40 30 30</Item>
+          </Item>
+          <Item>
+            <Item>26 9 10 10 0 9 3 10</Item>
+            <Item>105 30 40 35 40 35 30</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>29</Key>
+      <Value>
+        <Id>29</Id>
+        <Name>Nomad</Name>
+        <Class_Types>
+          <Item>Cavalry</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>13</SkillId>
+          </Item>
+          <Item>
+            <Level>1</Level>
+            <SkillId>19</SkillId>
+          </Item>
+        </Skills>
+        <Description>Light cavalry from the plains.
+Cherish their steeds and bows.</Description>
+        <Caps Null="true" />
+        <Max_WLvl>0 0 0 5 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion>
+          <Item>
+            <Key>67</Key>
+            <Value>
+              <Item>2 2 4 4 2 3 1 0</Item>
+              <Item>31 0 0 31 0 0 0 0 0 0 0 0 0</Item>
+            </Value>
+          </Item>
+        </Promotion>
+        <Tier>1</Tier>
+        <Mov>6</Mov>
+        <Mov_Cap>20</Mov_Cap>
+        <Movement_Type>Mounted</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>13 1 2 3 0 1 1 8</Item>
+            <Item>75 25 25 35 35 20 25</Item>
+          </Item>
+          <Item>
+            <Item>17 2 4 5 0 3 2 8</Item>
+            <Item>75 25 25 35 40 20 25</Item>
+          </Item>
+          <Item>
+            <Item>21 3 6 7 0 4 4 8</Item>
+            <Item>75 25 25 35 45 20 25</Item>
+          </Item>
+          <Item>
+            <Item>21 3 6 7 0 4 4 8</Item>
+            <Item>85 25 30 35 50 25 25</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>30</Key>
+      <Value>
+        <Id>30</Id>
+        <Name>Cohort</Name>
+        <Class_Types>
+          <Item>Cavalry</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>13</SkillId>
+          </Item>
+        </Skills>
+        <Description>Rowdy knights with swift steeds
+and a preference for axes.</Description>
+        <Caps Null="true" />
+        <Max_WLvl>0 0 5 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion>
+          <Item>
+            <Key>71</Key>
+            <Value>
+              <Item>3 4 3 2 5 3 3 0</Item>
+              <Item>31 0 31 0 0 0 0 0 0 0 0 0 0</Item>
+            </Value>
+          </Item>
+        </Promotion>
+        <Tier>1</Tier>
+        <Mov>7</Mov>
+        <Mov_Cap>25</Mov_Cap>
+        <Movement_Type>Mounted</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>15 2 0 0 0 3 0 10</Item>
+            <Item>95 30 20 25 20 35 25</Item>
+          </Item>
+          <Item>
+            <Item>19 4 1 2 0 4 2 10</Item>
+            <Item>95 30 20 25 25 35 25</Item>
+          </Item>
+          <Item>
+            <Item>23 6 3 3 0 6 3 10</Item>
+            <Item>95 30 20 25 30 35 25</Item>
+          </Item>
+          <Item>
+            <Item>23 6 3 3 0 6 3 10</Item>
+            <Item>105 35 25 30 30 35 25</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>31</Key>
+      <Value>
+        <Id>31</Id>
+        <Name>Vanguard</Name>
+        <Class_Types>
+          <Item>Cavalry</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>13</SkillId>
+          </Item>
+        </Skills>
+        <Description>Stern men whose momentum
+behind a spear breaks steel.</Description>
+        <Caps Null="true" />
+        <Max_WLvl>0 5 0 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion>
+          <Item>
+            <Key>70</Key>
+            <Value>
+              <Item>0 2 3 4 1 3 2 0</Item>
+              <Item>31 31 0 0 0 0 0 0 0 0 0 0 0</Item>
+            </Value>
+          </Item>
+        </Promotion>
+        <Tier>1</Tier>
+        <Mov>7</Mov>
+        <Mov_Cap>25</Mov_Cap>
+        <Movement_Type>Mounted</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>13 2 1 1 0 2 1 9</Item>
+            <Item>85 30 20 20 30 35 25</Item>
+          </Item>
+          <Item>
+            <Item>17 4 3 3 0 3 2 9</Item>
+            <Item>85 30 20 20 35 35 25</Item>
+          </Item>
+          <Item>
+            <Item>21 5 4 4 0 6 4 9</Item>
+            <Item>85 30 20 20 40 35 25</Item>
+          </Item>
+          <Item>
+            <Item>21 5 4 4 0 6 4 9</Item>
+            <Item>95 35 25 25 40 35 25</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>32</Key>
+      <Value>
+        <Id>32</Id>
+        <Name>Gendarme</Name>
+        <Class_Types>
+          <Item>Cavalry</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>13</SkillId>
+          </Item>
+        </Skills>
+        <Description>Chivalrous knights who value
+tradition. Swift and brave.</Description>
+        <Caps Null="true" />
+        <Max_WLvl>5 0 0 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion>
+          <Item>
+            <Key>70</Key>
+            <Value>
+              <Item>0 3 2 3 2 2 3 0</Item>
+              <Item>31 31 0 0 0 0 0 0 0 0 0 0 0</Item>
+            </Value>
+          </Item>
+        </Promotion>
+        <Tier>1</Tier>
+        <Mov>7</Mov>
+        <Mov_Cap>25</Mov_Cap>
+        <Movement_Type>Mounted</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>13 1 2 2 0 1 2 8</Item>
+            <Item>85 25 25 25 40 25 20</Item>
+          </Item>
+          <Item>
+            <Item>17 3 3 3 0 3 4 8</Item>
+            <Item>85 25 25 25 45 25 20</Item>
+          </Item>
+          <Item>
+            <Item>21 4 5 5 0 5 5 8</Item>
+            <Item>85 25 25 25 50 25 20</Item>
+          </Item>
+          <Item>
+            <Item>21 4 5 5 0 5 5 8</Item>
+            <Item>95 25 25 25 60 25 25</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>33</Key>
+      <Value>
+        <Id>33</Id>
+        <Name>Phalanx</Name>
+        <Class_Types>
+          <Item>Armor</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>14</SkillId>
+          </Item>
+        </Skills>
+        <Description>As unbreakable as a fortress,
+these axemen are invaluable.</Description>
+        <Caps Null="true" />
+        <Max_WLvl>0 0 5 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion>
+          <Item>
+            <Key>72</Key>
+            <Value>
+              <Item>2 2 3 2 2 3 2 0</Item>
+              <Item>0 31 31 0 0 0 0 0 0 0 0 0 0</Item>
+            </Value>
+          </Item>
+        </Promotion>
+        <Tier>1</Tier>
+        <Mov>4</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Armor</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>18 3 0 0 0 3 1 12</Item>
+            <Item>95 30 15 15 30 40 25</Item>
+          </Item>
+          <Item>
+            <Item>22 5 2 1 0 5 2 12</Item>
+            <Item>95 30 15 15 35 40 25</Item>
+          </Item>
+          <Item>
+            <Item>26 6 3 2 0 8 4 12</Item>
+            <Item>95 30 15 15 40 40 25</Item>
+          </Item>
+          <Item>
+            <Item>26 6 3 2 0 8 4 12</Item>
+            <Item>105 35 20 20 40 35 30</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>34</Key>
+      <Value>
+        <Id>34</Id>
+        <Name>Knight</Name>
+        <Class_Types>
+          <Item>Armor</Item>
+        </Class_Types>
+        <Skills />
+        <Description>description lol</Description>
+        <Caps>
+          <Item>80 20 20 20 30 30 20</Item>
+          <Item>80 20 20 20 20 20 20</Item>
+        </Caps>
+        <Max_WLvl>0 5 5 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion>
+          <Item>
+            <Key>73</Key>
+            <Value>
+              <Item>4 4 2 0 4 1 2 0</Item>
+              <Item>31 31 0 0 0 0 0 0 0 0 0 0 0</Item>
+            </Value>
+          </Item>
+        </Promotion>
+        <Tier>1</Tier>
+        <Mov>4</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Armor</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>16 2 1 0 0 4 0 13</Item>
+            <Item>85 30 25 20 20 40 25</Item>
+          </Item>
+          <Item>
+            <Item>20 4 3 1 0 6 1 13</Item>
+            <Item>85 30 25 20 25 40 25</Item>
+          </Item>
+          <Item>
+            <Item>24 5 4 2 0 9 3 13</Item>
+            <Item>85 30 25 20 30 40 25</Item>
+          </Item>
+          <Item>
+            <Item>24 5 4 2 0 9 3 13</Item>
+            <Item>95 35 30 20 35 40 25</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>35</Key>
+      <Value>
+        <Id>35</Id>
+        <Name>Zweihander</Name>
+        <Class_Types>
+          <Item>Armor</Item>
+          <Item>Swordsman</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>14</SkillId>
+          </Item>
+        </Skills>
+        <Description>A knight who combines deft
+bladework with heavy armor.</Description>
+        <Caps Null="true" />
+        <Max_WLvl>5 0 0 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion>
+          <Item>
+            <Key>74</Key>
+            <Value>
+              <Item>2 4 3 1 3 1 2 0</Item>
+              <Item>31 0 0 0 0 0 0 0 0 0 0 0 0</Item>
+            </Value>
+          </Item>
+        </Promotion>
+        <Tier>1</Tier>
+        <Mov>4</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Armor</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>16 2 2 2 0 3 0 11</Item>
+            <Item>75 25 20 20 30 35 35</Item>
+          </Item>
+          <Item>
+            <Item>20 4 3 3 0 5 2 11</Item>
+            <Item>75 25 20 20 35 35 35</Item>
+          </Item>
+          <Item>
+            <Item>24 5 4 4 0 7 5 11</Item>
+            <Item>75 25 20 20 40 35 35</Item>
+          </Item>
+          <Item>
+            <Item>24 5 4 4 0 7 5 11</Item>
+            <Item>85 30 30 20 40 35 35</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>37</Key>
+      <Value>
+        <Id>37</Id>
+        <Name>Pegasus Knight</Name>
+        <Class_Types>
+          <Item>Cavalry</Item>
+          <Item>Flier</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>32</SkillId>
+          </Item>
+        </Skills>
+        <Description>i wanna pet it</Description>
+        <Caps>
+          <Item>80 20 20 20 20 20 20</Item>
+          <Item>80 21 28 30 22 27 20</Item>
+        </Caps>
+        <Max_WLvl>0 5 0 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion>
+          <Item>
+            <Key>76</Key>
+            <Value>
+              <Item>4 2 3 5 1 1 1 0</Item>
+              <Item>31 31 0 0 0 0 0 0 0 0 0 0 0</Item>
+            </Value>
+          </Item>
+        </Promotion>
+        <Tier>1</Tier>
+        <Mov>5</Mov>
+        <Mov_Cap>25</Mov_Cap>
+        <Movement_Type>Flying</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>10 1 2 3 0 1 3 7</Item>
+            <Item>65 20 35 30 40 20 25</Item>
+          </Item>
+          <Item>
+            <Item>14 2 4 5 0 2 5 7</Item>
+            <Item>65 20 35 30 45 20 25</Item>
+          </Item>
+          <Item>
+            <Item>18 3 6 6 0 4 7 7</Item>
+            <Item>65 20 35 30 50 20 25</Item>
+          </Item>
+          <Item>
+            <Item>18 3 6 6 0 4 7 7</Item>
+            <Item>75 25 35 35 50 20 30</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>38</Key>
+      <Value>
+        <Id>38</Id>
+        <Name>Cleric</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+          <Item>Mage</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>8</SkillId>
+          </Item>
+        </Skills>
+        <Description>Clergymen who aid their
+allies with sacred staves.</Description>
+        <Caps Null="true" />
+        <Max_WLvl>0 0 0 0 0 0 0 0 0 5 0 0 0</Max_WLvl>
+        <Promotion>
+          <Item>
+            <Key>78</Key>
+            <Value>
+              <Item>2 3 5 2 0 2 2 0</Item>
+              <Item>0 0 0 0 0 0 0 31 0 31 0 0 0</Item>
+            </Value>
+          </Item>
+        </Promotion>
+        <Tier>1</Tier>
+        <Mov>5</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Light</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>12 0 1 3 0 1 5 6</Item>
+            <Item>75 25 30 30 40 15 25</Item>
+          </Item>
+          <Item>
+            <Item>16 1 3 5 0 2 7 6</Item>
+            <Item>75 25 30 30 45 15 25</Item>
+          </Item>
+          <Item>
+            <Item>20 3 5 6 0 4 8 6</Item>
+            <Item>75 25 30 30 50 15 25</Item>
+          </Item>
+          <Item>
+            <Item>20 3 5 6 0 4 8 6</Item>
+            <Item>85 25 30 30 55 20 30</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>39</Key>
+      <Value>
+        <Id>39</Id>
+        <Name>Monk</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+          <Item>Mage</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>9</SkillId>
+          </Item>
+        </Skills>
+        <Description>Ascetics who wield light
+magic, but can't use staves.</Description>
+        <Caps Null="true" />
+        <Max_WLvl>0 0 0 0 0 0 0 5 0 0 0 0 0</Max_WLvl>
+        <Promotion>
+          <Item>
+            <Key>78</Key>
+            <Value>
+              <Item>2 1 3 3 2 4 1 0</Item>
+              <Item>0 0 0 0 0 0 0 31 0 31 0 0 0</Item>
+            </Value>
+          </Item>
+        </Promotion>
+        <Tier>1</Tier>
+        <Mov>5</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Light</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>12 2 3 2 0 0 2 7</Item>
+            <Item>75 25 30 25 40 20 25</Item>
+          </Item>
+          <Item>
+            <Item>16 4 5 3 0 1 4 7</Item>
+            <Item>75 25 30 25 45 20 25</Item>
+          </Item>
+          <Item>
+            <Item>20 5 7 5 0 2 6 7</Item>
+            <Item>75 25 30 25 50 20 25</Item>
+          </Item>
+          <Item>
+            <Item>20 5 7 5 0 2 6 7</Item>
+            <Item>85 25 30 30 55 20 30</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>40</Key>
+      <Value>
+        <Id>40</Id>
+        <Name>Mage</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+          <Item>Mage</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>9</SkillId>
+          </Item>
+        </Skills>
+        <Description>Adepts of old magic that use
+incantations to incinerate foes.</Description>
+        <Caps Null="true" />
+        <Max_WLvl>0 0 0 0 5 5 5 0 0 0 0 0 0</Max_WLvl>
+        <Promotion>
+          <Item>
+            <Key>79</Key>
+            <Value>
+              <Item>6 2 2 3 1 3 1 2</Item>
+              <Item>0 0 0 0 31 31 31 0 0 0 0 0 0</Item>
+            </Value>
+          </Item>
+        </Promotion>
+        <Tier>1</Tier>
+        <Mov>5</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Light</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>12 3 2 2 0 0 1 8</Item>
+            <Item>75 30 25 30 30 25 25</Item>
+          </Item>
+          <Item>
+            <Item>16 5 3 4 0 1 3 8</Item>
+            <Item>75 30 25 30 35 25 25</Item>
+          </Item>
+          <Item>
+            <Item>20 6 5 6 0 3 4 8</Item>
+            <Item>75 30 25 30 40 25 25</Item>
+          </Item>
+          <Item>
+            <Item>20 6 5 6 0 3 4 8</Item>
+            <Item>85 35 30 30 40 25 30</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>41</Key>
+      <Value>
+        <Id>41</Id>
+        <Name>Troubadour</Name>
+        <Class_Types>
+          <Item>Cavalry</Item>
+          <Item>Mage</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>13</SkillId>
+          </Item>
+        </Skills>
+        <Description>Well-traveled nurses who lend
+their staff to those in need.</Description>
+        <Caps Null="true" />
+        <Max_WLvl>0 0 0 0 0 0 0 0 0 5 0 0 0</Max_WLvl>
+        <Promotion>
+          <Item>
+            <Key>81</Key>
+            <Value>
+              <Item>2 2 3 2 2 4 1 0</Item>
+              <Item>0 0 0 0 0 0 0 31 0 31 0 0 0</Item>
+            </Value>
+          </Item>
+        </Promotion>
+        <Tier>1</Tier>
+        <Mov>6</Mov>
+        <Mov_Cap>20</Mov_Cap>
+        <Movement_Type>Mounted</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>10 0 3 2 0 0 5 5</Item>
+            <Item>65 20 25 20 50 20 35</Item>
+          </Item>
+          <Item>
+            <Item>14 2 5 4 0 1 6 5</Item>
+            <Item>65 20 25 20 55 20 35</Item>
+          </Item>
+          <Item>
+            <Item>18 3 6 5 0 3 9 5</Item>
+            <Item>65 20 25 20 60 20 35</Item>
+          </Item>
+          <Item>
+            <Item>18 3 6 5 0 3 9 5</Item>
+            <Item>75 20 30 25 65 20 35</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>43</Key>
+      <Value>
+        <Id>43</Id>
+        <Name>Witch</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+          <Item>Mage</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>9</SkillId>
+          </Item>
+        </Skills>
+        <Description>A healer of the tribes, known
+for her obscure ceremonies.</Description>
+        <Caps Null="true" />
+        <Max_WLvl>0 0 0 0 0 0 0 0 0 5 0 0 0</Max_WLvl>
+        <Promotion>
+          <Item>
+            <Key>83</Key>
+            <Value>
+              <Item>2 0 4 2 3 5 0 0</Item>
+              <Item>0 0 0 0 31 1 1 0 0 31 0 0 0</Item>
+            </Value>
+          </Item>
+        </Promotion>
+        <Tier>1</Tier>
+        <Mov>5</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Light</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>16 1 1 0 0 0 4 8</Item>
+            <Item>75 25 25 25 35 25 30</Item>
+          </Item>
+          <Item>
+            <Item>20 3 3 2 0 1 5 8</Item>
+            <Item>75 25 25 25 40 25 30</Item>
+          </Item>
+          <Item>
+            <Item>24 5 4 3 0 2 8 8</Item>
+            <Item>75 25 25 25 45 25 30</Item>
+          </Item>
+          <Item>
+            <Item>24 5 4 3 0 2 8 8</Item>
+            <Item>85 25 30 30 45 25 35</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>44</Key>
+      <Value>
+        <Id>44</Id>
+        <Name>Sorcerer</Name>
+        <Class_Types>
+          <Item>Heavy</Item>
+          <Item>Mage</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>94</SkillId>
+          </Item>
+        </Skills>
+        <Description>Students of blackest magics.
+Powerful, but somewhat inelegant.</Description>
+        <Caps Null="true" />
+        <Max_WLvl>0 0 0 0 0 0 0 0 5 0 0 0 0</Max_WLvl>
+        <Promotion>
+          <Item>
+            <Key>84</Key>
+            <Value>
+              <Item>4 4 2 2 0 3 2 0</Item>
+              <Item>0 0 0 0 0 0 0 0 31 31 0 0 0</Item>
+            </Value>
+          </Item>
+        </Promotion>
+        <Tier>1</Tier>
+        <Mov>4</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Heavy</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>15 4 0 0 0 2 1 11</Item>
+            <Item>85 35 25 25 15 30 30</Item>
+          </Item>
+          <Item>
+            <Item>19 6 1 1 0 4 3 11</Item>
+            <Item>85 35 25 25 20 30 30</Item>
+          </Item>
+          <Item>
+            <Item>23 8 2 2 0 6 5 11</Item>
+            <Item>85 35 25 25 25 30 30</Item>
+          </Item>
+          <Item>
+            <Item>23 8 2 2 0 6 5 11</Item>
+            <Item>95 35 30 25 30 30 35</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>45</Key>
+      <Value>
+        <Id>45</Id>
+        <Name>Shaman</Name>
+        <Class_Types>
+          <Item>Heavy</Item>
+          <Item>Mage</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>94</SkillId>
+          </Item>
+        </Skills>
+        <Description>Wildmen who commune with
+nature to borrow its power.</Description>
+        <Caps Null="true" />
+        <Max_WLvl>0 0 0 0 5 5 5 0 0 0 0 0 0</Max_WLvl>
+        <Promotion>
+          <Item>
+            <Key>86</Key>
+            <Value>
+              <Item>4 2 2 3 1 3 2 0</Item>
+              <Item>0 0 0 0 31 31 31 0 0 0 0 0 0</Item>
+            </Value>
+          </Item>
+        </Promotion>
+        <Tier>1</Tier>
+        <Mov>4</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Heavy</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>17 2 0 1 0 1 3 10</Item>
+            <Item>95 30 20 20 20 25 40</Item>
+          </Item>
+          <Item>
+            <Item>21 4 1 2 0 3 5 10</Item>
+            <Item>95 30 20 20 25 25 40</Item>
+          </Item>
+          <Item>
+            <Item>25 6 2 3 0 4 8 10</Item>
+            <Item>95 30 20 20 30 25 40</Item>
+          </Item>
+          <Item>
+            <Item>25 6 2 3 0 4 8 10</Item>
+            <Item>105 35 25 25 30 25 40</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>47</Key>
+      <Value>
+        <Id>47</Id>
+        <Name>Diviner</Name>
+        <Class_Types>
+          <Item>Heavy</Item>
+          <Item>Mage</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>94</SkillId>
+          </Item>
+        </Skills>
+        <Description>Hallowed servants of their god,
+these men invoke holy force.</Description>
+        <Caps Null="true" />
+        <Max_WLvl>0 0 0 0 0 0 0 5 0 0 0 0 0</Max_WLvl>
+        <Promotion>
+          <Item>
+            <Key>88</Key>
+            <Value>
+              <Item>2 3 3 2 2 3 1 0</Item>
+              <Item>0 0 0 0 0 0 0 31 0 0 0 0 0</Item>
+            </Value>
+          </Item>
+        </Promotion>
+        <Tier>1</Tier>
+        <Mov>4</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Heavy</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>15 2 1 0 0 2 3 10</Item>
+            <Item>75 25 25 20 45 25 25</Item>
+          </Item>
+          <Item>
+            <Item>19 3 3 2 0 3 5 10</Item>
+            <Item>75 25 25 20 50 25 25</Item>
+          </Item>
+          <Item>
+            <Item>23 5 5 3 0 5 6 10</Item>
+            <Item>75 25 25 20 55 25 25</Item>
+          </Item>
+          <Item>
+            <Item>23 5 5 3 0 5 6 10</Item>
+            <Item>85 30 25 25 55 25 30</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>48</Key>
+      <Value>
+        <Id>48</Id>
+        <Name>Scholar</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+          <Item>Mage</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>9</SkillId>
+          </Item>
+        </Skills>
+        <Description>The scholar's insatiable lust
+for power drives him to madness.</Description>
+        <Caps Null="true" />
+        <Max_WLvl>0 0 0 0 0 0 0 0 5 0 0 0 0</Max_WLvl>
+        <Promotion>
+          <Item>
+            <Key>90</Key>
+            <Value>
+              <Item>4 2 0 2 2 4 1 0</Item>
+              <Item>0 0 0 0 0 0 0 0 0 0 0 0 0</Item>
+            </Value>
+          </Item>
+        </Promotion>
+        <Tier>1</Tier>
+        <Mov>5</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Light</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>12 3 1 1 0 1 1 9</Item>
+            <Item>75 30 20 30 30 25 30</Item>
+          </Item>
+          <Item>
+            <Item>16 5 2 3 0 2 3 9</Item>
+            <Item>75 30 20 30 35 25 30</Item>
+          </Item>
+          <Item>
+            <Item>20 7 3 5 0 3 5 9</Item>
+            <Item>75 30 20 30 40 25 30</Item>
+          </Item>
+          <Item>
+            <Item>20 7 3 5 0 3 5 9</Item>
+            <Item>85 35 20 30 45 25 35</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>49</Key>
+      <Value>
+        <Id>49</Id>
+        <Name>Corsair</Name>
+        <Class_Types>
+          <Item>Heavy</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>17</SkillId>
+          </Item>
+        </Skills>
+        <Description>Hardy men with a queer belief 
+that the sea loves them back.</Description>
+        <Caps Null="true" />
+        <Max_WLvl>0 0 5 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion>
+          <Item>
+            <Key>62</Key>
+            <Value>
+              <Item>4 3 5 2 1 0 2 0</Item>
+              <Item>0 0 31 0 0 0 0 0 0 0 0 0 0</Item>
+            </Value>
+          </Item>
+        </Promotion>
+        <Tier>1</Tier>
+        <Mov>5</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Heavy</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>19 2 0 1 0 0 0 13</Item>
+            <Item>105 35 25 25 20 25 20</Item>
+          </Item>
+          <Item>
+            <Item>23 6 1 2 0 2 0 13</Item>
+            <Item>105 35 25 25 25 25 20</Item>
+          </Item>
+          <Item>
+            <Item>27 9 2 3 0 3 2 13</Item>
+            <Item>105 35 25 25 30 25 20</Item>
+          </Item>
+          <Item>
+            <Item>27 9 2 3 0 3 2 13</Item>
+            <Item>115 40 25 30 30 30 20</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>50</Key>
+      <Value>
+        <Id>50</Id>
+        <Name>Assassin</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+        </Class_Types>
+        <Skills />
+        <Description>killy</Description>
+        <Caps>
+          <Item>80 23 29 29 24 22 20</Item>
+          <Item>80 23 29 29 24 22 20</Item>
+        </Caps>
+        <Max_WLvl>6 0 0 6 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>6</Mov>
+        <Mov_Cap>20</Mov_Cap>
+        <Movement_Type>Light</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>18 2 8 8 0 2 1 7</Item>
+            <Item>65 15 25 20 20 20 20</Item>
+          </Item>
+          <Item>
+            <Item>20 3 10 10 0 4 3 7</Item>
+            <Item>65 15 25 20 25 20 20</Item>
+          </Item>
+          <Item>
+            <Item>24 5 12 11 0 6 4 7</Item>
+            <Item>75 20 25 25 35 20 20</Item>
+          </Item>
+          <Item>
+            <Item>24 5 12 11 0 6 4 7</Item>
+            <Item>75 25 35 35 45 25 25</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>51</Key>
+      <Value>
+        <Id>51</Id>
+        <Name>Swordmaster</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+          <Item>Swordsman</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>12</SkillId>
+          </Item>
+        </Skills>
+        <Description>edgy</Description>
+        <Caps>
+          <Item>80 24 29 30 22 25 20</Item>
+          <Item>80 24 29 30 22 25 20</Item>
+        </Caps>
+        <Max_WLvl>6 0 0 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>6</Mov>
+        <Mov_Cap>20</Mov_Cap>
+        <Movement_Type>Light</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>16 3 7 9 0 2 3 8</Item>
+            <Item>55 15 25 25 30 15 15</Item>
+          </Item>
+          <Item>
+            <Item>18 4 9 12 0 3 5 8</Item>
+            <Item>55 15 25 25 35 15 15</Item>
+          </Item>
+          <Item>
+            <Item>22 6 11 13 0 4 7 8</Item>
+            <Item>55 15 30 30 45 15 20</Item>
+          </Item>
+          <Item>
+            <Item>22 6 11 13 0 4 7 8</Item>
+            <Item>65 20 35 40 50 25 25</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>52</Key>
+      <Value>
+        <Id>52</Id>
+        <Name>Heretic</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+        </Class_Types>
+        <Skills />
+        <Description>avie</Description>
+        <Caps>
+          <Item>80 23 29 29 24 22 20</Item>
+          <Item>80 23 29 29 24 22 20</Item>
+        </Caps>
+        <Max_WLvl>6 0 0 6 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>6</Mov>
+        <Mov_Cap>20</Mov_Cap>
+        <Movement_Type>Light</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>18 2 8 8 0 2 1 7</Item>
+            <Item>65 15 25 20 20 20 20</Item>
+          </Item>
+          <Item>
+            <Item>20 3 10 10 0 4 3 7</Item>
+            <Item>65 15 25 20 25 20 20</Item>
+          </Item>
+          <Item>
+            <Item>24 5 12 11 0 6 4 7</Item>
+            <Item>75 20 25 25 35 20 20</Item>
+          </Item>
+          <Item>
+            <Item>24 5 12 11 0 6 4 7</Item>
+            <Item>75 25 35 35 45 25 25</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>53</Key>
+      <Value>
+        <Id>53</Id>
+        <Name>Rogue</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+        </Class_Types>
+        <Skills />
+        <Description>sneaky</Description>
+        <Caps>
+          <Item>80 21 30 30 21 23 20</Item>
+          <Item>80 21 30 30 21 23 20</Item>
+        </Caps>
+        <Max_WLvl>6 0 0 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>7</Mov>
+        <Mov_Cap>20</Mov_Cap>
+        <Movement_Type>Light</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>16 1 8 8 0 1 3 6</Item>
+            <Item>55 15 25 25 30 15 15</Item>
+          </Item>
+          <Item>
+            <Item>18 2 11 11 0 2 4 6</Item>
+            <Item>55 15 25 25 35 15 15</Item>
+          </Item>
+          <Item>
+            <Item>22 4 13 13 0 3 5 6</Item>
+            <Item>65 15 25 30 50 15 15</Item>
+          </Item>
+          <Item>
+            <Item>22 4 13 13 0 3 5 6</Item>
+            <Item>75 20 35 35 60 20 20</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>55</Key>
+      <Value>
+        <Id>55</Id>
+        <Name>Sniper_C</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+        </Class_Types>
+        <Skills />
+        <Description>Not the most accu...
+Not the best-fit title,
+but I'll take it...?</Description>
+        <Caps>
+          <Item>80 22 30 29 22 27 20</Item>
+          <Item>80 22 30 29 22 27 20</Item>
+        </Caps>
+        <Max_WLvl>0 0 0 6 0 0 0 0 0 0 0 1 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>6</Mov>
+        <Mov_Cap>20</Mov_Cap>
+        <Movement_Type>Light</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>16 3 9 7 0 2 4 7</Item>
+            <Item>55 15 20 20 35 15 20</Item>
+          </Item>
+          <Item>
+            <Item>18 4 11 9 0 4 6 7</Item>
+            <Item>55 15 20 20 40 15 20</Item>
+          </Item>
+          <Item>
+            <Item>22 5 13 11 0 4 9 7</Item>
+            <Item>55 20 25 25 45 20 20</Item>
+          </Item>
+          <Item>
+            <Item>22 5 13 11 0 4 9 7</Item>
+            <Item>65 25 35 35 55 20 25</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>56</Key>
+      <Value>
+        <Id>56</Id>
+        <Name>Sniper</Name>
+        <Class_Types>
+          <Item>Heavy</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>79</SkillId>
+          </Item>
+        </Skills>
+        <Description>shooty</Description>
+        <Caps>
+          <Item>80 26 29 27 25 23 25</Item>
+          <Item>80 26 29 27 25 23 25</Item>
+        </Caps>
+        <Max_WLvl>0 6 0 6 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>6</Mov>
+        <Mov_Cap>20</Mov_Cap>
+        <Movement_Type>Heavy</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>19 4 7 5 0 3 2 10</Item>
+            <Item>65 20 20 25 20 20 15</Item>
+          </Item>
+          <Item>
+            <Item>23 6 9 6 0 5 3 10</Item>
+            <Item>65 20 20 25 25 20 15</Item>
+          </Item>
+          <Item>
+            <Item>25 7 11 9 0 6 5 10</Item>
+            <Item>65 25 25 20 35 25 20</Item>
+          </Item>
+          <Item>
+            <Item>25 7 11 9 0 6 5 10</Item>
+            <Item>75 30 35 30 40 30 25</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>57</Key>
+      <Value>
+        <Id>57</Id>
+        <Name>Arbalest</Name>
+        <Class_Types>
+          <Item>Armor</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>11</SkillId>
+          </Item>
+          <Item>
+            <Level>1</Level>
+            <SkillId>22</SkillId>
+          </Item>
+          <Item>
+            <Level>1</Level>
+            <SkillId>34</SkillId>
+          </Item>
+          <Item>
+            <Level>5</Level>
+            <SkillId>46</SkillId>
+          </Item>
+        </Skills>
+        <Description>Mobile siege personnel utilizing
+marvels of engineering.</Description>
+        <Caps>
+          <Item>80 25 29 26 27 28 25</Item>
+          <Item>80 25 29 26 27 28 25</Item>
+        </Caps>
+        <Max_WLvl>0 0 0 6 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>5</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Armor</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>18 4 8 3 0 5 5 11</Item>
+            <Item>65 20 20 20 20 20 20</Item>
+          </Item>
+          <Item>
+            <Item>22 5 10 5 0 6 7 11</Item>
+            <Item>65 20 20 20 25 20 20</Item>
+          </Item>
+          <Item>
+            <Item>24 6 12 6 0 9 9 11</Item>
+            <Item>75 25 25 25 30 20 20</Item>
+          </Item>
+          <Item>
+            <Item>24 6 12 6 0 9 9 11</Item>
+            <Item>85 30 30 30 40 25 30</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>59</Key>
+      <Value>
+        <Id>59</Id>
+        <Name>Halberdier</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+        </Class_Types>
+        <Skills />
+        <Description>pokey</Description>
+        <Caps>
+          <Item>80 24 29 27 26 24 20</Item>
+          <Item>80 24 29 27 26 24 20</Item>
+        </Caps>
+        <Max_WLvl>0 6 0 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>6</Mov>
+        <Mov_Cap>20</Mov_Cap>
+        <Movement_Type>Light</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>18 3 7 6 0 4 2 9</Item>
+            <Item>65 20 20 15 25 20 20</Item>
+          </Item>
+          <Item>
+            <Item>20 5 9 9 0 5 3 9</Item>
+            <Item>65 20 20 15 30 20 20</Item>
+          </Item>
+          <Item>
+            <Item>24 5 11 9 0 8 6 9</Item>
+            <Item>65 25 30 20 35 20 20</Item>
+          </Item>
+          <Item>
+            <Item>24 5 11 9 0 8 6 9</Item>
+            <Item>75 30 40 30 40 25 25</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>60</Key>
+      <Value>
+        <Id>60</Id>
+        <Name>Wyvern Knight</Name>
+        <Class_Types>
+          <Item>Flier</Item>
+          <Item>FDragon</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>11</SkillId>
+          </Item>
+          <Item>
+            <Level>1</Level>
+            <SkillId>32</SkillId>
+          </Item>
+          <Item>
+            <Level>5</Level>
+            <SkillId>48</SkillId>
+          </Item>
+        </Skills>
+        <Description>Atop exotic dragonkin, these
+spearmen spread fear like a plague.</Description>
+        <Caps>
+          <Item>80 25 27 27 24 22 25</Item>
+          <Item>80 25 27 27 24 22 25</Item>
+        </Caps>
+        <Max_WLvl>0 6 0 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>6</Mov>
+        <Mov_Cap>25</Mov_Cap>
+        <Movement_Type>Flying</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>18 4 4 6 0 1 1 10</Item>
+            <Item>65 25 20 20 20 20 15</Item>
+          </Item>
+          <Item>
+            <Item>22 6 6 7 0 3 2 10</Item>
+            <Item>65 25 20 20 25 20 15</Item>
+          </Item>
+          <Item>
+            <Item>26 7 8 8 0 5 4 10</Item>
+            <Item>65 30 25 25 30 20 20</Item>
+          </Item>
+          <Item>
+            <Item>26 7 8 8 0 5 4 10</Item>
+            <Item>75 40 30 35 35 25 25</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>61</Key>
+      <Value>
+        <Id>61</Id>
+        <Name>Dragon Master</Name>
+        <Class_Types>
+          <Item>Armor</Item>
+          <Item>Flier</Item>
+          <Item>FDragon</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>32</SkillId>
+          </Item>
+        </Skills>
+        <Description>flyey</Description>
+        <Caps>
+          <Item>80 28 25 23 28 23 25</Item>
+          <Item>80 28 25 23 28 23 25</Item>
+        </Caps>
+        <Max_WLvl>0 6 6 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>5</Mov>
+        <Mov_Cap>25</Mov_Cap>
+        <Movement_Type>Flying</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>20 6 2 1 0 6 1 11</Item>
+            <Item>75 20 20 20 10 25 20</Item>
+          </Item>
+          <Item>
+            <Item>24 7 4 3 0 7 3 11</Item>
+            <Item>75 20 20 20 15 25 20</Item>
+          </Item>
+          <Item>
+            <Item>28 9 5 5 0 9 4 11</Item>
+            <Item>85 25 20 20 25 30 20</Item>
+          </Item>
+          <Item>
+            <Item>28 9 5 5 0 9 4 11</Item>
+            <Item>95 35 30 25 30 35 25</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>62</Key>
+      <Value>
+        <Id>62</Id>
+        <Name>Berserker</Name>
+        <Class_Types>
+          <Item>Heavy</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>12</SkillId>
+          </Item>
+        </Skills>
+        <Description>wildey</Description>
+        <Caps>
+          <Item>80 30 27 26 26 21 25</Item>
+          <Item>80 30 27 26 26 21 25</Item>
+        </Caps>
+        <Max_WLvl>0 0 6 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>6</Mov>
+        <Mov_Cap>20</Mov_Cap>
+        <Movement_Type>Heavy</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>23 7 3 2 0 2 0 15</Item>
+            <Item>85 25 20 20 15 15 15</Item>
+          </Item>
+          <Item>
+            <Item>27 9 5 4 0 3 1 15</Item>
+            <Item>85 25 20 20 20 15 15</Item>
+          </Item>
+          <Item>
+            <Item>31 12 7 5 0 4 2 15</Item>
+            <Item>95 30 20 20 25 25 15</Item>
+          </Item>
+          <Item>
+            <Item>31 12 7 5 0 4 2 15</Item>
+            <Item>105 35 30 30 30 30 20</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>63</Key>
+      <Value>
+        <Id>63</Id>
+        <Name>Warrior</Name>
+        <Class_Types>
+          <Item>Heavy</Item>
+        </Class_Types>
+        <Skills />
+        <Description>strongey</Description>
+        <Caps>
+          <Item>80 29 24 26 28 23 25</Item>
+          <Item>80 29 24 26 28 23 25</Item>
+        </Caps>
+        <Max_WLvl>0 0 6 6 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>6</Mov>
+        <Mov_Cap>20</Mov_Cap>
+        <Movement_Type>Heavy</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>21 6 2 3 0 3 2 14</Item>
+            <Item>85 20 15 20 15 25 15</Item>
+          </Item>
+          <Item>
+            <Item>25 8 3 5 0 5 3 14</Item>
+            <Item>85 20 15 20 20 25 15</Item>
+          </Item>
+          <Item>
+            <Item>29 11 4 5 0 9 3 14</Item>
+            <Item>95 25 20 20 25 25 20</Item>
+          </Item>
+          <Item>
+            <Item>29 11 4 5 0 9 3 14</Item>
+            <Item>105 35 25 30 30 30 25</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>64</Key>
+      <Value>
+        <Id>64</Id>
+        <Name>Raider</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>17</SkillId>
+          </Item>
+          <Item>
+            <Level>5</Level>
+            <SkillId>52</SkillId>
+          </Item>
+        </Skills>
+        <Description>Women at every port, bounties in
+every state, axes in each hand.</Description>
+        <Caps>
+          <Item>80 25 28 28 25 24 20</Item>
+          <Item>80 25 28 28 25 24 20</Item>
+        </Caps>
+        <Max_WLvl>6 0 6 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>6</Mov>
+        <Mov_Cap>20</Mov_Cap>
+        <Movement_Type>Light</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>18 4 7 6 0 2 1 11</Item>
+            <Item>75 15 20 20 20 20 20</Item>
+          </Item>
+          <Item>
+            <Item>22 6 9 7 0 4 2 11</Item>
+            <Item>75 15 20 20 25 20 20</Item>
+          </Item>
+          <Item>
+            <Item>24 7 10 10 0 6 4 11</Item>
+            <Item>85 20 25 20 35 20 20</Item>
+          </Item>
+          <Item>
+            <Item>24 7 10 10 0 6 4 11</Item>
+            <Item>95 25 35 30 40 25 25</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>65</Key>
+      <Value>
+        <Id>65</Id>
+        <Name>Hero</Name>
+        <Class_Types>
+          <Item>Heavy</Item>
+          <Item>Swordsman</Item>
+        </Class_Types>
+        <Skills />
+        <Description>heroicey</Description>
+        <Caps>
+          <Item>80 27 28 26 27 22 25</Item>
+          <Item>80 27 28 26 27 22 25</Item>
+        </Caps>
+        <Max_WLvl>6 0 6 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>6</Mov>
+        <Mov_Cap>20</Mov_Cap>
+        <Movement_Type>Heavy</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>21 4 5 4 0 4 1 12</Item>
+            <Item>75 20 20 15 20 20 20</Item>
+          </Item>
+          <Item>
+            <Item>25 6 7 6 0 6 1 12</Item>
+            <Item>75 20 20 15 25 20 20</Item>
+          </Item>
+          <Item>
+            <Item>29 8 10 6 0 8 2 12</Item>
+            <Item>85 25 20 20 30 25 20</Item>
+          </Item>
+          <Item>
+            <Item>29 8 10 6 0 8 2 12</Item>
+            <Item>95 30 30 30 35 30 25</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>66</Key>
+      <Value>
+        <Id>66</Id>
+        <Name>Berserker_Eph</Name>
+        <Class_Types>
+          <Item>Heavy</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>12</SkillId>
+          </Item>
+        </Skills>
+        <Description>wildey</Description>
+        <Caps>
+          <Item>80 30 27 26 26 21 25</Item>
+          <Item>80 30 27 26 26 21 25</Item>
+        </Caps>
+        <Max_WLvl>0 0 6 0 0 0 0 0 0 0 0 1 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>6</Mov>
+        <Mov_Cap>20</Mov_Cap>
+        <Movement_Type>Heavy</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>23 7 3 2 0 2 0 15</Item>
+            <Item>85 25 20 20 15 15 15</Item>
+          </Item>
+          <Item>
+            <Item>27 9 5 4 0 3 1 15</Item>
+            <Item>85 25 20 20 20 15 15</Item>
+          </Item>
+          <Item>
+            <Item>31 12 7 5 0 4 2 15</Item>
+            <Item>95 30 20 20 25 25 15</Item>
+          </Item>
+          <Item>
+            <Item>31 12 7 5 0 4 2 15</Item>
+            <Item>105 35 30 30 30 30 20</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>67</Key>
+      <Value>
+        <Id>67</Id>
+        <Name>Nomad Trooper</Name>
+        <Class_Types>
+          <Item>Cavalry</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>13</SkillId>
+          </Item>
+          <Item>
+            <Level>5</Level>
+            <SkillId>54</SkillId>
+          </Item>
+        </Skills>
+        <Description>pony c:</Description>
+        <Caps>
+          <Item>80 23 28 28 23 25 25</Item>
+          <Item>80 23 28 28 23 25 25</Item>
+        </Caps>
+        <Max_WLvl>6 0 0 6 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>7</Mov>
+        <Mov_Cap>25</Mov_Cap>
+        <Movement_Type>Mounted</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>15 2 6 7 0 3 3 9</Item>
+            <Item>65 15 20 20 25 20 20</Item>
+          </Item>
+          <Item>
+            <Item>17 4 9 9 0 3 5 9</Item>
+            <Item>65 15 20 20 30 20 20</Item>
+          </Item>
+          <Item>
+            <Item>23 5 10 10 0 5 7 9</Item>
+            <Item>65 20 25 30 35 20 20</Item>
+          </Item>
+          <Item>
+            <Item>23 5 10 10 0 5 7 9</Item>
+            <Item>75 25 30 35 50 25 25</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>68</Key>
+      <Value>
+        <Id>68</Id>
+        <Name>Monarch</Name>
+        <Class_Types>
+          <Item>Cavalry</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>13</SkillId>
+          </Item>
+        </Skills>
+        <Description>bready</Description>
+        <Caps>
+          <Item>80 30 34 34 30 30 25</Item>
+          <Item>80 25 27 27 25 23 25</Item>
+        </Caps>
+        <Max_WLvl>0 0 0 6 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>7</Mov>
+        <Mov_Cap>25</Mov_Cap>
+        <Movement_Type>Mounted</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>19 3 5 6 0 3 1 10</Item>
+            <Item>65 20 20 25 15 20 20</Item>
+          </Item>
+          <Item>
+            <Item>23 5 6 7 0 6 2 10</Item>
+            <Item>65 20 20 25 20 20 20</Item>
+          </Item>
+          <Item>
+            <Item>25 6 8 9 0 7 5 10</Item>
+            <Item>75 25 20 25 35 20 20</Item>
+          </Item>
+          <Item>
+            <Item>25 6 8 9 0 7 5 10</Item>
+            <Item>85 30 30 35 40 25 25</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>69</Key>
+      <Value>
+        <Id>69</Id>
+        <Name>Champion</Name>
+        <Class_Types>
+          <Item>Cavalry</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>13</SkillId>
+          </Item>
+          <Item>
+            <Level>5</Level>
+            <SkillId>57</SkillId>
+          </Item>
+        </Skills>
+        <Description>Heroic crusaders whose every
+action seems destined for legend.</Description>
+        <Caps>
+          <Item>80 28 22 25 27 23 25</Item>
+          <Item>80 28 22 25 27 23 25</Item>
+        </Caps>
+        <Max_WLvl>0 6 6 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>8</Mov>
+        <Mov_Cap>25</Mov_Cap>
+        <Movement_Type>Mounted</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>17 6 1 3 0 3 2 12</Item>
+            <Item>75 20 15 20 20 25 15</Item>
+          </Item>
+          <Item>
+            <Item>23 7 3 5 0 4 3 12</Item>
+            <Item>75 20 15 20 25 25 15</Item>
+          </Item>
+          <Item>
+            <Item>27 9 4 7 0 6 4 12</Item>
+            <Item>75 25 15 20 35 30 20</Item>
+          </Item>
+          <Item>
+            <Item>27 9 4 7 0 6 4 12</Item>
+            <Item>85 35 20 25 40 40 25</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>70</Key>
+      <Value>
+        <Id>70</Id>
+        <Name>Paladin</Name>
+        <Class_Types>
+          <Item>Cavalry</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>13</SkillId>
+          </Item>
+        </Skills>
+        <Description>horsey</Description>
+        <Caps>
+          <Item>80 24 25 26 26 24 25</Item>
+          <Item>80 24 25 26 26 24 25</Item>
+        </Caps>
+        <Max_WLvl>6 6 6 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>8</Mov>
+        <Mov_Cap>25</Mov_Cap>
+        <Movement_Type>Mounted</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>17 2 3 5 0 4 2 11</Item>
+            <Item>65 15 20 20 30 20 15</Item>
+          </Item>
+          <Item>
+            <Item>21 5 4 6 0 5 4 11</Item>
+            <Item>65 15 20 20 35 20 15</Item>
+          </Item>
+          <Item>
+            <Item>21 6 7 8 0 7 6 11</Item>
+            <Item>75 20 20 20 45 20 20</Item>
+          </Item>
+          <Item>
+            <Item>21 6 7 8 0 7 6 11</Item>
+            <Item>85 25 25 25 60 25 25</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>71</Key>
+      <Value>
+        <Id>71</Id>
+        <Name>Great Knight</Name>
+        <Class_Types>
+          <Item>Armor</Item>
+          <Item>Cavalry</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>13</SkillId>
+          </Item>
+        </Skills>
+        <Description>hooorsey</Description>
+        <Caps>
+          <Item>80 28 25 25 29 25 25</Item>
+          <Item>80 28 25 25 29 25 25</Item>
+        </Caps>
+        <Max_WLvl>6 6 6 6 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>6</Mov>
+        <Mov_Cap>20</Mov_Cap>
+        <Movement_Type>Armor</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>20 5 3 3 0 5 3 13</Item>
+            <Item>75 20 20 20 15 20 20</Item>
+          </Item>
+          <Item>
+            <Item>24 7 4 4 0 8 4 13</Item>
+            <Item>75 20 20 20 20 20 20</Item>
+          </Item>
+          <Item>
+            <Item>26 9 6 5 0 10 6 13</Item>
+            <Item>85 25 20 20 25 30 20</Item>
+          </Item>
+          <Item>
+            <Item>26 9 6 5 0 10 6 13</Item>
+            <Item>95 35 25 30 30 35 25</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>72</Key>
+      <Value>
+        <Id>72</Id>
+        <Name>Dreadnought</Name>
+        <Class_Types>
+          <Item>Armor</Item>
+        </Class_Types>
+        <Skills />
+        <Description>ciraxisy</Description>
+        <Caps>
+          <Item>100 30 28 24 30 26 25</Item>
+          <Item>80 28 25 24 30 28 25</Item>
+        </Caps>
+        <Max_WLvl>0 0 0 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>5</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Armor</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>20 5 3 2 0 8 3 14</Item>
+            <Item>75 25 15 10 20 25 20</Item>
+          </Item>
+          <Item>
+            <Item>24 7 5 3 0 9 5 14</Item>
+            <Item>75 25 15 10 25 25 20</Item>
+          </Item>
+          <Item>
+            <Item>28 8 6 5 0 11 7 14</Item>
+            <Item>85 25 15 15 35 30 20</Item>
+          </Item>
+          <Item>
+            <Item>28 8 6 5 0 11 7 14</Item>
+            <Item>95 35 20 20 40 35 30</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>73</Key>
+      <Value>
+        <Id>73</Id>
+        <Name>General</Name>
+        <Class_Types>
+          <Item>Armor</Item>
+        </Class_Types>
+        <Skills />
+        <Description>armoury (not that kind)</Description>
+        <Caps>
+          <Item>80 29 27 23 30 26 25</Item>
+          <Item>80 29 27 23 30 26 25</Item>
+        </Caps>
+        <Max_WLvl>6 6 0 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>5</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Armor</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>20 5 3 1 0 8 3 15</Item>
+            <Item>75 25 20 15 15 25 15</Item>
+          </Item>
+          <Item>
+            <Item>24 8 4 2 0 9 5 15</Item>
+            <Item>75 25 20 15 20 25 15</Item>
+          </Item>
+          <Item>
+            <Item>28 9 6 2 0 13 6 15</Item>
+            <Item>75 25 25 20 25 30 20</Item>
+          </Item>
+          <Item>
+            <Item>28 9 6 2 0 13 6 15</Item>
+            <Item>85 35 30 25 35 35 25</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>74</Key>
+      <Value>
+        <Id>74</Id>
+        <Name>Stahlfaust</Name>
+        <Class_Types>
+          <Item>Armor</Item>
+          <Item>Swordsman</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>11</SkillId>
+          </Item>
+          <Item>
+            <Level>1</Level>
+            <SkillId>14</SkillId>
+          </Item>
+          <Item>
+            <Level>5</Level>
+            <SkillId>61</SkillId>
+          </Item>
+        </Skills>
+        <Description>Dreaded kings of battle who can
+shrug off any attack and repay it.</Description>
+        <Caps>
+          <Item>80 28 26 25 29 27 25</Item>
+          <Item>80 28 26 25 29 27 25</Item>
+        </Caps>
+        <Max_WLvl>6 0 0 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>5</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Armor</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>18 5 4 2 0 7 5 13</Item>
+            <Item>75 20 15 15 25 25 15</Item>
+          </Item>
+          <Item>
+            <Item>20 7 6 4 0 8 7 13</Item>
+            <Item>75 20 15 15 30 25 15</Item>
+          </Item>
+          <Item>
+            <Item>26 9 7 5 0 11 7 13</Item>
+            <Item>75 20 20 15 35 30 25</Item>
+          </Item>
+          <Item>
+            <Item>26 9 7 5 0 11 7 13</Item>
+            <Item>85 30 25 20 40 40 30</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>76</Key>
+      <Value>
+        <Id>76</Id>
+        <Name>Falcoknight</Name>
+        <Class_Types>
+          <Item>Cavalry</Item>
+          <Item>Flier</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>32</SkillId>
+          </Item>
+        </Skills>
+        <Description>ponyey</Description>
+        <Caps>
+          <Item>80 23 25 28 23 26 20</Item>
+          <Item>80 23 25 28 23 26 20</Item>
+        </Caps>
+        <Max_WLvl>6 6 0 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>6</Mov>
+        <Mov_Cap>25</Mov_Cap>
+        <Movement_Type>Flying</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>16 2 5 5 0 2 5 8</Item>
+            <Item>55 20 20 20 30 15 20</Item>
+          </Item>
+          <Item>
+            <Item>20 3 7 8 0 3 6 8</Item>
+            <Item>55 20 20 20 35 15 20</Item>
+          </Item>
+          <Item>
+            <Item>22 5 8 10 0 5 8 8</Item>
+            <Item>55 20 20 25 45 20 25</Item>
+          </Item>
+          <Item>
+            <Item>22 5 8 10 0 5 8 8</Item>
+            <Item>65 25 35 35 50 20 30</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>77</Key>
+      <Value>
+        <Id>77</Id>
+        <Name>Seraph Knight</Name>
+        <Class_Types>
+          <Item>Cavalry</Item>
+          <Item>Flier</Item>
+          <Item>Mage</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>32</SkillId>
+          </Item>
+          <Item>
+            <Level>5</Level>
+            <SkillId>63</SkillId>
+          </Item>
+        </Skills>
+        <Description>Riding the winds to both harm
+and aid, these women are invaluable.</Description>
+        <Caps>
+          <Item>80 20 26 27 22 27 20</Item>
+          <Item>80 20 26 27 22 27 20</Item>
+        </Caps>
+        <Max_WLvl>0 6 0 0 0 0 0 0 0 6 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>6</Mov>
+        <Mov_Cap>25</Mov_Cap>
+        <Movement_Type>Flying</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>14 2 4 4 0 2 6 7</Item>
+            <Item>55 15 20 20 35 15 20</Item>
+          </Item>
+          <Item>
+            <Item>16 3 6 6 0 4 8 7</Item>
+            <Item>55 15 20 20 40 15 20</Item>
+          </Item>
+          <Item>
+            <Item>20 4 7 8 0 6 10 7</Item>
+            <Item>55 15 25 20 50 15 30</Item>
+          </Item>
+          <Item>
+            <Item>20 4 7 8 0 6 10 7</Item>
+            <Item>65 20 30 30 60 20 35</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>78</Key>
+      <Value>
+        <Id>78</Id>
+        <Name>Bishop</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+          <Item>Mage</Item>
+        </Class_Types>
+        <Skills />
+        <Description>religiony</Description>
+        <Caps>
+          <Item>80 23 29 26 21 28 20</Item>
+          <Item>80 23 29 26 21 28 20</Item>
+        </Caps>
+        <Max_WLvl>0 0 0 0 0 0 0 6 0 6 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>6</Mov>
+        <Mov_Cap>20</Mov_Cap>
+        <Movement_Type>Light</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>16 3 7 4 0 1 6 8</Item>
+            <Item>65 15 20 20 30 15 20</Item>
+          </Item>
+          <Item>
+            <Item>18 4 9 6 0 3 8 8</Item>
+            <Item>65 15 20 20 35 15 20</Item>
+          </Item>
+          <Item>
+            <Item>22 6 10 8 0 4 10 8</Item>
+            <Item>65 20 25 20 45 15 25</Item>
+          </Item>
+          <Item>
+            <Item>22 6 10 8 0 4 10 8</Item>
+            <Item>75 25 30 30 55 20 30</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>79</Key>
+      <Value>
+        <Id>79</Id>
+        <Name>Sage</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+          <Item>Mage</Item>
+        </Class_Types>
+        <Skills />
+        <Description>wisey</Description>
+        <Caps>
+          <Item>80 26 25 28 23 25 20</Item>
+          <Item>80 26 25 28 23 25 20</Item>
+        </Caps>
+        <Max_WLvl>6 0 0 0 6 6 6 6 6 6 0 1 0</Max_WLvl>
+        <Promotion>
+          <Item>
+            <Key>95</Key>
+            <Value>
+              <Item>7 3 1 0 2 0 3 0</Item>
+              <Item>0 0 0 0 0 0 0 0 0 0 0 0 0</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>79</Key>
+            <Value>
+              <Item>7 3 1 0 2 0 3 0</Item>
+              <Item>0 0 0 0 0 0 0 0 0 0 0 0 0</Item>
+            </Value>
+          </Item>
+        </Promotion>
+        <Tier>2</Tier>
+        <Mov>6</Mov>
+        <Mov_Cap>20</Mov_Cap>
+        <Movement_Type>Light</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>18 5 3 6 0 1 4 9</Item>
+            <Item>65 25 20 20 20 15 20</Item>
+          </Item>
+          <Item>
+            <Item>22 7 5 8 0 2 5 9</Item>
+            <Item>65 25 20 20 25 15 20</Item>
+          </Item>
+          <Item>
+            <Item>26 8 7 9 0 4 7 9</Item>
+            <Item>65 25 25 25 35 20 20</Item>
+          </Item>
+          <Item>
+            <Item>26 8 7 9 0 4 7 9</Item>
+            <Item>75 35 30 30 40 25 30</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>80</Key>
+      <Value>
+        <Id>80</Id>
+        <Name>Mage Knight</Name>
+        <Class_Types>
+          <Item>Cavalry</Item>
+          <Item>Mage</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>13</SkillId>
+          </Item>
+        </Skills>
+        <Description>un-fe5-ey</Description>
+        <Caps>
+          <Item>80 25 24 25 26 25 20</Item>
+          <Item>80 25 24 25 26 25 20</Item>
+        </Caps>
+        <Max_WLvl>0 0 0 0 6 6 6 0 0 6 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>7</Mov>
+        <Mov_Cap>25</Mov_Cap>
+        <Movement_Type>Mounted</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>14 4 2 4 0 5 5 8</Item>
+            <Item>65 20 20 20 20 20 20</Item>
+          </Item>
+          <Item>
+            <Item>18 6 4 6 0 6 6 8</Item>
+            <Item>65 20 20 20 25 20 20</Item>
+          </Item>
+          <Item>
+            <Item>24 7 5 7 0 8 8 8</Item>
+            <Item>65 20 20 25 40 25 20</Item>
+          </Item>
+          <Item>
+            <Item>24 7 5 7 0 8 8 8</Item>
+            <Item>75 30 25 30 45 30 30</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>81</Key>
+      <Value>
+        <Id>81</Id>
+        <Name>Valkyrie</Name>
+        <Class_Types>
+          <Item>Cavalry</Item>
+          <Item>Mage</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>13</SkillId>
+          </Item>
+        </Skills>
+        <Description>norsey</Description>
+        <Caps>
+          <Item>80 22 26 25 22 30 20</Item>
+          <Item>80 22 26 25 22 30 20</Item>
+        </Caps>
+        <Max_WLvl>0 0 0 0 0 0 0 6 0 6 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>7</Mov>
+        <Mov_Cap>25</Mov_Cap>
+        <Movement_Type>Mounted</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>14 2 5 4 0 2 9 6</Item>
+            <Item>45 15 20 20 40 15 20</Item>
+          </Item>
+          <Item>
+            <Item>18 3 7 6 0 3 11 6</Item>
+            <Item>45 15 20 20 45 15 20</Item>
+          </Item>
+          <Item>
+            <Item>20 5 9 7 0 5 13 6</Item>
+            <Item>55 15 25 20 55 15 25</Item>
+          </Item>
+          <Item>
+            <Item>20 5 9 7 0 5 13 6</Item>
+            <Item>65 20 30 25 65 20 35</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>82</Key>
+      <Value>
+        <Id>82</Id>
+        <Name>Sage_M</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+          <Item>Mage</Item>
+        </Class_Types>
+        <Skills />
+        <Description>wisey</Description>
+        <Caps>
+          <Item>80 26 25 28 23 25 20</Item>
+          <Item>80 26 25 28 23 25 20</Item>
+        </Caps>
+        <Max_WLvl>6 0 0 0 6 6 6 6 6 6 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>6</Mov>
+        <Mov_Cap>20</Mov_Cap>
+        <Movement_Type>Light</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>18 5 3 6 0 1 4 9</Item>
+            <Item>65 25 20 20 20 15 20</Item>
+          </Item>
+          <Item>
+            <Item>22 7 5 8 0 2 5 9</Item>
+            <Item>65 25 20 20 25 15 20</Item>
+          </Item>
+          <Item>
+            <Item>26 8 7 9 0 4 7 9</Item>
+            <Item>65 25 25 25 35 20 20</Item>
+          </Item>
+          <Item>
+            <Item>26 8 7 9 0 4 7 9</Item>
+            <Item>75 35 30 30 40 25 30</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>83</Key>
+      <Value>
+        <Id>83</Id>
+        <Name>Phantom</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+          <Item>Mage</Item>
+        </Class_Types>
+        <Skills />
+        <Description>really really cool description
+that Marc will read</Description>
+        <Caps>
+          <Item>80 29 27 24 0 0 20</Item>
+          <Item>80 23 27 24 23 30 20</Item>
+        </Caps>
+        <Max_WLvl>0 0 0 0 6 6 6 6 0 6 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>6</Mov>
+        <Mov_Cap>20</Mov_Cap>
+        <Movement_Type>Light</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>18 2 5 2 0 3 8 8</Item>
+            <Item>55 20 20 20 30 15 20</Item>
+          </Item>
+          <Item>
+            <Item>22 3 7 3 0 4 11 8</Item>
+            <Item>55 20 20 20 35 15 20</Item>
+          </Item>
+          <Item>
+            <Item>26 5 8 5 0 5 13 8</Item>
+            <Item>65 20 25 20 40 20 25</Item>
+          </Item>
+          <Item>
+            <Item>26 5 8 5 0 5 13 8</Item>
+            <Item>75 25 30 30 45 25 35</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>84</Key>
+      <Value>
+        <Id>84</Id>
+        <Name>Druid</Name>
+        <Class_Types>
+          <Item>Heavy</Item>
+          <Item>Mage</Item>
+        </Class_Types>
+        <Skills />
+        <Description>darkey</Description>
+        <Caps>
+          <Item>80 30 23 23 26 28 25</Item>
+          <Item>80 30 23 23 26 28 25</Item>
+        </Caps>
+        <Max_WLvl>0 0 0 0 0 0 0 0 6 6 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>5</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Heavy</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>19 7 1 1 0 4 5 13</Item>
+            <Item>75 25 20 15 10 20 25</Item>
+          </Item>
+          <Item>
+            <Item>23 10 2 2 0 5 7 13</Item>
+            <Item>75 25 20 15 15 20 25</Item>
+          </Item>
+          <Item>
+            <Item>27 12 4 4 0 6 8 13</Item>
+            <Item>75 30 20 20 20 25 30</Item>
+          </Item>
+          <Item>
+            <Item>27 12 4 4 0 6 8 13</Item>
+            <Item>85 35 30 25 30 30 35</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>85</Key>
+      <Value>
+        <Id>85</Id>
+        <Name>Druid_Ash</Name>
+        <Class_Types>
+          <Item>Heavy</Item>
+          <Item>Mage</Item>
+        </Class_Types>
+        <Skills />
+        <Description>darkeyer</Description>
+        <Caps>
+          <Item>80 30 23 23 26 28 25</Item>
+          <Item>80 30 23 23 26 28 25</Item>
+        </Caps>
+        <Max_WLvl>0 0 0 0 0 0 0 0 6 6 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>5</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Heavy</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>19 7 1 1 0 4 5 13</Item>
+            <Item>75 25 20 15 10 20 25</Item>
+          </Item>
+          <Item>
+            <Item>23 10 2 2 0 5 7 13</Item>
+            <Item>75 25 20 15 15 20 25</Item>
+          </Item>
+          <Item>
+            <Item>27 12 4 4 0 6 8 13</Item>
+            <Item>75 30 20 20 20 25 30</Item>
+          </Item>
+          <Item>
+            <Item>27 12 4 4 0 6 8 13</Item>
+            <Item>85 35 30 25 30 30 35</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>86</Key>
+      <Value>
+        <Id>86</Id>
+        <Name>Chinchilla</Name>
+        <Class_Types>
+          <Item>Flier</Item>
+          <Item>Mage</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>146</SkillId>
+          </Item>
+        </Skills>
+        <Description>Exists.</Description>
+        <Caps>
+          <Item>999 50 50 50 50 50 25</Item>
+          <Item>999 50 50 50 50 50 50</Item>
+        </Caps>
+        <Max_WLvl>0 0 0 0 6 6 6 6 6 6 6 6 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>30</Mov>
+        <Mov_Cap>30</Mov_Cap>
+        <Movement_Type>Flying</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>21 5 2 2 0 2 7 12</Item>
+            <Item>75 25 20 20 15 15 20</Item>
+          </Item>
+          <Item>
+            <Item>25 6 3 4 0 3 10 12</Item>
+            <Item>75 25 20 20 20 15 20</Item>
+          </Item>
+          <Item>
+            <Item>29 8 4 6 0 5 11 12</Item>
+            <Item>85 30 20 20 25 15 30</Item>
+          </Item>
+          <Item>
+            <Item>29 8 4 6 0 5 11 12</Item>
+            <Item>95 35 25 25 30 25 40</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>87</Key>
+      <Value>
+        <Id>87</Id>
+        <Name>Asistan_2</Name>
+        <Class_Types>
+          <Item>Cavalry</Item>
+          <Item>Mage</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>13</SkillId>
+          </Item>
+          <Item>
+            <Level>2</Level>
+            <SkillId>54</SkillId>
+          </Item>
+        </Skills>
+        <Description>Now with extra legs!</Description>
+        <Caps>
+          <Item>80 26 26 26 23 26 20</Item>
+          <Item>80 26 26 26 23 26 20</Item>
+        </Caps>
+        <Max_WLvl>0 0 0 0 0 0 0 6 6 6 0 0 0</Max_WLvl>
+        <Promotion>
+          <Item>
+            <Key>89</Key>
+            <Value>
+              <Item>0 0 0 0 0 0 0 0</Item>
+              <Item>0 0 0 0 0 0 0 0 0 0 0 0 0</Item>
+            </Value>
+          </Item>
+        </Promotion>
+        <Tier>2</Tier>
+        <Mov>8</Mov>
+        <Mov_Cap>20</Mov_Cap>
+        <Movement_Type>Mounted</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>18 4 4 4 0 3 4 9</Item>
+            <Item>65 20 20 20 20 20 20</Item>
+          </Item>
+          <Item>
+            <Item>20 6 6 6 0 4 6 9</Item>
+            <Item>65 20 20 20 25 20 20</Item>
+          </Item>
+          <Item>
+            <Item>24 8 8 8 0 4 8 9</Item>
+            <Item>75 25 20 20 35 20 25</Item>
+          </Item>
+          <Item>
+            <Item>24 8 8 8 0 4 8 9</Item>
+            <Item>85 30 30 30 40 25 30</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>88</Key>
+      <Value>
+        <Id>88</Id>
+        <Name>Bunny</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+          <Item>Flier</Item>
+          <Item>Mage</Item>
+        </Class_Types>
+        <Skills />
+        <Description>bunny</Description>
+        <Caps>
+          <Item>80 27 27 24 22 27 25</Item>
+          <Item>80 27 27 24 22 27 25</Item>
+        </Caps>
+        <Max_WLvl>0 0 0 0 0 0 0 6 0 6 0 1 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>30</Mov>
+        <Mov_Cap>30</Mov_Cap>
+        <Movement_Type>Flying</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>17 5 5 2 0 3 6 11</Item>
+            <Item>65 20 15 15 35 15 20</Item>
+          </Item>
+          <Item>
+            <Item>21 7 6 3 0 5 8 11</Item>
+            <Item>65 20 15 15 40 15 20</Item>
+          </Item>
+          <Item>
+            <Item>25 8 8 5 0 7 9 11</Item>
+            <Item>65 20 20 20 50 20 20</Item>
+          </Item>
+          <Item>
+            <Item>25 8 8 5 0 7 9 11</Item>
+            <Item>75 30 25 25 55 25 30</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>89</Key>
+      <Value>
+        <Id>89</Id>
+        <Name>Asistan</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+          <Item>Mage</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>165</SkillId>
+          </Item>
+        </Skills>
+        <Description>A-sis-tan! Get it? Probably not.</Description>
+        <Caps>
+          <Item>80 26 26 26 23 26 20</Item>
+          <Item>80 26 26 26 23 26 20</Item>
+        </Caps>
+        <Max_WLvl>0 0 0 0 0 0 0 6 6 6 0 0 0</Max_WLvl>
+        <Promotion>
+          <Item>
+            <Key>87</Key>
+            <Value>
+              <Item>0 0 0 0 0 0 0 0</Item>
+              <Item>0 0 0 0 0 0 0 0 0 0 0 0 0</Item>
+            </Value>
+          </Item>
+        </Promotion>
+        <Tier>2</Tier>
+        <Mov>6</Mov>
+        <Mov_Cap>20</Mov_Cap>
+        <Movement_Type>Light</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>18 4 4 4 0 3 4 9</Item>
+            <Item>65 20 20 20 20 20 20</Item>
+          </Item>
+          <Item>
+            <Item>20 6 6 6 0 4 6 9</Item>
+            <Item>65 20 20 20 25 20 20</Item>
+          </Item>
+          <Item>
+            <Item>24 8 8 8 0 4 8 9</Item>
+            <Item>75 25 20 20 35 20 25</Item>
+          </Item>
+          <Item>
+            <Item>24 8 8 8 0 4 8 9</Item>
+            <Item>85 30 30 30 40 25 30</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>90</Key>
+      <Value>
+        <Id>90</Id>
+        <Name>Elder</Name>
+        <Class_Types>
+          <Item>Cavalry</Item>
+          <Item>Mage</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>11</SkillId>
+          </Item>
+          <Item>
+            <Level>1</Level>
+            <SkillId>13</SkillId>
+          </Item>
+          <Item>
+            <Level>5</Level>
+            <SkillId>74</SkillId>
+          </Item>
+        </Skills>
+        <Description>A sorcerous genius. Restless and
+unfocused, but genius nonetheless.</Description>
+        <Caps>
+          <Item>80 28 21 26 23 27 20</Item>
+          <Item>80 28 21 26 23 27 20</Item>
+        </Caps>
+        <Max_WLvl>0 0 0 0 0 0 0 0 6 0 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>7</Mov>
+        <Mov_Cap>25</Mov_Cap>
+        <Movement_Type>Mounted</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>16 5 1 4 0 2 5 10</Item>
+            <Item>55 25 15 20 25 20 20</Item>
+          </Item>
+          <Item>
+            <Item>20 8 2 5 0 3 7 10</Item>
+            <Item>55 25 15 20 30 20 20</Item>
+          </Item>
+          <Item>
+            <Item>24 9 3 7 0 5 9 10</Item>
+            <Item>65 30 15 25 35 20 25</Item>
+          </Item>
+          <Item>
+            <Item>24 9 3 7 0 5 9 10</Item>
+            <Item>75 35 20 30 45 25 35</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>91</Key>
+      <Value>
+        <Id>91</Id>
+        <Name>Swordmaster_RS</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+          <Item>Swordsman</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>12</SkillId>
+          </Item>
+        </Skills>
+        <Description>min-maxy</Description>
+        <Caps>
+          <Item>80 24 29 30 22 25 20</Item>
+          <Item>80 24 29 30 22 25 20</Item>
+        </Caps>
+        <Max_WLvl>6 0 0 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>6</Mov>
+        <Mov_Cap>20</Mov_Cap>
+        <Movement_Type>Light</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>16 3 7 9 0 2 3 8</Item>
+            <Item>55 15 25 25 30 15 15</Item>
+          </Item>
+          <Item>
+            <Item>18 4 9 12 0 3 5 8</Item>
+            <Item>55 15 25 25 35 15 15</Item>
+          </Item>
+          <Item>
+            <Item>22 6 11 13 0 4 7 8</Item>
+            <Item>55 15 30 30 45 15 20</Item>
+          </Item>
+          <Item>
+            <Item>22 6 11 13 0 4 7 8</Item>
+            <Item>65 20 35 40 50 25 25</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>92</Key>
+      <Value>
+        <Id>92</Id>
+        <Name>Thief_V</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+        </Class_Types>
+        <Skills />
+        <Description>vandy</Description>
+        <Caps Null="true" />
+        <Max_WLvl>0 0 0 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>1</Tier>
+        <Mov>5</Mov>
+        <Mov_Cap>20</Mov_Cap>
+        <Movement_Type>Light</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>12 1 4 4 0 0 1 6</Item>
+            <Item>75 20 30 35 45 20 15</Item>
+          </Item>
+          <Item>
+            <Item>16 1 7 7 0 1 2 6</Item>
+            <Item>75 20 30 35 50 20 15</Item>
+          </Item>
+          <Item>
+            <Item>20 2 9 9 0 2 4 6</Item>
+            <Item>75 20 30 35 55 20 15</Item>
+          </Item>
+          <Item>
+            <Item>20 2 9 9 0 2 4 6</Item>
+            <Item>85 20 35 35 60 20 20</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>93</Key>
+      <Value>
+        <Id>93</Id>
+        <Name>World Breaker</Name>
+        <Class_Types />
+        <Skills />
+        <Description>Consider running the
+other way to live.</Description>
+        <Caps>
+          <Item>80 30 30 30 30 30 25</Item>
+          <Item>80 30 30 30 30 30 25</Item>
+        </Caps>
+        <Max_WLvl>6 6 0 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>0</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Armor</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>20 5 3 1 0 8 3 15</Item>
+            <Item>75 25 20 15 15 25 15</Item>
+          </Item>
+          <Item>
+            <Item>24 8 4 2 0 9 5 15</Item>
+            <Item>75 25 20 15 20 25 15</Item>
+          </Item>
+          <Item>
+            <Item>28 9 6 2 0 13 6 15</Item>
+            <Item>75 25 25 20 25 30 20</Item>
+          </Item>
+          <Item>
+            <Item>28 9 6 2 0 13 6 15</Item>
+            <Item>85 35 30 25 35 35 25</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>95</Key>
+      <Value>
+        <Id>95</Id>
+        <Name>Fallen Angel</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+          <Item>Flier</Item>
+          <Item>Mage</Item>
+        </Class_Types>
+        <Skills />
+        <Description>this this this this this this this this this this this this this this this this this this this this this this this this this this this this this this</Description>
+        <Caps>
+          <Item>80 26 25 28 23 25 20</Item>
+          <Item>80 26 25 28 23 25 20</Item>
+        </Caps>
+        <Max_WLvl>0 0 0 0 6 6 6 6 6 0 0 0 0</Max_WLvl>
+        <Promotion>
+          <Item>
+            <Key>79</Key>
+            <Value>
+              <Item>7 3 1 0 2 0 3 0</Item>
+              <Item>0 0 0 0 0 0 0 0 0 0 0 0 0</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>95</Key>
+            <Value>
+              <Item>7 3 1 0 2 0 3 0</Item>
+              <Item>0 0 0 0 0 0 0 0 0 0 0 0 0</Item>
+            </Value>
+          </Item>
+        </Promotion>
+        <Tier>2</Tier>
+        <Mov>6</Mov>
+        <Mov_Cap>20</Mov_Cap>
+        <Movement_Type>Flying</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>18 5 3 6 0 1 4 9</Item>
+            <Item>65 25 20 20 20 15 20</Item>
+          </Item>
+          <Item>
+            <Item>22 7 5 8 0 2 5 9</Item>
+            <Item>65 25 20 20 25 15 20</Item>
+          </Item>
+          <Item>
+            <Item>26 8 7 9 0 4 7 9</Item>
+            <Item>65 25 25 25 35 20 20</Item>
+          </Item>
+          <Item>
+            <Item>26 8 7 9 0 4 7 9</Item>
+            <Item>75 35 30 30 40 25 30</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>96</Key>
+      <Value>
+        <Id>96</Id>
+        <Name>Lord_U</Name>
+        <Class_Types>
+          <Item>Heavy</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>1</SkillId>
+          </Item>
+        </Skills>
+        <Description>A noble attached to a ruling
+house. Has great potential.</Description>
+        <Caps Null="true" />
+        <Max_WLvl>5 0 0 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>1</Tier>
+        <Mov>5</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Heavy</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>24 6 5 5 4 6 2 11</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>97</Key>
+      <Value>
+        <Id>97</Id>
+        <Name>Great Lord</Name>
+        <Class_Types>
+          <Item>Armor</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>1</SkillId>
+          </Item>
+          <Item>
+            <Level>5</Level>
+            <SkillId>2</SkillId>
+          </Item>
+        </Skills>
+        <Description></Description>
+        <Caps>
+          <Item>80 28 27 25 29 26 25</Item>
+          <Item>80 28 27 25 29 26 25</Item>
+        </Caps>
+        <Max_WLvl>6 6 6 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>5</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Armor</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>98</Key>
+      <Value>
+        <Id>98</Id>
+        <Name>Lord_T</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>3</SkillId>
+          </Item>
+        </Skills>
+        <Description>A noble attached to a ruling
+house. Has great potential.</Description>
+        <Caps>
+          <Item>80 20 20 20 20 20 20</Item>
+          <Item>80 20 20 20 20 20 20</Item>
+        </Caps>
+        <Max_WLvl>0 0 5 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>1</Tier>
+        <Mov>5</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Light</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>99</Key>
+      <Value>
+        <Id>99</Id>
+        <Name>Savage Lord</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>3</SkillId>
+          </Item>
+          <Item>
+            <Level>5</Level>
+            <SkillId>4</SkillId>
+          </Item>
+        </Skills>
+        <Description></Description>
+        <Caps>
+          <Item>80 26 30 28 25 24 20</Item>
+          <Item>80 26 30 28 25 24 20</Item>
+        </Caps>
+        <Max_WLvl>0 0 6 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>6</Mov>
+        <Mov_Cap>20</Mov_Cap>
+        <Movement_Type>Light</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>100</Key>
+      <Value>
+        <Id>100</Id>
+        <Name>Lord_E</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>5</SkillId>
+          </Item>
+        </Skills>
+        <Description>A noble attached to a ruling
+house. Has great potential.</Description>
+        <Caps>
+          <Item>80 20 20 20 20 20 20</Item>
+          <Item>80 20 20 20 20 20 20</Item>
+        </Caps>
+        <Max_WLvl>0 5 0 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>1</Tier>
+        <Mov>5</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Light</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>101</Key>
+      <Value>
+        <Id>101</Id>
+        <Name>Prodigal Lord</Name>
+        <Class_Types>
+          <Item>Heavy</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>5</SkillId>
+          </Item>
+          <Item>
+            <Level>5</Level>
+            <SkillId>6</SkillId>
+          </Item>
+        </Skills>
+        <Description></Description>
+        <Caps>
+          <Item>80 27 27 26 27 23 25</Item>
+          <Item>80 27 27 26 27 23 25</Item>
+        </Caps>
+        <Max_WLvl>0 6 0 6 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>6</Mov>
+        <Mov_Cap>20</Mov_Cap>
+        <Movement_Type>Heavy</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>106</Key>
+      <Value>
+        <Id>106</Id>
+        <Name>Transporter_Tent</Name>
+        <Class_Types />
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>76</SkillId>
+          </Item>
+        </Skills>
+        <Description>A low-ranking officer charged
+with managing the armory.</Description>
+        <Caps>
+          <Item>80 10 10 20 20 20 25</Item>
+          <Item>80 10 10 20 20 20 25</Item>
+        </Caps>
+        <Max_WLvl>0 0 0 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion>
+          <Item>
+            <Key>107</Key>
+            <Value>
+              <Item>0 0 0 0 0 0 0 0</Item>
+              <Item>0 0 0 0 0 0 0 0 0 0 0 0 0</Item>
+            </Value>
+          </Item>
+        </Promotion>
+        <Tier>1</Tier>
+        <Mov>0</Mov>
+        <Mov_Cap>0</Mov_Cap>
+        <Movement_Type>Light</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>20 0 0 0 0 0 0 25</Item>
+            <Item>95 0 30 35 45 25 20</Item>
+          </Item>
+          <Item>
+            <Item>22 0 1 2 4 2 0 25</Item>
+            <Item>95 0 25 30 40 20 20</Item>
+          </Item>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>107</Key>
+      <Value>
+        <Id>107</Id>
+        <Name>Transporter_Wagon</Name>
+        <Class_Types />
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>76</SkillId>
+          </Item>
+          <Item>
+            <Level>1</Level>
+            <SkillId>77</SkillId>
+          </Item>
+        </Skills>
+        <Description>A mobile supply base, outfitted
+with useful tools and medicines.</Description>
+        <Caps>
+          <Item>80 10 10 30 26 26 25</Item>
+          <Item>80 10 10 30 26 26 25</Item>
+        </Caps>
+        <Max_WLvl>0 0 0 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>5</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Mounted</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>108</Key>
+      <Value>
+        <Id>108</Id>
+        <Name>Dancer</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>75</SkillId>
+          </Item>
+        </Skills>
+        <Description>tiny</Description>
+        <Caps>
+          <Item>80 20 24 30 22 26 20</Item>
+          <Item>80 20 24 30 22 26 20</Item>
+        </Caps>
+        <Max_WLvl>0 0 0 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>4</Mov>
+        <Mov_Cap>20</Mov_Cap>
+        <Movement_Type>Light</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>109</Key>
+      <Value>
+        <Id>109</Id>
+        <Name>Manakete</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+          <Item>Dragon</Item>
+        </Class_Types>
+        <Skills />
+        <Description></Description>
+        <Caps>
+          <Item>80 20 20 20 20 20 20</Item>
+          <Item>80 20 20 20 20 20 20</Item>
+        </Caps>
+        <Max_WLvl>0 0 0 0 0 0 0 0 0 0 1 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>5</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Light</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>113</Key>
+      <Value>
+        <Id>113</Id>
+        <Name>Minstrel</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>75</SkillId>
+          </Item>
+        </Skills>
+        <Description>Orator, crier, storyteller, and
+harpist. Boosts ally strength.</Description>
+        <Caps>
+          <Item>80 10 10 28 24 28 20</Item>
+          <Item>80 10 10 28 24 28 20</Item>
+        </Caps>
+        <Max_WLvl>0 0 0 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>5</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Light</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>121</Key>
+      <Value>
+        <Id>121</Id>
+        <Name>Aggregate</Name>
+        <Class_Types>
+          <Item>Heavy</Item>
+          <Item>Mage</Item>
+        </Class_Types>
+        <Skills />
+        <Description>-sigh-</Description>
+        <Caps Null="true" />
+        <Max_WLvl>0 0 0 0 0 0 0 6 0 0 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>5</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Heavy</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>17 5 5 2 0 3 6 11</Item>
+            <Item>65 20 15 15 35 15 20</Item>
+          </Item>
+          <Item>
+            <Item>21 7 6 3 0 5 8 11</Item>
+            <Item>65 20 15 15 40 15 20</Item>
+          </Item>
+          <Item>
+            <Item>25 8 8 5 0 7 9 11</Item>
+            <Item>65 20 20 20 50 20 20</Item>
+          </Item>
+          <Item>
+            <Item>25 8 8 5 0 7 9 11</Item>
+            <Item>75 30 25 25 55 25 30</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>122</Key>
+      <Value>
+        <Id>122</Id>
+        <Name>Warper</Name>
+        <Class_Types />
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>169</SkillId>
+          </Item>
+        </Skills>
+        <Description></Description>
+        <Caps>
+          <Item>80 20 20 20 20 20 20</Item>
+          <Item>80 20 20 20 20 20 20</Item>
+        </Caps>
+        <Max_WLvl>0 0 0 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>0</Tier>
+        <Mov>5</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Light</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>123</Key>
+      <Value>
+        <Id>123</Id>
+        <Name>Necrodragon</Name>
+        <Class_Types>
+          <Item>Flier</Item>
+          <Item>Dragon</Item>
+          <Item>Monster</Item>
+        </Class_Types>
+        <Skills />
+        <Description>rawr</Description>
+        <Caps>
+          <Item>120 30 30 30 30 30 25</Item>
+          <Item>80 30 30 30 30 30 25</Item>
+        </Caps>
+        <Max_WLvl>0 0 0 0 0 0 0 0 0 0 6 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>8</Mov>
+        <Mov_Cap>20</Mov_Cap>
+        <Movement_Type>Heavy</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>45 14 3 2 0 4 1 25</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>45 14 3 2 0 4 1 25</Item>
+            <Item>75 30 20 25 0 20 25</Item>
+          </Item>
+          <Item>
+            <Item>45 14 3 2 0 4 1 25</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>45 14 3 2 0 4 1 25</Item>
+            <Item>200 45 30 35 0 25 40</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>124</Key>
+      <Value>
+        <Id>124</Id>
+        <Name>Wight</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+          <Item>Monster</Item>
+        </Class_Types>
+        <Skills />
+        <Description>skellie</Description>
+        <Caps>
+          <Item>80 24 28 26 22 23 25</Item>
+          <Item>80 24 28 26 22 23 25</Item>
+        </Caps>
+        <Max_WLvl>6 6 0 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>6</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Light</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>30 10 5 6 0 8 3 9</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>30 10 5 6 0 8 3 9</Item>
+            <Item>65 25 25 20 10 15 22</Item>
+          </Item>
+          <Item>
+            <Item>30 10 5 6 0 8 3 9</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>30 10 5 6 0 8 3 9</Item>
+            <Item>150 50 50 50 0 50 0</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>125</Key>
+      <Value>
+        <Id>125</Id>
+        <Name>Wight_Bow</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+          <Item>Monster</Item>
+        </Class_Types>
+        <Skills />
+        <Description>skelllyy</Description>
+        <Caps>
+          <Item>80 25 30 26 22 23 25</Item>
+          <Item>80 25 30 26 22 23 25</Item>
+        </Caps>
+        <Max_WLvl>0 0 0 6 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>6</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Light</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>30 10 6 5 0 8 6 8</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>30 10 6 5 0 8 6 8</Item>
+            <Item>65 25 25 20 10 15 20</Item>
+          </Item>
+          <Item>
+            <Item>30 10 6 5 0 8 6 8</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>30 10 6 5 0 8 6 8</Item>
+            <Item>150 50 50 50 0 50 0</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>126</Key>
+      <Value>
+        <Id>126</Id>
+        <Name>Deathgoyle</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+          <Item>Flier</Item>
+          <Item>Monster</Item>
+        </Class_Types>
+        <Skills>
+          <Item>
+            <Level>1</Level>
+            <SkillId>32</SkillId>
+          </Item>
+        </Skills>
+        <Description>woosh</Description>
+        <Caps>
+          <Item>80 27 25 23 28 22 25</Item>
+          <Item>80 27 25 23 28 22 25</Item>
+        </Caps>
+        <Max_WLvl>0 6 0 0 0 0 0 0 0 0 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>5</Mov>
+        <Mov_Cap>20</Mov_Cap>
+        <Movement_Type>Flying</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>32 8 5 9 0 9 7 11</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>32 8 5 9 0 9 7 11</Item>
+            <Item>75 40 30 25 10 20 17</Item>
+          </Item>
+          <Item>
+            <Item>32 8 5 9 0 9 7 11</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>32 8 5 9 0 9 7 11</Item>
+            <Item>150 50 50 50 0 50 0</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>127</Key>
+      <Value>
+        <Id>127</Id>
+        <Name>Arch Mogall</Name>
+        <Class_Types>
+          <Item>Mage</Item>
+          <Item>Monster</Item>
+        </Class_Types>
+        <Skills />
+        <Description>i c u</Description>
+        <Caps>
+          <Item>80 29 26 26 20 29 20</Item>
+          <Item>80 29 26 26 20 29 20</Item>
+        </Caps>
+        <Max_WLvl>0 0 0 0 0 0 0 0 6 0 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>6</Mov>
+        <Mov_Cap>20</Mov_Cap>
+        <Movement_Type>Light</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>17 6 3 3 3 3 7 5</Item>
+            <Item>45 55 30 25 20 10 28</Item>
+          </Item>
+          <Item>
+            <Item>17 6 3 3 3 3 7 5</Item>
+            <Item>45 55 30 25 20 10 28</Item>
+          </Item>
+          <Item>
+            <Item>17 6 3 3 3 3 7 5</Item>
+            <Item>45 55 30 25 20 10 28</Item>
+          </Item>
+          <Item>
+            <Item>17 6 3 3 3 3 7 5</Item>
+            <Item>150 50 50 50 0 50 30</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>128</Key>
+      <Value>
+        <Id>128</Id>
+        <Name>Gorgon</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+          <Item>Mage</Item>
+          <Item>Monster</Item>
+        </Class_Types>
+        <Skills />
+        <Description></Description>
+        <Caps>
+          <Item>80 29 26 26 21 28 25</Item>
+          <Item>80 29 26 26 21 28 25</Item>
+        </Caps>
+        <Max_WLvl>0 0 0 0 0 0 0 0 6 0 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>6</Mov>
+        <Mov_Cap>20</Mov_Cap>
+        <Movement_Type>Light</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>19 8 3 4 0 5 7 11</Item>
+            <Item>45 60 30 25 30 10 40</Item>
+          </Item>
+          <Item>
+            <Item>19 8 3 4 0 5 7 11</Item>
+            <Item>45 60 30 25 30 10 40</Item>
+          </Item>
+          <Item>
+            <Item>19 8 3 4 0 5 7 11</Item>
+            <Item>45 60 30 25 30 10 40</Item>
+          </Item>
+          <Item>
+            <Item>19 8 3 4 0 5 7 11</Item>
+            <Item>195 50 50 50 50 50 50</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>130</Key>
+      <Value>
+        <Id>130</Id>
+        <Name>Overlord</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+          <Item>Mage</Item>
+        </Class_Types>
+        <Skills />
+        <Description>snarkie</Description>
+        <Caps>
+          <Item>80 31 33 30 31 34 25</Item>
+          <Item>80 31 33 30 31 34 25</Item>
+        </Caps>
+        <Max_WLvl>0 0 0 0 6 6 6 6 0 0 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>6</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Light</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>131</Key>
+      <Value>
+        <Id>131</Id>
+        <Name>Necromancer</Name>
+        <Class_Types>
+          <Item>Infantry</Item>
+          <Item>Mage</Item>
+        </Class_Types>
+        <Skills />
+        <Description>cheapskate</Description>
+        <Caps>
+          <Item>90 40 40 40 40 40 25</Item>
+          <Item>90 40 40 40 40 40 25</Item>
+        </Caps>
+        <Max_WLvl>0 0 0 0 6 6 6 6 6 0 0 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>2</Tier>
+        <Mov>4</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Light</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>0 0 0 0 0 0 0 0</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>132</Key>
+      <Value>
+        <Id>132</Id>
+        <Name>Fell Marc</Name>
+        <Class_Types>
+          <Item>Heavy</Item>
+          <Item>FDragon</Item>
+          <Item>Dragon</Item>
+          <Item>Monster</Item>
+        </Class_Types>
+        <Skills />
+        <Description>chunky hair</Description>
+        <Caps>
+          <Item>700 70 80 75 80 80 65</Item>
+          <Item>235 40 50 45 50 50 25</Item>
+        </Caps>
+        <Max_WLvl>0 0 0 0 0 0 0 0 0 0 6 0 0</Max_WLvl>
+        <Promotion />
+        <Tier>3</Tier>
+        <Mov>0</Mov>
+        <Mov_Cap>25</Mov_Cap>
+        <Movement_Type>Heavy</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>235 40 50 45 30 50 50 25</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>235 40 50 45 30 50 50 25</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>235 40 50 45 30 50 50 25</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+          <Item>
+            <Item>235 40 50 45 30 50 50 25</Item>
+            <Item>0 0 0 0 0 0 0</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+    <Item>
+      <Key>133</Key>
+      <Value>
+        <Id>133</Id>
+        <Name>Mercenary_M</Name>
+        <Class_Types>
+          <Item>Heavy</Item>
+          <Item>Swordsman</Item>
+        </Class_Types>
+        <Skills />
+        <Description>dat boi</Description>
+        <Caps>
+          <Item>80 28 29 25 23 21 20</Item>
+          <Item>80 28 29 25 23 21 20</Item>
+        </Caps>
+        <Max_WLvl>0 0 0 0 0 0 0 0 0 0 0 1 5</Max_WLvl>
+        <Promotion />
+        <Tier>1</Tier>
+        <Mov>5</Mov>
+        <Mov_Cap>15</Mov_Cap>
+        <Movement_Type>Heavy</Movement_Type>
+        <Generic_Stats>
+          <Item>
+            <Item>18 6 6 6 0 6 1 10</Item>
+            <Item>95 30 35 30 30 30 30</Item>
+          </Item>
+          <Item>
+            <Item>22 7 8 8 0 8 2 10</Item>
+            <Item>95 30 35 30 35 30 30</Item>
+          </Item>
+          <Item>
+            <Item>26 9 10 10 0 9 3 10</Item>
+            <Item>95 30 35 30 40 30 30</Item>
+          </Item>
+          <Item>
+            <Item>26 9 10 10 0 9 3 10</Item>
+            <Item>105 30 40 35 40 35 30</Item>
+          </Item>
+        </Generic_Stats>
+      </Value>
+    </Item>
+  </Asset>
+</XnaContent>

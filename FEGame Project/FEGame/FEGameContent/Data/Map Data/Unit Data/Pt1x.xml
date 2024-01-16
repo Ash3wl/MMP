@@ -1,0 +1,1190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="FEXNA_Library.Map_Unit_Data">
+    <Units>
+      <Item>
+        <Key>20 5</Key>
+        <Value>
+          <type>character</type>
+          <identifier>GlitchyJoe_2</identifier>
+          <data>35|Actor ID
+2|Team
+0|AI Priority
+0|AI Mission</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>20 8</Key>
+        <Value>
+          <type>character</type>
+          <identifier>Valtheus</identifier>
+          <data>45|Actor ID
+2|Team
+0|AI Priority
+0|AI Mission</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>18 22</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>Key1</identifier>
+          <data>Marc_2|Name
+59|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 39, -1|Item 1
+1, 12, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>19 27</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>Key2</identifier>
+          <data>Marc_2|Name
+56|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 88, -1|Item 1
+1, 12, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 121, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>17 26</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Marc_2|Name
+79|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 102, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 31, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>16 28</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Marc_2|Name
+80|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 112, -1|Item 1
+0, 122, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 0, 31, 31, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>15 25</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Marc_2|Name
+62|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 65, -1|Item 1
+0, 67, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>15 22</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Marc_2|Name
+70|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 38, -1|Item 1
+0, 8, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+71, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>13 22</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Marc_2|Name
+51|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 8, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+71, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>10 27</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Marc_2|Name
+70|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 38, -1|Item 1
+0, 8, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+71, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>11 25</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Marc_2|Name
+59|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 39, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>12 19</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Marc_2|Name
+65|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 64, -1|Item 1
+0, 5, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+31, 0, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>10 21</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Marc_2|Name
+80|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 122, -1|Item 1
+0, 112, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 0, 31, 31, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>13 28</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Marc_2|Name
+73|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 39, -1|Item 1
+0, 9, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+71, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>2 16</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Marc_2|Name
+70|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 38, -1|Item 1
+0, 8, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+71, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>18 8</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Marc_2|Name
+70|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 38, -1|Item 1
+0, 8, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+71, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>9 4</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Marc_2|Name
+80|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 112, -1|Item 1
+0, 122, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 0, 31, 31, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>13 16</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>Key5</identifier>
+          <data>Marc_2|Name
+56|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 88, -1|Item 1
+1, 11, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 121, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>6 21</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>Key4</identifier>
+          <data>Marc_2|Name
+56|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 88, -1|Item 1
+1, 12, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 121, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>8 24</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>Key3</identifier>
+          <data>Marc_2|Name
+56|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 88, -1|Item 1
+1, 12, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 121, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>9 19</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Marc_2|Name
+73|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 40, -1|Item 1
+1, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>8 20</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Marc_2|Name
+73|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 40, -1|Item 1
+1, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>12 14</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>Key6</identifier>
+          <data>Marc_2|Name
+56|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 88, -1|Item 1
+1, 12, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 121, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>21 7</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>Key8</identifier>
+          <data>Marc_2|Name
+56|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 88, -1|Item 1
+1, 12, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 121, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>15 10</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Marc_2|Name
+65|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 68, -1|Item 1
+0, 13, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+121, 0, 121, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>16 9</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Marc_2|Name
+79|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 113, -1|Item 1
+1, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 0, 71, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>19 7</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>Key7</identifier>
+          <data>Marc_2|Name
+56|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 88, -1|Item 1
+1, 12, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 121, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>21 5</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Marc_2|Name
+84|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 141, -1|Item 1
+0, 152, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 0, 0, 0, 0, 1, 31, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>19 5</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Marc_2|Name
+84|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 141, -1|Item 1
+0, 152, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 0, 0, 0, 0, 1, 31, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>10 15</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Marc_2|Name
+59|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 39, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>4 14</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Marc_2|Name
+80|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 122, -1|Item 1
+0, 112, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 0, 31, 31, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>6 17</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Marc_2|Name
+59|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 39, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>10 12</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Marc_2|Name
+70|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 38, -1|Item 1
+0, 8, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+71, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>7 13</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Marc_2|Name
+51|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 8, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+71, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>5 22</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Marc_2|Name
+61|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 64, -1|Item 1
+0, 38, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 71, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>14 5</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Marc_2|Name
+51|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 8, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+71, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>4 18</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Marc_2|Name
+61|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 64, -1|Item 1
+0, 38, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 71, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>13 4</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Marc_2|Name
+61|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 64, -1|Item 1
+0, 38, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 71, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>13 14</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Marc_2|Name
+61|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 64, -1|Item 1
+0, 38, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 71, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>10 8</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Marc_2|Name
+61|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 64, -1|Item 1
+0, 38, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 71, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>13 11</Key>
+        <Value>
+          <type>character</type>
+          <identifier>Torlo</identifier>
+          <data>49|Actor ID
+2|Team
+0|AI Priority
+1|AI Mission</data>
+        </Value>
+      </Item>
+    </Units>
+    <Reinforcements>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Marc_2|Name
+80|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 112, -1|Item 1
+0, 122, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 0, 31, 31, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Marc_2|Name
+59|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 39, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Marc_2|Name
+70|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 38, -1|Item 1
+0, 8, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+71, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Marc_2|Name
+62|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 72, -1|Item 1
+0, 68, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 181, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Marc_2|Name
+51|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 8, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+71, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Marc_2|Name
+73|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 39, -1|Item 1
+0, 9, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+71, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Marc_2|Name
+65|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 64, -1|Item 1
+0, 13, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+121, 0, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Marc_2|Name
+56|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 88, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 121, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Marc_2|Name
+71|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 72, -1|Item 1
+0, 15, -1|Item 2
+0, 48, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+121, 181, 181, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+    </Reinforcements>
+  </Asset>
+</XnaContent>

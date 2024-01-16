@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Generic="System.Collections.Generic">
+  <Asset Type="Generic:Dictionary[string,string]">
+    <Item>
+      <Key>Tr1Intro</Key>
+      <Value>\f[2|Uther]\f[1|Madelyn]\f[4|Magnus]\f[5|Hassar]\f[6|Harken]\g[Hill]\s[2]This looks like the place.
+The message wasn't very clear...|\s[5]\x[105]Whether it is or not, something 
+is wrong here.\w[10]
+May I reconnoiter the area?|\s[2]Please, do.
+Take these two with you.|\s[-2]\f[5|nil]\wait[5]\f[4|nil]\f[6|nil]\wait[20]\f[6|Abelia]\f[4|Mazda]\s[4]\x[85]I'd say your friend was on the money.
+I've overseen at least three of these
+operations, myself.|\s[2]Can you tell us
+anything useful?|\s[4]\x[85]Shit, for what you're payin', I'll draw
+schematics of all our formations.|
+The scheme's pretty simple; we
+take the guise of a mercenary force
+and set up in a warehouse or the like.|
+Dump a wagon o' gold on the owner and
+he won't be sayin' much to the guards.|\s[1]\x[150]...|\s[4]\x[85]After we've got a good gauge of
+the security, we find a window, offer
+our services to whoever's in charge|
+and take the keep from inside out.|
+Turn the siege defenses on the militia,
+then expand from there.|\s[1]\x[150]...Hmph.|\s[-2]\f[1|nil]\wait[5]\s[4]\x[85]Looks like I've offended
+yer lady friend.|\s[2]Forget about her.\w[5]
+Is there anything else?|\s[4]\x[85]Not really. Patrols'll be sparse.
+Troops'll stay bunkered down
+until they're directly threatened.|
+Scouts out first,\w[5] cavalry for
+cleaning, and armor for last resort.\w[10]
+Maybe some auxiliaries.|\s[6]\x[130]Auxiliaries?|\s[2]Military-speak for
+mercs. Ilian, yeah?|\s[4]\x[85]Probably. The terrain favors
+fliers, but you can't exactly
+sneak in a dracoknight battalion.|\s[2]Right.\w[5]
+That will be all for now.|\s[4]\x[85]Your majesty.|\s[-2]\f[4|nil]\wait[5]\s[6]\x[130]I'll keep an eye
+on him, m'lord.|\s[2]Good idea.|\s[-2]\f[6|nil]\wait[35]\f[5|Madelyn]\wait[5]\s[5]\x[150]I want you to know that
+I'm strongly opposed to
+this, lord Uther.|\s[2]Trust me, I know.|\s[5]\x[150]How dare you take that tone with
+me?! That man is a murderer and
+a predator,| and I don't care for
+you associating with him!|\s[2]I know, Madelyn.| But when
+your enemy's only weakness
+is pond-scum,| you get down on
+your knees and start scooping
+up pond-scum.|\s[5]\x[150]...What good is victory
+when you turn into what
+you're trying to stop?|\s[2]I never did care for
+scripture lessons.|\s[5]\x[150]...I can't speak with
+you right now.\w[10]
+Good evening.|\s[-2]\f[5|nil]\wait[5]\b[2|2]\s[2]Ugh.|</Value>
+    </Item>
+    <Item>
+      <Key>Tr1Scene1</Key>
+      <Value>\f[2|Uther]\b[2|2]\s[-2]\w[30]\f[5|Hassar]\s[5]\x[105]We're secure, m'lord.|
+It would be wise to begin
+our attack before the sun
+begins to rise.|\s[2]Mm.|
+\b[2|0]\w[5]Go round up
+the others.|\s[-2]\f[5|nil]\w[5]\s[2]Wait.|\s[-2]\f[5|Hassar]\w[5]\s[2]Could you...\w[5] apologize to
+Madelyn for me? She seems to like you.
+Maybe she won't spit in your face.|\e[5|1]\s[-2]\wait[30]\f[5|nil]\w[20]</Value>
+    </Item>
+    <Item>
+      <Key>Tr1Scene2</Key>
+      <Value>\f[5|Anoleis]\s[5]\x[108]Yaaaawn...|
+This is too perfect.
+Hey, Sarathi,
+don't you agree?|\f[2|Sarathi]\s[2]\x[89]We're occupying another
+nation's province by force.|\s[5]\x[108]Well...|\s[2]\x[89]...Hoping to the Living Saint we aren't
+discovered and go down in history for
+starting the world's most pointless war.|\s[5]\x[108]Yeah, but--|\s[2]\x[89]...For the sole purpose of
+helping some spastically-rich
+governor monopolize some product|
+long enough for him to get even
+more insanely rich.|\s[5]\x[108]I don't think--|\s[2]\x[89]...And not only are we being paid
+a bare pittance above our usual wage,|
+we'll be whisked straight to the gallows
+if our commanders ever find out.|
+What, I ask, is even slightly
+okay with our situation?|\s[5]\x[108]The area's really
+pretty at night.|\s[2]\x[89]Ugh.\w[10] I'm returning to my
+post before Beck finds out.\w[5]
+Stay attentive.|\s[5]\x[108]Yeah, yeah...|</Value>
+    </Item>
+    <Item>
+      <Key>Tr1Scene3</Key>
+      <Value>\f[3|Magnus]\wait[6]\s[3]\x[95]Hey,\w[4] it looks like
+they're clearing out!|\name[0|Hassar]\s[0]\x[105]What are you doing?\w[8]
+Come away!|\s[-2]\wait[6]\f[5|FighterM-1]\name[5|Fighter]\wait[10]\m[3|1]\wait[6]\s[1]\x[95]Er...\w[12]
+Hello.|\s[5]\x[89]Whoa,\w[6] we've got movement!\w[9]
+Raise the alarm!|</Value>
+    </Item>
+    <Item>
+      <Key>Tr1Scene4</Key>
+      <Value>\f[4|Magnus]\wait[14]\f[1|Uther]\wait[6]\s[1]\x[100]Earning your keep
+already,\w[3] I see.|\s[4]\x[95]Sorry.|</Value>
+    </Item>
+    <Item>
+      <Key>Tr1Scene5</Key>
+      <Value>\f[5|BrigandM-1]\name[5|Brigand]\e[5|1]\s[5]\x[81]Ah-ghahaha!
+Time fer another run, boys.|
+I dunno who these fellers are,
+but they don't give two shits
+'bout us. C'mon!|</Value>
+    </Item>
+    <Item>
+      <Key>Tr1Village</Key>
+      <Value>\f[2|Man4Villager]\name[2|Villager]\f[5|Visitor]\s[2]Oh, boy. You wouldn't believe
+how glad we all are to see
+your pennants. We've been holed|
+up here for weeks -\w[10] we were
+worried none of our messages
+made it.|
+We don't know the specifics, but
+that force showed up from inside
+the castle walls.| They look like
+mercenaries, but not very well
+organized ones.|
+Here, take this gold. For safety's
+sake, hit the shops nearby.|
+Good luck. We're all counting
+on you.|</Value>
+    </Item>
+    <Item>
+      <Key>Tr1HouseW</Key>
+      <Value>\f[1|Woman2Villager]\name[1|Villager]\s[1]Oh, no! They've finally come
+to get us! Gather your things.
+Quickly, now. Into the cellar!|\s[-2]\f[1|nil]\w[25]\f[5|Visitor]\s[5]...?|</Value>
+    </Item>
+    <Item>
+      <Key>Tr1HouseWrepeat</Key>
+      <Value>\f[5|Visitor]\s[5]...|\scrollThere's nothing of value here.|</Value>
+    </Item>
+    <Item>
+      <Key>Tr1HouseS</Key>
+      <Value>\f[2|Woman4Villager]\name[2|Old Berta]\f[5|Visitor]\s[2]What's all this ruckus about?
+Don't you bloody soldiers have
+any sense of decency?| Who in
+the nine hells kills people at
+this time of night?!|
+Hurry up and get this nonsense
+done or I'll finish it myself.|</Value>
+    </Item>
+    <Item>
+      <Key>Tr1HouseSE</Key>
+      <Value>\f[2|Man1Villager]\name[2|Villager]\f[5|Visitor]\s[2]Don't mind old Berta next door.|
+She shouts at the ducks every
+morning about cleaning up after
+themselves.|
+You've got our support. Stomp
+those fiends into the dirt and
+reclaim the palace!|
+Then life can return to normal
+around here.|</Value>
+    </Item>
+    <Item>
+      <Key>Tr1Outro</Key>
+      <Value>\f[5|Uther]\f[6|Madelyn]\f[3|Mazda]\f[2|Hassar]\f[1|Magnus]\g[Hill]\s[5]Here's the promised gold,
+gents. Thanks again, and
+hey -| it's been a pleasure
+working with most of you.|\s[3]\x[85]Heh-heh.\w[5]
+Fuck you, too.|\s[5]We'll be searching the castle
+for prisoners, but you're free
+to go if you'd like.|\f[3|nil]\w[10]
+...And none too soon.|\s[2]\x[105]We'll go get
+a head-start.|\s[-2]\f[1|nil]\f[2|nil]\w[10]\f[1|Harken]\f[2|Abelia]\s[2]\x[130]I suppose I shall help.|
+Perhaps I can twist the baron's
+arm for a feast and a room
+before I return to Tania.|\s[1]\x[115]Yeah, I'll...\w[10]
+Mm.|\s[-2]\f[1|nil]\f[2|nil]\w[10]\f[6|nil]\w[5]\f[2|Madelyn]\s[5]...Subtle, guys.|
+Look, Madelyn, I--|\s[2]\x[150]I understand, Uther.
+You fight pond-scum
+with pond-scum, right?|\s[5]...Right. At the end of the day,
+these people can go back to life
+as usual, and none of them had|
+to be involved in the bloodshed.|\s[2]\x[150]...Every time I think
+I understand you...|\s[5]Come on.
+Hassar probably
+misses you already.|\s[2]\x[150]Uther! Haha...|</Value>
+    </Item>
+  </Asset>
+</XnaContent>

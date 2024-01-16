@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Generic="System.Collections.Generic">
+  <Asset Type="Generic:Dictionary[string,string]">
+    <Item>
+      <Key>Boss - P1 Salamede (Any)</Key>
+      <Value>\f[1|Salamede]\s[1]I HAVE TO BUY THEM! I WON'T
+LET ANYTHING STOP ME!!|</Value>
+    </Item>
+    <Item>
+      <Key>Boss - P1 Dealer (Any)</Key>
+      <Value>\f[1|Dealer]\s[1]You're not one of the regulars.\w[10]
+Heh,\w[5] what a fool you are.\w[10]
+Wandering all the way out here.|
+Guess I'll get even more loot today.|</Value>
+    </Item>
+    <Item>
+      <Key>Boss - P1 Emil (Any)</Key>
+      <Value>\f[1|Emil]\s[1]You're trespassing.|
+This will be my warning shot.\w[10]
+If you don't leave,\w[5] you'll be
+leaving the other way.|</Value>
+    </Item>
+    <Item>
+      <Key>Boss - P1 Sketchy Guy (Any)</Key>
+      <Value>\f[1|Sketchy Guy]\s[1]Wait a minute there!\w[15]
+I come in peace!!|\scrollSeriously!|</Value>
+    </Item>
+    <Item>
+      <Key>Boss - P1 Dealer (Marc)</Key>
+      <Value>\f[1|Dealer]\f[6|Marc]\e[6|2]\s[6]Just give them up!|\s[1]...\w[15]What?|\s[6]You know what!|\s[1]......?|</Value>
+    </Item>
+    <Item>
+      <Key>Boss - P1 Salamede (Bill)</Key>
+      <Value>\f[1|Salamede]\s[1]I HAVE TO--\wait[15]\scrollWhoa, you look like a grape.|\f[6|Bill]\s[6]What?|</Value>
+    </Item>
+    <Item>
+      <Key>Boss - P1 Dealer (Bill)</Key>
+      <Value>\f[1|Salamede]\s[1]You're not one of the regulars.\w[10]
+You look like a grape.|\f[6|Bill]\s[6]...\w[15]Wait,\w[5] what?|</Value>
+    </Item>
+    <Item>
+      <Key>Boss - P1 Emil (Bill)</Key>
+      <Value>\f[1|Emil]\s[1]...\w[15]You there.|Why do you look so much
+like a grape?|\f[6|Bill]\s[6]Excuse me???|</Value>
+    </Item>
+    <Item>
+      <Key>Boss - P1 Dealer (Vandal)</Key>
+      <Value>\f[1|Salamede]\s[1]What the--\wait[15]\scrollDammit,\w[5] it's you!|\f[6|Vandal]\s[6]Oy,\w[5] what's with that look?\w[15]
+Not happy to see a familiar face?|\s[1]Not of a thief who would try to steal from
+our commander.\w[10] Get out of here,\w[5] you crook!|\s[6]Sheesh,\w[5] talk about calling the kettle black.|\scrollDon't worry,\w[5] I'll be out of your face real soon...\w[15]
+along with a few souvenirs,\w[5] of course.|</Value>
+    </Item>
+    <Item>
+      <Key>Boss - P1x GlitchyJoe (Any)</Key>
+      <Value>\f[1|GlitchyJoe]\s[1]..............\w[15]
+..............\w[15]
+..............|\scrollSorry..\w[15]
+..............\w[15]
+..............|\scroll</Value>
+    </Item>
+    <Item>
+      <Key>Boss - P1x Torlo (Any)</Key>
+      <Value>\f[1|Torlo]\s[1]A challenge, for me, Marc?|\scrollWell, I, being Marc, dealt with
+worse, bring it on, fucker.|</Value>
+    </Item>
+    <Item>
+      <Key>Boss - P1x Valtheus (Any)</Key>
+      <Value>\f[1|Valtheus]\s[1]...|</Value>
+    </Item>
+    <Item>
+      <Key>Boss - P1x Torlo (Ephraim)</Key>
+      <Value>\f[1|Torlo]\f[6|Ephraim]\e[6|2]\s[1]Friend!|\s[6]Huh?|\s[1]It's such a joy to see you,\w[5] old buddy
+of mine!\w[15] Might we partake in a
+friendly chat?|
+How have you been?\w[15] I,\w[5] being Marc...\wait[20]
+am feelin--\wait[15]\s[6]Hey,\w[5] hold on just a second.\w[10]
+You look nothing like...|\scroll\e[6|3]Uh,\w[5] well,\w[5] you aren't Marc,\w[5] are you?|
+You're just another lookalike...\w[20]right?|\s[1]You wound me,\w[5] my friend.|
+We are all Marc!|
+As Marc is I and I am him!|
+You're a friend...\w[20]for all\e[6|2] of us.|\s[6]Uh,\w[5] I'll pass,\w[5] thank you.\w[10]
+\e[6|3]This is giving me a headache...|</Value>
+    </Item>
+    <Item>
+      <Key>Boss - P1x Valtheus (Ciraxis)</Key>
+      <Value>\f[1|Valtheus]\f[6|Ciraxis]\s[6]...|\s[1]...|\s[6]...|\s[1]...|\s[-2]\f[1|nil]\f[6|nil]\wait[5]\s[-2]\f[1|Purt]\f[2|Avraxas]\f[5|Ash]\f[6|Char]\s[5]....\w[15]Is that really it?\w[15]
+I thought they'd both say
+something cool.|
+I was expecting, you know,
+some epic dramatics or
+something...|\s[1]Really?\w[15] He doesn't seem
+the type for that.|\s[2]But,\w[5] he's right,\w[5] you know.\w[10]
+Would have been pretty cool.|\s[5]Yeah,\w[5] yeah!\w[15] Like,\w[5] Ciraxis could've come
+in and stared him down:|\scroll"I'm the bigger one here,\w[5] wretched fool.\w[10]
+You've no place in my sight!!!"|\s[2]"You think I would fear feeble toys
+such as that?\w[15] Bah,\w[5] pathetic."|\s[5]"Heh.\w[10] I see your failure in understanding
+just who it is you're facing,\w[5] welp!!"|\s[1]"Ash,\w[5] take care\e[5|2] of him?"|\s[5]...\w[15]Oh,\w[5] shit. You're right,
+there. Goddamnit all...|\s[6]...ok|</Value>
+    </Item>
+    <Item>
+      <Key>Boss - P1x Valtheus (Char)</Key>
+      <Value>\f[1|Valtheus]\f[6|Ciraxis]\s[6]...|\s[1]...|\s[6]You look familiar.|\s[1]...|\s[6]...\w[15]Yeah,\w[5] I don't really care,\w[5] either.\w[10]
+Let's get this over with.|</Value>
+    </Item>
+    <Item>
+      <Key>Boss - P1x Torlo (Bill)</Key>
+      <Value>\f[1|Torlo]\s[1]You look like a grape.|\f[6|Bill]\s[6]Why??|</Value>
+    </Item>
+    <Item>
+      <Key>Boss - P1x Valtheus (Bill)</Key>
+      <Value>\f[1|Valtheus]\s[1]...|\f[6|Bill]\s[6]...\w[15]You think I look like a
+grape,\w[5] too,\w[5] don't you.|</Value>
+    </Item>
+    <Item>
+      <Key>Boss - P2 SnarkyFoe (Any)</Key>
+      <Value>\f[1|SnarkyFoe]\s[1]This has nothing to do with you,\w[5]
+be a good lad and run along now.|</Value>
+    </Item>
+    <Item>
+      <Key>Boss - P2 GrimaJoe (Any)</Key>
+      <Value>\f[1|GrimaJoe]\e[1|1]\s[1]Your end is near.|</Value>
+    </Item>
+    <Item>
+      <Key>Boss - P2 GlitchyJoe (Any)</Key>
+      <Value>\f[1|GlitchyJoe]\s[1]..............\w[15]
+..............\w[15]
+..............|\scroll\e[1|1]..............\w[15]
+..............\w[15]
+..............|\scroll</Value>
+    </Item>
+    <Item>
+      <Key>Boss - P2 Mark (Any)</Key>
+      <Value>\f[1|Mark]\s[1]\e[1|1]Hahaha!\w[15] You think you can
+defeat ME?|\scroll\e[1|1]I'll wipe the floor with you.|</Value>
+    </Item>
+    <Item>
+      <Key>Boss - P2 David (Any)</Key>
+      <Value>\f[1|David]\s[1]Not many realize the fabled
+Deathawks truly did exist.|\scrollCome,\w[5] I challenge you to but try
+to remove it from my grasp!|</Value>
+    </Item>
+    <Item>
+      <Key>Boss - P2 SnarkyFoe (Marc)</Key>
+      <Value>\f[1|SnarkyFoe]\f[6|Marc]\e[6|2]\s[1]*I* may not have recovered
+all my power from last time,|
+but *I* have more than enough
+to have my revenge.|\s[6]Not today,\w[5] motherfucker.|</Value>
+    </Item>
+    <Item>
+      <Key>Boss - P2 SnarkyFoe (Ash)</Key>
+      <Value>\f[1|SnarkyFoe]\f[6|Ash]\s[1]Another fool who wishes to
+fight me?|\s[6]Oh,\w[5] it's you. You're that
+SnarkyJoe guy,\w[5] right?|\s[1]\e[1|1]SnarkyFoe.|\scrollWell, this is growing
+irritating.|\s[6]Sure,\w[5] whatever.|\scrollAnyways,\w[5] \e[1|0]I've heard that you can
+duplicate yourself,\w[5] like me.|
+I'd like to ask you a little bit
+about that.|\s[1]And why\e[6|2] would I disclose my
+abilities to you?|\s[6]Uh...\w[15]I guess you don't have
+any reason to...|
+\e[6|0]I would certainly appreciate
+it,\w[5] though.|\s[1]Very funny.|
+Even if I were to tell you...\w[15]
+You wouldn't live to make any
+use of it!|\s[6]So you won't tell...\wait[20] Meh,\w[5] okay.|
+Well,\w[5] maybe I can still salvage
+something...\w[15] \e[6|3]You know,\w[5] after
+dealing with you.|\s[1]We'll see about that.|</Value>
+    </Item>
+    <Item>
+      <Key>Boss - P2 SnarkyFoe (RS)</Key>
+      <Value>\f[6|RS]\f[1|SnarkyFoe]\s[6]Target located.
+Preparing for frontal assault.|\s[1]Oh? Am I seeing things?
+You would face against me
+directly?|\s[6]...|\s[1]How foolish.|\scroll\e[1|1]Why,\w[5] were I not relying on borrowed
+power... \e[1|0]My magic would overwhelm
+you in but a second!|\s[6]Your words fall on deaf ears.|\scrollIn fact,\w[5] since you're weaker,\w[5] as you
+just said...\w[15] I've no reason to care
+for your scare tactics.|\s[1]Such brave words coming from such
+little power. Maybe it won't be a second,\w[5]
+but a minute will suffice!|\s[6]...|\scrollEngaging in combat.|</Value>
+    </Item>
+    <Item>
+      <Key>Boss - P2 GlitchyJoe (Ash)</Key>
+      <Value>\f[1|GlitchyJoe]\f[6|Ash]\s[6]What is...\w[15]
+\e[6|2]What are you doing here?|\w[15]\s[1]......\w[15]A.......|\s[6]........|</Value>
+    </Item>
+    <Item>
+      <Key>Boss - P2 Mark (Purt)</Key>
+      <Value>\f[1|Mark]\f[6|Purt]\e[6|3]\s[6]It was you,\w[5] wasn't it.|\s[1]\e[1|1]Yeah,\w[5] that's right.|\s[6]...\w[15]Well,\w[5] since you're here
+now.\w[10] Let's chat.|\s[1]Chat?|\s[6]Yeah.\w[10] Chat.|\s[1]\m[1|1]Hahahaha!|\scrollYou're upset,\w[5]
+aren't you?|\s[6]\e[6|2]Of course I am.|\scrollYou fucked over not only me,\w[5]
+but also one of my friends.|
+We thought he tried to kill us
+over mere pocket change.|
+For the longest time,\w[5] I even
+held it against him.|
+Who knows what else you might
+have done during your little
+masquerade.|\s[1]Pfft.\w[10] You're worried over him?\w[15]
+You're so pathetic.|\s[6]\e[6|3]Pathetic?\w[15] What for?\w[15] Being human?\w[15]
+He's a good friend of mine now.|\scrollYou're a real fucking piece of work,\w[5]
+you know that?|</Value>
+    </Item>
+    <Item>
+      <Key>Boss - P2 Mark (Marc)</Key>
+      <Value>\f[1|Mark]\f[6|Marc]\s[1]Marc.\w[10] I fear you've made a
+grave mistake facing me.|\s[6]Listen,\w[5] buddy.\w[10] I have nothing
+to say to you.\w[10]|
+So don't bother and just
+give up.|\s[1]Hmph.\w[10]|\scrollFine then,\w[5] be a little prick.\w[10] You'll
+regret being so disrespectful.|</Value>
+    </Item>
+    <Item>
+      <Key>Boss - P2 Mark (Ephraim)</Key>
+      <Value>\f[1|Mark]\f[6|Ephraim]\e[6|2]\s[6]Well,\w[5] you're pretty tough,\w[5]
+I'll give you that.|
+It's hard to get a solid hit
+with so much bulk.|\s[1]So you aknowledge your
+inferiority?|
+You can do nothing against
+us!\w[15] You might as well give
+up now.|\s[6]Hey now,\w[5] I didn't say that.|
+\e[6|2]You're bulky,\w[5] but that doesn't mean
+invincible\e[1|1]. \e[6|0]And you're about to learn
+that the hard way!|\s[1]Meaningless words...
+I'll just have to show how
+you how weak you are!|</Value>
+    </Item>
+    <Item>
+      <Key>Boss - P2 David (Wolfram)</Key>
+      <Value>\f[1|David]\f[6|Wolfram]\s[1]...\w[15]Who is this guy?|\s[6]....\w[15]Huh?|\scrollAre you talking to me?|\s[1]Yeah.\w[10] You're giving off a different
+vibe from the others.|\s[6]\e[6|2]......|\s[1]......|</Value>
+    </Item>
+    <Item>
+      <Key>Boss - P2 David (Ash)</Key>
+      <Value>\f[1|David]\f[6|Ash]\s[6]Hmm....\w[15]|\scrollYou know,\w[5] despite being evil,\w[5]
+that is one hell of a stache.|\s[1].....?\w[15]|\scrollOh,\w[5] thank you.\w[10] I take great
+pride in how well I maintain it.|\s[6]Got any tips?\w[15] I'm not sure about
+growing one out,\w[5] but I've really
+been thinking about it.|\s[1]Sure.|
+First,\w[5] you shoul--\wait[15]\scrollOh.\w[10] Wait a minute.\w[10] You're just
+trying to distract me!|\s[6]Whaaat?|\scrollNah,\w[5] I'm being totally
+serious here!|\s[1]I won't fall for it!|\s[6]\e[6|2]Ugh… seriously?\w[15]
+This is annoying.|\scrollAll I wanted was some tips.|
+You have no idea how hard it
+is to find a mug with facial
+hair to ask.|</Value>
+    </Item>
+    <Item>
+      <Key>Boss - P2 SnarkyFoe (Bill)</Key>
+      <Value>\f[1|SnarkyFoe]\s[1]This has nothing to do with you,\w[5]
+be a good...\w[15]
+...|\scroll...\w[15]Grape?|\f[6|Bill]\s[6]STOP IT!!|</Value>
+    </Item>
+    <Item>
+      <Key>Boss - P2 GrimaJoe (Bill)</Key>
+      <Value>\f[1|GrimaJoe]\e[1|1]\s[1]What?\w[15] Why do you
+look like grape?|\f[6|Bill]\s[6]NOO!!!|</Value>
+    </Item>
+    <Item>
+      <Key>Boss - P2 GlitchyJoe (Bill)</Key>
+      <Value>\f[1|GlitchyJoe]\s[1]..............\w[15]
+..............\w[15]
+..............|\scroll\e[1|1]Grape.\w[15]
+..............\w[15]
+..............|\scroll\s[6]I'M NOT A GRAPE!!|</Value>
+    </Item>
+    <Item>
+      <Key>Boss - P2 Mark (Bill)</Key>
+      <Value>\f[1|Mark]\s[1]What the fuck...?\w[15]
+You look like a grape.|\s[6]WHAT'S WITH THIS?!\w[15]
+I'M NOT A GRAPE!!|</Value>
+    </Item>
+    <Item>
+      <Key>Boss - P2 David (Bill)</Key>
+      <Value>\f[1|David]\s[1]Is that a--\wait[15]\s[6]NO! I'M NOT A FUCKING
+GRAPE YOU PIECE OF SHIT!|\s[1]What the hell...
+Hey, calm down a little.|\s[6]Why me...|</Value>
+    </Item>
+    <Item>
+      <Key>Boss - P3 GrimaJoe_2 (Any)</Key>
+      <Value>\f[2|GrimaJoe_2]\s[-1]おうて おふ てへえ わあよ, ふええびれえ ぎあるびあぎえ!
+てへいす いす びえてわええぬ むえ あぬで い！|</Value>
+    </Item>
+    <Item>
+      <Key>Boss - P3 GrimaJoe_2 (Ciraxis)</Key>
+      <Value>\f[6|Ciraxis]\f[2|GrimaJoe_2]\s[6]Y'know,\w[5] nobody would have minded if
+you just stayed quiet somewhere and
+never showed up again.|\scrollPeople probably don't even remember
+you at all from Ragefest 4.|\s[-1]びあしけ てへえぬ い わあす すうぴぴおすえで てお
+てあけえ おひえる むあるし'す れいふえ あぬで
+びえしおむえ しおむぴれえてえ.|
+い'ひえ びええぬ わあいていぬぎ すお Lおぬぎ てお
+ふいぬあれれよ ふうれふいれれ むよ ぴうるぴおすえ.|
+わへよ あるえ よおう ぎえててIぬぎ いぬ むよ わあよ?|\s[6]Your purpose was to be a throwaway
+final boss enemy for Marc to overcome
+during Title Here.|
+You're just another failed experiment of
+mine that didn't work out like I wanted.\w[10]
+All that's left for you is to disappear.|</Value>
+    </Item>
+    <Item>
+      <Key>Boss - P3 GrimaJoe_2 (Marc)</Key>
+      <Value>\f[2|GrimaJoe_2]\f[6|Marc]\s[-1]すおおぬ むあるし!\w[15] よおう'れれ びえ ぎおぬえ,\w[5] あぬで
+い'れれ びえ てへえ おぬえ てるうえ むあるけよじおえ！|\scrollいて'す あれれ い'ひえ えひえる わあぬてえで すいぬしえ
+びえいぬぎ しるえあてえで すお れおぬぎ あぎお！|\s[6]Dude,\w[5] you need to like,\w[5] get over me.\w[10]
+Maybe get a hobby or something.|\s[-1]じうすて でいえ すお い しあぬ びえ てへえ おぬえ わいてへ てへえ
+よおうてうびえ しへあぬぬえれ,\w[5] あぬで てへえ でいすしおるで,\w[5]
+あぬで てへえ あぬぬおよいぬぎ ふあぬす！|\scrollいて'す すうぴぴおすえで てお びえ あれれ むいいいいいいいいいいいいいいぬえ！|</Value>
+    </Item>
+    <Item>
+      <Key>Boss - P3 GrimaJoe_2 (Ash)</Key>
+      <Value>\f[6|Ash]\f[2|GrimaJoe_2]\s[6]I didn't know you could turn into
+a dragon like this.|\scrollReally,\w[5] by this point,\w[5] why not just
+try and forget about Marc?|
+You want to rule the world?\w[15]
+Just leave now and I'm pretty
+sure you could.|\s[-1]ぬお,\w[5] よおう ふあいれ てお うぬでえるすてあぬで!\w[15]
+い しあぬぬおて ふおるぎえて わへあて いす
+てるうれよ むいぬえ！|\scrollむあるし むうSて でいいいいいいいいいええええええ！！！|</Value>
+    </Item>
+    <Item>
+      <Key>Boss - P3 GrimaJoe_2 (Bill)</Key>
+      <Value>\f[2|GrimaJoe_2]\s[-1]い わいれれ でえひおうる よおう , ぎるあぴえ!|\f[6|Bill]\s[6]You know what?
+Fuck my life.|</Value>
+    </Item>
+  </Asset>
+</XnaContent>

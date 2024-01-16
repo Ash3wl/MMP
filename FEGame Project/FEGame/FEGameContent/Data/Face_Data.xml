@@ -1,0 +1,710 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Generic="System.Collections.Generic">
+  <Asset Type="Generic:Dictionary[string,FEXNA_Library.Face_Data]">
+    <Item>
+      <Key>Arena</Key>
+      <Value>
+        <Name>Arena</Name>
+        <Emotions>1</Emotions>
+        <Pitch>56</Pitch>
+        <EyesOffset>38 0</EyesOffset>
+        <MouthOffset>38 16</MouthOffset>
+        <StatusOffset>0 0</StatusOffset>
+        <StatusFrame>0</StatusFrame>
+        <PlacementOffset>0</PlacementOffset>
+        <ForceEyesClosed>false</ForceEyesClosed>
+        <ClassCard>false</ClassCard>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Armory</Key>
+      <Value>
+        <Name>Armory</Name>
+        <Emotions>1</Emotions>
+        <Pitch>66</Pitch>
+        <EyesOffset>38 5</EyesOffset>
+        <MouthOffset>38 21</MouthOffset>
+        <StatusOffset>0 0</StatusOffset>
+        <StatusFrame>0</StatusFrame>
+        <PlacementOffset>0</PlacementOffset>
+        <ForceEyesClosed>false</ForceEyesClosed>
+        <ClassCard>false</ClassCard>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Ash</Key>
+      <Value>
+        <Name>Ash</Name>
+        <Emotions>0</Emotions>
+        <Pitch>100</Pitch>
+        <EyesOffset>0 0</EyesOffset>
+        <MouthOffset>0 0</MouthOffset>
+        <StatusOffset>8 0</StatusOffset>
+        <StatusFrame>0</StatusFrame>
+        <PlacementOffset>0</PlacementOffset>
+        <ForceEyesClosed>false</ForceEyesClosed>
+        <ClassCard>false</ClassCard>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Avraxas</Key>
+      <Value>
+        <Name>Avraxas</Name>
+        <Emotions>0</Emotions>
+        <Pitch>100</Pitch>
+        <EyesOffset>0 57</EyesOffset>
+        <MouthOffset>0 57</MouthOffset>
+        <StatusOffset>8 0</StatusOffset>
+        <StatusFrame>0</StatusFrame>
+        <PlacementOffset>0</PlacementOffset>
+        <ForceEyesClosed>false</ForceEyesClosed>
+        <ClassCard>false</ClassCard>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Bob</Key>
+      <Value>
+        <Name>Bob</Name>
+        <Emotions>0</Emotions>
+        <Pitch>100</Pitch>
+        <EyesOffset>0 0</EyesOffset>
+        <MouthOffset>0 0</MouthOffset>
+        <StatusOffset>26 5</StatusOffset>
+        <StatusFrame>0</StatusFrame>
+        <PlacementOffset>0</PlacementOffset>
+        <ForceEyesClosed>false</ForceEyesClosed>
+        <ClassCard>false</ClassCard>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Char</Key>
+      <Value>
+        <Name>Char</Name>
+        <Emotions>4</Emotions>
+        <Pitch>100</Pitch>
+        <EyesOffset>0 0</EyesOffset>
+        <MouthOffset>0 0</MouthOffset>
+        <StatusOffset>10 8</StatusOffset>
+        <StatusFrame>0</StatusFrame>
+        <PlacementOffset>0</PlacementOffset>
+        <ForceEyesClosed>false</ForceEyesClosed>
+        <ClassCard>false</ClassCard>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Ciraxis</Key>
+      <Value>
+        <Name>Ciraxis</Name>
+        <Emotions>0</Emotions>
+        <Pitch>100</Pitch>
+        <EyesOffset>29 23</EyesOffset>
+        <MouthOffset>29 39</MouthOffset>
+        <StatusOffset>14 2</StatusOffset>
+        <StatusFrame>0</StatusFrame>
+        <PlacementOffset>0</PlacementOffset>
+        <ForceEyesClosed>false</ForceEyesClosed>
+        <ClassCard>false</ClassCard>
+      </Value>
+    </Item>
+    <Item>
+      <Key>David</Key>
+      <Value>
+        <Name>David</Name>
+        <Emotions>3</Emotions>
+        <Pitch>100</Pitch>
+        <EyesOffset>0 0</EyesOffset>
+        <MouthOffset>0 0</MouthOffset>
+        <StatusOffset>16 0</StatusOffset>
+        <StatusFrame>0</StatusFrame>
+        <PlacementOffset>0</PlacementOffset>
+        <ForceEyesClosed>false</ForceEyesClosed>
+        <ClassCard>false</ClassCard>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Dealer</Key>
+      <Value>
+        <Name>Dealer</Name>
+        <Emotions>3</Emotions>
+        <Pitch>100</Pitch>
+        <EyesOffset>0 0</EyesOffset>
+        <MouthOffset>0 0</MouthOffset>
+        <StatusOffset>13 0</StatusOffset>
+        <StatusFrame>0</StatusFrame>
+        <PlacementOffset>0</PlacementOffset>
+        <ForceEyesClosed>false</ForceEyesClosed>
+        <ClassCard>false</ClassCard>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Elise</Key>
+      <Value>
+        <Name>Elise</Name>
+        <Emotions>0</Emotions>
+        <Pitch>100</Pitch>
+        <EyesOffset>16 21</EyesOffset>
+        <MouthOffset>32 37</MouthOffset>
+        <StatusOffset>8 1</StatusOffset>
+        <StatusFrame>0</StatusFrame>
+        <PlacementOffset>0</PlacementOffset>
+        <ForceEyesClosed>false</ForceEyesClosed>
+        <ClassCard>false</ClassCard>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Emil</Key>
+      <Value>
+        <Name>Emil</Name>
+        <Emotions>0</Emotions>
+        <Pitch>100</Pitch>
+        <EyesOffset>24 24</EyesOffset>
+        <MouthOffset>24 40</MouthOffset>
+        <StatusOffset>8 0</StatusOffset>
+        <StatusFrame>0</StatusFrame>
+        <PlacementOffset>0</PlacementOffset>
+        <ForceEyesClosed>false</ForceEyesClosed>
+        <ClassCard>false</ClassCard>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Enemy_1</Key>
+      <Value>
+        <Name>Enemy_1</Name>
+        <Emotions>0</Emotions>
+        <Pitch>100</Pitch>
+        <EyesOffset>32 21</EyesOffset>
+        <MouthOffset>32 37</MouthOffset>
+        <StatusOffset>13 6</StatusOffset>
+        <StatusFrame>0</StatusFrame>
+        <PlacementOffset>0</PlacementOffset>
+        <ForceEyesClosed>false</ForceEyesClosed>
+        <ClassCard>false</ClassCard>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Enemy_2</Key>
+      <Value>
+        <Name>Enemy_2</Name>
+        <Emotions>0</Emotions>
+        <Pitch>100</Pitch>
+        <EyesOffset>32 21</EyesOffset>
+        <MouthOffset>32 37</MouthOffset>
+        <StatusOffset>11 3</StatusOffset>
+        <StatusFrame>0</StatusFrame>
+        <PlacementOffset>0</PlacementOffset>
+        <ForceEyesClosed>false</ForceEyesClosed>
+        <ClassCard>false</ClassCard>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Enemy_3</Key>
+      <Value>
+        <Name>Enemy_3</Name>
+        <Emotions>0</Emotions>
+        <Pitch>100</Pitch>
+        <EyesOffset>32 21</EyesOffset>
+        <MouthOffset>32 37</MouthOffset>
+        <StatusOffset>6 4</StatusOffset>
+        <StatusFrame>0</StatusFrame>
+        <PlacementOffset>0</PlacementOffset>
+        <ForceEyesClosed>false</ForceEyesClosed>
+        <ClassCard>false</ClassCard>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Generic</Key>
+      <Value>
+        <Name>Generic</Name>
+        <Emotions>2</Emotions>
+        <Pitch>100</Pitch>
+        <EyesOffset>0 0</EyesOffset>
+        <MouthOffset>0 16</MouthOffset>
+        <StatusOffset>7 10</StatusOffset>
+        <StatusFrame>1</StatusFrame>
+        <PlacementOffset>0</PlacementOffset>
+        <ForceEyesClosed>false</ForceEyesClosed>
+        <ClassCard>false</ClassCard>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Gertrude</Key>
+      <Value>
+        <Name>Gertrude</Name>
+        <Emotions>0</Emotions>
+        <Pitch>100</Pitch>
+        <EyesOffset>74 0</EyesOffset>
+        <MouthOffset>74 0</MouthOffset>
+        <StatusOffset>18 1</StatusOffset>
+        <StatusFrame>0</StatusFrame>
+        <PlacementOffset>0</PlacementOffset>
+        <ForceEyesClosed>false</ForceEyesClosed>
+        <ClassCard>false</ClassCard>
+      </Value>
+    </Item>
+    <Item>
+      <Key>GlitchyJoe</Key>
+      <Value>
+        <Name>GlitchyJoe</Name>
+        <Emotions>3</Emotions>
+        <Pitch>100</Pitch>
+        <EyesOffset>31 16</EyesOffset>
+        <MouthOffset>31 32</MouthOffset>
+        <StatusOffset>14 0</StatusOffset>
+        <StatusFrame>0</StatusFrame>
+        <PlacementOffset>0</PlacementOffset>
+        <ForceEyesClosed>false</ForceEyesClosed>
+        <ClassCard>false</ClassCard>
+      </Value>
+    </Item>
+    <Item>
+      <Key>GrimaJoe</Key>
+      <Value>
+        <Name>GrimaJoe</Name>
+        <Emotions>3</Emotions>
+        <Pitch>100</Pitch>
+        <EyesOffset>0 0</EyesOffset>
+        <MouthOffset>0 0</MouthOffset>
+        <StatusOffset>16 0</StatusOffset>
+        <StatusFrame>0</StatusFrame>
+        <PlacementOffset>0</PlacementOffset>
+        <ForceEyesClosed>false</ForceEyesClosed>
+        <ClassCard>false</ClassCard>
+      </Value>
+    </Item>
+    <Item>
+      <Key>GrimaJoe_2</Key>
+      <Value>
+        <Name>GrimaJoe_2</Name>
+        <Emotions>3</Emotions>
+        <Pitch>100</Pitch>
+        <EyesOffset>0 0</EyesOffset>
+        <MouthOffset>0 0</MouthOffset>
+        <StatusOffset>16 0</StatusOffset>
+        <StatusFrame>0</StatusFrame>
+        <PlacementOffset>0</PlacementOffset>
+        <ForceEyesClosed>false</ForceEyesClosed>
+        <ClassCard>false</ClassCard>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Hiro</Key>
+      <Value>
+        <Name>Hiro</Name>
+        <Emotions>0</Emotions>
+        <Pitch>100</Pitch>
+        <EyesOffset>0 0</EyesOffset>
+        <MouthOffset>0 0</MouthOffset>
+        <StatusOffset>13 0</StatusOffset>
+        <StatusFrame>0</StatusFrame>
+        <PlacementOffset>0</PlacementOffset>
+        <ForceEyesClosed>false</ForceEyesClosed>
+        <ClassCard>false</ClassCard>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Marc</Key>
+      <Value>
+        <Name>Marc</Name>
+        <Emotions>7</Emotions>
+        <Pitch>100</Pitch>
+        <EyesOffset>0 31</EyesOffset>
+        <MouthOffset>0 31</MouthOffset>
+        <StatusOffset>16 0</StatusOffset>
+        <StatusFrame>0</StatusFrame>
+        <PlacementOffset>0</PlacementOffset>
+        <ForceEyesClosed>false</ForceEyesClosed>
+        <ClassCard>false</ClassCard>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Marc_Mask</Key>
+      <Value>
+        <Name>Marc_Mask</Name>
+        <Emotions>0</Emotions>
+        <Pitch>100</Pitch>
+        <EyesOffset>0 0</EyesOffset>
+        <MouthOffset>0 0</MouthOffset>
+        <StatusOffset>16 0</StatusOffset>
+        <StatusFrame>0</StatusFrame>
+        <PlacementOffset>0</PlacementOffset>
+        <ForceEyesClosed>false</ForceEyesClosed>
+        <ClassCard>false</ClassCard>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Mari</Key>
+      <Value>
+        <Name>Mari</Name>
+        <Emotions>0</Emotions>
+        <Pitch>100</Pitch>
+        <EyesOffset>0 0</EyesOffset>
+        <MouthOffset>0 0</MouthOffset>
+        <StatusOffset>13 25</StatusOffset>
+        <StatusFrame>0</StatusFrame>
+        <PlacementOffset>0</PlacementOffset>
+        <ForceEyesClosed>false</ForceEyesClosed>
+        <ClassCard>false</ClassCard>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Mark</Key>
+      <Value>
+        <Name>Mark</Name>
+        <Emotions>3</Emotions>
+        <Pitch>100</Pitch>
+        <EyesOffset>0 0</EyesOffset>
+        <MouthOffset>0 0</MouthOffset>
+        <StatusOffset>16 0</StatusOffset>
+        <StatusFrame>0</StatusFrame>
+        <PlacementOffset>0</PlacementOffset>
+        <ForceEyesClosed>false</ForceEyesClosed>
+        <ClassCard>false</ClassCard>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Mofobolokonomor</Key>
+      <Value>
+        <Name>Mofobolokonomor</Name>
+        <Emotions>0</Emotions>
+        <Pitch>100</Pitch>
+        <EyesOffset>0 0</EyesOffset>
+        <MouthOffset>0 0</MouthOffset>
+        <StatusOffset>16 0</StatusOffset>
+        <StatusFrame>0</StatusFrame>
+        <PlacementOffset>0</PlacementOffset>
+        <ForceEyesClosed>false</ForceEyesClosed>
+        <ClassCard>false</ClassCard>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Olivia</Key>
+      <Value>
+        <Name>Olivia</Name>
+        <Emotions>0</Emotions>
+        <Pitch>100</Pitch>
+        <EyesOffset>0 0</EyesOffset>
+        <MouthOffset>0 0</MouthOffset>
+        <StatusOffset>13 0</StatusOffset>
+        <StatusFrame>0</StatusFrame>
+        <PlacementOffset>0</PlacementOffset>
+        <ForceEyesClosed>false</ForceEyesClosed>
+        <ClassCard>false</ClassCard>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Purt</Key>
+      <Value>
+        <Name>Purt</Name>
+        <Emotions>0</Emotions>
+        <Pitch>100</Pitch>
+        <EyesOffset>0 0</EyesOffset>
+        <MouthOffset>0 0</MouthOffset>
+        <StatusOffset>14 0</StatusOffset>
+        <StatusFrame>0</StatusFrame>
+        <PlacementOffset>0</PlacementOffset>
+        <ForceEyesClosed>false</ForceEyesClosed>
+        <ClassCard>false</ClassCard>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Reisen</Key>
+      <Value>
+        <Name>Reisen</Name>
+        <Emotions>0</Emotions>
+        <Pitch>100</Pitch>
+        <EyesOffset>0 0</EyesOffset>
+        <MouthOffset>0 0</MouthOffset>
+        <StatusOffset>10 14</StatusOffset>
+        <StatusFrame>0</StatusFrame>
+        <PlacementOffset>0</PlacementOffset>
+        <ForceEyesClosed>false</ForceEyesClosed>
+        <ClassCard>false</ClassCard>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Salamede</Key>
+      <Value>
+        <Name>Salamede</Name>
+        <Emotions>0</Emotions>
+        <Pitch>100</Pitch>
+        <EyesOffset>0 0</EyesOffset>
+        <MouthOffset>0 0</MouthOffset>
+        <StatusOffset>13 0</StatusOffset>
+        <StatusFrame>0</StatusFrame>
+        <PlacementOffset>0</PlacementOffset>
+        <ForceEyesClosed>false</ForceEyesClosed>
+        <ClassCard>false</ClassCard>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Secret</Key>
+      <Value>
+        <Name>Secret</Name>
+        <Emotions>1</Emotions>
+        <Pitch>175</Pitch>
+        <EyesOffset>37 12</EyesOffset>
+        <MouthOffset>37 28</MouthOffset>
+        <StatusOffset>0 0</StatusOffset>
+        <StatusFrame>0</StatusFrame>
+        <PlacementOffset>0</PlacementOffset>
+        <ForceEyesClosed>false</ForceEyesClosed>
+        <ClassCard>false</ClassCard>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Sepour</Key>
+      <Value>
+        <Name>Sepour</Name>
+        <Emotions>3</Emotions>
+        <Pitch>100</Pitch>
+        <EyesOffset>74 0</EyesOffset>
+        <MouthOffset>74 0</MouthOffset>
+        <StatusOffset>10 3</StatusOffset>
+        <StatusFrame>0</StatusFrame>
+        <PlacementOffset>0</PlacementOffset>
+        <ForceEyesClosed>false</ForceEyesClosed>
+        <ClassCard>false</ClassCard>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Set</Key>
+      <Value>
+        <Name>Set</Name>
+        <Emotions>0</Emotions>
+        <Pitch>100</Pitch>
+        <EyesOffset>32 15</EyesOffset>
+        <MouthOffset>32 31</MouthOffset>
+        <StatusOffset>10 0</StatusOffset>
+        <StatusFrame>0</StatusFrame>
+        <PlacementOffset>0</PlacementOffset>
+        <ForceEyesClosed>false</ForceEyesClosed>
+        <ClassCard>false</ClassCard>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Shady Dude_1</Key>
+      <Value>
+        <Name>Shady Dude_1</Name>
+        <Emotions>3</Emotions>
+        <Pitch>100</Pitch>
+        <EyesOffset>32 21</EyesOffset>
+        <MouthOffset>32 37</MouthOffset>
+        <StatusOffset>13 0</StatusOffset>
+        <StatusFrame>0</StatusFrame>
+        <PlacementOffset>0</PlacementOffset>
+        <ForceEyesClosed>false</ForceEyesClosed>
+        <ClassCard>false</ClassCard>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Shady Dude_2</Key>
+      <Value>
+        <Name>Shady Dude_2</Name>
+        <Emotions>0</Emotions>
+        <Pitch>100</Pitch>
+        <EyesOffset>32 21</EyesOffset>
+        <MouthOffset>32 37</MouthOffset>
+        <StatusOffset>8 0</StatusOffset>
+        <StatusFrame>0</StatusFrame>
+        <PlacementOffset>0</PlacementOffset>
+        <ForceEyesClosed>false</ForceEyesClosed>
+        <ClassCard>false</ClassCard>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Shady Dude_3</Key>
+      <Value>
+        <Name>Shady Dude_3</Name>
+        <Emotions>0</Emotions>
+        <Pitch>100</Pitch>
+        <EyesOffset>32 21</EyesOffset>
+        <MouthOffset>32 37</MouthOffset>
+        <StatusOffset>8 0</StatusOffset>
+        <StatusFrame>0</StatusFrame>
+        <PlacementOffset>0</PlacementOffset>
+        <ForceEyesClosed>false</ForceEyesClosed>
+        <ClassCard>false</ClassCard>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Shady Dude_4</Key>
+      <Value>
+        <Name>Shady Dude_4</Name>
+        <Emotions>0</Emotions>
+        <Pitch>100</Pitch>
+        <EyesOffset>32 21</EyesOffset>
+        <MouthOffset>32 37</MouthOffset>
+        <StatusOffset>8 0</StatusOffset>
+        <StatusFrame>0</StatusFrame>
+        <PlacementOffset>0</PlacementOffset>
+        <ForceEyesClosed>false</ForceEyesClosed>
+        <ClassCard>false</ClassCard>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Shady Lady_1</Key>
+      <Value>
+        <Name>Shady Lady_1</Name>
+        <Emotions>0</Emotions>
+        <Pitch>100</Pitch>
+        <EyesOffset>32 21</EyesOffset>
+        <MouthOffset>32 37</MouthOffset>
+        <StatusOffset>13 0</StatusOffset>
+        <StatusFrame>0</StatusFrame>
+        <PlacementOffset>0</PlacementOffset>
+        <ForceEyesClosed>false</ForceEyesClosed>
+        <ClassCard>false</ClassCard>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Shady Lady_2</Key>
+      <Value>
+        <Name>Shady Lady_2</Name>
+        <Emotions>0</Emotions>
+        <Pitch>100</Pitch>
+        <EyesOffset>32 21</EyesOffset>
+        <MouthOffset>32 37</MouthOffset>
+        <StatusOffset>8 0</StatusOffset>
+        <StatusFrame>0</StatusFrame>
+        <PlacementOffset>0</PlacementOffset>
+        <ForceEyesClosed>false</ForceEyesClosed>
+        <ClassCard>false</ClassCard>
+      </Value>
+    </Item>
+    <Item>
+      <Key>SnarkyFoe</Key>
+      <Value>
+        <Name>SnarkyFoe</Name>
+        <Emotions>3</Emotions>
+        <Pitch>100</Pitch>
+        <EyesOffset>0 0</EyesOffset>
+        <MouthOffset>0 0</MouthOffset>
+        <StatusOffset>16 0</StatusOffset>
+        <StatusFrame>0</StatusFrame>
+        <PlacementOffset>0</PlacementOffset>
+        <ForceEyesClosed>false</ForceEyesClosed>
+        <ClassCard>false</ClassCard>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Vendor</Key>
+      <Value>
+        <Name>Vendor</Name>
+        <Emotions>1</Emotions>
+        <Pitch>109</Pitch>
+        <EyesOffset>39 9</EyesOffset>
+        <MouthOffset>39 25</MouthOffset>
+        <StatusOffset>0 0</StatusOffset>
+        <StatusFrame>0</StatusFrame>
+        <PlacementOffset>0</PlacementOffset>
+        <ForceEyesClosed>false</ForceEyesClosed>
+        <ClassCard>false</ClassCard>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Wolfram</Key>
+      <Value>
+        <Name>Wolfram</Name>
+        <Emotions>5</Emotions>
+        <Pitch>100</Pitch>
+        <EyesOffset>0 0</EyesOffset>
+        <MouthOffset>0 0</MouthOffset>
+        <StatusOffset>13 3</StatusOffset>
+        <StatusFrame>0</StatusFrame>
+        <PlacementOffset>0</PlacementOffset>
+        <ForceEyesClosed>false</ForceEyesClosed>
+        <ClassCard>false</ClassCard>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Arch Mogall</Key>
+      <Value>
+        <Name>Arch Mogall</Name>
+        <Emotions>0</Emotions>
+        <Pitch>100</Pitch>
+        <EyesOffset>74 81</EyesOffset>
+        <MouthOffset>74 81</MouthOffset>
+        <StatusOffset>14 0</StatusOffset>
+        <StatusFrame>0</StatusFrame>
+        <PlacementOffset>0</PlacementOffset>
+        <ForceEyesClosed>false</ForceEyesClosed>
+        <ClassCard>true</ClassCard>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Convoy</Key>
+      <Value>
+        <Name>Convoy</Name>
+        <Emotions>0</Emotions>
+        <Pitch>100</Pitch>
+        <EyesOffset>24 24</EyesOffset>
+        <MouthOffset>24 40</MouthOffset>
+        <StatusOffset>8 0</StatusOffset>
+        <StatusFrame>0</StatusFrame>
+        <PlacementOffset>0</PlacementOffset>
+        <ForceEyesClosed>false</ForceEyesClosed>
+        <ClassCard>true</ClassCard>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Deathgoyle</Key>
+      <Value>
+        <Name>Deathgoyle</Name>
+        <Emotions>0</Emotions>
+        <Pitch>100</Pitch>
+        <EyesOffset>24 24</EyesOffset>
+        <MouthOffset>24 40</MouthOffset>
+        <StatusOffset>14 0</StatusOffset>
+        <StatusFrame>0</StatusFrame>
+        <PlacementOffset>0</PlacementOffset>
+        <ForceEyesClosed>false</ForceEyesClosed>
+        <ClassCard>true</ClassCard>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Gorgon</Key>
+      <Value>
+        <Name>Gorgon</Name>
+        <Emotions>0</Emotions>
+        <Pitch>100</Pitch>
+        <EyesOffset>74 81</EyesOffset>
+        <MouthOffset>74 81</MouthOffset>
+        <StatusOffset>14 0</StatusOffset>
+        <StatusFrame>0</StatusFrame>
+        <PlacementOffset>0</PlacementOffset>
+        <ForceEyesClosed>false</ForceEyesClosed>
+        <ClassCard>true</ClassCard>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Necrodragon</Key>
+      <Value>
+        <Name>Necrodragon</Name>
+        <Emotions>0</Emotions>
+        <Pitch>100</Pitch>
+        <EyesOffset>57 70</EyesOffset>
+        <MouthOffset>57 70</MouthOffset>
+        <StatusOffset>14 0</StatusOffset>
+        <StatusFrame>0</StatusFrame>
+        <PlacementOffset>0</PlacementOffset>
+        <ForceEyesClosed>false</ForceEyesClosed>
+        <ClassCard>true</ClassCard>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Wight</Key>
+      <Value>
+        <Name>Wight</Name>
+        <Emotions>0</Emotions>
+        <Pitch>100</Pitch>
+        <EyesOffset>74 81</EyesOffset>
+        <MouthOffset>74 81</MouthOffset>
+        <StatusOffset>14 0</StatusOffset>
+        <StatusFrame>0</StatusFrame>
+        <PlacementOffset>0</PlacementOffset>
+        <ForceEyesClosed>false</ForceEyesClosed>
+        <ClassCard>true</ClassCard>
+      </Value>
+    </Item>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,839 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="FEXNA_Library.Map_Unit_Data">
+    <Units>
+      <Item>
+        <Key>3 3</Key>
+        <Value>
+          <type>character</type>
+          <identifier>Uther</identifier>
+          <data>1|Actor ID
+1|Team
+0|AI Priority
+3|AI Mission</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>8 7</Key>
+        <Value>
+          <type>character</type>
+          <identifier>Mazda</identifier>
+          <data>101|Actor ID
+1|Team
+0|AI Priority
+3|AI Mission</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>8 4</Key>
+        <Value>
+          <type>character</type>
+          <identifier>Magnus</identifier>
+          <data>10|Actor ID
+1|Team
+0|AI Priority
+3|AI Mission
+</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>4 5</Key>
+        <Value>
+          <type>character</type>
+          <identifier>Harken</identifier>
+          <data>3|Actor ID
+1|Team
+0|AI Priority
+3|AI Mission</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>19 4</Key>
+        <Value>
+          <type>character</type>
+          <identifier>Beck</identifier>
+          <data>173|Actor ID
+2|Team
+50|AI Priority
+500|AI Mission
+</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>16 5</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>Bandit1</identifier>
+          <data>Bandit|Name
+25|Class ID
+0|Gender
+2|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+0|Build Type
+-1|Con
+0|AI Priority
+204|AI Mission
+0, 59, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 31, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>15 4</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>Bandit2</identifier>
+          <data>Bandit|Name
+25|Class ID
+0|Gender
+2|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+0|Build Type
+-1|Con
+0|AI Priority
+204|AI Mission
+0, 59, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 31, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>17 5</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Bern|Name
+33|Class ID
+0|Gender
+8|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+0|Build Type
+-1|Con
+0|AI Priority
+201|AI Mission
+0, 61, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>21 5</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Bern|Name
+33|Class ID
+0|Gender
+8|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+0|Build Type
+-1|Con
+0|AI Priority
+201|AI Mission
+0, 61, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>19 16</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>Group3Vanguard1</identifier>
+          <data>Bern|Name
+31|Class ID
+0|Gender
+8|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+0|Build Type
+-1|Con
+0|AI Priority
+101|AI Mission
+0, 38, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>20 17</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>Group3Vanguard2</identifier>
+          <data>Bern|Name
+31|Class ID
+0|Gender
+8|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+0|Build Type
+-1|Con
+0|AI Priority
+101|AI Mission
+0, 38, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>20 15</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>Group3Vanguard3</identifier>
+          <data>Bern|Name
+31|Class ID
+0|Gender
+8|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+0|Build Type
+-1|Con
+0|AI Priority
+101|AI Mission
+0, 38, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>15 18</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>Group2Vanguard1</identifier>
+          <data>Bern|Name
+31|Class ID
+0|Gender
+6|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+0|Build Type
+-1|Con
+0|AI Priority
+101|AI Mission
+0, 36, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>16 19</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>Group2Vanguard2</identifier>
+          <data>Bern|Name
+31|Class ID
+0|Gender
+6|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+0|Build Type
+-1|Con
+0|AI Priority
+101|AI Mission
+0, 36, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>19 9</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>Group4Lieu1</identifier>
+          <data>Bern|Name
+34|Class ID
+0|Gender
+8|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+0|Build Type
+-1|Con
+0|AI Priority
+201|AI Mission
+0, 39, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>20 9</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>Group4Lieu2</identifier>
+          <data>Bern|Name
+34|Class ID
+0|Gender
+8|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+0|Build Type
+-1|Con
+0|AI Priority
+201|AI Mission
+0, 39, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>20 7</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>Group4Lieu3</identifier>
+          <data>Bern|Name
+34|Class ID
+0|Gender
+9|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+0|Build Type
+-1|Con
+0|AI Priority
+201|AI Mission
+0, 39, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>4 2</Key>
+        <Value>
+          <type>character</type>
+          <identifier>Hassar</identifier>
+          <data>8|Actor ID
+1|Team
+0|AI Priority
+3|AI Mission</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>3 2</Key>
+        <Value>
+          <type>character</type>
+          <identifier>Madelyn</identifier>
+          <data>6|Actor ID
+1|Team
+0|AI Priority
+7|AI Mission</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>9 5</Key>
+        <Value>
+          <type>character</type>
+          <identifier>Abelia</identifier>
+          <data>16|Actor ID
+1|Team
+0|AI Priority
+3|AI Mission</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>19 7</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>Group4Mage1</identifier>
+          <data>Bern|Name
+40|Class ID
+0|Gender
+5|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+0|Build Type
+-1|Con
+0|AI Priority
+201|AI Mission
+0, 101, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 31, 0, 1, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>21 6</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>Group4Mage2</identifier>
+          <data>Bern|Name
+40|Class ID
+1|Gender
+5|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+0|Build Type
+-1|Con
+0|AI Priority
+201|AI Mission
+0, 111, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 0, 31, 1, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>6 20</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>Group1Sorc1</identifier>
+          <data>Bern|Name
+44|Class ID
+0|Gender
+1|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+0|Build Type
+-1|Con
+0|AI Priority
+201|AI Mission
+0, 142, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 0, 0, 0, 0, 31, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>8 18</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>Group1Sorc2</identifier>
+          <data>Bern|Name
+44|Class ID
+0|Gender
+1|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+0|Build Type
+-1|Con
+0|AI Priority
+201|AI Mission
+0, 142, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 0, 0, 0, 0, 31, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>4 11</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Bern|Name
+24|Class ID
+0|Gender
+4|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+0|Build Type
+-1|Con
+0|AI Priority
+203|AI Mission
+0, 56, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 31, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>7 10</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Bern|Name
+24|Class ID
+0|Gender
+4|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+0|Build Type
+-1|Con
+0|AI Priority
+203|AI Mission
+0, 56, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 31, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>6 12</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Bern|Name
+24|Class ID
+0|Gender
+4|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+0|Build Type
+-1|Con
+0|AI Priority
+203|AI Mission
+0, 56, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 31, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>7 16</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Bern|Name
+27|Class ID
+0|Gender
+4|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+0|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 3, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>4 17</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Bern|Name
+27|Class ID
+0|Gender
+4|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+0|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 3, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>17 17</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>Group3Soldier1</identifier>
+          <data>Bern|Name
+22|Class ID
+0|Gender
+7|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+0|Build Type
+-1|Con
+0|AI Priority
+101|AI Mission
+0, 33, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>18 18</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>Group3Soldier2</identifier>
+          <data>Bern|Name
+22|Class ID
+0|Gender
+7|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+0|Build Type
+-1|Con
+0|AI Priority
+101|AI Mission
+0, 33, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>21 15</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>Priest</identifier>
+          <data>Bern|Name
+38|Class ID
+0|Gender
+1|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+0|Build Type
+-1|Con
+0|AI Priority
+210|AI Mission
+0, 151, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>18 17</Key>
+        <Value>
+          <type>character</type>
+          <identifier>Sarathi</identifier>
+          <data>172|Actor ID
+2|Team
+25|AI Priority
+500|AI Mission
+</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>6 18</Key>
+        <Value>
+          <type>character</type>
+          <identifier>Anoleis</identifier>
+          <data>171|Actor ID
+2|Team
+25|AI Priority
+500|AI Mission
+</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>4 19</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>Group1Fighter1</identifier>
+          <data>Bern|Name
+24|Class ID
+0|Gender
+4|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+0|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 56, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 31, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>6 19</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>Group1Fighter2</identifier>
+          <data>Bern|Name
+24|Class ID
+0|Gender
+4|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+0|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 56, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 31, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+    </Units>
+    <Reinforcements>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Merc_Ilia|Name
+37|Class ID
+1|Gender
+8|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+103|AI Mission
+0, 33, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Bern|Name
+31|Class ID
+0|Gender
+9|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+0|Build Type
+-1|Con
+0|AI Priority
+103|AI Mission
+0, 38, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Merc_Ilia|Name
+37|Class ID
+1|Gender
+8|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+103|AI Mission
+0, 33, -1|Item 1
+0, 34, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+    </Reinforcements>
+  </Asset>
+</XnaContent>

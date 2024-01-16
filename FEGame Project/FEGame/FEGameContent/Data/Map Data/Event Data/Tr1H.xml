@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="FEXNA_Library.Map_Event_Data">
+    <Events>
+      <Item>
+        <name>Anoleis Reinforce</name>
+        <trigger>2</trigger>
+        <trigger_action>1</trigger_action>
+        <trigger_timing>1</trigger_timing>
+        <trigger_turn>4</trigger_turn>
+        <data>
+          <Item>
+            <Key>201</Key>
+            <Value>
+              <Item>Turn</Item>
+              <Item>4</Item>
+              <Item>1</Item>
+              <Item>-1</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>102</Key>
+            <Value>
+              <Item>Spawn Archers</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>6</Key>
+            <Value>
+              <Item>7</Item>
+              <Item>20</Item>
+              <Item>false</Item>
+              <Item>false</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>12</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>3</Key>
+            <Value>
+              <Item>10</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>21</Key>
+            <Value>
+              <Item>reinforcement</Item>
+              <Item>-1</Item>
+              <Item>7</Item>
+              <Item>23</Item>
+              <Item>2</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>11</Key>
+            <Value>
+              <Item>-1</Item>
+              <Item>7</Item>
+              <Item>20</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>12</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>3</Key>
+            <Value>
+              <Item>10</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>102</Key>
+            <Value>
+              <Item>End event after 2 spawns</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>201</Key>
+            <Value>
+              <Item>Turn</Item>
+              <Item>5</Item>
+              <Item>1</Item>
+              <Item>-1</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>250</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>204</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>204</Key>
+            <Value />
+          </Item>
+        </data>
+      </Item>
+    </Events>
+  </Asset>
+</XnaContent>

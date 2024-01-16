@@ -1,0 +1,596 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Generic="System.Collections.Generic">
+  <Asset Type="Generic:Dictionary[string,FEXNA_Library.Data_Generic_Actor]">
+    <Item>
+      <Key>Merc</Key>
+      <Value>
+        <Name>Merc</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>Some sellsword or whatever.</Description>
+        <BaseStats>0 0 0 0 0 0 0 0</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>Etruria</Key>
+      <Value>
+        <Name>Etruria</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>The rogue Etrurian third army, cut-
+throats and deserters rank and file.</Description>
+        <BaseStats>0 0 0 0 0 0 0 0</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>Merc_Bern</Key>
+      <Value>
+        <Name>Merc_Bern</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>A Bernite soldiering abroad
+for gold and glory.</Description>
+        <BaseStats>0 0 0 0 0 0 0 0</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>Merc_Ilia</Key>
+      <Value>
+        <Name>Merc_Ilia</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>One of Ilia's famed pegasus
+mercenaries, here to work.</Description>
+        <BaseStats>0 0 0 0 0 0 0 0</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>Merc_IliaM</Key>
+      <Value>
+        <Name>Merc_IliaM</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>An Ilian border guard
+using his skills abroad.</Description>
+        <BaseStats>0 0 0 0 0 0 0 0</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>Merc_Bern2</Key>
+      <Value>
+        <Name>Merc_Bern2</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>Assorted sellswords and killers
+from every corner of Elibe.</Description>
+        <BaseStats>0 0 0 0 0 0 0 0</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>Merc_Rebel</Key>
+      <Value>
+        <Name>Merc_Rebel</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>Assorted sellswords and killers
+from every corner of Elibe.</Description>
+        <BaseStats>0 0 0 0 0 0 0 0</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>Merc_Sacae</Key>
+      <Value>
+        <Name>Merc_Sacae</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>Assorted sellswords and killers
+from every corner of Elibe.</Description>
+        <BaseStats>0 0 0 0 0 0 0 0</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>Merc_Western</Key>
+      <Value>
+        <Name>Merc_Western</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>Assorted sellswords and killers
+from every corner of Elibe.</Description>
+        <BaseStats>0 0 0 0 0 0 0 0</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>Ostia</Key>
+      <Value>
+        <Name>Ostia</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>Soldiers of Ostia, the sovereign.
+Proud fighters of the League.</Description>
+        <BaseStats>0 0 0 0 0 0 0 0</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>Laus</Key>
+      <Value>
+        <Name>Laus</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>The loyal retinue of Marquess
+Laus, and his father before him.</Description>
+        <BaseStats>0 0 0 0 0 0 0 0</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>Thria</Key>
+      <Value>
+        <Name>Thria</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>A sortie of Thrian armored
+cavalry, holding to the last.</Description>
+        <BaseStats>0 0 0 0 0 0 0 0</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>Tania</Key>
+      <Value>
+        <Name>Tania</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>Church-knights of Tania
+and their loyal retainers.</Description>
+        <BaseStats>0 0 0 0 0 0 0 0</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>Bandit</Key>
+      <Value>
+        <Name>Bandit</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>Bandits staking out their turf.
+Loud, violent and probably drunk.</Description>
+        <BaseStats>0 0 0 0 0 0 0 0</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>Bandit_Falsaron</Key>
+      <Value>
+        <Name>Bandit_Falsaron</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>A vicious member of the
+roaming Falsaron bandits.</Description>
+        <BaseStats>0 0 0 0 0 0 0 0</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>Rebel</Key>
+      <Value>
+        <Name>Rebel</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>Consider themselves revolutionaries,
+but they are only as loyal as their pay.</Description>
+        <BaseStats>0 0 0 0 0 0 0 0</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>Pirate_Rebel</Key>
+      <Value>
+        <Name>Pirate_Rebel</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>A peculiar gang of pirates who
+operate along the Lycian rivers.</Description>
+        <BaseStats>0 0 0 0 0 0 0 0</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>Member</Key>
+      <Value>
+        <Name>Member</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>A clandestine task force
+made up of hardened killers.</Description>
+        <BaseStats>0 0 0 0 0 0 0 0</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>Killer</Key>
+      <Value>
+        <Name>Killer</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>Contracted murderers, bullies, and
+extortionists, happy to help.</Description>
+        <BaseStats>0 0 0 0 0 0 0 0</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>Traitor</Key>
+      <Value>
+        <Name>Traitor</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>Men on the city's payroll who take
+a little extra to turn a blind eye.</Description>
+        <BaseStats>0 0 0 0 0 0 0 0</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>Junior_Oldest</Key>
+      <Value>
+        <Name>Junior_Oldest</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>Bartfried Junior, the oldest
+and proudest of Bart's sons.</Description>
+        <BaseStats>0 0 0 0 0 0 0 0</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>Junior_Middle</Key>
+      <Value>
+        <Name>Junior_Middle</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>Bart Junior, the sulky and
+jealous middle child.</Description>
+        <BaseStats>0 0 0 0 0 0 0 0</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>Junior_Youngest</Key>
+      <Value>
+        <Name>Junior_Youngest</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>Fred Junior, Bart's beloved
+youngest child.</Description>
+        <BaseStats>0 0 0 0 0 0 0 0</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>Etruria_test</Key>
+      <Value>
+        <Name>Etruria_test</Name>
+        <MiniFaceName>wah</MiniFaceName>
+        <Description>this is not a description</Description>
+        <BaseStats>-3 -2 -1 1 2 3 4 5</BaseStats>
+        <Growths>-15 -10 -5 5 10 15 20</Growths>
+        <Skills>80 122</Skills>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Ash Clone</Key>
+      <Value>
+        <Name>Ash Clone</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>Clones of Ash.</Description>
+        <BaseStats>0 0 0 0 0 0 0 0</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>Hellion_1</Key>
+      <Value>
+        <Name>Hellion_1</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>Horrific creatures summoned by the
+Marcvirate. Not to be confused with
+a certain group.</Description>
+        <BaseStats>5 5 5 5 0 3 3 0</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>Marc_2</Key>
+      <Value>
+        <Name>Marc_2</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>Less powerful Marcs lead by the Marcvirate.</Description>
+        <BaseStats>0 0 0 0 0 0 0 0</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>Shady Dude_1</Key>
+      <Value>
+        <Name>Shady Dude_1</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>Some real shady people.</Description>
+        <BaseStats>0 0 0 0 0 0 0 0</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>Shady Lady_1</Key>
+      <Value>
+        <Name>Shady Lady_1</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>Some real shady people.</Description>
+        <BaseStats>0 0 0 0 0 0 0 0</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>Shady Dude_2</Key>
+      <Value>
+        <Name>Shady Dude_2</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>Some real shady people.</Description>
+        <BaseStats>0 0 0 0 0 0 0 0</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>Shady Dude_3</Key>
+      <Value>
+        <Name>Shady Dude_3</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>Some real shady people.</Description>
+        <BaseStats>0 0 0 0 0 0 0 0</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>Shady Lady_2</Key>
+      <Value>
+        <Name>Shady Lady_2</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>Some real shady people.</Description>
+        <BaseStats>0 0 0 0 0 0 0 0</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>Shady Lady_3</Key>
+      <Value>
+        <Name>Shady Lady_3</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>Some real shady people.</Description>
+        <BaseStats>0 0 0 0 0 0 0 0</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>Ciraxis Squad_1</Key>
+      <Value>
+        <Name>Ciraxis Squad_1</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>Totally the strongest.</Description>
+        <BaseStats>0 0 0 0 0 0 0 0</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>Ciraxis Squad_2</Key>
+      <Value>
+        <Name>Ciraxis Squad_2</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>Totally the strongest.</Description>
+        <BaseStats>0 0 0 0 0 0 0 0</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>Ciraxis Squad_3</Key>
+      <Value>
+        <Name>Ciraxis Squad_3</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>Totally the strongest.</Description>
+        <BaseStats>0 0 0 0 0 0 0 0</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>Hellion_2</Key>
+      <Value>
+        <Name>Hellion_2</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>Horrific creatures summoned by the
+Marcvirate. Not to be confused with
+a certain group.</Description>
+        <BaseStats>0 0 0 0 0 0 0 0</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>Hellion_3</Key>
+      <Value>
+        <Name>Hellion_3</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>Horrific creatures summoned by the
+Marcvirate. Not to be confused with
+a certain group.</Description>
+        <BaseStats>0 0 0 0 0 0 0 0</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>Hellion_4</Key>
+      <Value>
+        <Name>Hellion_4</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>Horrific creatures summoned by the
+Marcvirate. Not to be confused with
+a certain group.</Description>
+        <BaseStats>0 0 0 0 0 0 0 0</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>Ichi</Key>
+      <Value>
+        <Name>Ichi</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>One of the twelve Marclords.</Description>
+        <BaseStats>20 20 20 20 20 20 20 20</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>Ni</Key>
+      <Value>
+        <Name>Ni</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>One of the twelve Marclords.</Description>
+        <BaseStats>20 20 20 20 20 20 20 20</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>San</Key>
+      <Value>
+        <Name>San</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>One of the twelve Marclords.</Description>
+        <BaseStats>20 20 20 20 20 20 20 20</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>Shi</Key>
+      <Value>
+        <Name>Shi</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>One of the twelve Marclords.</Description>
+        <BaseStats>20 20 20 20 20 20 20 20</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>Go</Key>
+      <Value>
+        <Name>Go</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>One of the twelve Marclords.</Description>
+        <BaseStats>20 20 20 20 20 20 20 20</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>Roku</Key>
+      <Value>
+        <Name>Roku</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>One of the twelve Marclords.</Description>
+        <BaseStats>20 20 20 20 20 20 20 20</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>Nana</Key>
+      <Value>
+        <Name>Nana</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>One of the twelve Marclords.</Description>
+        <BaseStats>20 20 20 20 20 20 20 20</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>Hachi</Key>
+      <Value>
+        <Name>Hachi</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>One of the twelve Marclords.</Description>
+        <BaseStats>20 20 20 20 20 20 20 20</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>Kyu</Key>
+      <Value>
+        <Name>Kyu</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>One of the twelve Marclords.</Description>
+        <BaseStats>20 20 20 20 20 20 20 20</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>Ju</Key>
+      <Value>
+        <Name>Ju</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>One of the twelve Marclords.</Description>
+        <BaseStats>20 20 20 20 20 20 20 20</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>Ju Ichi</Key>
+      <Value>
+        <Name>Ju Ichi</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>One of the twelve Marclords.</Description>
+        <BaseStats>23 20 20 20 20 20 20 20</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>Ju Ni</Key>
+      <Value>
+        <Name>Ju Ni</Name>
+        <MiniFaceName></MiniFaceName>
+        <Description>One of the twelve Marclords.</Description>
+        <BaseStats>20 20 20 20 20 20 20 20</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <Skills />
+      </Value>
+    </Item>
+  </Asset>
+</XnaContent>

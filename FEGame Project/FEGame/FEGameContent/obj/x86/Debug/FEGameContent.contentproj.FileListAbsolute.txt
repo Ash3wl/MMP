@@ -1,0 +1,3 @@
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEGame\FEGameContent\obj\x86\Debug\FEGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\Liam\Desktop\MMP\FEGame Project\FEGame\FEGameContent\obj\x86\Debug\FEGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\Char\Desktop\MMP\FEGame Project\FEGame\FEGameContent\obj\x86\Debug\FEGameContent.contentprojResolveAssemblyReference.cache

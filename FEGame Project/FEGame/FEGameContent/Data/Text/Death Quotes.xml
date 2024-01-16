@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Generic="System.Collections.Generic">
+  <Asset Type="Generic:Dictionary[string,string]">
+    <Item>
+      <Key>Marc</Key>
+      <Value>\f[1|Marc]\s[1]\e[1|2]Damn it...\w[15]
+How did I screw this up?|</Value>
+    </Item>
+    <Item>
+      <Key>Reisen</Key>
+      <Value>\f[1|Reisen]\s[1]\e[1|1]..........|</Value>
+    </Item>
+    <Item>
+      <Key>Ash</Key>
+      <Value>\f[1|Ash]\s[1]\e[1|2]AGH!!\w[15] That freakin' hurts!|\scrollI'm sorry,\w[5] but...\w[15]I need a break.\w[10]
+I'll be back in a… f-few minutes...|</Value>
+    </Item>
+    <Item>
+      <Key>Ciraxis</Key>
+      <Value>\f[1|Ciraxis]\s[1]HNNNNNNNNNNNNNNNNNNNNNNG!|\w[15]\scrollMaybe...\w[15] I'll sit this one out.|</Value>
+    </Item>
+    <Item>
+      <Key>Char</Key>
+      <Value>\f[1|Char]\s[1]\e[1|2]...\w[15]Well that's not GREAT.\w[10]
+Guess I'll head out for now.|</Value>
+    </Item>
+    <Item>
+      <Key>Elise</Key>
+      <Value>\f[1|Elise_Convo]\s[1]\e[1|2]Owwwie!|\scrollI'm sorry everyone,\w[5] I've got
+to fall back for a bit.|</Value>
+    </Item>
+    <Item>
+      <Key>Avraxas</Key>
+      <Value>\f[1|Avraxas]\s[1]Ah...\w[15] Well,\w[5] it's no birthday burger,\w[5]
+but it might take me a while to
+recover from this...|</Value>
+    </Item>
+    <Item>
+      <Key>Olivia</Key>
+      <Value>\f[1|Olivia]\s[1]Ohh no,\w[5] I knew this would happen...\w[15]
+I hope I can do more in the next scene...|</Value>
+    </Item>
+    <Item>
+      <Key>Purt</Key>
+      <Value>\f[1|Purt]\s[1]\e[1|2]What?\w[15] Fuck,\w[5] my glasses just
+cracked.|\scrollI can't fight like this,\w[5] guys.\w[10]
+I need to get another pair...|</Value>
+    </Item>
+    <Item>
+      <Key>Wolfram</Key>
+      <Value>\f[1|Wolfram]\s[1]\e[1|4]This...\w[15]can't be right.\w[10] How did I…?\w[15]
+Guys,\w[5] I… will need a...\w[15]moment.|\scroll\e[1|2]Ow.......|</Value>
+    </Item>
+    <Item>
+      <Key>Smilies</Key>
+      <Value>\f[1|Smilies]\s[1]Gotta go out with a s--
+Actually,\w[5] no.\w[10] Let's not.\w[10]
+I'm not saying it.|</Value>
+    </Item>
+    <Item>
+      <Key>R.S</Key>
+      <Value>\f[1|RS]\s[1]Th-this was...\w[15] quite the
+oversight on my part.|</Value>
+    </Item>
+    <Item>
+      <Key>Vandal</Key>
+      <Value>\f[1|Vandal]\s[1]You...\w[15]you beat me!\w[15]
+How can this be?|\scrollURGGH...|</Value>
+    </Item>
+    <Item>
+      <Key>Matthew</Key>
+      <Value>\f[1|Matthew]\s[1]Wh-whoa,\w[5] that one really...\w[15]
+I don't feel so good all of
+a sudden...|</Value>
+    </Item>
+    <Item>
+      <Key>Ephraim</Key>
+      <Value>\f[1|Ephraim]\s[1]That one really got me there...\w[15]
+I'll...\w[15] be right back.|</Value>
+    </Item>
+    <Item>
+      <Key>Set</Key>
+      <Value>\f[1|Set]\s[1]Ah...\w[15] I guess I'm...\w[15]
+Not cut out for this,\w[5] after all...|</Value>
+    </Item>
+    <Item>
+      <Key>Hiro</Key>
+      <Value>\f[1|Hiro]\s[1]This won't do!\w[15]\scrollI'm going to retreat for a while in
+preparation for,\w[5] uh,\w[5] a heroic return!|</Value>
+    </Item>
+    <Item>
+      <Key>Phantom</Key>
+      <Value>\f[1|Phantom]\s[1]..........|</Value>
+    </Item>
+    <Item>
+      <Key>Gertrude</Key>
+      <Value>\f[1|Gertrude]\s[1]Aw shucks,\w[5] that just won't do!\w[15]
+I'll be back in a jiffy.|</Value>
+    </Item>
+    <Item>
+      <Key>Mofobolokonomor</Key>
+      <Value>\f[1|Mofobolokonomor]\s[1]\e[1|1]Why.|</Value>
+    </Item>
+    <Item>
+      <Key>Sepour</Key>
+      <Value>\f[1|Sepour]\s[1]\e[1|2]...\w[15]Oh.\w[10] Well,\w[5] that's okay,\w[5]
+\e[1|0]I'll see you all later then!|\w[15]</Value>
+    </Item>
+    <Item>
+      <Key>Bob</Key>
+      <Value>\f[1|Bob]\s[1]Mark,\w[5] I need to go.\w[10]
+brb|</Value>
+    </Item>
+    <Item>
+      <Key>Mari</Key>
+      <Value>\f[1|Mari]\s[1]chinken nunget|</Value>
+    </Item>
+    <Item>
+      <Key>Salamede</Key>
+      <Value>\f[1|Salamede]\s[1]Why...?|\scrollI just wanted to...\w[15]
+buy things this time...|</Value>
+    </Item>
+    <Item>
+      <Key>Dealer</Key>
+      <Value>\f[1|Dealer]\s[1]Hey!\w[15] What are you doing?!\w[15]
+Let go of me!|</Value>
+    </Item>
+    <Item>
+      <Key>Emil</Key>
+      <Value>\f[1|Emil]\s[1]You're...\w[15] you're...\w[15]him...\w[15] aren't you?\w[15]
+...\w[15]Marky...\w[15]Joe...\w[15]Heh...\w[15]Heheh....|\scrollHAHAHAHA!!!\w[15] GKK!!|</Value>
+    </Item>
+    <Item>
+      <Key>Sketchy Guy</Key>
+      <Value>\f[1|Sketchy Guy]\s[1]PLEASE NO!\w[15]
+DON'T DO THIS!!!|</Value>
+    </Item>
+    <Item>
+      <Key>Torlo</Key>
+      <Value>\f[1|Torlo]\s[1]\e[1|2]Goddamn it...\w[15]
+How did I fuck this shit up?|</Value>
+    </Item>
+    <Item>
+      <Key>SnarkyFoe</Key>
+      <Value>\f[1|SnarkyFoe]\s[1]*I* sH*oU*LD hAVe W*aiII*iIttttE*D*a
+bit..Lo*OnGGr*rrrrr*RHG*HGghhsdj834c8nr*yods8*dy|
+8dy8nr83cr*7wudw8n ww*n98wn8 w--</Value>
+    </Item>
+    <Item>
+      <Key>GlitchyJoe</Key>
+      <Value>\f[1|GlitchyJoe]\s[1]......................................................................|\scrollytgf0rfRossFGH81ygeDFG;\w[5]eMCfgb
+nAlusqmhgf&amp;ertQAshpulol2mhgf
+e4R679IJKwqSmilies4WQoiouBC9
+TPerDarrU736ugHD3NBly8L9Q0M
+</Value>
+    </Item>
+    <Item>
+      <Key>Mark</Key>
+      <Value>\f[1|Mark]\s[1]...\w[15]Guhh!!\w[15] GrimaJoe...\w[15]y-you...|</Value>
+    </Item>
+    <Item>
+      <Key>David</Key>
+      <Value>\f[1|David]\s[1]Just...\w[15]how...?\w[15]
+Is this truly your power?|</Value>
+    </Item>
+    <Item>
+      <Key>GrimaJoe_2</Key>
+      <Value>\f[2|GrimaJoe_2]\s[-1]すお れおぬぎ あす るあぎえ れいひえす いぬ
+てへえ へえあるて おふ むあるし \w[5] い すへあれれ--|</Value>
+    </Item>
+  </Asset>
+</XnaContent>

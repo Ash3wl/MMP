@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="FEXNA_Library.Map_Unit_Data">
+    <Units>
+      <Item>
+        <Key>6 9</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Gladiator|Name
+22|Class ID
+0|Gender
+1|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+0|Build Type
+-1|Con
+0|AI Priority
+303|AI Mission
+0, 38, 30|Item 1
+0, 0, 0|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+0, 71, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>5 8</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Gladiator|Name
+31|Class ID
+0|Gender
+1|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+0|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 38, 30|Item 1
+0, 0, 0|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+0, 71, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>19 4</Key>
+        <Value>
+          <type>character</type>
+          <identifier>Beck</identifier>
+          <data>173|Actor ID
+2|Team
+0|AI Priority
+0|AI Mission</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>18 20</Key>
+        <Value>
+          <type>character</type>
+          <identifier></identifier>
+          <data>1|Actor ID
+1|Team
+0|AI Priority
+0|AI Mission</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>19 5</Key>
+        <Value>
+          <type>character</type>
+          <identifier>Sarathi</identifier>
+          <data>172|Actor ID
+2|Team
+0|AI Priority
+0|AI Mission</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>19 6</Key>
+        <Value>
+          <type>character</type>
+          <identifier>Anoleis</identifier>
+          <data>171|Actor ID
+2|Team
+0|AI Priority
+0|AI Mission</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>19 20</Key>
+        <Value>
+          <type>character</type>
+          <identifier></identifier>
+          <data>101|Actor ID
+1|Team
+0|AI Priority
+0|AI Mission</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>6 7</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Gladiator|Name
+31|Class ID
+0|Gender
+1|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+0|Build Type
+-1|Con
+0|AI Priority
+103|AI Mission
+0, 38, 30|Item 1
+0, 0, 0|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+0, 71, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>5 10</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Gladiator|Name
+22|Class ID
+0|Gender
+1|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+0|Build Type
+-1|Con
+0|AI Priority
+203|AI Mission
+0, 38, 30|Item 1
+0, 0, 0|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+0, 71, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+    </Units>
+    <Reinforcements />
+  </Asset>
+</XnaContent>

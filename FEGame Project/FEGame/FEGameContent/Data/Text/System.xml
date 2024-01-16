@@ -1,0 +1,496 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Generic="System.Collections.Generic">
+  <Asset Type="Generic:Dictionary[string,string]">
+    <Item>
+      <Key>Status Help Lvl</Key>
+      <Value>Unit level, a measure of growth.
+The max level is LVL_CAP.</Value>
+    </Item>
+    <Item>
+      <Key>Status Help Exp</Key>
+      <Value>Experience points gained. Gain
+100 points to earn a new level.</Value>
+    </Item>
+    <Item>
+      <Key>Status Help Hp</Key>
+      <Value>Unit hit points. The unit loses
+consciousness if this reaches 0.</Value>
+    </Item>
+    <Item>
+      <Key>Status Help Lives</Key>
+      <Value>Chances a unit has to live
+before they are lost forever.</Value>
+    </Item>
+    <Item>
+      <Key>Status Help Atk</Key>
+      <Value>Amount of damage this weapon
+causes. Affected by defenses.</Value>
+    </Item>
+    <Item>
+      <Key>Status Help Hit</Key>
+      <Value>Chance that the attack will hit.
+Affected by terrain and enemies.</Value>
+    </Item>
+    <Item>
+      <Key>Status Help Dodge</Key>
+      <Value>Ability to escape critical hits.
+Affects enemy's crit %.</Value>
+    </Item>
+    <Item>
+      <Key>Status Help Range</Key>
+      <Value>Weapon Range. A range of 1
+can only hit adjacent spaces.</Value>
+    </Item>
+    <Item>
+      <Key>Status Help Crit</Key>
+      <Value>Chance the weapon will strike a
+critical blow, doing triple damage.</Value>
+    </Item>
+    <Item>
+      <Key>Status Help Avoid</Key>
+      <Value>Ability to evade enemy attacks.
+Affects enemy's hit%.</Value>
+    </Item>
+    <Item>
+      <Key>Status Help AS</Key>
+      <Value>Ability to attack quickly. High
+attack speed allows double attacks.</Value>
+    </Item>
+    <Item>
+      <Key>Status Help Str</Key>
+      <Value>Strength. The higher the number,
+the more damage you inflict.</Value>
+    </Item>
+    <Item>
+      <Key>Status Help Mag</Key>
+      <Value>Magical power. Increases spell
+damage and staff range.</Value>
+    </Item>
+    <Item>
+      <Key>Status Help Pow</Key>
+      <Value>Power. The higher the number,
+the more damage you inflict.</Value>
+    </Item>
+    <Item>
+      <Key>Status Help Skl</Key>
+      <Value>Fighting skill. A higher number
+improves your hit % and crit %.</Value>
+    </Item>
+    <Item>
+      <Key>Status Help Spd</Key>
+      <Value>Speed. This affects both
+evasion and attacks.</Value>
+    </Item>
+    <Item>
+      <Key>Status Help Lck</Key>
+      <Value>Luck. This affects many
+different things.</Value>
+    </Item>
+    <Item>
+      <Key>Status Help Def</Key>
+      <Value>Defensive skill. Reduces
+damage from weapons.</Value>
+    </Item>
+    <Item>
+      <Key>Status Help Res</Key>
+      <Value>Magical resistance. Reduces damage
+from magic and empowers healing.</Value>
+    </Item>
+    <Item>
+      <Key>Status Help Move</Key>
+      <Value>Movement. The normal distance
+you can cross in one turn.</Value>
+    </Item>
+    <Item>
+      <Key>Status Help Con</Key>
+      <Value>Constitution, or physical size.
+Affects wield capacity and rescues.</Value>
+    </Item>
+    <Item>
+      <Key>Status Help Aid</Key>
+      <Value>Max rescuing constitution. Units
+with lower Cons can be rescued.</Value>
+    </Item>
+    <Item>
+      <Key>Status Help Trv</Key>
+      <Value>Traveler. The name of the unit
+with whom this unit is traveling.</Value>
+    </Item>
+    <Item>
+      <Key>Status Help Affin</Key>
+      <Value>Elemental affinity. Determines
+compatibility with other units.</Value>
+    </Item>
+    <Item>
+      <Key>Status Help Rating</Key>
+      <Value>Unit rating. The sum of the unit's
+stats for rough comparisons.</Value>
+    </Item>
+    <Item>
+      <Key>Status Help Type</Key>
+      <Value>Class archetypes. Determines
+talents and weaknesses.</Value>
+    </Item>
+    <Item>
+      <Key>Status Help Sword</Key>
+      <Value>Sword mastery level. Affects
+which weapons you can wield.</Value>
+    </Item>
+    <Item>
+      <Key>Status Help Lance</Key>
+      <Value>Lance mastery level. Affects
+which weapons you can wield.</Value>
+    </Item>
+    <Item>
+      <Key>Status Help Axe</Key>
+      <Value>Axe mastery level. Affects
+which weapons you can wield.</Value>
+    </Item>
+    <Item>
+      <Key>Status Help Bow</Key>
+      <Value>Bow mastery level. Affects
+which weapons you can wield.</Value>
+    </Item>
+    <Item>
+      <Key>Status Help Fire</Key>
+      <Value>Fire magic mastery level.
+Affects which tomes you can wield.</Value>
+    </Item>
+    <Item>
+      <Key>Status Help Thund</Key>
+      <Value>Thunder magic mastery level.
+Affects which tomes you can wield.</Value>
+    </Item>
+    <Item>
+      <Key>Status Help Wind</Key>
+      <Value>Wind magic mastery level.
+Affects which tomes you can wield.</Value>
+    </Item>
+    <Item>
+      <Key>Status Help Light</Key>
+      <Value>Light magic mastery level.
+Affects which tomes you can wield.</Value>
+    </Item>
+    <Item>
+      <Key>Status Help Elder</Key>
+      <Value>Dark magic mastery level.
+Affects which tomes you can wield.</Value>
+    </Item>
+    <Item>
+      <Key>Status Help Staff</Key>
+      <Value>Staff mastery level. Affects
+which staves you can wield.</Value>
+    </Item>
+    <Item>
+      <Key>Status Help Cond</Key>
+      <Value>Physical condition.
+Default is normal.</Value>
+    </Item>
+    <Item>
+      <Key>Status Help Bond</Key>
+      <Value>The person this unit shares
+a deep bond with.</Value>
+    </Item>
+    <Item>
+      <Key>Status Help BAtk</Key>
+      <Value>Bonus to damage from supports.</Value>
+    </Item>
+    <Item>
+      <Key>Status Help BHit</Key>
+      <Value>Bonus to hit from supports.</Value>
+    </Item>
+    <Item>
+      <Key>Status Help BCrt</Key>
+      <Value>Bonus to critical from supports.</Value>
+    </Item>
+    <Item>
+      <Key>Status Help BDef</Key>
+      <Value>Bonus to defenses from supports.</Value>
+    </Item>
+    <Item>
+      <Key>Status Help BAvo</Key>
+      <Value>Bonus to avoid from supports.</Value>
+    </Item>
+    <Item>
+      <Key>Status Help BDod</Key>
+      <Value>Bonus to dodge from supports.</Value>
+    </Item>
+    <Item>
+      <Key>Unit Help Name</Key>
+      <Value>Name of the unit.</Value>
+    </Item>
+    <Item>
+      <Key>Unit Help Class</Key>
+      <Value>The unit's class. Each class
+possesses unique traits.</Value>
+    </Item>
+    <Item>
+      <Key>Unit Help Lvl</Key>
+      <Value>Unit level, a measure of growth.
+The max level is LVL_CAP.</Value>
+    </Item>
+    <Item>
+      <Key>Unit Help Exp</Key>
+      <Value>Experience points gained. Gain
+100 points to earn a new level.</Value>
+    </Item>
+    <Item>
+      <Key>Unit Help HP</Key>
+      <Value>Unit hit points. The unit loses
+consciousness if this reaches 0.</Value>
+    </Item>
+    <Item>
+      <Key>Unit Help Max</Key>
+      <Value>Current maximum HP.</Value>
+    </Item>
+    <Item>
+      <Key>Unit Help Affin</Key>
+      <Value>Elemental affinity. Determines
+compatibility with other units.</Value>
+    </Item>
+    <Item>
+      <Key>Unit Help Cond</Key>
+      <Value>Physical condition.
+Default is normal.</Value>
+    </Item>
+    <Item>
+      <Key>Unit Help Pow</Key>
+      <Value>Power. The higher the number,
+the more damage you inflict.</Value>
+    </Item>
+    <Item>
+      <Key>Unit Help Skl</Key>
+      <Value>Fighting skill. A higher number
+improves your hit % and crit %.</Value>
+    </Item>
+    <Item>
+      <Key>Unit Help Spd</Key>
+      <Value>Speed. This affects both
+evasion and attacks.</Value>
+    </Item>
+    <Item>
+      <Key>Unit Help Luck</Key>
+      <Value>Luck. This affects many
+different things.</Value>
+    </Item>
+    <Item>
+      <Key>Unit Help Def</Key>
+      <Value>Defensive skill. Reduces
+damage from weapons.</Value>
+    </Item>
+    <Item>
+      <Key>Unit Help Res</Key>
+      <Value>Magical resistance. Reduces damage
+from magic and empowers healing.</Value>
+    </Item>
+    <Item>
+      <Key>Unit Help Move</Key>
+      <Value>Movement. The normal distance
+you can cross in one turn.</Value>
+    </Item>
+    <Item>
+      <Key>Unit Help Con</Key>
+      <Value>Constitution, or physical size.
+Affects wield capacity and rescues.</Value>
+    </Item>
+    <Item>
+      <Key>Unit Help Aid</Key>
+      <Value>Max rescuing constitution. Units
+with lower Cons can be rescued.</Value>
+    </Item>
+    <Item>
+      <Key>Unit Help Equip</Key>
+      <Value>Carried equipment and items.</Value>
+    </Item>
+    <Item>
+      <Key>Unit Help Skills</Key>
+      <Value>Skills and abilities possessed.</Value>
+    </Item>
+    <Item>
+      <Key>Unit Help Atk</Key>
+      <Value>Amount of damage this weapon
+causes. Affected by defenses.</Value>
+    </Item>
+    <Item>
+      <Key>Unit Help Hit</Key>
+      <Value>Chance that the attack will hit.
+Affected by terrain and enemies.</Value>
+    </Item>
+    <Item>
+      <Key>Unit Help Avoid</Key>
+      <Value>Ability to evade enemy attacks.
+Affects enemy's hit%.</Value>
+    </Item>
+    <Item>
+      <Key>Unit Help Crit</Key>
+      <Value>Chance the weapon will strike a
+critical blow, doing triple damage.</Value>
+    </Item>
+    <Item>
+      <Key>Unit Help Dod</Key>
+      <Value>Ability to escape critical hits.
+Affects enemy's crit %.</Value>
+    </Item>
+    <Item>
+      <Key>Unit Help AS</Key>
+      <Value>Ability to attack quickly. High
+attack speed allows double attacks.</Value>
+    </Item>
+    <Item>
+      <Key>Unit Help Rng</Key>
+      <Value>Weapon Range. A range of 1
+can only hit adjacent spaces.</Value>
+    </Item>
+    <Item>
+      <Key>Unit Help WType1</Key>
+      <Value>Sword mastery level. Affects
+which weapons you can wield.</Value>
+    </Item>
+    <Item>
+      <Key>Unit Help WType2</Key>
+      <Value>Lance mastery level. Affects
+which weapons you can wield.</Value>
+    </Item>
+    <Item>
+      <Key>Unit Help WType3</Key>
+      <Value>Axe mastery level. Affects
+which weapons you can wield.</Value>
+    </Item>
+    <Item>
+      <Key>Unit Help WType4</Key>
+      <Value>Bow mastery level. Affects
+which weapons you can wield.</Value>
+    </Item>
+    <Item>
+      <Key>Unit Help WType5</Key>
+      <Value>Fire magic mastery level.
+Affects which tomes you can wield.</Value>
+    </Item>
+    <Item>
+      <Key>Unit Help WType6</Key>
+      <Value>Thunder magic mastery level.
+Affects which tomes you can wield.</Value>
+    </Item>
+    <Item>
+      <Key>Unit Help WType7</Key>
+      <Value>Wind magic mastery level.
+Affects which tomes you can wield.</Value>
+    </Item>
+    <Item>
+      <Key>Unit Help WType8</Key>
+      <Value>Light magic mastery level.
+Affects which tomes you can wield.</Value>
+    </Item>
+    <Item>
+      <Key>Unit Help WType9</Key>
+      <Value>Dark magic mastery level.
+Affects which tomes you can wield.</Value>
+    </Item>
+    <Item>
+      <Key>Unit Help WType10</Key>
+      <Value>Staff mastery level. Affects
+which staves you can wield.</Value>
+    </Item>
+    <Item>
+      <Key>Unit Help Ally</Key>
+      <Value>Available support partners.</Value>
+    </Item>
+    <Item>
+      <Key>Unit Help Anim</Key>
+      <Value>Only units with animation turned
+on can perform combat animation.</Value>
+    </Item>
+    <Item>
+      <Key>Prep Pick Units</Key>
+      <Value>Select which units to
+field this battle. The
+number is limited, but
+the main character
+must be in your party.</Value>
+    </Item>
+    <Item>
+      <Key>Prep Items</Key>
+      <Value>Manage your units'
+items. Item names
+that appear in grey
+cannot be used by
+that unit.</Value>
+    </Item>
+    <Item>
+      <Key>Prep Fortune</Key>
+      <Value>Consult with the fortune-
+teller for advice on the
+coming battle.</Value>
+    </Item>
+    <Item>
+      <Key>Prep Check Map</Key>
+      <Value>View the map. Check
+the number and type of
+enemies. Also, check for
+shops and change your
+allies' starting positions.</Value>
+    </Item>
+    <Item>
+      <Key>Prep Save</Key>
+      <Value>Save any changed
+information as a
+temporary checkpoint.</Value>
+    </Item>
+    <Item>
+      <Key>Prep Support</Key>
+      <Value>Strengthen the
+friendships within
+your army for better
+team synergy.</Value>
+    </Item>
+    <Item>
+      <Key>Prep Talk</Key>
+      <Value>Review conversations
+held around the camp.
+May provide items and
+other such bonuses.</Value>
+    </Item>
+    <Item>
+      <Key>Prep Codex</Key>
+      <Value>This command cannot be
+used at this time.</Value>
+    </Item>
+    <Item>
+      <Key>Prep Options</Key>
+      <Value>Configure game settings
+such as animation, text
+speed, and interfaces.</Value>
+    </Item>
+    <Item>
+      <Key>Prep Disabled</Key>
+      <Value>This command cannot be
+used at this time.</Value>
+    </Item>
+    <Item>
+      <Key>Style Casual</Key>
+      <Value>NOPE PLAY CLASSIC</Value>
+    </Item>
+    <Item>
+      <Key>Style Standard</Key>
+      <Value>NOPE PLAY CLASSIC</Value>
+    </Item>
+    <Item>
+      <Key>Style Classic</Key>
+      <Value>PLAY THIS MODE until i disable the others</Value>
+    </Item>
+    <Item>
+      <Key>Difficulty Normal</Key>
+      <Value>Play the game. Do this for first-timers.
+Seriously. Even for Ragefest. Do this.</Value>
+    </Item>
+    <Item>
+      <Key>Difficulty Hard</Key>
+      <Value>Actually, I'm not sure this mode even works.</Value>
+    </Item>
+    <Item>
+      <Key>Difficulty Lunatic</Key>
+      <Value>Test yourself against the might of an overpowering
+foe and prove your worth as a tactician.</Value>
+    </Item>
+  </Asset>
+</XnaContent>

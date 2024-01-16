@@ -1,0 +1,4 @@
+C:\Users\Char\Desktop\MMP\FEGame - 2017.4.16\FEGame\FEGameContent\obj\x86\Release\FEGameContent.contentprojResolveAssemblyReference.cache
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame - 2017.4.16\FEGame\FEGameContent\obj\x86\Release\FEGameContent.contentprojResolveAssemblyReference.cache
+D:\Documents\ROMbackup\MarcsMOREPrecious\MMP\FEGame Project\FEGame\FEGameContent\obj\x86\Release\FEGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\Char\Desktop\MMP\FEGame Project\FEGame\FEGameContent\obj\x86\Release\FEGameContent.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,350 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Generic="System.Collections.Generic">
+  <Asset Type="Generic:Dictionary[string,string]">
+    <Item>
+      <Key>Part2-Scene1</Key>
+      <Value>\music[KickTheButler]\f[4|Marc]\f[2|David]\e[4|2]\g[UndergroundHall]\s[4]\x[100]--t?\w[15] \e[4|0]\wait[10]......|\scroll\e[4|2]......|\s[-1]\x[100]He made it,\w[5] good.\w[10]
+What about the rest?|\s[2]\x[100]Delay.\w[10] Gives us time
+to rough him up.|\s[-2]\f[0|GrimaJoe]\m[0|1]\wait[2]\s[1]\x[100]\e[1|1]Why hello there Marc,\w[5]
+good to see you.|\s[4]\x[100]Wait,\w[5] who are you?|\s[1]\x[100]\e[1|0]Did you forget already?|\s[-2]\m[1|3]\wait[2]\s[4]\x[100]......\w[15]I'm sorry,\w[5] what?|
+Apart from looking like me with a crude palette
+adjustment,\w[5] I don't recognize you at all.|\s[3]\x[100]Remember me,\w[5] GrimaJoe?\w[15] The deep and
+compelling antagonist from [Title Here]?|\s[4]\x[100]Uhhh...|\s[3]\x[100]BLEH!\w[15] \m[3|3]\wait[2]\e[3|1]It doesn't matter!\w[15] There's
+nothing you can do now.|\s[-2]\f[0|SnarkyFoe]\m[0|1]\wait[2]\s[1]\x[100]A good day for revenge,\w[5]
+wouldn't you say Marc?|\s[4]\x[100]SnarkyJoe?|\s[1]\x[100]No,\m[1|1]\w[7] *I* am SnarkyFoe!!\w[15]|
+THE OVERLORD OF THE--\wait[15]\s[-1]\x[100]You don't have to give him
+the speech,\w[5] Snarky.|\s[-2]\f[7|Mark]\m[7|6]\wait[2]\e[4|6]\s[6]\x[100]I'm sure he remembers now.|\s[4]\x[100]Another me?\w[15]\e[4|2] Again?\w[15]
+...Seriously?\w[15]|\s[6]\x[100]Hey.\e[6|1]\wait[10] It's me,\w[5] MarkyJoe.\wait[10]
+\e[4|6]Here...\w[15] to entertain you.\w[10]
+Yes.\w[10] It is my show,\w[5] it exists.|
+I don't know what I--\s[4]\x[100]\e[4|2]\r[4]SHUT THE FUCK UP!|
+That's MY intro!|\s[6]\x[100]HAH!\w[15] Hardly!|
+The fools who follow you
+cannot tell you from me!|\scrollI AM MARK!\w[15] With a K!\m[6|6]\w[15]
+Basically,\w[5] I am YOU!|\r[4]\s[4]\x[100]Yeah,\w[5] so is everyone,\w[5]
+apparently.|\s[1]\x[100]Zahahahah,\w[5] yes.\w[10] Mark, here,
+has been posing as you,\w[5] the
+same way *I* once had.|\scrollThey're all oh so gullible.|\s[4]\x[100]This explains Avraxas and Purt,
+among many others.|\w[10]\scrollWhen we first met they claimed
+to have met me beforehand.|\s[6]\x[100]\e[4|6]Precisely.|\s[4]\x[100]\e[4|2]Did you warp me here just to taunt
+and try to overpower me?|\scrollOkay,\w[5] so,\w[5] you got me here.\w[10]
+What's your endgame?|\s[3]\x[100]No,\w[5] we have a much better
+plan,\w[5] BEHOLD!|</Value>
+    </Item>
+    <Item>
+      <Key>Part2-Scene1-2</Key>
+      <Value>\g[GrimaJoePointsToOven]\wait[30]\name[-3|Marc]\s[-3]\x[100]Is that an easy bake oven?|\s[-2]\name[-3|SnarkyFoe]\s[-3]\x[100]*It* is the legendary Rage Oven! A cooking
+apparatus that feeds off of Marc rage
+energy.|\s[-2]\name[-3|Mark]\s[-3]\x[100]Within the Oven,\w[5] bakes the *Ultimate Bread*!|\scrollOnce we've harnessed enough rage energy
+from our battle,\w[5] it will finally be completed.|\s[-2]\name[-3|Marc]\s[-3]\x[100]Are you guys serious? All this fucking
+nonsense for some stupid bread?|\s[-2]\name[-3|Mark]\s[-3]\x[100]W-what?\w[15] How dare you say that!\w[15] You
+simply don't understand our genius.|\scrollI assembled all the Marcs I know of into
+this one room;\w[5] the amount of Rage energy
+here is palpable!|\s[-2]\name[-3|David]\s[-3]\x[100]Legends speak of the incredible power the
+bread bestows upon the ones who eat it;\w[5]|
+using this power, the Marcvirate will
+rule the world!|\s[-2]\name[-3|GrimaJoe]\s[-3]\x[100]Or...\w[15]something like that.|\s[-2]</Value>
+    </Item>
+    <Item>
+      <Key>Part2-Scene1-3</Key>
+      <Value>\f[2|David]\f[3|GrimaJoe]\f[1|SnarkyFoe]\f[5|GlitchyJoe]\e[5|1]\f[4|Marc]\f[6|Mark]\e[4|2]\e[3|1]\e[6|1]\g[UndergroundHall]\wait[30]\e[4|6]\wait[30]\s[5]\x[100]....|\s[3]\x[100]\e[3|0]\e[4|2]\e[6|0]...\w[15]What is he doing here?|\s[2]\x[100]Wasn't he supposed to keep
+the others occupied?|\scrollGuess we ran out of time.|\s[4]\x[100]You were monologuing for
+too long,\w[5] dipshits.|</Value>
+    </Item>
+    <Item>
+      <Key>Part2-Scene2</Key>
+      <Value>\f[3|Marc]\f[7|Reisen]\g[UndergroundHall]\m[7|5]\wait[2]\s[5]\x[100]Marc! I--\s[-2]\f[7|Ciraxis]\m[7|5]\m[5|6]\s[6]\x[100]Don't let her speak!
+Marc will just complain about
+her characterization.|\s[-2]\f[7|nil]\f[4|Ash]\f[0|Char]\s[4]\x[100]Marc, are you alright?|\s[3]\x[100]Hey, guys. I'm fine.|\s[-2]\f[1|GrimaJoe]\wait[2]\s[1]\x[100]Hmm, I can work with this.|\s[4]\x[100]GrimaJoe? Jeez, haven't seen
+that dude in a while.|\scrollSEE, Ciraxis?
+I told you he'd pop up.|\s[6]\x[100]Figures, it's always something.|\s[-2]\s[4]\x[100]\e[3|3]\r[4]I'll be honest, he was kinda annoying.
+I don't blame you for not wanting to
+bother with it, after all.|\s[3]\x[100]Are you two going to
+stand and chat too?|\r[4]\s[6]\x[100]I do as I please,
+don't rush me.|\s[4]\x[100]Oh. So, how do we do this?\e[3|2]
+We go over there and those
+guys over there?|\scrollOr... uh, do we just start slashing
+at each other or something?|\s[3]\x[100]I guess we need to turn that oven off,
+these guys are trying to bake some sort
+of bread or something.|\m[0|2]\wait[2]\s[-2]\s[2]\x[100]I like bread.|\s[1]\x[100]The door to the Rage Oven isn't opening
+unless all the Marcs have fallen, which is
+\e[1|1]hardly something you could do.|\scrollBest of luck though.|\s[-2]\f[1|nil]\wait[15]</Value>
+    </Item>
+    <Item>
+      <Key>Part2-Scene2-2</Key>
+      <Value>\f[2|David]\f[1|SnarkyFoe]\f[5|GlitchyJoe]\e[5|1]\f[6|Mark]\g[UndergroundHall]\s[6]\x[100]What a bunch of fucking horseshit!\m[6|6]
+They aren't taking us seriously at all.|\s[2]\x[100]Continue regardless. Just
+summon the Necrodragons.|\s[6]\x[100]Might as well.|</Value>
+    </Item>
+    <Item>
+      <Key>Part2-Scene2-3</Key>
+      <Value>\f[3|Marc]\f[6|Ciraxis]\f[2|Char]\f[4|Ash]\g[UndergroundHall]\s[3]\x[100]\e[3|6]Necrodragons? What kind
+\e[4|2]of Gaiden fanboy calls them
+something like that?|\e[3|2]\scrollIn any case... Let's retreat
+and come up with a plan.|
+Come on, guys.|</Value>
+    </Item>
+    <Item>
+      <Key>Part2-Scene3</Key>
+      <Value>\f[5|Marc]\f[3|Shady Dude_3]\f[2|Shady Dude_2]\f[1|Shady Dude_1]\g[UndergroundHall]\s[3]\x[100]Commander!|\s[5]\x[100]Oh,\w[5] you guys were warped
+here too?|\s[3]\x[100]Yes,\w[5] we were,\w[5] sir.|\scrollWe wish to lend you our support.\w[10]
+Take these.|\s[-2]\s[3]\x[100]We will provide you with extra basic
+weaponry. I must also mention that a
+merchant was brought alongside us,|
+as well,\w[5] Commander.|\s[5]\x[100]Thanks.\w[10] Now go get prepared.|\s[3]\x[100]Yes,\w[5] Commander.|\w[10]\s[-2]\f[3|nil]\wait[2]\f[2|nil]\wait[2]\f[1|nil]\wait[2]\f[2|Char]\wait[2]\s[5]\x[100]Char?\w[15] Is something up?|\s[2]\x[100]Um,\w[5] I was thinking,\w[5] you know how it's usually
+like,\w[5] right before the final fight,\w[5] the hero gets
+some massive boost from the power of...\w[15] L...\wait[10]\e[2|2]L...|\s[5]\x[100]\e[5|3]Love?|\s[2]\x[100]\e[2|0]Yeah.\w[10] Usually.\w[10] But...|\scroll\wait[2]What about the power of...\wait[5]\e[2|3]\wait[10] \e[2|0]\m[2|2]Lust.\w[10]
+We can probably get plenty of
+that out of those hair mags.|\s[5]\x[100]\e[5|2]What.|\scrollHell no!\w[15] \e[2|0]I'm not giving you
+guys my hair magazines!|\scrollThey're not meant for such
+degrading thoughts.|\s[2]\x[100]Dunno ‘bout you,\w[5] but I'd rather have degrading
+thoughts than degrading flesh.
+I'd at least give it a try.|\s[5]\x[100]\e[5|6]...Fuck it.\w[15]\e[5|2] You guys have seen them
+already anyways.\w[10] Just be careful.|</Value>
+    </Item>
+    <Item>
+      <Key>GrimaJoeLeaves</Key>
+      <Value>\f[4|GrimaJoe]\name[4|GrimaJoe]\s[4]\x[100]Cough cough,\w[5] oh dear,\w[5] I seem
+to have come down with some
+sort of cold.|\scrollI'm sure you can all manage
+without me.|\f[2|SnarkyFoe]\wait[2]\s[2]\x[100]GrimaJoe,\w[5] this wasn't a part of the plan.\w[10]
+\e[4|1]Without your shielding--\wait[15]\s[-2]\f[4|nil]\event\wait[2]\f[5|Mark]\wait[2]\s[5]\x[100]You asshole!\w[15]\m[6|6]\wait[17]
+Get back here!|\s[-2]\f[6|David]\wait[2]\s[6]\x[100]What does it matter?\w[15]
+We can still take him.\w[10]
+Four to...|
+How many were there?|\s[2]\x[100]\e[2|1]...\w[15]*I*'m deeply starting to
+regret this alliance.|</Value>
+    </Item>
+    <Item>
+      <Key>MarcvirateDefeated1</Key>
+      <Value>\f[4|Marc]\s[4]Alright,\w[5] the path to the oven is clear,\w[5]
+all we gotta do now is--\wait[15]</Value>
+    </Item>
+    <Item>
+      <Key>MarcvirateDefeated2</Key>
+      <Value>\f[2|GrimaJoe]\name[2|GrimaJoe]\s[2]\music[nil]Well done everyone,\w[5] well done.|\scroll\e[2|1]\music[eeee]\wait[20]\wait[1]H\wait[1]O\wait[1]W\wait[1]E\wait[1]V\wait[1]E\wait[1]R\wait[1]!\wait[15] \wait[1]T\wait[1]H\wait[1]E\wait[1]R\wait[1]E\wait[1] \wait[1]C\wait[1]A\wait[1]N\wait[1] \wait[1]BE \wait[1]B\wait[1]U\wait[1]T\wait[1] \wait[1]O\wait[1]N\wait[1]E\wait[1]
+\wait[1]M\wait[1]A\wait[1]R\wait[1]K\wait[1]Y\wait[1]J\wait[1]OE \wait[1]A\wait[1]N\wait[1]D \wait[1]I \wait[1]AM \wait[1]HE!\wait[45]\s[nil]\f[2|nil]\wait[10]\g[TGJ1]\wait[30]\g[TGJ2]\wait[45]\sound[GrimaTransform]\g[TGJ3]\wait[120]</Value>
+    </Item>
+    <Item>
+      <Key>MarcvirateDefeated3</Key>
+      <Value>\f[2|GrimaJoe_2]\s[-1]あれれ てへあて るえむあいぬす ぬおわ いす てお しるうすへ てへえ
+ふいぬあれ むあるし、\w[5] あぬで い しあぬ あて れあすて びえ むえ.\w[10]|\scrollぬお れおぬぎえる わいれれ い るえむあいぬ あ しへえあぴ いむいてあていおぬ！|</Value>
+    </Item>
+    <Item>
+      <Key>MarcvirateDefeated4</Key>
+      <Value>\f[4|Marc]\e[4|2]\s[4]Why is there more!?!\w[15]|\scrollI JUST WANT IT TO END ALREADY!\w[15]
+CIRAXIS!\w[15] ASH!\w[15] You guys originally
+made this shitty boss right?|
+Just tell me what I have to do
+to win.|\s[-2]\f[3|Ash]\f[1|Ciraxis]\s[1]Uhh well,\w[5] he was originally made with
+leftover rage energy you left behind
+from playing crappy hacks.|\s[3]That bread he ate probably made him far
+more powerful than he's ever been.|
+Hmm,\w[5] I'm not quite sure we can even stand
+up to him as he is now.|\scroll\e[3|3]......\w[15]Heh,\w[5] you know what,\w[5] guys?\w[15] I wonder
+just how much magic it would take to
+duplicate him in this form...|\s[4]\e[3|2]Ash...\w[15]what the fuck?\w[15]
+Don't do that!|\s[1]Well,\w[5] best of luck Marc!\w[15]
+I think it's about time I took my leav--\wait[15]\s[4]LIKE HELL YOU'RE LEAVING NOW!\w[15]
+I SWEAR TO FUCKING GOD I'LL--\wait[15]\scroll]\e[4|0]Ah, sorry, that's...|</Value>
+    </Item>
+    <Item>
+      <Key>MarcvirateDefeated5</Key>
+      <Value>\g[EnragementRing]\name[-3|Marc]\s[-3]That's right.\w[10]\e[4|0] \e[3|0]Times like this I need to be
+calm.|\s[-2]\name[-3|Ash]\s[-3]What's that ring anyway,\w[5] Marc?|\s[-2]\name[-3|Marc]\s[-3]This?\w[15] It's a ring Reisen made to keep my
+rage under control.|\scrollWait...|\s[-2]\name[-3|Ciraxis]\s[-3]It can do that?\w[15] Maybe if we take the
+ring closer to GrimaJoe,\w[5] it'll suppress
+his power or something.|\s[-2]\name[-3|Marc]\s[-3]Well,\w[5] it's the best chance we got.\w[5]\g[EnragementRing2]
+Let's wrap this up and go home!|</Value>
+    </Item>
+    <Item>
+      <Key>Augury</Key>
+      <Value>\f[5|Char]\g[UndergroundHall]\s[5]Alright, so here's how the hair mags work:
+First, you pick one out from the convoy.
+Then you use it. The end.|\s[-2]\wait[20]\s[5]\e[5|1]Oh, I guess I missed a few details.\wait[5]\e[5|0]
+When you use a magazine, all your
+stats go up by 5.|
+These decrease by one per turn,
+and when they hit zero, the mag's
+effect expires.|
+\e[5|1]You could also check the third
+status page,\e[5|0] but it's convenient
+to just check your unit stats.|
+In ADDITION to those bonuses, you
+gain one primary and two secondary
+stats dependent on the mag.|
+These bonuses are pretty huge, but
+they depend on the user's personal
+preferences.|\scrollFor example, I'm a flaming dyke.\wait[10]
+One of those mags was yuri?|
+I'll probably get more out of that
+than most people, but the mag with
+the dudes?\wait[10]\e[5|2] No thanks.|\e[5|0]
+You can only get one magazine's
+effects on a unit at a time. Use a
+new one to forget the old stuff.|
+Anyway, try playing around with 'em,
+you'll figure more out by doing.\wait[10]
+\e[5|1]-cough cough-|</Value>
+    </Item>
+    <Item>
+      <Key>Augury2</Key>
+      <Value>\f[5|Char]\g[UndergroundHall]\s[5]Mag info, quick version! Use a mag to
+gain stats across the board that fade
+over time. +5 to be exact.|
+In addition, gain three stats. Which stats
+depends on the mag, and how much of
+each stat depends on the user's tastes.|
+10 uses per mag, and they last 5 turns...
+Better hurry up! Would hate to run out
+at the very end, yeah? Yeah.|</Value>
+    </Item>
+    <Item>
+      <Key>TrueEnding</Key>
+      <Value>\music[WalkinUpAStorm]\f[3|Char]\f[2|Ash]\f[1|Ciraxis]\f[4|Purt]\f[5|Marc]\f[6|Avraxas]\g[UndergroundHall]\e[5|2]\wait[2]\s[5]Ok, it's over right?
+No more MarkyJoe rejects?|\s[1]Probably. \e[5|0]It doesn't get much
+more final boss-y than that.|\s[-2]\f[2|nil]\f[2|Ash]\s[2]I'm glad that loose plot point was
+settled at last, now the ghost of
+Title Here can finally rest in peace.|\s[3]That wasn't too bad.
+\e[3|1]Anyone else hungry though?|\s[6]It was a long day, and now while we're
+plot relevant. I have to say I'm glad
+we saw it through to the end.|\s[4]I am, too. Now if you all excuse me,
+I have a delivery to make.|\s[-2]\f[3|nil]\wait[2]\f[3|Wolfram]\wait[2]\s[3]Who were you delivering it
+to, again?|\scrollIs the fresh bread not cold
+by this point?|\s[4]Of course it's not, I've been at this
+for years. I know all the tricks.|\s[-2]\f[4|nil]\wait[15]\s[5]Seems GrimaJoe dropped what was
+left of the bread, what should we
+do with it?|\s[-2]\f[1|nil]\f[1|Ciraxis]\s[1]Clearly there is nobody more deserving
+of it than me, so I'll just...|
+Wait, where did---\wait[15]\s[-2]\wait[10]\f[1|nil]\f[2|nil]\f[3|nil]\f[4|nil]\f[5|nil]\f[6|nil]\name[-3|Char]\g[Charbread1]\wait[30]\s[-3]...Is this sourdough?|\s[-2]\wait[15]\g[Charbread2]\wait[30]\s[-3]Oh, what were you all talking about?|\s[-2]\g[Black]\wait[5]\g[UndergroundHall]\f[2|Ciraxis]\f[5|Ash]\s[2]...Today was trash.
+C'mon Ash, we're leaving.|\s[5]Uhh, yeah okay, but before that.
+What about that oven over
+there?|\scrollIt made that ultimate bread or
+whatever, right?|\s[2]Take it with us, we deserve something
+for all this nonsense Marc dragged
+us into.|\s[5]Alright.|\s[-2]\f[2|nil]\f[5|nil]\g[Black]\wait[5]\g[UndergroundHall]\f[1|Char]\f[3|Wolfram]\f[5|Marc]\f[6|Avraxas]\s[5]With that taken care of...
+What a morning. Sheesh.|\s[3]\e[3|4]I'm about ready to collapse...|\s[-2]\f[2|Purt]\wait[2]\s[6]That was quick.
+How did it go?|\s[2]\e[3|0]Actually, I'm still delivering it.|\s[5]Huh?|\s[2]One of the Marcvirate we just
+defeated ordered a few loaves
+from me.|\s[5]Are you serious?|\scrollWhat are the odds of
+that happening?|\s[2]Well, since I'm already here.
+You want to pay for it, Marc?|
+We could have a picnic, or
+something like that.|\s[5]Eh. \e[5|1]Why not.|\scrollA picnic sounds great
+right about now.|\s[-2]\f[1|nil]\f[2|nil]\f[3|nil]\f[5|nil]\f[6|nil]\g[Black]\wait[5]\g[Picnic]\wait[40]\name[-3|Ghost]\s[-3]And so, they had a picnic and everything
+was resolved, blah blah blah.|\event</Value>
+    </Item>
+    <Item>
+      <Key>MarcvirateEnding</Key>
+      <Value>\wait[50]\g[Black]\music[donut]\wait[5]\g[GOCG1]\wait[100]\name[-3|Marc]\s[-3]No,\w[5] no,\w[5] no,\w[5] no,\w[5] no!!\w[15] Why?!\w[15] JUST WHY?!\w[15]
+N-No way!\w[15] This cannot be happening to me!\w[15]
+How the hell was I not good enough?!|
+How could I be defeated by these cheapass
+knockoffs?\w[15] They're going to destroy it all!\w[15]
+Everything I've built over the years!|\scrollAAAAAAAAAAAAGGGGGGGGGGHHHHHHHHH!!|\s[-2]\name[-3|Ghost]\s[-3]With Marc failing to defeat the Marcvirate,\w[5]
+they quickly took control over his life,\w[5] and
+all that came with it.|\scrollTheir actions following his defeat were so
+catastrophic that Marc became a villain to
+the people who once hailed him as a hero.|\scrollWith his reputation in shambles,\w[5] they finally
+released Marc once more.\w[10] Only for it to be
+far to late for him to do anything about it.|\scroll\g[GOCG2]His Youtube account soon faded into
+obscurity and was subsequently forgetten.|\s[-2]\wait[100]\event</Value>
+    </Item>
+    <Item>
+      <Key>GrimaJoeEnding</Key>
+      <Value>\music[donut]\wait[5]\g[GOCG1]\wait[100]\g[GOCG3]\wait[100]\event</Value>
+    </Item>
+    <Item>
+      <Key>MarcWolfram_2</Key>
+      <Value>\f[4|Marc]\r[4]\w[5]\s[0]Marc!\w[15] Watch out!|\s[4]Huh?\w[15] AH--\wait[15]\s[-2]\f[0|Wolfram]\m[0|4]\wait[30]\f[4|nil]\w[15]\f[2|Marc]\s[2]......\w[15]Wow.\w[10] Thanks,\w[5] I didn't
+even see him over there.|\f[5|Wolfram]\s[5]I told you our bond would
+make us stronger.|\s[2]Oh.\w[10] Wow,\w[5] I guess you
+were right after all.|\scrollHuh.|\scroll\e[2|1]Well,\w[5] I appreciate it,\w[5]
+thank you.|\s[5]\e[5|2].......|\s[2]\e[2|3]....\w[15]Uh...\w[15] Wolfram?|\s[5]It's nothing,\w[5] Marc.\w[10] \e[5|0]
+It's just...|\scrollI'm really so\e[2|0] happy to hear
+you say that.|\s[2]I see.\w[10] No problem,\w[5] dude.|\scrollListen,\w[5] let's just get back
+out there.|
+I'll watch your back this time.|\s[5]\e[5|1].......|</Value>
+    </Item>
+    <Item>
+      <Key>MarcReisen_2</Key>
+      <Value>\f[2|Reisen]\f[5|Marc]\s[2]...|\s[5]\e[5|2]Y-yes...?|\s[2]\e[2|1]...|\s[5]I-I can explain!|\scrollYou see,\w[5] it's really hard to find
+good...\w[15]\e[5|6]erotica.\w[10]\e[5|2] It's usually so
+demeaning.|
+That's what made those mags such
+a goldmine--they were the best I've
+found.\w[10] Sexy,\w[5] but respectable.|
+That kind of thing is priceless to me.\w[10]
+I'm sorry,\w[5] but...\w[15] I just had to get
+them back.|\s[2]\e[2|0]...|\s[5]W-wait,\w[5] what?\w[15]
+Told you?|\s[2]...|\s[5]...|\scroll\e[5|1]Then how about when we
+get back,\w[5] let's do just that.|\s[2]...|\s[5]No,\w[5] thank you.\w[10] I'm...\w[15] glad you
+were so understanding.|\s[2]...|</Value>
+    </Item>
+    <Item>
+      <Key>MattMarc_2</Key>
+      <Value></Value>
+    </Item>
+    <Item>
+      <Key>RSAsh_2</Key>
+      <Value>\f[2|Ash]\f[5|RS]\s[2]Alright,\w[5] R.\w[10]S.\w[10] I'm back\e[5|2].|\s[5]Oh,\w[5] hello,\w[5] Sir.|\scrollI took the liberty of waiting
+more than our appointed time.|\s[2]What?\w[15] Well,\w[5] whatever.\w[10]
+Let's try this again.|\s[5]Roger,\w[5] Sir.\w[10]
+What's your order?|\s[2]It's not an order but...|
+Well,\w[5] let's try something else.\w[10]
+I'll talk to you and you'll answer\e[5|2],
+alright?|\s[5]As you command,\w[5] Sir.|\s[2]Yeah,\w[5] about that...\w[15]
+Try to sound more...\w[15]
+natural,\w[5] please.|\e[5|0]\s[5]Affirmat--\wait[15]\scrollErr...\w[20]\e[5|3]alright.|\s[2]Great.\w[10] Now,\w[5] let me see...\w[15]
+Oh,\w[5] I know.|
+You have a daughter,\w[5] don't
+you?\w[15] So,\w[5] how's she been
+doing?|\s[5]A daughter?\w[15] \e[5|0]Ah,\w[5] yes,\w[5] Myrmi.\w[10]
+Her proficiency with the blade is keen.|
+But her dexterity and understanding of
+the blade has still not matched that of
+a truly praiseworthy swordmaster.|
+Yet,\w[5] her appearance and understanding
+of a sword is admirable,\w[5] and fitting of
+a daughter of a leader such as me.|\s[2]...|\e[5|3]\s[5]Err...\w[15]I mean...|\scroll\e[5|0]She's "way cool"\e[2|2] and
+uh...\w[15]\e[5|2]nice looking.|\s[2]Uh...\w[15] is that really...\w[15]
+Um,\w[5] it...\wait[20]\e[2|0]that's better...?|\scroll\e[2|0]Now...\w[20] What do you do in
+your free time?|\e[5|3]\s[5]Free time?\w[15] \e[5|0]You wound me,\w[5] Sir.|
+I would never slack of--\wait[15]\scroll...\wait[20]\e[5|2]\m[5|5]Err,\w[5] I mean\wait[20]...\w[15] I enjoy playing
+\e[2|3] card games.|\s[2]Hey,\w[5] that's nice.\w[10]
+Isn't so hard,\w[5] is it?|\s[5]Sir,\w[5] I\w[20]...\w[20]\e[5|2]\m[5|5]err,\w[5] Ash,\w[5] I\w[20]...\w[10]
+If I were to propose my opinio\w[20]...\w[15]
+\m[5|5]Err,\w[5] I mean,\w[5] to be honest,\w[5] I...|\scroll...|\scroll\e[5|0]Yes.\w[10] \e[5|3]Yes,\w[5] it is,\w[5] Sir.|\s[2]\e[2|0]Hmm...\w[15] Well,\w[5] R.\w[10]S,\w[5] That was
+pretty alright,\w[5] I'd say.|
+Should really do it again
+sometime.|\s[-2]\m[5|4]\w[2]\s[-2]\s[4]Please do not--\wait[15]\s[2]Alright,\w[5] I'll see you later.|\s[-2]\m[2|0]\w[2]\s[-2]\s[4]\e[4|3]Sir,\w[5] I...|\scroll...|</Value>
+    </Item>
+    <Item>
+      <Key>VandalMatthew_2</Key>
+      <Value>\f[5|Matthew]\e[5|2]\f[2|Vandal]\e[2|2]\s[5]...|\s[2]Huh? Matthew, you alright\e[5|0]?|\s[5]Oh, I am. \e[5|2]It's just, fighting with
+another team feels a bit weird.|\s[2]I can imagine. \e[2|0]These guys aren't
+exactly the most normal\e[5|0].|\s[5]Well, neither is our team.|
+But these guys seem like they're on a
+whole different level\e[2|2]. \e[5|1]Their skill is
+something else.|\s[2]I can agree with you on that.
+Though they all seem to have
+fought themselves\e[5|0] before.|\s[5]Ah, so forced teamwork...|\scroll\e[5|2]Not exactly a fan\e[2|0], but if it gets us both
+alive in the end, I guess I don't mind.|\s[2]Not everything\e[5|0] can be solved with
+the power of friendship, you know.|\s[5]Hey, I'm aware of that!|
+You know what I mean. \e[5|1]A team should
+be willing to fight for others as much
+as they fight for themselves.|\s[2]How honorable of you.|
+\e[2|2]Either way, strength comes in bunches.
+Can't really judge\e[5|0] them when they get
+the job done.|\s[5]I suppose.|\scrollI just hope we pull our weight over here.
+Would be bad if we made any enemies\e[2|0]
+out of these guys.|\s[2]I don't think that's something to be
+worried about. They seem to all be
+together when shit hits the fan.|\s[5]What a strange relationship that
+must be.|
+\e[5|1]But then again, strangeness
+comes in bunches as well.|\s[2]And that's our specialty,
+isn't it?|\s[5]You bet it is.|</Value>
+    </Item>
+  </Asset>
+</XnaContent>

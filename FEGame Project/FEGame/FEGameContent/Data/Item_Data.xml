@@ -1,0 +1,2800 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Generic="System.Collections.Generic">
+  <Asset Type="Generic:Dictionary[int,FEXNA_Library.Data_Item]">
+    <Item>
+      <Key>1</Key>
+      <Value>
+        <Id>1</Id>
+        <Name>Bread</Name>
+        <Full_Name></Full_Name>
+        <Description>heal 20</Description>
+        <Quick_Desc>Restores 20 HP.</Quick_Desc>
+        <Image_Name>Breads</Image_Name>
+        <Image_Index>1</Image_Index>
+        <Uses>5</Uses>
+        <Cost>100</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>true</Can_Sell>
+        <Heal_Val>20</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>2</Key>
+      <Value>
+        <Id>2</Id>
+        <Name>Quality Bread</Name>
+        <Full_Name></Full_Name>
+        <Description>heal 40</Description>
+        <Quick_Desc>Restores 40 HP.</Quick_Desc>
+        <Image_Name>Breads</Image_Name>
+        <Image_Index>2</Image_Index>
+        <Uses>3</Uses>
+        <Cost>250</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>true</Can_Sell>
+        <Heal_Val>40</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>3</Key>
+      <Value>
+        <Id>3</Id>
+        <Name>Free Sample</Name>
+        <Full_Name></Full_Name>
+        <Description>full heal</Description>
+        <Quick_Desc>Restores all HP.</Quick_Desc>
+        <Image_Name>Breads</Image_Name>
+        <Image_Index>2</Image_Index>
+        <Uses>1</Uses>
+        <Cost>1500</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>true</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>1</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>4</Key>
+      <Value>
+        <Id>4</Id>
+        <Name>Pure Water</Name>
+        <Full_Name></Full_Name>
+        <Description>A draft which stimulates the
+imbiber's spirit, protecting them
+from magic for a short while.</Description>
+        <Quick_Desc>Boosts Res.
+Fades over time.</Quick_Desc>
+        <Image_Name>Consumables</Image_Name>
+        <Image_Index>4</Image_Index>
+        <Uses>3</Uses>
+        <Cost>300</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>true</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 7 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>5</Key>
+      <Value>
+        <Id>5</Id>
+        <Name>Remedy</Name>
+        <Full_Name></Full_Name>
+        <Description></Description>
+        <Quick_Desc>Cures all status
+effects of user.</Quick_Desc>
+        <Image_Name>Consumables</Image_Name>
+        <Image_Index>3</Image_Index>
+        <Uses>3</Uses>
+        <Cost>1000</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict />
+        <Status_Remove>1 2 5 7</Status_Remove>
+        <Can_Sell>true</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>6</Key>
+      <Value>
+        <Id>6</Id>
+        <Name>Enragement Ring</Name>
+        <Full_Name></Full_Name>
+        <Description>restore 5hp/turn
+also opens doors/chests i guess
+heroic characters only</Description>
+        <Quick_Desc>way cooler idea than
+just using lockpicks
+amirite?</Quick_Desc>
+        <Image_Name>Fooker</Image_Name>
+        <Image_Index>0</Image_Index>
+        <Uses>-1</Uses>
+        <Cost>0</Cost>
+        <Prf_Character>1 2 9 12 19 47 48</Prf_Character>
+        <Prf_Class />
+        <Prf_Type />
+        <Skills>63 25</Skills>
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>false</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>7</Key>
+      <Value>
+        <Id>7</Id>
+        <Name>Suspicious Meds</Name>
+        <Full_Name></Full_Name>
+        <Description>full heal</Description>
+        <Quick_Desc>Restores all HP.</Quick_Desc>
+        <Image_Name>Consumables</Image_Name>
+        <Image_Index>5</Image_Index>
+        <Uses>1</Uses>
+        <Cost>1500</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>true</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>1</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>8</Key>
+      <Value>
+        <Id>8</Id>
+        <Name>Defective Ring</Name>
+        <Full_Name></Full_Name>
+        <Description>A magical ring that possesses but
+a fraction of its original power.</Description>
+        <Quick_Desc>lol range</Quick_Desc>
+        <Image_Name>Fooker</Image_Name>
+        <Image_Index>1</Image_Index>
+        <Uses>-1</Uses>
+        <Cost>6000</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills>44</Skills>
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>false</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>10</Key>
+      <Value>
+        <Id>10</Id>
+        <Name>Mega Bread</Name>
+        <Full_Name></Full_Name>
+        <Description>full heal</Description>
+        <Quick_Desc>Restores all HP.</Quick_Desc>
+        <Image_Name>Breads</Image_Name>
+        <Image_Index>2</Image_Index>
+        <Uses>1</Uses>
+        <Cost>1500</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>true</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>1</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>11</Key>
+      <Value>
+        <Id>11</Id>
+        <Name>Door Key</Name>
+        <Full_Name></Full_Name>
+        <Description>if you're an idiot and you lost
+the enragement ring and can't
+open the door to the boss</Description>
+        <Quick_Desc>Opens doors.</Quick_Desc>
+        <Image_Name>Useables</Image_Name>
+        <Image_Index>0</Image_Index>
+        <Uses>1</Uses>
+        <Cost>50</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>true</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>true</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>12</Key>
+      <Value>
+        <Id>12</Id>
+        <Name>Chest Key</Name>
+        <Full_Name></Full_Name>
+        <Description>read item name</Description>
+        <Quick_Desc>Opens chests.</Quick_Desc>
+        <Image_Name>Useables</Image_Name>
+        <Image_Index>1</Image_Index>
+        <Uses>1</Uses>
+        <Cost>300</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>true</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>true</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>13</Key>
+      <Value>
+        <Id>13</Id>
+        <Name>Chest Key</Name>
+        <Full_Name></Full_Name>
+        <Description>read item name</Description>
+        <Quick_Desc>Opens chests.</Quick_Desc>
+        <Image_Name>Useables</Image_Name>
+        <Image_Index>1</Image_Index>
+        <Uses>5</Uses>
+        <Cost>300</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>true</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>true</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>14</Key>
+      <Value>
+        <Id>14</Id>
+        <Name>Lockpick</Name>
+        <Full_Name></Full_Name>
+        <Description>use this on a door or chest,
+if you somehow didn't know
+that for some reason</Description>
+        <Quick_Desc>Opens doors
+and chests.</Quick_Desc>
+        <Image_Name>Useables</Image_Name>
+        <Image_Index>2</Image_Index>
+        <Uses>10</Uses>
+        <Cost>80</Cost>
+        <Prf_Character>20</Prf_Character>
+        <Prf_Class>17 52 92</Prf_Class>
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>true</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>true</Door_Key>
+        <Chest_Key>true</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>15</Key>
+      <Value>
+        <Id>15</Id>
+        <Name>Torch</Name>
+        <Full_Name></Full_Name>
+        <Description>Timber wrapped in pitch-soaked
+rags; a vital tool for as long as
+it continues to burn.</Description>
+        <Quick_Desc>Lights an area.
+Fades over time.</Quick_Desc>
+        <Image_Name>Useables</Image_Name>
+        <Image_Index>3</Image_Index>
+        <Uses>5</Uses>
+        <Cost>100</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>true</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>4</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>16</Key>
+      <Value>
+        <Id>16</Id>
+        <Name>Mine</Name>
+        <Full_Name></Full_Name>
+        <Description>A concealable alchemy kit which
+ignites and explodes when the
+pressure trigger is stepped on.</Description>
+        <Quick_Desc>Damages units that
+enter its space.</Quick_Desc>
+        <Image_Name>Useables</Image_Name>
+        <Image_Index>4</Image_Index>
+        <Uses>1</Uses>
+        <Cost>500</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>true</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>17</Key>
+      <Value>
+        <Id>17</Id>
+        <Name>Light Rune</Name>
+        <Full_Name></Full_Name>
+        <Description>A bundle of antique talismans which,
+when arranged correctly, project an
+impassable wall of light.</Description>
+        <Quick_Desc>Blocks enemies from
+entering its space.</Quick_Desc>
+        <Image_Name>Useables</Image_Name>
+        <Image_Index>5</Image_Index>
+        <Uses>1</Uses>
+        <Cost>800</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>true</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>18</Key>
+      <Value>
+        <Id>18</Id>
+        <Name>Repair Kit</Name>
+        <Full_Name></Full_Name>
+        <Description>waifu weapon repair kit, prolly</Description>
+        <Quick_Desc>Restores 1/3 weapon
+durability.</Quick_Desc>
+        <Image_Name>Useables</Image_Name>
+        <Image_Index>6</Image_Index>
+        <Uses>5</Uses>
+        <Cost>300</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>true</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0.35</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>21</Key>
+      <Value>
+        <Id>21</Id>
+        <Name>Cookie</Name>
+        <Full_Name></Full_Name>
+        <Description>hp boost</Description>
+        <Quick_Desc>Increases HP
+stat/growth.</Quick_Desc>
+        <Image_Name>Desserts</Image_Name>
+        <Image_Index>0</Image_Index>
+        <Uses>1</Uses>
+        <Cost>5000</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>false</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text>Max HP increased</Boost_Text>
+        <Stat_Boost>8 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>200 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>22</Key>
+      <Value>
+        <Id>22</Id>
+        <Name>Ice Cream</Name>
+        <Full_Name></Full_Name>
+        <Description>pow boost</Description>
+        <Quick_Desc>Increases Str or
+Mag stat/growth.</Quick_Desc>
+        <Image_Name>Desserts</Image_Name>
+        <Image_Index>1</Image_Index>
+        <Uses>1</Uses>
+        <Cost>5000</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>false</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text>POW increased</Boost_Text>
+        <Stat_Boost>0 3 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 100 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>23</Key>
+      <Value>
+        <Id>23</Id>
+        <Name>Lolipop</Name>
+        <Full_Name></Full_Name>
+        <Description>skl boost</Description>
+        <Quick_Desc>Char-approved!</Quick_Desc>
+        <Image_Name>Desserts</Image_Name>
+        <Image_Index>2</Image_Index>
+        <Uses>1</Uses>
+        <Cost>5000</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>false</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text>Skill increased</Boost_Text>
+        <Stat_Boost>0 0 6 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 200 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>24</Key>
+      <Value>
+        <Id>24</Id>
+        <Name>Yogurt</Name>
+        <Full_Name></Full_Name>
+        <Description>spd boost</Description>
+        <Quick_Desc>Increases Spd
+stat/growth.</Quick_Desc>
+        <Image_Name>Desserts</Image_Name>
+        <Image_Index>3</Image_Index>
+        <Uses>1</Uses>
+        <Cost>5000</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>false</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text>Speed increased</Boost_Text>
+        <Stat_Boost>0 0 0 2 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 100 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>25</Key>
+      <Value>
+        <Id>25</Id>
+        <Name>Figurine</Name>
+        <Full_Name></Full_Name>
+        <Description>waau</Description>
+        <Quick_Desc>Increases Lck
+stat/growth.</Quick_Desc>
+        <Image_Name>Desserts</Image_Name>
+        <Image_Index>4</Image_Index>
+        <Uses>1</Uses>
+        <Cost>5000</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>false</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text>Luck increased</Boost_Text>
+        <Stat_Boost>0 0 0 0 8 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 200 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>26</Key>
+      <Value>
+        <Id>26</Id>
+        <Name>Cheesecake</Name>
+        <Full_Name></Full_Name>
+        <Description>def boost</Description>
+        <Quick_Desc>Increases Def
+stat/growth.</Quick_Desc>
+        <Image_Name>Desserts</Image_Name>
+        <Image_Index>5</Image_Index>
+        <Uses>1</Uses>
+        <Cost>5000</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>false</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text>Defense increased</Boost_Text>
+        <Stat_Boost>0 0 0 0 0 2 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 100 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>27</Key>
+      <Value>
+        <Id>27</Id>
+        <Name>Flan</Name>
+        <Full_Name></Full_Name>
+        <Description>res boost</Description>
+        <Quick_Desc>Increases Res
+stat/growth.</Quick_Desc>
+        <Image_Name>Desserts</Image_Name>
+        <Image_Index>6</Image_Index>
+        <Uses>1</Uses>
+        <Cost>5000</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>false</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text>Resistance increased</Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 2 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 100</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>28</Key>
+      <Value>
+        <Id>28</Id>
+        <Name>Salted Icecream</Name>
+        <Full_Name>lck boost</Full_Name>
+        <Description>yummy</Description>
+        <Quick_Desc>Increases Mov
+by 2 points.</Quick_Desc>
+        <Image_Name>Desserts</Image_Name>
+        <Image_Index>7</Image_Index>
+        <Uses>1</Uses>
+        <Cost>7500</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>false</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text>Movement increased</Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 2 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>29</Key>
+      <Value>
+        <Id>29</Id>
+        <Name>Bacon</Name>
+        <Full_Name></Full_Name>
+        <Description>con boost</Description>
+        <Quick_Desc>Increases Con
+by 3 points.</Quick_Desc>
+        <Image_Name>Desserts</Image_Name>
+        <Image_Index>8</Image_Index>
+        <Uses>1</Uses>
+        <Cost>7500</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>false</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>1</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text>Constitution increased</Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 3 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>30</Key>
+      <Value>
+        <Id>30</Id>
+        <Name>Arms Scroll</Name>
+        <Full_Name></Full_Name>
+        <Description>more weapon rank</Description>
+        <Quick_Desc>Increases ability
+with equipped
+weapon's type.</Quick_Desc>
+        <Image_Name>Boosters</Image_Name>
+        <Image_Index>9</Image_Index>
+        <Uses>1</Uses>
+        <Cost>5000</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>false</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text>Weapon level increased</Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 1 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>31</Key>
+      <Value>
+        <Id>31</Id>
+        <Name>Afa's Drops</Name>
+        <Full_Name></Full_Name>
+        <Description>boosts all growths by 100</Description>
+        <Quick_Desc>boosts growths</Quick_Desc>
+        <Image_Name>Boosters</Image_Name>
+        <Image_Index>10</Image_Index>
+        <Uses>1</Uses>
+        <Cost>0</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>false</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text>Potential increased</Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>100 100 100 100 100 100 100</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>36</Key>
+      <Value>
+        <Id>36</Id>
+        <Name>Hero Crest</Name>
+        <Full_Name></Full_Name>
+        <Description>An embellished, decorative plate that
+celebrates a great victory in battle. For
+Fighters, Mercenaries, and Myrmidons.</Description>
+        <Quick_Desc>Use on a freelancer
+level 10 or higher.</Quick_Desc>
+        <Image_Name>Promoters</Image_Name>
+        <Image_Index>0</Image_Index>
+        <Uses>1</Uses>
+        <Cost>10000</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>true</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes>16 24 27</Promotes>
+      </Value>
+    </Item>
+    <Item>
+      <Key>37</Key>
+      <Value>
+        <Id>37</Id>
+        <Name>Coat of Arms</Name>
+        <Full_Name></Full_Name>
+        <Description>An official heraldric coat of arms to
+be carried on by descendants. For
+Soldiers, Cohorts, and Zweihanders.</Description>
+        <Quick_Desc>Use on an officer
+level 10 or higher.</Quick_Desc>
+        <Image_Name>Promoters</Image_Name>
+        <Image_Index>1</Image_Index>
+        <Uses>1</Uses>
+        <Cost>10000</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>true</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes>22 30 35</Promotes>
+      </Value>
+    </Item>
+    <Item>
+      <Key>38</Key>
+      <Value>
+        <Id>38</Id>
+        <Name>Knight Crest</Name>
+        <Full_Name></Full_Name>
+        <Description>An honorary crest added to the
+knight's achievement. For Vanguards,
+Gendarmes, Phalanxes, and Lieutenants.</Description>
+        <Quick_Desc>Use on a knight
+level 10 or higher.</Quick_Desc>
+        <Image_Name>Promoters</Image_Name>
+        <Image_Index>2</Image_Index>
+        <Uses>1</Uses>
+        <Cost>10000</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>true</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes>31 32 33 34</Promotes>
+      </Value>
+    </Item>
+    <Item>
+      <Key>39</Key>
+      <Value>
+        <Id>39</Id>
+        <Name>Orion's Bolt</Name>
+        <Full_Name></Full_Name>
+        <Description>A lucky bolt shaped of fine ivory to be
+carried in the quiver but never fired. For
+Archers, Nomads, and Crossbowmen.</Description>
+        <Quick_Desc>Use on a marksman
+level 10 or higher.</Quick_Desc>
+        <Image_Name>Promoters</Image_Name>
+        <Image_Index>3</Image_Index>
+        <Uses>1</Uses>
+        <Cost>10000</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>true</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes>19 20 29</Promotes>
+      </Value>
+    </Item>
+    <Item>
+      <Key>40</Key>
+      <Value>
+        <Id>40</Id>
+        <Name>Elysian Whip</Name>
+        <Full_Name></Full_Name>
+        <Description>An immaculate whip of falco hair that
+serves as a badge of office. For
+Pegasus Knights and Dracoknights.</Description>
+        <Quick_Desc>Use on a flier
+level 10 or higher.</Quick_Desc>
+        <Image_Name>Promoters</Image_Name>
+        <Image_Index>4</Image_Index>
+        <Uses>1</Uses>
+        <Cost>10000</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>true</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes>23 37</Promotes>
+      </Value>
+    </Item>
+    <Item>
+      <Key>41</Key>
+      <Value>
+        <Id>41</Id>
+        <Name>Guiding Ring</Name>
+        <Full_Name></Full_Name>
+        <Description>An enchanted ring that attunes itself
+to nascent mana. For Clerics, Sorcerors,
+Witches, Shamans, and Troubadours.</Description>
+        <Quick_Desc>Use on a medium
+level 10 or higher.</Quick_Desc>
+        <Image_Name>Promoters</Image_Name>
+        <Image_Index>5</Image_Index>
+        <Uses>-1</Uses>
+        <Cost>10000</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>true</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes>84</Promotes>
+      </Value>
+    </Item>
+    <Item>
+      <Key>42</Key>
+      <Value>
+        <Id>42</Id>
+        <Name>Epistemic Codex</Name>
+        <Full_Name></Full_Name>
+        <Description>A great tome that binds the world's many
+mysteries into one unifying theory. For
+Mages, Monks, Diviners, and Scholars.</Description>
+        <Quick_Desc>Use on an arcanist
+level 10 or higher.</Quick_Desc>
+        <Image_Name>Promoters</Image_Name>
+        <Image_Index>6</Image_Index>
+        <Uses>1</Uses>
+        <Cost>10000</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>true</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes>39 40 47 48</Promotes>
+      </Value>
+    </Item>
+    <Item>
+      <Key>43</Key>
+      <Value>
+        <Id>43</Id>
+        <Name>Fell Contract</Name>
+        <Full_Name></Full_Name>
+        <Description>Too bad you can't
+steal this, huh.</Description>
+        <Quick_Desc>You can't actually
+promote Vandal.</Quick_Desc>
+        <Image_Name>Promoters</Image_Name>
+        <Image_Index>7</Image_Index>
+        <Uses>1</Uses>
+        <Cost>9001</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>true</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>44</Key>
+      <Value>
+        <Id>44</Id>
+        <Name>Master Seal</Name>
+        <Full_Name></Full_Name>
+        <Description>A great source of energy crystalized
+into a small, unassuming trinket. Unlocks
+the potential of any standard unit.</Description>
+        <Quick_Desc>Use on standard units
+level 10 or higher.</Quick_Desc>
+        <Image_Name>Promoters</Image_Name>
+        <Image_Index>8</Image_Index>
+        <Uses>1</Uses>
+        <Cost>20000</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>true</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes>16 17 19 20 22 23 24 25 26 27 29 30 31 32 33 34 35 37 38 39 40 41 43 44 45 47 48 49</Promotes>
+      </Value>
+    </Item>
+    <Item>
+      <Key>51</Key>
+      <Value>
+        <Id>51</Id>
+        <Name>Red Gem</Name>
+        <Full_Name></Full_Name>
+        <Description>worth 2,500 gold</Description>
+        <Quick_Desc>Worth 2500G.</Quick_Desc>
+        <Image_Name>Valuables</Image_Name>
+        <Image_Index>0</Image_Index>
+        <Uses>1</Uses>
+        <Cost>5000</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>true</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>52</Key>
+      <Value>
+        <Id>52</Id>
+        <Name>Blue Gem</Name>
+        <Full_Name></Full_Name>
+        <Description>worth 5,000 gold</Description>
+        <Quick_Desc>Worth 5000G.</Quick_Desc>
+        <Image_Name>Valuables</Image_Name>
+        <Image_Index>1</Image_Index>
+        <Uses>1</Uses>
+        <Cost>10000</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>true</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>53</Key>
+      <Value>
+        <Id>53</Id>
+        <Name>White Gem</Name>
+        <Full_Name></Full_Name>
+        <Description>worth 10,000 gold</Description>
+        <Quick_Desc>Worth 10,000G.</Quick_Desc>
+        <Image_Name>Valuables</Image_Name>
+        <Image_Index>2</Image_Index>
+        <Uses>1</Uses>
+        <Cost>20000</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>true</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>61</Key>
+      <Value>
+        <Id>61</Id>
+        <Name>Delphi Shield</Name>
+        <Full_Name></Full_Name>
+        <Description>proteccs your fliers</Description>
+        <Quick_Desc>Grants the
+'Nullify' skill
+to fliers.</Quick_Desc>
+        <Image_Name>Accessories</Image_Name>
+        <Image_Index>0</Image_Index>
+        <Uses>-1</Uses>
+        <Cost>0</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type>5 6</Prf_Type>
+        <Skills>36</Skills>
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>false</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>62</Key>
+      <Value>
+        <Id>62</Id>
+        <Name>Knight Ward</Name>
+        <Full_Name></Full_Name>
+        <Description>An archaic shield of ceremonial design,
+blessed in the name of a forgotten god.
+(Protects knights from effective damage)</Description>
+        <Quick_Desc>Grants the
+'Nullify' skill
+to knights.</Quick_Desc>
+        <Image_Name>Accessories</Image_Name>
+        <Image_Index>1</Image_Index>
+        <Uses>-1</Uses>
+        <Cost>0</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type>3 4 -5 -6</Prf_Type>
+        <Skills>36</Skills>
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>false</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>63</Key>
+      <Value>
+        <Id>63</Id>
+        <Name>Mobility Brace</Name>
+        <Full_Name></Full_Name>
+        <Description>Painted with old Lorca markings, this 
+harness aids balance and footwork.
+(Allows wearer to move after acting)</Description>
+        <Quick_Desc>Grants the
+'Canto' skill.</Quick_Desc>
+        <Image_Name>Accessories</Image_Name>
+        <Image_Index>2</Image_Index>
+        <Uses>-1</Uses>
+        <Cost>0</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills>13</Skills>
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>false</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>64</Key>
+      <Value>
+        <Id>64</Id>
+        <Name>Iron Rune</Name>
+        <Full_Name></Full_Name>
+        <Description>enemy crit is ded</Description>
+        <Quick_Desc>Grants the
+'Fortune' skill.</Quick_Desc>
+        <Image_Name>Accessories</Image_Name>
+        <Image_Index>3</Image_Index>
+        <Uses>-1</Uses>
+        <Cost>0</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills>37</Skills>
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>false</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>65</Key>
+      <Value>
+        <Id>65</Id>
+        <Name>Star Pendant</Name>
+        <Full_Name></Full_Name>
+        <Description>The finest in jewelry, handed from 
+diplomat to cardinal to prince.
+(Preserves equipment of wearer)</Description>
+        <Quick_Desc>Grants the
+'Blessing' skill.</Quick_Desc>
+        <Image_Name>Accessories</Image_Name>
+        <Image_Index>4</Image_Index>
+        <Uses>-1</Uses>
+        <Cost>0</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills>38</Skills>
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>false</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>66</Key>
+      <Value>
+        <Id>66</Id>
+        <Name>Champion Aegis</Name>
+        <Full_Name></Full_Name>
+        <Description>A great shield bestowed upon the King's
+Champion. Its scars are most imposing.
+(Blocks distant attacks, halves enemy Crit)</Description>
+        <Quick_Desc></Quick_Desc>
+        <Image_Name>Accessories</Image_Name>
+        <Image_Index>5</Image_Index>
+        <Uses>-1</Uses>
+        <Cost>0</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>false</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>71</Key>
+      <Value>
+        <Id>71</Id>
+        <Name>Infantry Band</Name>
+        <Full_Name></Full_Name>
+        <Description>Imbued with the essence of a footman,
+and her passsion for a lifetime of training.
+(Increases Spd growth, Lck+2)</Description>
+        <Quick_Desc>Increases Spd growth.
+Inactive during training.</Quick_Desc>
+        <Image_Name>Bands</Image_Name>
+        <Image_Index>0</Image_Index>
+        <Uses>-1</Uses>
+        <Cost>0</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills>99 114</Skills>
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>false</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>72</Key>
+      <Value>
+        <Id>72</Id>
+        <Name>Heavy Band</Name>
+        <Full_Name></Full_Name>
+        <Description>Imbued with the essence of a brute,
+and the pride he took in his body.
+(Increases HP growth, Con+2)</Description>
+        <Quick_Desc>Increases HP growth.
+Inactive during training.</Quick_Desc>
+        <Image_Name>Bands</Image_Name>
+        <Image_Index>1</Image_Index>
+        <Uses>-1</Uses>
+        <Cost>0</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills>96 117</Skills>
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>false</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>73</Key>
+      <Value>
+        <Id>73</Id>
+        <Name>Armor Band</Name>
+        <Full_Name></Full_Name>
+        <Description>Imbued with the essence of a knight,
+and her fanatical drive to protect others.
+(Increases Def growth, Res+2)</Description>
+        <Quick_Desc>Increases Def growth.
+Inactive during training.</Quick_Desc>
+        <Image_Name>Bands</Image_Name>
+        <Image_Index>2</Image_Index>
+        <Uses>-1</Uses>
+        <Cost>0</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills>101 116</Skills>
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>false</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>74</Key>
+      <Value>
+        <Id>74</Id>
+        <Name>Cavalry Band</Name>
+        <Full_Name></Full_Name>
+        <Description>Imbued with the essence of a noble, and
+the exhilaration he felt while on the hunt.
+(Increases Skl growth, Spd+2)</Description>
+        <Quick_Desc>Increases Skl growth.
+Inactive during training.</Quick_Desc>
+        <Image_Name>Bands</Image_Name>
+        <Image_Index>3</Image_Index>
+        <Uses>-1</Uses>
+        <Cost>0</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills>98 113</Skills>
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>false</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>75</Key>
+      <Value>
+        <Id>75</Id>
+        <Name>Winged Band</Name>
+        <Full_Name></Full_Name>
+        <Description>Imbued with the essence of a draco trainer,
+and the peace he felt among the clouds.
+(Increases Lck growth, Def+2)</Description>
+        <Quick_Desc>Increases Lck growth.
+Inactive during training.</Quick_Desc>
+        <Image_Name>Bands</Image_Name>
+        <Image_Index>4</Image_Index>
+        <Uses>-1</Uses>
+        <Cost>0</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills>100 115</Skills>
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>false</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>76</Key>
+      <Value>
+        <Id>76</Id>
+        <Name>Adept Band</Name>
+        <Full_Name></Full_Name>
+        <Description>Imbued with the essence of a professor,
+and her knowledge of magical fields.
+(Increases Pow growth, Skl+2)</Description>
+        <Quick_Desc>Increases Pow growth.
+Inactive during training.</Quick_Desc>
+        <Image_Name>Bands</Image_Name>
+        <Image_Index>5</Image_Index>
+        <Uses>-1</Uses>
+        <Cost>0</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills>97 112</Skills>
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>false</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>77</Key>
+      <Value>
+        <Id>77</Id>
+        <Name>Magus Band</Name>
+        <Full_Name></Full_Name>
+        <Description>Imbued with the essence of a pilgrim,
+and her resolve to surpass obstacles.
+(Increases Res growth, Pow+2)</Description>
+        <Quick_Desc>Increases Res growth.
+Inactive during training.</Quick_Desc>
+        <Image_Name>Bands</Image_Name>
+        <Image_Index>6</Image_Index>
+        <Uses>-1</Uses>
+        <Cost>0</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills>102 111</Skills>
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>false</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>78</Key>
+      <Value>
+        <Id>78</Id>
+        <Name>Augur Band</Name>
+        <Full_Name></Full_Name>
+        <Description>A band perverted by sorcery to
+serve the will of its wearer.
+(Increases growths using affinity)</Description>
+        <Quick_Desc>Increases growths
+based on affinity.
+Inactive during training.</Quick_Desc>
+        <Image_Name>Bands</Image_Name>
+        <Image_Index>7</Image_Index>
+        <Uses>-1</Uses>
+        <Cost>0</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills>103 118</Skills>
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>false</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>81</Key>
+      <Value>
+        <Id>81</Id>
+        <Name>Silver Card</Name>
+        <Full_Name></Full_Name>
+        <Description>A gift reserved for only the most
+honored of customers, granting a
+substantial and universal discount.</Description>
+        <Quick_Desc></Quick_Desc>
+        <Image_Name>Cards</Image_Name>
+        <Image_Index>0</Image_Index>
+        <Uses>-1</Uses>
+        <Cost>4000</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills>141</Skills>
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>true</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>82</Key>
+      <Value>
+        <Id>82</Id>
+        <Name>Member Card</Name>
+        <Full_Name></Full_Name>
+        <Description>Considered pure myth, a network
+of artifact traders recognize
+each other by these cards.</Description>
+        <Quick_Desc></Quick_Desc>
+        <Image_Name>Cards</Image_Name>
+        <Image_Index>1</Image_Index>
+        <Uses>-1</Uses>
+        <Cost>4000</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills>142</Skills>
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>true</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>91</Key>
+      <Value>
+        <Id>91</Id>
+        <Name>Deus's Geas</Name>
+        <Full_Name></Full_Name>
+        <Description>A band wrought in cold iron with 
+reliefs of heroes and pilgrims.
+(Grants +30 Hit when performing)</Description>
+        <Quick_Desc>Refreshes target and
+grants +30 Hit.</Quick_Desc>
+        <Image_Name>Rings</Image_Name>
+        <Image_Index>0</Image_Index>
+        <Uses>10</Uses>
+        <Cost>0</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict>11</Status_Inflict>
+        <Status_Remove>16</Status_Remove>
+        <Can_Sell>false</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>true</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>92</Key>
+      <Value>
+        <Id>92</Id>
+        <Name>Fierce Dance</Name>
+        <Full_Name></Full_Name>
+        <Description>Grants an ally +5 Pow and
++15 Crt after dancing.</Description>
+        <Quick_Desc>Refresh and give
++5 Pow/+15 Crt.</Quick_Desc>
+        <Image_Name>Rings</Image_Name>
+        <Image_Index>1</Image_Index>
+        <Uses>10</Uses>
+        <Cost>0</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict>12</Status_Inflict>
+        <Status_Remove>17</Status_Remove>
+        <Can_Sell>false</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>true</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>93</Key>
+      <Value>
+        <Id>93</Id>
+        <Name>Swift Dance</Name>
+        <Full_Name></Full_Name>
+        <Description>Grants an ally +30 Hit/Avo
+after dancing.</Description>
+        <Quick_Desc>Refresh and give
++30 Hit/Avo.</Quick_Desc>
+        <Image_Name>Rings</Image_Name>
+        <Image_Index>2</Image_Index>
+        <Uses>10</Uses>
+        <Cost>0</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict>13</Status_Inflict>
+        <Status_Remove>18</Status_Remove>
+        <Can_Sell>false</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>true</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>94</Key>
+      <Value>
+        <Id>94</Id>
+        <Name>Warding Dance</Name>
+        <Full_Name></Full_Name>
+        <Description>Grants an ally +10 Def/Res and
++15 Crt Avo after dancing.</Description>
+        <Quick_Desc>Refresh and give +10
+Def/Res and +15 Ddg</Quick_Desc>
+        <Image_Name>Rings</Image_Name>
+        <Image_Index>3</Image_Index>
+        <Uses>10</Uses>
+        <Cost>0</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict>14</Status_Inflict>
+        <Status_Remove>19</Status_Remove>
+        <Can_Sell>false</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>true</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>95</Key>
+      <Value>
+        <Id>95</Id>
+        <Name>El's Passage</Name>
+        <Full_Name></Full_Name>
+        <Description>A ring of coral and bone with a
+single bronze coin fastened to it.
+(Grants +5 Spd, +2 Mov when performing)</Description>
+        <Quick_Desc>Refreshes target and
+grants +5 Spd, +2 Mov.</Quick_Desc>
+        <Image_Name>Rings</Image_Name>
+        <Image_Index>4</Image_Index>
+        <Uses>10</Uses>
+        <Cost>0</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict>15</Status_Inflict>
+        <Status_Remove>20</Status_Remove>
+        <Can_Sell>false</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>true</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>100</Key>
+      <Value>
+        <Id>100</Id>
+        <Name>Heated Fluffs</Name>
+        <Full_Name></Full_Name>
+        <Description>A magazine showing women with particularly
+voluminous hair, filling each page with fluffiness.
+Boosts pow and skl/res.</Description>
+        <Quick_Desc>Pow/Skl/Res+
+Lasts 5 turns.</Quick_Desc>
+        <Image_Name>Magazines</Image_Name>
+        <Image_Index>1</Image_Index>
+        <Uses>10</Uses>
+        <Cost>0</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict>25</Status_Inflict>
+        <Status_Remove>24 26 27 28 29</Status_Remove>
+        <Can_Sell>false</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>5 5 5 5 5 5 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>101</Key>
+      <Value>
+        <Id>101</Id>
+        <Name>Wild Pigtails</Name>
+        <Full_Name></Full_Name>
+        <Description>A magazine showing women with tied-up hair-
+styles, mostly pigtails, posing seductively.
+Boosts skl and pow/spd.</Description>
+        <Quick_Desc>Skl/Pow/Spd+
+Lasts 5 turns.</Quick_Desc>
+        <Image_Name>Magazines</Image_Name>
+        <Image_Index>0</Image_Index>
+        <Uses>10</Uses>
+        <Cost>0</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict>24</Status_Inflict>
+        <Status_Remove>25 26 27 28 29</Status_Remove>
+        <Can_Sell>false</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>5 5 5 5 5 5 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>102</Key>
+      <Value>
+        <Id>102</Id>
+        <Name>Let Loose</Name>
+        <Full_Name></Full_Name>
+        <Description>A magazine showing women with their hair down,
+posing freely amongst natural environments.
+Boosts spd and skl/def.</Description>
+        <Quick_Desc>Spd/Skl/Def+
+Lasts 5 turns.</Quick_Desc>
+        <Image_Name>Magazines</Image_Name>
+        <Image_Index>5</Image_Index>
+        <Uses>10</Uses>
+        <Cost>0</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict>29</Status_Inflict>
+        <Status_Remove>25 26 27 28 24</Status_Remove>
+        <Can_Sell>false</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>5 5 5 5 5 5 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>103</Key>
+      <Value>
+        <Id>103</Id>
+        <Name>Bare &amp; Beautiful</Name>
+        <Full_Name>Bare and Beautiful</Full_Name>
+        <Description>A magazine showing women with natural hair-
+styles, doing lewd things like holding hands.
+Boosts luk and pow/res.</Description>
+        <Quick_Desc>Luk/Pow/Res+
+Lasts 5 turns.</Quick_Desc>
+        <Image_Name>Magazines</Image_Name>
+        <Image_Index>3</Image_Index>
+        <Uses>10</Uses>
+        <Cost>0</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict>27</Status_Inflict>
+        <Status_Remove>25 26 24 28 29</Status_Remove>
+        <Can_Sell>false</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>5 5 5 5 5 5 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>104</Key>
+      <Value>
+        <Id>104</Id>
+        <Name>Thick &amp; Juicy</Name>
+        <Full_Name>Long, Thick and Juicy</Full_Name>
+        <Description>A magazine showing men with long, thick hair,
+each posing with a different hairstyle.
+Boosts def and pow/luk.</Description>
+        <Quick_Desc>Def/Pow/Luk+
+Lasts 5 turns.</Quick_Desc>
+        <Image_Name>Magazines</Image_Name>
+        <Image_Index>4</Image_Index>
+        <Uses>10</Uses>
+        <Cost>0</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict>28</Status_Inflict>
+        <Status_Remove>25 26 27 24 29</Status_Remove>
+        <Can_Sell>false</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>5 5 5 5 5 5 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>105</Key>
+      <Value>
+        <Id>105</Id>
+        <Name>Manes &amp; Coats</Name>
+        <Full_Name>Manes and Coats: Exposed</Full_Name>
+        <Description>A magazine showing women in armor looking
+proud, with matching armorless images.
+Boosts res and spd/def.</Description>
+        <Quick_Desc>Res/Spd/Def+
+Lasts 5 turns.</Quick_Desc>
+        <Image_Name>Magazines</Image_Name>
+        <Image_Index>2</Image_Index>
+        <Uses>10</Uses>
+        <Cost>0</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict>26</Status_Inflict>
+        <Status_Remove>25 24 27 28 29</Status_Remove>
+        <Can_Sell>false</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0.01</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>5 5 5 5 5 5 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>106</Key>
+      <Value>
+        <Id>106</Id>
+        <Name>Mystery</Name>
+        <Full_Name></Full_Name>
+        <Description>What could this be?</Description>
+        <Quick_Desc>lol impossible</Quick_Desc>
+        <Image_Name>Magazines</Image_Name>
+        <Image_Index>6</Image_Index>
+        <Uses>60</Uses>
+        <Cost>0</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>false</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>120</Key>
+      <Value>
+        <Id>120</Id>
+        <Name>Strawberry</Name>
+        <Full_Name></Full_Name>
+        <Description>heal 10% + 15 and pow buff</Description>
+        <Quick_Desc>Mari bait</Quick_Desc>
+        <Image_Name>Foods</Image_Name>
+        <Image_Index>0</Image_Index>
+        <Uses>3</Uses>
+        <Cost>75</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>false</Can_Sell>
+        <Heal_Val>15</Heal_Val>
+        <Heal_Percent>0.1</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>5 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>121</Key>
+      <Value>
+        <Id>121</Id>
+        <Name>Onigiri</Name>
+        <Full_Name></Full_Name>
+        <Description>heal 20% + 20 and def buff</Description>
+        <Quick_Desc>these donuts are great</Quick_Desc>
+        <Image_Name>Foods</Image_Name>
+        <Image_Index>1</Image_Index>
+        <Uses>3</Uses>
+        <Cost>100</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>false</Can_Sell>
+        <Heal_Val>20</Heal_Val>
+        <Heal_Percent>0.2</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 5 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>122</Key>
+      <Value>
+        <Id>122</Id>
+        <Name>Sunny-Side Egg</Name>
+        <Full_Name></Full_Name>
+        <Description>heal 10% + 30 and speed buff</Description>
+        <Quick_Desc>goes good with bacon</Quick_Desc>
+        <Image_Name>Foods</Image_Name>
+        <Image_Index>2</Image_Index>
+        <Uses>4</Uses>
+        <Cost>150</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>false</Can_Sell>
+        <Heal_Val>30</Heal_Val>
+        <Heal_Percent>0.1</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 5 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>123</Key>
+      <Value>
+        <Id>123</Id>
+        <Name>Spaghetti</Name>
+        <Full_Name></Full_Name>
+        <Description>heal 30% + 15 and lck buff</Description>
+        <Quick_Desc>Are your palms sweaty?</Quick_Desc>
+        <Image_Name>Foods</Image_Name>
+        <Image_Index>3</Image_Index>
+        <Uses>6</Uses>
+        <Cost>150</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>false</Can_Sell>
+        <Heal_Val>15</Heal_Val>
+        <Heal_Percent>0.3</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 10 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>124</Key>
+      <Value>
+        <Id>124</Id>
+        <Name>Pizza</Name>
+        <Full_Name></Full_Name>
+        <Description>heal 40% + 15 and con buff</Description>
+        <Quick_Desc>im hungry</Quick_Desc>
+        <Image_Name>Foods</Image_Name>
+        <Image_Index>4</Image_Index>
+        <Uses>3</Uses>
+        <Cost>200</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>true</Can_Sell>
+        <Heal_Val>15</Heal_Val>
+        <Heal_Percent>0.4</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 5</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>125</Key>
+      <Value>
+        <Id>125</Id>
+        <Name>Stew</Name>
+        <Full_Name></Full_Name>
+        <Description>heal 50% + 15 and res buff</Description>
+        <Quick_Desc>tiny person likes this
+no, not Mari</Quick_Desc>
+        <Image_Name>Foods</Image_Name>
+        <Image_Index>5</Image_Index>
+        <Uses>6</Uses>
+        <Cost>250</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>false</Can_Sell>
+        <Heal_Val>15</Heal_Val>
+        <Heal_Percent>0.5</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 5 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>130</Key>
+      <Value>
+        <Id>130</Id>
+        <Name>French Toast</Name>
+        <Full_Name></Full_Name>
+        <Description>You are what you eat.</Description>
+        <Quick_Desc>It's delicious</Quick_Desc>
+        <Image_Name>Foods</Image_Name>
+        <Image_Index>7</Image_Index>
+        <Uses>3</Uses>
+        <Cost>250</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>false</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>0.5</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>2 2 2 2 2 2 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+    <Item>
+      <Key>131</Key>
+      <Value>
+        <Id>131</Id>
+        <Name>Seliphxir</Name>
+        <Full_Name></Full_Name>
+        <Description>.....</Description>
+        <Quick_Desc>What the fuck?</Quick_Desc>
+        <Image_Name>Foods</Image_Name>
+        <Image_Index>8</Image_Index>
+        <Uses>1</Uses>
+        <Cost>0</Cost>
+        <Prf_Character />
+        <Prf_Class />
+        <Prf_Type />
+        <Skills />
+        <Status_Inflict />
+        <Status_Remove />
+        <Can_Sell>false</Can_Sell>
+        <Heal_Val>0</Heal_Val>
+        <Heal_Percent>1</Heal_Percent>
+        <Door_Key>false</Door_Key>
+        <Chest_Key>false</Chest_Key>
+        <Dancer_Ring>false</Dancer_Ring>
+        <Torch_Radius>0</Torch_Radius>
+        <Placeable>None</Placeable>
+        <Repair_Val>0</Repair_Val>
+        <Repair_Rate>0</Repair_Rate>
+        <Boost_Text></Boost_Text>
+        <Stat_Boost>0 0 0 0 0 0 0 0 0 0 0</Stat_Boost>
+        <Growth_Boost>0 0 0 0 0 0 0</Growth_Boost>
+        <Stat_Buff>0 0 0 0 0 0 0 0</Stat_Buff>
+        <Promotes />
+      </Value>
+    </Item>
+  </Asset>
+</XnaContent>

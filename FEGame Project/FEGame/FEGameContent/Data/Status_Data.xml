@@ -1,0 +1,647 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Generic="System.Collections.Generic">
+  <Asset Type="Generic:Dictionary[int,FEXNA_Library.Data_Status]">
+    <Item>
+      <Key>1</Key>
+      <Value>
+        <Id>1</Id>
+        <Name>Poison</Name>
+        <Description>Afflicted by deadly toxin.
+Lose a fraction of total HP
+at the start of each turn.</Description>
+        <Turns>5</Turns>
+        <Negative>true</Negative>
+        <Damage_Per_Turn>0.15</Damage_Per_Turn>
+        <Unselectable>false</Unselectable>
+        <Ai_Controlled>false</Ai_Controlled>
+        <Attacks_Allies>false</Attacks_Allies>
+        <No_Magic>false</No_Magic>
+        <Skills />
+        <Image_Index>0</Image_Index>
+        <Map_Anim_Id>31</Map_Anim_Id>
+        <Battle_Color>808000F8</Battle_Color>
+      </Value>
+    </Item>
+    <Item>
+      <Key>2</Key>
+      <Value>
+        <Id>2</Id>
+        <Name>Silence</Name>
+        <Description>Voice sealed by magic.
+Unable to use magic or
+staves for the duration.</Description>
+        <Turns>5</Turns>
+        <Negative>true</Negative>
+        <Damage_Per_Turn>0</Damage_Per_Turn>
+        <Unselectable>false</Unselectable>
+        <Ai_Controlled>false</Ai_Controlled>
+        <Attacks_Allies>false</Attacks_Allies>
+        <No_Magic>true</No_Magic>
+        <Skills />
+        <Image_Index>1</Image_Index>
+        <Map_Anim_Id>2</Map_Anim_Id>
+        <Battle_Color>8000F800</Battle_Color>
+      </Value>
+    </Item>
+    <Item>
+      <Key>3</Key>
+      <Value>
+        <Id>3</Id>
+        <Name>Sleep</Name>
+        <Description>Trapped in a deep slumber.
+Cannot move or act, nor
+defend against attacks.</Description>
+        <Turns>5</Turns>
+        <Negative>true</Negative>
+        <Damage_Per_Turn>0</Damage_Per_Turn>
+        <Unselectable>true</Unselectable>
+        <Ai_Controlled>false</Ai_Controlled>
+        <Attacks_Allies>false</Attacks_Allies>
+        <No_Magic>false</No_Magic>
+        <Skills>121</Skills>
+        <Image_Index>2</Image_Index>
+        <Map_Anim_Id>2</Map_Anim_Id>
+        <Battle_Color>800000F8</Battle_Color>
+      </Value>
+    </Item>
+    <Item>
+      <Key>4</Key>
+      <Value>
+        <Id>4</Id>
+        <Name>Berserk</Name>
+        <Description>Driven to unspeakable rage.
+Attacks nearest unit, with
+no regard for friend or foe.</Description>
+        <Turns>5</Turns>
+        <Negative>true</Negative>
+        <Damage_Per_Turn>0</Damage_Per_Turn>
+        <Unselectable>false</Unselectable>
+        <Ai_Controlled>true</Ai_Controlled>
+        <Attacks_Allies>true</Attacks_Allies>
+        <No_Magic>false</No_Magic>
+        <Skills />
+        <Image_Index>3</Image_Index>
+        <Map_Anim_Id>2</Map_Anim_Id>
+        <Battle_Color>80F80000</Battle_Color>
+      </Value>
+    </Item>
+    <Item>
+      <Key>5</Key>
+      <Value>
+        <Id>5</Id>
+        <Name>Slow</Name>
+        <Description>Air feels thick as water.
+Can only move three spaces,
+cannot double attack, Avoid -10.</Description>
+        <Turns>3</Turns>
+        <Negative>true</Negative>
+        <Damage_Per_Turn>0</Damage_Per_Turn>
+        <Unselectable>false</Unselectable>
+        <Ai_Controlled>false</Ai_Controlled>
+        <Attacks_Allies>false</Attacks_Allies>
+        <No_Magic>false</No_Magic>
+        <Skills>122</Skills>
+        <Image_Index>4</Image_Index>
+        <Map_Anim_Id>2</Map_Anim_Id>
+        <Battle_Color>80606060</Battle_Color>
+      </Value>
+    </Item>
+    <Item>
+      <Key>6</Key>
+      <Value>
+        <Id>6</Id>
+        <Name>Celerity</Name>
+        <Description>doop doop move boost</Description>
+        <Turns>1</Turns>
+        <Negative>false</Negative>
+        <Damage_Per_Turn>0</Damage_Per_Turn>
+        <Unselectable>false</Unselectable>
+        <Ai_Controlled>false</Ai_Controlled>
+        <Attacks_Allies>false</Attacks_Allies>
+        <No_Magic>false</No_Magic>
+        <Skills>68</Skills>
+        <Image_Index>5</Image_Index>
+        <Map_Anim_Id>2</Map_Anim_Id>
+        <Battle_Color>00000000</Battle_Color>
+      </Value>
+    </Item>
+    <Item>
+      <Key>7</Key>
+      <Value>
+        <Id>7</Id>
+        <Name>Drunk</Name>
+        <Description>A few too many drinks...
+Speed, skill, and vision reduced.
+Cannot rescue or visit.</Description>
+        <Turns>-1</Turns>
+        <Negative>true</Negative>
+        <Damage_Per_Turn>0</Damage_Per_Turn>
+        <Unselectable>false</Unselectable>
+        <Ai_Controlled>false</Ai_Controlled>
+        <Attacks_Allies>false</Attacks_Allies>
+        <No_Magic>false</No_Magic>
+        <Skills>123</Skills>
+        <Image_Index>6</Image_Index>
+        <Map_Anim_Id>31</Map_Anim_Id>
+        <Battle_Color>A0A09080</Battle_Color>
+      </Value>
+    </Item>
+    <Item>
+      <Key>8</Key>
+      <Value>
+        <Id>8</Id>
+        <Name>Renewal</Name>
+        <Description>Imbued with regenerative magic.
+Recover a fraction of total HP
+at the start of each turn.</Description>
+        <Turns>4</Turns>
+        <Negative>false</Negative>
+        <Damage_Per_Turn>0</Damage_Per_Turn>
+        <Unselectable>false</Unselectable>
+        <Ai_Controlled>false</Ai_Controlled>
+        <Attacks_Allies>false</Attacks_Allies>
+        <No_Magic>false</No_Magic>
+        <Skills>124</Skills>
+        <Image_Index>7</Image_Index>
+        <Map_Anim_Id>2</Map_Anim_Id>
+        <Battle_Color>00000000</Battle_Color>
+      </Value>
+    </Item>
+    <Item>
+      <Key>11</Key>
+      <Value>
+        <Id>11</Id>
+        <Name>Deus's Geas</Name>
+        <Description>The hand of Deus, Father Sky,
+guides you towards victory.
+Increases your accuracy.</Description>
+        <Turns>1</Turns>
+        <Negative>false</Negative>
+        <Damage_Per_Turn>0</Damage_Per_Turn>
+        <Unselectable>false</Unselectable>
+        <Ai_Controlled>false</Ai_Controlled>
+        <Attacks_Allies>false</Attacks_Allies>
+        <No_Magic>false</No_Magic>
+        <Skills>131</Skills>
+        <Image_Index>8</Image_Index>
+        <Map_Anim_Id>2</Map_Anim_Id>
+        <Battle_Color>00000000</Battle_Color>
+      </Value>
+    </Item>
+    <Item>
+      <Key>12</Key>
+      <Value>
+        <Id>12</Id>
+        <Name>Mulciber's Iron</Name>
+        <Description>The great Maker, Mulciber,
+lends strength to your arm.
+Increases your attack.</Description>
+        <Turns>1</Turns>
+        <Negative>false</Negative>
+        <Damage_Per_Turn>0</Damage_Per_Turn>
+        <Unselectable>false</Unselectable>
+        <Ai_Controlled>false</Ai_Controlled>
+        <Attacks_Allies>false</Attacks_Allies>
+        <No_Magic>false</No_Magic>
+        <Skills>132</Skills>
+        <Image_Index>9</Image_Index>
+        <Map_Anim_Id>2</Map_Anim_Id>
+        <Battle_Color>00000000</Battle_Color>
+      </Value>
+    </Item>
+    <Item>
+      <Key>13</Key>
+      <Value>
+        <Id>13</Id>
+        <Name>Set's Litany</Name>
+        <Description>The Wanderer, Set, urges you to
+move by harassing your feet.
+Increases dodge and avoid.</Description>
+        <Turns>1</Turns>
+        <Negative>false</Negative>
+        <Damage_Per_Turn>0</Damage_Per_Turn>
+        <Unselectable>false</Unselectable>
+        <Ai_Controlled>false</Ai_Controlled>
+        <Attacks_Allies>false</Attacks_Allies>
+        <No_Magic>false</No_Magic>
+        <Skills>133</Skills>
+        <Image_Index>10</Image_Index>
+        <Map_Anim_Id>2</Map_Anim_Id>
+        <Battle_Color>00000000</Battle_Color>
+      </Value>
+    </Item>
+    <Item>
+      <Key>14</Key>
+      <Value>
+        <Id>14</Id>
+        <Name>Mot's Mercy</Name>
+        <Description>Mot, God of Evil and Misfortune,
+spares you from its wrath today.
+Increases defense and resistance.</Description>
+        <Turns>1</Turns>
+        <Negative>false</Negative>
+        <Damage_Per_Turn>0</Damage_Per_Turn>
+        <Unselectable>false</Unselectable>
+        <Ai_Controlled>false</Ai_Controlled>
+        <Attacks_Allies>false</Attacks_Allies>
+        <No_Magic>false</No_Magic>
+        <Skills>134</Skills>
+        <Image_Index>11</Image_Index>
+        <Map_Anim_Id>2</Map_Anim_Id>
+        <Battle_Color>00000000</Battle_Color>
+      </Value>
+    </Item>
+    <Item>
+      <Key>15</Key>
+      <Value>
+        <Id>15</Id>
+        <Name>El's Passage</Name>
+        <Description>The Boatman, El, hurries you
+onward to your inevitable death.
+Increases speed and movement.</Description>
+        <Turns>1</Turns>
+        <Negative>false</Negative>
+        <Damage_Per_Turn>0</Damage_Per_Turn>
+        <Unselectable>false</Unselectable>
+        <Ai_Controlled>false</Ai_Controlled>
+        <Attacks_Allies>false</Attacks_Allies>
+        <No_Magic>false</No_Magic>
+        <Skills>135</Skills>
+        <Image_Index>12</Image_Index>
+        <Map_Anim_Id>2</Map_Anim_Id>
+        <Battle_Color>00000000</Battle_Color>
+      </Value>
+    </Item>
+    <Item>
+      <Key>16</Key>
+      <Value>
+        <Id>16</Id>
+        <Name>Deus's Cursed Geas</Name>
+        <Description>The hand of Deus, Father Sky,
+works against you this day.
+Decreases your accuracy.</Description>
+        <Turns>2</Turns>
+        <Negative>true</Negative>
+        <Damage_Per_Turn>0</Damage_Per_Turn>
+        <Unselectable>false</Unselectable>
+        <Ai_Controlled>false</Ai_Controlled>
+        <Attacks_Allies>false</Attacks_Allies>
+        <No_Magic>false</No_Magic>
+        <Skills>136</Skills>
+        <Image_Index>13</Image_Index>
+        <Map_Anim_Id>2</Map_Anim_Id>
+        <Battle_Color>00000000</Battle_Color>
+      </Value>
+    </Item>
+    <Item>
+      <Key>17</Key>
+      <Value>
+        <Id>17</Id>
+        <Name>Mulciber's Cursed Iron</Name>
+        <Description>The great Maker, Mulciber,
+burdens you with weak arms.
+Decreases your attack.</Description>
+        <Turns>2</Turns>
+        <Negative>true</Negative>
+        <Damage_Per_Turn>0</Damage_Per_Turn>
+        <Unselectable>false</Unselectable>
+        <Ai_Controlled>false</Ai_Controlled>
+        <Attacks_Allies>false</Attacks_Allies>
+        <No_Magic>false</No_Magic>
+        <Skills>137</Skills>
+        <Image_Index>14</Image_Index>
+        <Map_Anim_Id>2</Map_Anim_Id>
+        <Battle_Color>00000000</Battle_Color>
+      </Value>
+    </Item>
+    <Item>
+      <Key>18</Key>
+      <Value>
+        <Id>18</Id>
+        <Name>Set's Cursed Litany</Name>
+        <Description>The Wanderer, Set, turns the
+winds against your movements.
+Decreases dodge and avoid.</Description>
+        <Turns>2</Turns>
+        <Negative>true</Negative>
+        <Damage_Per_Turn>0</Damage_Per_Turn>
+        <Unselectable>false</Unselectable>
+        <Ai_Controlled>false</Ai_Controlled>
+        <Attacks_Allies>false</Attacks_Allies>
+        <No_Magic>false</No_Magic>
+        <Skills>138</Skills>
+        <Image_Index>15</Image_Index>
+        <Map_Anim_Id>2</Map_Anim_Id>
+        <Battle_Color>00000000</Battle_Color>
+      </Value>
+    </Item>
+    <Item>
+      <Key>19</Key>
+      <Value>
+        <Id>19</Id>
+        <Name>Mot's Cursed Mercy</Name>
+        <Description>Mot, God of Evil and Misfortune,
+has taken interest in your fate.
+Decreases defense and resistance.</Description>
+        <Turns>2</Turns>
+        <Negative>true</Negative>
+        <Damage_Per_Turn>0</Damage_Per_Turn>
+        <Unselectable>false</Unselectable>
+        <Ai_Controlled>false</Ai_Controlled>
+        <Attacks_Allies>false</Attacks_Allies>
+        <No_Magic>false</No_Magic>
+        <Skills>139</Skills>
+        <Image_Index>16</Image_Index>
+        <Map_Anim_Id>2</Map_Anim_Id>
+        <Battle_Color>00000000</Battle_Color>
+      </Value>
+    </Item>
+    <Item>
+      <Key>20</Key>
+      <Value>
+        <Id>20</Id>
+        <Name>El's Cursed Passage</Name>
+        <Description>The Boatman, El, assigns you
+a slow and miserable end.
+Decreases speed and movement.</Description>
+        <Turns>2</Turns>
+        <Negative>true</Negative>
+        <Damage_Per_Turn>0</Damage_Per_Turn>
+        <Unselectable>false</Unselectable>
+        <Ai_Controlled>false</Ai_Controlled>
+        <Attacks_Allies>false</Attacks_Allies>
+        <No_Magic>false</No_Magic>
+        <Skills>140</Skills>
+        <Image_Index>17</Image_Index>
+        <Map_Anim_Id>2</Map_Anim_Id>
+        <Battle_Color>00000000</Battle_Color>
+      </Value>
+    </Item>
+    <Item>
+      <Key>21</Key>
+      <Value>
+        <Id>21</Id>
+        <Name>Dupe</Name>
+        <Description>doop doop workarounds</Description>
+        <Turns>1</Turns>
+        <Negative>false</Negative>
+        <Damage_Per_Turn>0</Damage_Per_Turn>
+        <Unselectable>false</Unselectable>
+        <Ai_Controlled>false</Ai_Controlled>
+        <Attacks_Allies>false</Attacks_Allies>
+        <No_Magic>false</No_Magic>
+        <Skills></Skills>
+        <Image_Index>17</Image_Index>
+        <Map_Anim_Id>2</Map_Anim_Id>
+        <Battle_Color>00000000</Battle_Color>
+      </Value>
+    </Item>
+    <Item>
+      <Key>22</Key>
+      <Value>
+        <Id>22</Id>
+        <Name>Hallucinating</Name>
+        <Description></Description>
+        <Turns>1</Turns>
+        <Negative>true</Negative>
+        <Damage_Per_Turn>0</Damage_Per_Turn>
+        <Unselectable>false</Unselectable>
+        <Ai_Controlled>false</Ai_Controlled>
+        <Attacks_Allies>false</Attacks_Allies>
+        <No_Magic>false</No_Magic>
+        <Skills>172</Skills>
+        <Image_Index>0</Image_Index>
+        <Map_Anim_Id>31</Map_Anim_Id>
+        <Battle_Color>808000F8</Battle_Color>
+      </Value>
+    </Item>
+    <Item>
+      <Key>23</Key>
+      <Value>
+        <Id>23</Id>
+        <Name>Numb</Name>
+        <Description></Description>
+        <Turns>1</Turns>
+        <Negative>true</Negative>
+        <Damage_Per_Turn>0</Damage_Per_Turn>
+        <Unselectable>false</Unselectable>
+        <Ai_Controlled>false</Ai_Controlled>
+        <Attacks_Allies>false</Attacks_Allies>
+        <No_Magic>false</No_Magic>
+        <Skills>173</Skills>
+        <Image_Index>0</Image_Index>
+        <Map_Anim_Id>31</Map_Anim_Id>
+        <Battle_Color>A0A09080</Battle_Color>
+      </Value>
+    </Item>
+    <Item>
+      <Key>24</Key>
+      <Value>
+        <Id>24</Id>
+        <Name>Pigtails</Name>
+        <Description></Description>
+        <Turns>5</Turns>
+        <Negative>false</Negative>
+        <Damage_Per_Turn>0</Damage_Per_Turn>
+        <Unselectable>false</Unselectable>
+        <Ai_Controlled>false</Ai_Controlled>
+        <Attacks_Allies>false</Attacks_Allies>
+        <No_Magic>false</No_Magic>
+        <Skills>180</Skills>
+        <Image_Index>5</Image_Index>
+        <Map_Anim_Id>0</Map_Anim_Id>
+        <Battle_Color>00000000</Battle_Color>
+      </Value>
+    </Item>
+    <Item>
+      <Key>25</Key>
+      <Value>
+        <Id>25</Id>
+        <Name>Fluffs</Name>
+        <Description></Description>
+        <Turns>5</Turns>
+        <Negative>false</Negative>
+        <Damage_Per_Turn>0</Damage_Per_Turn>
+        <Unselectable>false</Unselectable>
+        <Ai_Controlled>false</Ai_Controlled>
+        <Attacks_Allies>false</Attacks_Allies>
+        <No_Magic>false</No_Magic>
+        <Skills>181</Skills>
+        <Image_Index>5</Image_Index>
+        <Map_Anim_Id>0</Map_Anim_Id>
+        <Battle_Color>00000000</Battle_Color>
+      </Value>
+    </Item>
+    <Item>
+      <Key>26</Key>
+      <Value>
+        <Id>26</Id>
+        <Name>Manes</Name>
+        <Description></Description>
+        <Turns>5</Turns>
+        <Negative>false</Negative>
+        <Damage_Per_Turn>0</Damage_Per_Turn>
+        <Unselectable>false</Unselectable>
+        <Ai_Controlled>false</Ai_Controlled>
+        <Attacks_Allies>false</Attacks_Allies>
+        <No_Magic>false</No_Magic>
+        <Skills>182</Skills>
+        <Image_Index>5</Image_Index>
+        <Map_Anim_Id>0</Map_Anim_Id>
+        <Battle_Color>00000000</Battle_Color>
+      </Value>
+    </Item>
+    <Item>
+      <Key>27</Key>
+      <Value>
+        <Id>27</Id>
+        <Name>Bare</Name>
+        <Description></Description>
+        <Turns>5</Turns>
+        <Negative>false</Negative>
+        <Damage_Per_Turn>0</Damage_Per_Turn>
+        <Unselectable>false</Unselectable>
+        <Ai_Controlled>false</Ai_Controlled>
+        <Attacks_Allies>false</Attacks_Allies>
+        <No_Magic>false</No_Magic>
+        <Skills>183</Skills>
+        <Image_Index>5</Image_Index>
+        <Map_Anim_Id>0</Map_Anim_Id>
+        <Battle_Color>00000000</Battle_Color>
+      </Value>
+    </Item>
+    <Item>
+      <Key>28</Key>
+      <Value>
+        <Id>28</Id>
+        <Name>Thick</Name>
+        <Description></Description>
+        <Turns>5</Turns>
+        <Negative>false</Negative>
+        <Damage_Per_Turn>0</Damage_Per_Turn>
+        <Unselectable>false</Unselectable>
+        <Ai_Controlled>false</Ai_Controlled>
+        <Attacks_Allies>false</Attacks_Allies>
+        <No_Magic>false</No_Magic>
+        <Skills>184</Skills>
+        <Image_Index>5</Image_Index>
+        <Map_Anim_Id>0</Map_Anim_Id>
+        <Battle_Color>00000000</Battle_Color>
+      </Value>
+    </Item>
+    <Item>
+      <Key>29</Key>
+      <Value>
+        <Id>29</Id>
+        <Name>Let</Name>
+        <Description></Description>
+        <Turns>5</Turns>
+        <Negative>false</Negative>
+        <Damage_Per_Turn>0</Damage_Per_Turn>
+        <Unselectable>false</Unselectable>
+        <Ai_Controlled>false</Ai_Controlled>
+        <Attacks_Allies>false</Attacks_Allies>
+        <No_Magic>false</No_Magic>
+        <Skills>185</Skills>
+        <Image_Index>5</Image_Index>
+        <Map_Anim_Id>0</Map_Anim_Id>
+        <Battle_Color>00000000</Battle_Color>
+      </Value>
+    </Item>
+    <Item>
+      <Key>30</Key>
+      <Value>
+        <Id>30</Id>
+        <Name>Confused</Name>
+        <Description></Description>
+        <Turns>3</Turns>
+        <Negative>true</Negative>
+        <Damage_Per_Turn>0</Damage_Per_Turn>
+        <Unselectable>false</Unselectable>
+        <Ai_Controlled>false</Ai_Controlled>
+        <Attacks_Allies>false</Attacks_Allies>
+        <No_Magic>false</No_Magic>
+        <Skills>198</Skills>
+        <Image_Index>0</Image_Index>
+        <Map_Anim_Id>0</Map_Anim_Id>
+        <Battle_Color>F0F00F0F</Battle_Color>
+      </Value>
+    </Item>
+    <Item>
+      <Key>31</Key>
+      <Value>
+        <Id>31</Id>
+        <Name>Hiatusing</Name>
+        <Description></Description>
+        <Turns>-1</Turns>
+        <Negative>true</Negative>
+        <Damage_Per_Turn>0</Damage_Per_Turn>
+        <Unselectable>false</Unselectable>
+        <Ai_Controlled>false</Ai_Controlled>
+        <Attacks_Allies>false</Attacks_Allies>
+        <No_Magic>false</No_Magic>
+        <Skills>216</Skills>
+        <Image_Index>2</Image_Index>
+        <Map_Anim_Id>0</Map_Anim_Id>
+        <Battle_Color>FFFFFFFF</Battle_Color>
+      </Value>
+    </Item>
+    <Item>
+      <Key>32</Key>
+      <Value>
+        <Id>32</Id>
+        <Name>Vandalized</Name>
+        <Description></Description>
+        <Turns>3</Turns>
+        <Negative>true</Negative>
+        <Damage_Per_Turn>0</Damage_Per_Turn>
+        <Unselectable>false</Unselectable>
+        <Ai_Controlled>false</Ai_Controlled>
+        <Attacks_Allies>false</Attacks_Allies>
+        <No_Magic>false</No_Magic>
+        <Skills>218</Skills>
+        <Image_Index>0</Image_Index>
+        <Map_Anim_Id>0</Map_Anim_Id>
+        <Battle_Color>F0F00F0F</Battle_Color>
+      </Value>
+    </Item>
+    <Item>
+      <Key>33</Key>
+      <Value>
+        <Id>33</Id>
+        <Name>Angel</Name>
+        <Description></Description>
+        <Turns>3</Turns>
+        <Negative>false</Negative>
+        <Damage_Per_Turn>0</Damage_Per_Turn>
+        <Unselectable>false</Unselectable>
+        <Ai_Controlled>false</Ai_Controlled>
+        <Attacks_Allies>false</Attacks_Allies>
+        <No_Magic>false</No_Magic>
+        <Skills>211</Skills>
+        <Image_Index>19</Image_Index>
+        <Map_Anim_Id>0</Map_Anim_Id>
+        <Battle_Color>00000000</Battle_Color>
+      </Value>
+    </Item>
+    <Item>
+      <Key>34</Key>
+      <Value>
+        <Id>34</Id>
+        <Name>Horsie</Name>
+        <Description></Description>
+        <Turns>-1</Turns>
+        <Negative>false</Negative>
+        <Damage_Per_Turn>0</Damage_Per_Turn>
+        <Unselectable>false</Unselectable>
+        <Ai_Controlled>false</Ai_Controlled>
+        <Attacks_Allies>false</Attacks_Allies>
+        <No_Magic>false</No_Magic>
+        <Skills />
+        <Image_Index>18</Image_Index>
+        <Map_Anim_Id>0</Map_Anim_Id>
+        <Battle_Color>00000000</Battle_Color>
+      </Value>
+    </Item>
+  </Asset>
+</XnaContent>

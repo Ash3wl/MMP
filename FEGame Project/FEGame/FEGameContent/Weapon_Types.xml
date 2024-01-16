@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Generic="System.Collections.Generic">
+  <Asset Type="Generic:List[FEXNA_Library.WeaponType]">
+    <Item>
+      <Key>0</Key>
+      <Name>None</Name>
+      <StatusHelpName>--</StatusHelpName>
+      <EventName>None</EventName>
+      <IconIndex>0</IconIndex>
+      <ClassReelIconIndex>0</ClassReelIconIndex>
+      <StatusIndex>0</StatusIndex>
+      <AnimName>Unarmed</AnimName>
+      <ThrownAnimName></ThrownAnimName>
+      <StatusDescription></StatusDescription>
+      <UnitDescription></UnitDescription>
+      <IsMagic>false</IsMagic>
+      <IsStaff>false</IsStaff>
+      <DisplayedInStatus>false</DisplayedInStatus>
+      <WtaTypes />
+      <WtaReaverTypes />
+      <WtaRanges />
+      <WtdRanges />
+    </Item>
+    <Item>
+      <Key>1</Key>
+      <Name>Sword</Name>
+      <StatusHelpName>Sword</StatusHelpName>
+      <EventName>Sword</EventName>
+      <IconIndex>1</IconIndex>
+      <ClassReelIconIndex>0</ClassReelIconIndex>
+      <StatusIndex>0</StatusIndex>
+      <AnimName>Sword</AnimName>
+      <ThrownAnimName>ThrowSword</ThrownAnimName>
+      <StatusDescription>Status Help Sword</StatusDescription>
+      <UnitDescription>Unit Help WType1</UnitDescription>
+      <IsMagic>false</IsMagic>
+      <IsStaff>false</IsStaff>
+      <DisplayedInStatus>true</DisplayedInStatus>
+      <WtaTypes>3</WtaTypes>
+      <WtaReaverTypes>2</WtaReaverTypes>
+      <WtaRanges />
+      <WtdRanges />
+    </Item>
+    <Item>
+      <Key>2</Key>
+      <Name>Lance</Name>
+      <StatusHelpName>Lance</StatusHelpName>
+      <EventName>Lance</EventName>
+      <IconIndex>2</IconIndex>
+      <ClassReelIconIndex>1</ClassReelIconIndex>
+      <StatusIndex>1</StatusIndex>
+      <AnimName>Lance</AnimName>
+      <ThrownAnimName Null="true" />
+      <StatusDescription>Status Help Lance</StatusDescription>
+      <UnitDescription>Unit Help WType2</UnitDescription>
+      <IsMagic>false</IsMagic>
+      <IsStaff>false</IsStaff>
+      <DisplayedInStatus>true</DisplayedInStatus>
+      <WtaTypes>1</WtaTypes>
+      <WtaReaverTypes>3</WtaReaverTypes>
+      <WtaRanges />
+      <WtdRanges />
+    </Item>
+    <Item>
+      <Key>3</Key>
+      <Name>Axe</Name>
+      <StatusHelpName>Axe</StatusHelpName>
+      <EventName>Axe</EventName>
+      <IconIndex>3</IconIndex>
+      <ClassReelIconIndex>2</ClassReelIconIndex>
+      <StatusIndex>5</StatusIndex>
+      <AnimName>Axe</AnimName>
+      <ThrownAnimName>ThrowAxe</ThrownAnimName>
+      <StatusDescription>Status Help Axe</StatusDescription>
+      <UnitDescription>Unit Help WType3</UnitDescription>
+      <IsMagic>false</IsMagic>
+      <IsStaff>false</IsStaff>
+      <DisplayedInStatus>true</DisplayedInStatus>
+      <WtaTypes>2</WtaTypes>
+      <WtaReaverTypes>1</WtaReaverTypes>
+      <WtaRanges />
+      <WtdRanges />
+    </Item>
+    <Item>
+      <Key>4</Key>
+      <Name>Bow</Name>
+      <StatusHelpName>Bow</StatusHelpName>
+      <EventName>Bow</EventName>
+      <IconIndex>4</IconIndex>
+      <ClassReelIconIndex>3</ClassReelIconIndex>
+      <StatusIndex>6</StatusIndex>
+      <AnimName>Bow</AnimName>
+      <ThrownAnimName Null="true" />
+      <StatusDescription>Status Help Bow</StatusDescription>
+      <UnitDescription>Unit Help WType4</UnitDescription>
+      <IsMagic>false</IsMagic>
+      <IsStaff>false</IsStaff>
+      <DisplayedInStatus>true</DisplayedInStatus>
+      <WtaTypes />
+      <WtaReaverTypes />
+      <WtaRanges>2</WtaRanges>
+      <WtdRanges>1</WtdRanges>
+    </Item>
+    <Item>
+      <Key>5</Key>
+      <Name>Fire</Name>
+      <StatusHelpName>Fire</StatusHelpName>
+      <EventName>Fire</EventName>
+      <IconIndex>5</IconIndex>
+      <ClassReelIconIndex>4</ClassReelIconIndex>
+      <StatusIndex>2</StatusIndex>
+      <AnimName>Magic</AnimName>
+      <ThrownAnimName Null="true" />
+      <StatusDescription>Status Help Fire</StatusDescription>
+      <UnitDescription>Unit Help WType5</UnitDescription>
+      <IsMagic>true</IsMagic>
+      <IsStaff>false</IsStaff>
+      <DisplayedInStatus>true</DisplayedInStatus>
+      <WtaTypes>8 7</WtaTypes>
+      <WtaReaverTypes>8 6</WtaReaverTypes>
+      <WtaRanges />
+      <WtdRanges />
+    </Item>
+    <Item>
+      <Key>6</Key>
+      <Name>Thunder</Name>
+      <StatusHelpName>Thund</StatusHelpName>
+      <EventName>Thund</EventName>
+      <IconIndex>6</IconIndex>
+      <ClassReelIconIndex>4</ClassReelIconIndex>
+      <StatusIndex>3</StatusIndex>
+      <AnimName>Magic</AnimName>
+      <ThrownAnimName Null="true" />
+      <StatusDescription>Status Help Thund</StatusDescription>
+      <UnitDescription>Unit Help WType6</UnitDescription>
+      <IsMagic>true</IsMagic>
+      <IsStaff>false</IsStaff>
+      <DisplayedInStatus>true</DisplayedInStatus>
+      <WtaTypes>8 5</WtaTypes>
+      <WtaReaverTypes>8 7</WtaReaverTypes>
+      <WtaRanges />
+      <WtdRanges />
+    </Item>
+    <Item>
+      <Key>7</Key>
+      <Name>Wind</Name>
+      <StatusHelpName>Wind</StatusHelpName>
+      <EventName>Wind</EventName>
+      <IconIndex>7</IconIndex>
+      <ClassReelIconIndex>4</ClassReelIconIndex>
+      <StatusIndex>4</StatusIndex>
+      <AnimName>Magic</AnimName>
+      <ThrownAnimName Null="true" />
+      <StatusDescription>Status Help Wind</StatusDescription>
+      <UnitDescription>Unit Help WType7</UnitDescription>
+      <IsMagic>true</IsMagic>
+      <IsStaff>false</IsStaff>
+      <DisplayedInStatus>true</DisplayedInStatus>
+      <WtaTypes>8 6</WtaTypes>
+      <WtaReaverTypes>8 5</WtaReaverTypes>
+      <WtaRanges />
+      <WtdRanges />
+    </Item>
+    <Item>
+      <Key>8</Key>
+      <Name>Light</Name>
+      <StatusHelpName>Light</StatusHelpName>
+      <EventName>Light</EventName>
+      <IconIndex>8</IconIndex>
+      <ClassReelIconIndex>5</ClassReelIconIndex>
+      <StatusIndex>7</StatusIndex>
+      <AnimName>Magic</AnimName>
+      <ThrownAnimName Null="true" />
+      <StatusDescription>Status Help Light</StatusDescription>
+      <UnitDescription>Unit Help WType8</UnitDescription>
+      <IsMagic>true</IsMagic>
+      <IsStaff>false</IsStaff>
+      <DisplayedInStatus>true</DisplayedInStatus>
+      <WtaTypes>9</WtaTypes>
+      <WtaReaverTypes>9</WtaReaverTypes>
+      <WtaRanges />
+      <WtdRanges />
+    </Item>
+    <Item>
+      <Key>9</Key>
+      <Name>Dark</Name>
+      <StatusHelpName>Dark</StatusHelpName>
+      <EventName>Dark</EventName>
+      <IconIndex>9</IconIndex>
+      <ClassReelIconIndex>6</ClassReelIconIndex>
+      <StatusIndex>8</StatusIndex>
+      <AnimName>Magic</AnimName>
+      <ThrownAnimName Null="true" />
+      <StatusDescription>Status Help Elder</StatusDescription>
+      <UnitDescription>Unit Help WType9</UnitDescription>
+      <IsMagic>true</IsMagic>
+      <IsStaff>false</IsStaff>
+      <DisplayedInStatus>true</DisplayedInStatus>
+      <WtaTypes>5 6 7</WtaTypes>
+      <WtaReaverTypes>5 6 7</WtaReaverTypes>
+      <WtaRanges />
+      <WtdRanges />
+    </Item>
+    <Item>
+      <Key>10</Key>
+      <Name>Staff</Name>
+      <StatusHelpName>Staff</StatusHelpName>
+      <EventName>Staff</EventName>
+      <IconIndex>10</IconIndex>
+      <ClassReelIconIndex>7</ClassReelIconIndex>
+      <StatusIndex>9</StatusIndex>
+      <AnimName>Staff</AnimName>
+      <ThrownAnimName Null="true" />
+      <StatusDescription>Status Help Staff</StatusDescription>
+      <UnitDescription>Unit Help WType10</UnitDescription>
+      <IsMagic>false</IsMagic>
+      <IsStaff>true</IsStaff>
+      <DisplayedInStatus>true</DisplayedInStatus>
+      <WtaTypes />
+      <WtaReaverTypes />
+      <WtaRanges />
+      <WtdRanges />
+    </Item>
+    <Item>
+      <Key>11</Key>
+      <Name>Breath</Name>
+      <StatusHelpName>Breath</StatusHelpName>
+      <EventName>Breath</EventName>
+      <IconIndex>0</IconIndex>
+      <ClassReelIconIndex>8</ClassReelIconIndex>
+      <StatusIndex>0</StatusIndex>
+      <AnimName>Dragon</AnimName>
+      <ThrownAnimName Null="true" />
+      <StatusDescription Null="true" />
+      <UnitDescription Null="true" />
+      <IsMagic>false</IsMagic>
+      <IsStaff>false</IsStaff>
+      <DisplayedInStatus>false</DisplayedInStatus>
+      <WtaTypes />
+      <WtaReaverTypes />
+      <WtaRanges />
+      <WtdRanges />
+    </Item>
+    <Item>
+      <Key>12</Key>
+      <Name>Fluff</Name>
+      <StatusHelpName>Fluff</StatusHelpName>
+      <EventName>Fluff</EventName>
+      <IconIndex>0</IconIndex>
+      <ClassReelIconIndex>8</ClassReelIconIndex>
+      <StatusIndex>0</StatusIndex>
+      <AnimName>Fluff</AnimName>
+      <ThrownAnimName Null="true" />
+      <StatusDescription Null="true" />
+      <UnitDescription Null="true" />
+      <IsMagic>true</IsMagic>
+      <IsStaff>false</IsStaff>
+      <DisplayedInStatus>false</DisplayedInStatus>
+      <WtaTypes />
+      <WtaReaverTypes />
+      <WtaRanges />
+      <WtdRanges />
+    </Item>
+    <Item>
+      <Key>13</Key>
+      <Name>Sword_2</Name>
+      <StatusHelpName>Sword_2</StatusHelpName>
+      <EventName>Sword_2</EventName>
+      <IconIndex>1</IconIndex>
+      <ClassReelIconIndex>0</ClassReelIconIndex>
+      <StatusIndex>0</StatusIndex>
+      <AnimName>Sword_2</AnimName>
+      <ThrownAnimName Null="true" />
+      <StatusDescription>Status Help Sword</StatusDescription>
+      <UnitDescription>Unit Help WType1</UnitDescription>
+      <IsMagic>false</IsMagic>
+      <IsStaff>false</IsStaff>
+      <DisplayedInStatus>false</DisplayedInStatus>
+      <WtaTypes>1 2 3 4 5 6 7 8 9 10 11</WtaTypes>
+      <WtaReaverTypes />
+      <WtaRanges />
+      <WtdRanges />
+    </Item>
+  </Asset>
+</XnaContent>

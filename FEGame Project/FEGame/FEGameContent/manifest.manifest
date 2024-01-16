@@ -1,0 +1,1768 @@
+Actor_Data
+DiagFont
+Effect
+Face_Data
+Face_Palette_Data
+manifest
+MapSpriteRecolors
+Palette_Data
+Weapon_Types
+Audio/BGM/A Hint of Things to Come
+Audio/BGM/Ambience-Wind
+Audio/BGM/An Unexpected Caller
+Audio/BGM/Arena Battle
+Audio/BGM/Arena Entrance
+Audio/BGM/Armory
+Audio/BGM/Binding Ties
+Audio/BGM/boss
+Audio/BGM/BossMeMaybe
+Audio/BGM/Chapter Transition Humming
+Audio/BGM/Companions
+Audio/BGM/cp
+Audio/BGM/CreepyAwesome
+Audio/BGM/CrossFormation
+Audio/BGM/Crowd Cheering
+Audio/BGM/Curing
+Audio/BGM/Distant Travels
+Audio/BGM/Donut
+Audio/BGM/eeee
+Audio/BGM/Enemies Appear
+Audio/BGM/FadeToDarkness
+Audio/BGM/fe3map
+Audio/BGM/FE4 Main Theme
+Audio/BGM/FE7 Main Theme
+Audio/BGM/Friendship and Adventure
+Audio/BGM/Game Over
+Audio/BGM/Going My Way
+Audio/BGM/HandfulOfHope
+Audio/BGM/Happiness Abounds
+Audio/BGM/Healing
+Audio/BGM/Holy War
+Audio/BGM/In the Shadow of Triumph
+Audio/BGM/KickTheButler
+Audio/BGM/Messenger from the Darkness
+Audio/BGM/Monster Encounter (Warning)
+Audio/BGM/PanicStorm
+Audio/BGM/Poem of Breeze
+Audio/BGM/pp1
+Audio/BGM/Prepare to Charge
+Audio/BGM/quiet
+Audio/BGM/Raid!
+Audio/BGM/Rain
+Audio/BGM/RigorMortis
+Audio/BGM/RigorMortisV2
+Audio/BGM/Rise to the Challenge
+Audio/BGM/Road of Trials
+Audio/BGM/RoyalAdvance
+Audio/BGM/Safeguard
+Audio/BGM/SaturosBattle
+Audio/BGM/Shadow Approaches
+Audio/BGM/shiver
+Audio/BGM/Shop
+Audio/BGM/Silence
+Audio/BGM/Silent Ground
+Audio/BGM/Softly with Grace
+Audio/BGM/Stratagem
+Audio/BGM/StrawberryCrisis
+Audio/BGM/Strike
+Audio/BGM/StupidInfomercialTheme
+Audio/BGM/The Cogs of Fate
+Audio/BGM/The Kingdom of Bern
+Audio/BGM/The Messenger
+Audio/BGM/To the Heights
+Audio/BGM/Together, We Ride!
+Audio/BGM/Triumph
+Audio/BGM/unveil
+Audio/BGM/UnveilTheMystery
+Audio/BGM/Victory Now!
+Audio/BGM/WagnerianFinale
+Audio/BGM/WalkinUpAStorm
+Audio/BGM/What Comes from Darkness
+Audio/BGM/When the Rush Comes
+Audio/BGM/WindsOfTheFuture
+Audio/BGM/Winning Road
+Audio/BGM/Within Sadness
+Audio/BGM/YouCannotHaveThisMage
+Audio/BGM/YourWishIsMyLeisurelyMadeExcuseForAMeme
+Audio/SE/Battle Sounds/Arcfire
+Audio/SE/Battle Sounds/Armor_Clang
+Audio/SE/Battle Sounds/Ash_F
+Audio/SE/Battle Sounds/atk1
+Audio/SE/Battle Sounds/atk10
+Audio/SE/Battle Sounds/atk11
+Audio/SE/Battle Sounds/atk12
+Audio/SE/Battle Sounds/atk13
+Audio/SE/Battle Sounds/atk14
+Audio/SE/Battle Sounds/atk15
+Audio/SE/Battle Sounds/atk16
+Audio/SE/Battle Sounds/atk17
+Audio/SE/Battle Sounds/atk18
+Audio/SE/Battle Sounds/atk19
+Audio/SE/Battle Sounds/atk2
+Audio/SE/Battle Sounds/atk20
+Audio/SE/Battle Sounds/atk21
+Audio/SE/Battle Sounds/atk22
+Audio/SE/Battle Sounds/atk23
+Audio/SE/Battle Sounds/atk24
+Audio/SE/Battle Sounds/atk25
+Audio/SE/Battle Sounds/atk3
+Audio/SE/Battle Sounds/atk4
+Audio/SE/Battle Sounds/atk5
+Audio/SE/Battle Sounds/atk6
+Audio/SE/Battle Sounds/atk7
+Audio/SE/Battle Sounds/atk8
+Audio/SE/Battle Sounds/atk9
+Audio/SE/Battle Sounds/avo1
+Audio/SE/Battle Sounds/avo10
+Audio/SE/Battle Sounds/avo11
+Audio/SE/Battle Sounds/avo12
+Audio/SE/Battle Sounds/avo2
+Audio/SE/Battle Sounds/avo3
+Audio/SE/Battle Sounds/avo4
+Audio/SE/Battle Sounds/avo5
+Audio/SE/Battle Sounds/avo6
+Audio/SE/Battle Sounds/avo7
+Audio/SE/Battle Sounds/avo8
+Audio/SE/Battle Sounds/avo9
+Audio/SE/Battle Sounds/Barrier
+Audio/SE/Battle Sounds/Bolting1
+Audio/SE/Battle Sounds/Bolting2
+Audio/SE/Battle Sounds/BoltingFlash
+Audio/SE/Battle Sounds/BoltingFlash2
+Audio/SE/Battle Sounds/boulder
+Audio/SE/Battle Sounds/Bow_Fire
+Audio/SE/Battle Sounds/Bow_Strain
+Audio/SE/Battle Sounds/Brigand_Yell
+Audio/SE/Battle Sounds/Comet
+Audio/SE/Battle Sounds/crit1
+Audio/SE/Battle Sounds/crit2
+Audio/SE/Battle Sounds/crit3
+Audio/SE/Battle Sounds/crit4
+Audio/SE/Battle Sounds/crit5
+Audio/SE/Battle Sounds/crit6
+Audio/SE/Battle Sounds/crit7
+Audio/SE/Battle Sounds/crit8
+Audio/SE/Battle Sounds/Critical
+Audio/SE/Battle Sounds/Crowd_Cheer_End
+Audio/SE/Battle Sounds/Death
+Audio/SE/Battle Sounds/Divine1
+Audio/SE/Battle Sounds/Divine2
+Audio/SE/Battle Sounds/Divine3
+Audio/SE/Battle Sounds/Diviner_Charge
+Audio/SE/Battle Sounds/Diviner_Crit
+Audio/SE/Battle Sounds/Diviner_Rune
+Audio/SE/Battle Sounds/drazombie
+Audio/SE/Battle Sounds/Elfire
+Audio/SE/Battle Sounds/Elwind1
+Audio/SE/Battle Sounds/Elwind2
+Audio/SE/Battle Sounds/fe13-194
+Audio/SE/Battle Sounds/Fenrir_Fire
+Audio/SE/Battle Sounds/Fenrir_Hit
+Audio/SE/Battle Sounds/Fenrir_Runes
+Audio/SE/Battle Sounds/Fenrir_Symbol
+Audio/SE/Battle Sounds/Fire1
+Audio/SE/Battle Sounds/Fire2
+Audio/SE/Battle Sounds/Fire_Charge
+Audio/SE/Battle Sounds/Flier_Wing_Flap
+Audio/SE/Battle Sounds/Flier_Wing_Return
+Audio/SE/Battle Sounds/Flux1
+Audio/SE/Battle Sounds/Flux2
+Audio/SE/Battle Sounds/grimaatk
+Audio/SE/Battle Sounds/GrimaAttack
+Audio/SE/Battle Sounds/GrimaBreathe
+Audio/SE/Battle Sounds/grimadie
+Audio/SE/Battle Sounds/GrimaHit
+Audio/SE/Battle Sounds/GrimaRoar
+Audio/SE/Battle Sounds/GrimaShoot
+Audio/SE/Battle Sounds/Hammerne
+Audio/SE/Battle Sounds/Heal
+Audio/SE/Battle Sounds/Hekat1
+Audio/SE/Battle Sounds/Hekat2
+Audio/SE/Battle Sounds/Hilt_Grip
+Audio/SE/Battle Sounds/Hit1
+Audio/SE/Battle Sounds/hit10
+Audio/SE/Battle Sounds/hit11
+Audio/SE/Battle Sounds/hit12
+Audio/SE/Battle Sounds/hit13
+Audio/SE/Battle Sounds/hit14
+Audio/SE/Battle Sounds/hit15
+Audio/SE/Battle Sounds/Hit2
+Audio/SE/Battle Sounds/Hit3
+Audio/SE/Battle Sounds/hit4
+Audio/SE/Battle Sounds/hit5
+Audio/SE/Battle Sounds/hit6
+Audio/SE/Battle Sounds/hit7
+Audio/SE/Battle Sounds/hit8
+Audio/SE/Battle Sounds/hit9
+Audio/SE/Battle Sounds/Hit_Kill
+Audio/SE/Battle Sounds/Hit_NoDamage
+Audio/SE/Battle Sounds/Justice_Cast
+Audio/SE/Battle Sounds/Justice_Charge
+Audio/SE/Battle Sounds/Justice_Crit1
+Audio/SE/Battle Sounds/Justice_Crit2
+Audio/SE/Battle Sounds/Kill Bill
+Audio/SE/Battle Sounds/Laziness
+Audio/SE/Battle Sounds/Lightning1
+Audio/SE/Battle Sounds/Lightning2
+Audio/SE/Battle Sounds/Mend
+Audio/SE/Battle Sounds/mHit1
+Audio/SE/Battle Sounds/mHit2
+Audio/SE/Battle Sounds/mHit3
+Audio/SE/Battle Sounds/MimiAcc
+Audio/SE/Battle Sounds/MimiBoost
+Audio/SE/Battle Sounds/MimiHit1
+Audio/SE/Battle Sounds/MimiHit2
+Audio/SE/Battle Sounds/MimiStartup
+Audio/SE/Battle Sounds/Minstrel_Bird
+Audio/SE/Battle Sounds/Minstrel_Strum
+Audio/SE/Battle Sounds/Miss
+Audio/SE/Battle Sounds/MKnight_Charge
+Audio/SE/Battle Sounds/MKnight_CritCharge
+Audio/SE/Battle Sounds/Monk_Charge
+Audio/SE/Battle Sounds/Nosferatu1
+Audio/SE/Battle Sounds/Nosferatu2
+Audio/SE/Battle Sounds/Nosferatu3
+Audio/SE/Battle Sounds/Promotion1
+Audio/SE/Battle Sounds/Promotion2
+Audio/SE/Battle Sounds/Promotion3
+Audio/SE/Battle Sounds/Promotion_Crack
+Audio/SE/Battle Sounds/Pupil_Charge1
+Audio/SE/Battle Sounds/Pupil_Charge2
+Audio/SE/Battle Sounds/Pupil_Crit
+Audio/SE/Battle Sounds/Purge_Charge
+Audio/SE/Battle Sounds/Purge_Flash1
+Audio/SE/Battle Sounds/Purge_Flash2
+Audio/SE/Battle Sounds/Purge_Hit
+Audio/SE/Battle Sounds/Recover
+Audio/SE/Battle Sounds/Refresh
+Audio/SE/Battle Sounds/Restore
+Audio/SE/Battle Sounds/ret1
+Audio/SE/Battle Sounds/ret10
+Audio/SE/Battle Sounds/ret11
+Audio/SE/Battle Sounds/ret12
+Audio/SE/Battle Sounds/ret13
+Audio/SE/Battle Sounds/ret14
+Audio/SE/Battle Sounds/ret15
+Audio/SE/Battle Sounds/ret16
+Audio/SE/Battle Sounds/ret17
+Audio/SE/Battle Sounds/ret18
+Audio/SE/Battle Sounds/ret2
+Audio/SE/Battle Sounds/ret3
+Audio/SE/Battle Sounds/ret4
+Audio/SE/Battle Sounds/ret5
+Audio/SE/Battle Sounds/ret6
+Audio/SE/Battle Sounds/ret7
+Audio/SE/Battle Sounds/ret8
+Audio/SE/Battle Sounds/ret9
+Audio/SE/Battle Sounds/roar
+Audio/SE/Battle Sounds/RS_IWontHesitate
+Audio/SE/Battle Sounds/Sage_Rune
+Audio/SE/Battle Sounds/Sage_Rune_Crit
+Audio/SE/Battle Sounds/SE1_BMP_SPECIAL_GEKKOU1
+Audio/SE/Battle Sounds/SE1_BMP_SPECIAL_SHOOTING1
+Audio/SE/Battle Sounds/SE1_BMP_SPECIAL_SHOUGEKI1
+Audio/SE/Battle Sounds/SE1_BMP_SPECIAL_SUN1
+Audio/SE/Battle Sounds/SE1_BTL_HEAD_DARK1
+Audio/SE/Battle Sounds/SE1_BTL_HEAD_FIRE1
+Audio/SE/Battle Sounds/SE1_BTL_HEAD_LIGHT1
+Audio/SE/Battle Sounds/SE1_BTL_HEAD_THUNDER1
+Audio/SE/Battle Sounds/SE1_BTL_HEAD_WIND1
+Audio/SE/Battle Sounds/SE1_BTL_MAGIC_WIND1_1
+Audio/SE/Battle Sounds/Shine
+Audio/SE/Battle Sounds/Silence1
+Audio/SE/Battle Sounds/Silence2
+Audio/SE/Battle Sounds/Silence3
+Audio/SE/Battle Sounds/skl1
+Audio/SE/Battle Sounds/skl2
+Audio/SE/Battle Sounds/skl3
+Audio/SE/Battle Sounds/skl4
+Audio/SE/Battle Sounds/Sleep1
+Audio/SE/Battle Sounds/Sleep2
+Audio/SE/Battle Sounds/Sorcerer_Charge
+Audio/SE/Battle Sounds/Staff_Charge
+Audio/SE/Battle Sounds/Swing1
+Audio/SE/Battle Sounds/Swing2
+Audio/SE/Battle Sounds/Swing3
+Audio/SE/Battle Sounds/Swing4
+Audio/SE/Battle Sounds/Swing5
+Audio/SE/Battle Sounds/Swing6
+Audio/SE/Battle Sounds/Sword_Draw
+Audio/SE/Battle Sounds/Sword_Sheathe
+Audio/SE/Battle Sounds/ThrowAxe
+Audio/SE/Battle Sounds/Thunder2
+Audio/SE/Battle Sounds/Valkyrie_Charge
+Audio/SE/Battle Sounds/VandyFail1
+Audio/SE/Battle Sounds/VandyFail10
+Audio/SE/Battle Sounds/VandyFail2
+Audio/SE/Battle Sounds/VandyFail3
+Audio/SE/Battle Sounds/VandyFail4
+Audio/SE/Battle Sounds/VandyFail5
+Audio/SE/Battle Sounds/VandyFail6
+Audio/SE/Battle Sounds/VandyFail7
+Audio/SE/Battle Sounds/VandyFail8
+Audio/SE/Battle Sounds/VandyFail9
+Audio/SE/Battle Sounds/wanstar
+Audio/SE/Battle Sounds/Wizard_CritCharge
+Audio/SE/Battle Sounds/Wolfram
+Audio/SE/Battle Sounds/Wolfram2
+Audio/SE/Map Sounds/Ballista_Fall
+Audio/SE/Map Sounds/Ballista_Fire
+Audio/SE/Map Sounds/Barrier
+Audio/SE/Map Sounds/Collapse
+Audio/SE/Map Sounds/Critical
+Audio/SE/Map Sounds/Death
+Audio/SE/Map Sounds/FoW_Surprise
+Audio/SE/Map Sounds/GrimaRoar
+Audio/SE/Map Sounds/GrimaTransEffect
+Audio/SE/Map Sounds/GrimaTransform
+Audio/SE/Map Sounds/Heal
+Audio/SE/Map Sounds/Hit
+Audio/SE/Map Sounds/Hit1
+Audio/SE/Map Sounds/Hit2
+Audio/SE/Map Sounds/Hit3
+Audio/SE/Map Sounds/Hit_Kill
+Audio/SE/Map Sounds/Hit_NoDamage
+Audio/SE/Map Sounds/KingSwordGet
+Audio/SE/Map Sounds/Lockpick
+Audio/SE/Map Sounds/Map_Step_Armor1
+Audio/SE/Map Sounds/Map_Step_Armor2
+Audio/SE/Map Sounds/Map_Step_FDragon
+Audio/SE/Map Sounds/Map_Step_Flier
+Audio/SE/Map Sounds/Map_Step_Infantry1
+Audio/SE/Map Sounds/Map_Step_Infantry2
+Audio/SE/Map Sounds/Map_Step_Mounted1
+Audio/SE/Map Sounds/Map_Step_Mounted2
+Audio/SE/Map Sounds/Map_Step_Mounted3
+Audio/SE/Map Sounds/Mend
+Audio/SE/Map Sounds/Minstrel_Strum
+Audio/SE/Map Sounds/Miss
+Audio/SE/Map Sounds/phoneanswer
+Audio/SE/Map Sounds/Poison
+Audio/SE/Map Sounds/Pure_Water
+Audio/SE/Map Sounds/Recover
+Audio/SE/Map Sounds/REEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+Audio/SE/Map Sounds/Restore
+Audio/SE/Map Sounds/Silence1
+Audio/SE/Map Sounds/Silence2
+Audio/SE/Map Sounds/Sleep
+Audio/SE/Map Sounds/Snag_Fall
+Audio/SE/Map Sounds/Snag_Hit
+Audio/SE/Map Sounds/Snag_Kill
+Audio/SE/Map Sounds/Status_Heal
+Audio/SE/Map Sounds/Swing2
+Audio/SE/Map Sounds/Torch
+Audio/SE/Map Sounds/Village_Destroyed
+Audio/SE/Step Sounds/Battle_Step_Armor0
+Audio/SE/Step Sounds/Battle_Step_Armor1
+Audio/SE/Step Sounds/Battle_Step_Armor2
+Audio/SE/Step Sounds/Battle_Step_Armor3
+Audio/SE/Step Sounds/Battle_Step_Armor4
+Audio/SE/Step Sounds/Battle_Step_Armor5
+Audio/SE/Step Sounds/Battle_Step_Armor6
+Audio/SE/Step Sounds/Battle_Step_Cavalry1A0
+Audio/SE/Step Sounds/Battle_Step_Cavalry1A1
+Audio/SE/Step Sounds/Battle_Step_Cavalry1A2
+Audio/SE/Step Sounds/Battle_Step_Cavalry1A3
+Audio/SE/Step Sounds/Battle_Step_Cavalry1A4
+Audio/SE/Step Sounds/Battle_Step_Cavalry1A5
+Audio/SE/Step Sounds/Battle_Step_Cavalry1A6
+Audio/SE/Step Sounds/Battle_Step_Cavalry1B0
+Audio/SE/Step Sounds/Battle_Step_Cavalry1B1
+Audio/SE/Step Sounds/Battle_Step_Cavalry1B2
+Audio/SE/Step Sounds/Battle_Step_Cavalry1B3
+Audio/SE/Step Sounds/Battle_Step_Cavalry1B4
+Audio/SE/Step Sounds/Battle_Step_Cavalry1B5
+Audio/SE/Step Sounds/Battle_Step_Cavalry1B6
+Audio/SE/Step Sounds/Battle_Step_Cavalry1C0
+Audio/SE/Step Sounds/Battle_Step_Cavalry1C1
+Audio/SE/Step Sounds/Battle_Step_Cavalry1C2
+Audio/SE/Step Sounds/Battle_Step_Cavalry1C3
+Audio/SE/Step Sounds/Battle_Step_Cavalry1C4
+Audio/SE/Step Sounds/Battle_Step_Cavalry1C5
+Audio/SE/Step Sounds/Battle_Step_Cavalry1C6
+Audio/SE/Step Sounds/Battle_Step_Cavalry2A0
+Audio/SE/Step Sounds/Battle_Step_Cavalry2A1
+Audio/SE/Step Sounds/Battle_Step_Cavalry2A2
+Audio/SE/Step Sounds/Battle_Step_Cavalry2A3
+Audio/SE/Step Sounds/Battle_Step_Cavalry2A4
+Audio/SE/Step Sounds/Battle_Step_Cavalry2A5
+Audio/SE/Step Sounds/Battle_Step_Cavalry2A6
+Audio/SE/Step Sounds/Battle_Step_Cavalry2B0
+Audio/SE/Step Sounds/Battle_Step_Cavalry2B1
+Audio/SE/Step Sounds/Battle_Step_Cavalry2B2
+Audio/SE/Step Sounds/Battle_Step_Cavalry2B3
+Audio/SE/Step Sounds/Battle_Step_Cavalry2B4
+Audio/SE/Step Sounds/Battle_Step_Cavalry2B5
+Audio/SE/Step Sounds/Battle_Step_Cavalry2B6
+Audio/SE/Step Sounds/Battle_Step_Cavalry2C0
+Audio/SE/Step Sounds/Battle_Step_Cavalry2C1
+Audio/SE/Step Sounds/Battle_Step_Cavalry2C2
+Audio/SE/Step Sounds/Battle_Step_Cavalry2C3
+Audio/SE/Step Sounds/Battle_Step_Cavalry2C4
+Audio/SE/Step Sounds/Battle_Step_Cavalry2C5
+Audio/SE/Step Sounds/Battle_Step_Cavalry2C6
+Audio/SE/Step Sounds/Battle_Step_Cavalry3A0
+Audio/SE/Step Sounds/Battle_Step_Cavalry3A1
+Audio/SE/Step Sounds/Battle_Step_Cavalry3A2
+Audio/SE/Step Sounds/Battle_Step_Cavalry3A3
+Audio/SE/Step Sounds/Battle_Step_Cavalry3A4
+Audio/SE/Step Sounds/Battle_Step_Cavalry3A5
+Audio/SE/Step Sounds/Battle_Step_Cavalry3A6
+Audio/SE/Step Sounds/Battle_Step_Cavalry3B0
+Audio/SE/Step Sounds/Battle_Step_Cavalry3B1
+Audio/SE/Step Sounds/Battle_Step_Cavalry3B2
+Audio/SE/Step Sounds/Battle_Step_Cavalry3B3
+Audio/SE/Step Sounds/Battle_Step_Cavalry3B4
+Audio/SE/Step Sounds/Battle_Step_Cavalry3B5
+Audio/SE/Step Sounds/Battle_Step_Cavalry3B6
+Audio/SE/Step Sounds/Battle_Step_Cavalry3C0
+Audio/SE/Step Sounds/Battle_Step_Cavalry3C1
+Audio/SE/Step Sounds/Battle_Step_Cavalry3C2
+Audio/SE/Step Sounds/Battle_Step_Cavalry3C3
+Audio/SE/Step Sounds/Battle_Step_Cavalry3C4
+Audio/SE/Step Sounds/Battle_Step_Cavalry3C5
+Audio/SE/Step Sounds/Battle_Step_Cavalry3C6
+Audio/SE/Step Sounds/Battle_Step_Heavy0
+Audio/SE/Step Sounds/Battle_Step_Heavy1
+Audio/SE/Step Sounds/Battle_Step_Heavy2
+Audio/SE/Step Sounds/Battle_Step_Heavy3
+Audio/SE/Step Sounds/Battle_Step_Heavy4
+Audio/SE/Step Sounds/Battle_Step_Heavy5
+Audio/SE/Step Sounds/Battle_Step_Heavy6
+Audio/SE/Step Sounds/Battle_Step_Light0
+Audio/SE/Step Sounds/Battle_Step_Light1
+Audio/SE/Step Sounds/Battle_Step_Light2
+Audio/SE/Step Sounds/Battle_Step_Light3
+Audio/SE/Step Sounds/Battle_Step_Light4
+Audio/SE/Step Sounds/Battle_Step_Light5
+Audio/SE/Step Sounds/Battle_Step_Light6
+Audio/SE/Step Sounds/Battle_Step_Lighter0
+Audio/SE/Step Sounds/Battle_Step_Lighter1
+Audio/SE/Step Sounds/Battle_Step_Lighter2
+Audio/SE/Step Sounds/Battle_Step_Lighter3
+Audio/SE/Step Sounds/Battle_Step_Lighter4
+Audio/SE/Step Sounds/Battle_Step_Lighter5
+Audio/SE/Step Sounds/Battle_Step_Lighter6
+Audio/SE/System Sounds/Arena_Victory
+Audio/SE/System Sounds/Buzzer
+Audio/SE/System Sounds/Cancel
+Audio/SE/System Sounds/Chapter Transition
+Audio/SE/System Sounds/Confirm
+Audio/SE/System Sounds/Cursor_Move
+Audio/SE/System Sounds/Exp_Gain
+Audio/SE/System Sounds/Formation_Change
+Audio/SE/System Sounds/Gain
+Audio/SE/System Sounds/Gold_Change
+Audio/SE/System Sounds/Help_Close
+Audio/SE/System Sounds/Help_Open
+Audio/SE/System Sounds/Help_Talk_Boop
+Audio/SE/System Sounds/HP_Recovery
+Audio/SE/System Sounds/Level_Up_Fanfare
+Audio/SE/System Sounds/Level_Up_Level
+Audio/SE/System Sounds/Level_Up_Stat
+Audio/SE/System Sounds/Loss
+Audio/SE/System Sounds/Menu_Move1
+Audio/SE/System Sounds/Menu_Move2
+Audio/SE/System Sounds/Minimap_Close
+Audio/SE/System Sounds/Minimap_Open
+Audio/SE/System Sounds/Open
+Audio/SE/System Sounds/Press_Start
+Audio/SE/System Sounds/Status_Character_Change
+Audio/SE/System Sounds/Status_Page_Change
+Audio/SE/System Sounds/Support_Gain
+Audio/SE/System Sounds/Talk_Boop
+Audio/SE/System Sounds/Turn_Change
+Audio/SE/System Sounds/Unit_Select
+Audio/SE/System Sounds/Worldmap_Talk_Boop
+Data/Actor_Data
+Data/Animation_Battler_Data
+Data/Animation_Data
+Data/Animation_Group_Data
+Data/Chapter_Data
+Data/Class_Data
+Data/Face_Data
+Data/Face_Palette_Data (1)
+Data/Frame_Data
+Data/Generic_Actor_Data
+Data/Item_Data
+Data/Skill_Data
+Data/Status_Data
+Data/Support_Data
+Data/Terrain_Data
+Data/Tileset_Data
+Data/Weapon_Data
+Data/Text/Battle Quotes
+Data/Text/Death Quotes
+Data/Text/Global
+Data/Text/Pt1
+Data/Text/Pt1x
+Data/Text/Pt2
+Data/Text/Pt3
+Data/Text/Supports
+Data/Text/System
+Data/Text/Tr1
+Data/Text/Tr2
+Data/Text/Tr3
+Data/Text/Worldmap
+Data/Map Data/Event Data/Global
+Data/Map Data/Event Data/PRECIOUS
+Data/Map Data/Event Data/Pt1
+Data/Map Data/Event Data/Pt1x
+Data/Map Data/Event Data/Pt2
+Data/Map Data/Event Data/Pt3
+Data/Map Data/Event Data/Tr1
+Data/Map Data/Event Data/Tr1H
+Data/Map Data/Event Data/Tr1Intro
+Data/Map Data/Event Data/Tr1N
+Data/Map Data/Event Data/Tr1Outro
+Data/Map Data/Event Data/Tr1Scene
+Data/Map Data/Event Data/Tr2
+Data/Map Data/Event Data/Tr2H
+Data/Map Data/Event Data/Tr2Intro
+Data/Map Data/Event Data/Tr2N
+Data/Map Data/Event Data/Tr2Outro
+Data/Map Data/Event Data/Tr2Scene
+Data/Map Data/Event Data/Tr3
+Data/Map Data/Event Data/Tr3H
+Data/Map Data/Event Data/Tr3Intro
+Data/Map Data/Event Data/Tr3N
+Data/Map Data/Event Data/Tr3Outro
+Data/Map Data/Event Data/Tr3Scene
+Data/Map Data/Event Data/Worldmap
+Data/Map Data/Maps/coolmap
+Data/Map Data/Maps/coolmapchange
+Data/Map Data/Maps/Part1MapChanges
+Data/Map Data/Maps/Part1xMapChanges
+Data/Map Data/Maps/Part2MapChanges
+Data/Map Data/Maps/Part2MapChanges2
+Data/Map Data/Maps/Pt1
+Data/Map Data/Maps/Pt1x
+Data/Map Data/Maps/Pt2
+Data/Map Data/Maps/Pt3
+Data/Map Data/Maps/Test
+Data/Map Data/Maps/Tr1
+Data/Map Data/Maps/Tr2
+Data/Map Data/Maps/Tr3
+Data/Map Data/Maps/Tr3Doors
+Data/Map Data/Unit Data/PRECIOUS
+Data/Map Data/Unit Data/Pt1
+Data/Map Data/Unit Data/Pt1x
+Data/Map Data/Unit Data/Pt2
+Data/Map Data/Unit Data/Pt3
+Data/Map Data/Unit Data/Ripperoni2
+Data/Map Data/Unit Data/Test
+Data/Map Data/Unit Data/Tr1
+Data/Map Data/Unit Data/Tr1H
+Data/Map Data/Unit Data/Tr1Scene
+Data/Map Data/Unit Data/Tr1Test
+Data/Map Data/Unit Data/Tr2
+Data/Map Data/Unit Data/Tr2H
+Data/Map Data/Unit Data/Tr2Scene
+Data/Map Data/Unit Data/Tr3
+Data/Map Data/Unit Data/Tr3H
+Data/Map Data/Unit Data/Tr3Scene
+Graphics/White_Square
+Graphics/Animations/Arch Mogall0-Magic
+Graphics/Animations/Archer0-Bow
+Graphics/Animations/Archer0-Unarmed
+Graphics/Animations/Archer1-Bow
+Graphics/Animations/Archer1-Unarmed
+Graphics/Animations/Arch_Mogall0-Magic
+Graphics/Animations/Asistan1-Staff
+Graphics/Animations/Asistan1_Staff
+Graphics/Animations/Asistan_21-Staff
+Graphics/Animations/Asistan_M1-Staff
+Graphics/Animations/Assassin0-Sword
+Graphics/Animations/Assassin_Av0-Sword
+Graphics/Animations/Assassin_Av0-Unarmed
+Graphics/Animations/Berserker0-Axe
+Graphics/Animations/Berserker0-ThrowAxe
+Graphics/Animations/Berserker0-Unarmed
+Graphics/Animations/Berserker_Eph0-Axe
+Graphics/Animations/Berserker_Eph0-Fluff
+Graphics/Animations/Berserker_Eph0-ThrowAxe
+Graphics/Animations/Bishop0-Magic
+Graphics/Animations/Bishop0-Staff
+Graphics/Animations/Bishop0-Unarmed
+Graphics/Animations/Bishop2-Magic
+Graphics/Animations/Bishop2-Unarmed
+Graphics/Animations/Bishop3-Magic
+Graphics/Animations/Bishop3-Staff
+Graphics/Animations/Bishop3-Unarmed
+Graphics/Animations/Brigand0-Axe
+Graphics/Animations/Brigand0-ThrowAxe
+Graphics/Animations/Bunny0-Magic
+Graphics/Animations/Bunny0-Unarmed
+Graphics/Animations/Bunny1-Fluff
+Graphics/Animations/Bunny1-Magic
+Graphics/Animations/Bunny1-Staff
+Graphics/Animations/Bunny1-Unarmed
+Graphics/Animations/Cleric0-Staff
+Graphics/Animations/Cleric0-Unarmed
+Graphics/Animations/Cohort0-Axe
+Graphics/Animations/Cohort0-ThrowAxe
+Graphics/Animations/Cohort0-Unarmed
+Graphics/Animations/Corsair0-Axe
+Graphics/Animations/Corsair0-ThrowAxe
+Graphics/Animations/Corsair0-Unarmed
+Graphics/Animations/Crossbowman0-Bow
+Graphics/Animations/Crossbowman0-Unarmed
+Graphics/Animations/Deathgoyle0-Lance
+Graphics/Animations/Diviner0-Magic
+Graphics/Animations/Diviner0-Unarmed
+Graphics/Animations/Dracoknight0-Lance
+Graphics/Animations/Dracoknight0-Unarmed
+Graphics/Animations/Dragon Master0-Axe
+Graphics/Animations/Dragon Master0-Lance
+Graphics/Animations/Dragon Master0-ThrowAxe
+Graphics/Animations/Dragon Master0-Unarmed
+Graphics/Animations/Dreadnought0-Axe
+Graphics/Animations/Dreadnought0-Sword
+Graphics/Animations/Dreadnought0-Sword_2
+Graphics/Animations/Dreadnought0-ThrowSword
+Graphics/Animations/Dreadnought0-Unarmed
+Graphics/Animations/Drifter0-Sword
+Graphics/Animations/Drifter0-Unarmed
+Graphics/Animations/Drooid0-Magic
+Graphics/Animations/Druid0-Magic
+Graphics/Animations/Druid0-Staff
+Graphics/Animations/Druid0-Unarmed
+Graphics/Animations/Druid1-Magic
+Graphics/Animations/Druid1-Staff
+Graphics/Animations/Druid1-Unarmed
+Graphics/Animations/Druid2-Magic
+Graphics/Animations/Druid2-Staff
+Graphics/Animations/Druid2-Unarmed
+Graphics/Animations/Druid_Ash0-Fluff
+Graphics/Animations/Druid_Ash0-Magic
+Graphics/Animations/Druid_Ash0-Staff
+Graphics/Animations/Druid_Ash0-Unarmed
+Graphics/Animations/Druid_Ash1-Magic
+Graphics/Animations/Druid_Ash1-Unarmed
+Graphics/Animations/EliseSheet
+Graphics/Animations/Falcoknight1-Lance
+Graphics/Animations/Falcoknight1-Sword
+Graphics/Animations/Falcoknight1-Unarmed
+Graphics/Animations/Fallen Angel0-Magic
+Graphics/Animations/Fallen Angel0-Unarmed
+Graphics/Animations/Fallen Angel0
+Graphics/Animations/Fell Marc0-Dragon
+Graphics/Animations/Fell Marc0-Unarmed
+Graphics/Animations/Fighter0-Axe
+Graphics/Animations/Fighter0-ThrowAxe
+Graphics/Animations/Fighter0-Unarmed
+Graphics/Animations/Gendarme0-Sword
+Graphics/Animations/Gendarme0-Unarmed
+Graphics/Animations/Gendarme1-Sword
+Graphics/Animations/Gendarme1-Unarmed
+Graphics/Animations/Gendarme3-Sword
+Graphics/Animations/Gendarme3-Unarmed
+Graphics/Animations/General0-Lance
+Graphics/Animations/General0-Sword
+Graphics/Animations/General0-Unarmed
+Graphics/Animations/Great Knight0-Axe
+Graphics/Animations/Great Knight0-Lance
+Graphics/Animations/Great Knight0-Sword
+Graphics/Animations/Great Knight0-ThrowAxe
+Graphics/Animations/Great Knight0-Unarmed
+Graphics/Animations/Great Knight1-Axe (1)
+Graphics/Animations/Great Knight1-Axe (2)
+Graphics/Animations/Great Knight1-Axe
+Graphics/Animations/Great Knight1-Bow
+Graphics/Animations/Great Knight1-Lance
+Graphics/Animations/Great Knight1-Sword
+Graphics/Animations/Great Knight1-Sword_2
+Graphics/Animations/Great Knight1-ThrowAxe
+Graphics/Animations/Great Knight1-ThrowSword
+Graphics/Animations/Great Knight1-Unarmed
+Graphics/Animations/Great_Knight0-Lance
+Graphics/Animations/Great_Knight1-Axe
+Graphics/Animations/Great_Knight1-Sword
+Graphics/Animations/Great_Knight1-ThrowAxe
+Graphics/Animations/Great_Knight1-Unarmed
+Graphics/Animations/Halberdier0-Lance
+Graphics/Animations/Halberdier0-Unarmed
+Graphics/Animations/Heretic0-Sword
+Graphics/Animations/Heretic0-Unarmed
+Graphics/Animations/Hero0-Axe
+Graphics/Animations/Hero0-Sword
+Graphics/Animations/Hero0-ThrowAxe
+Graphics/Animations/Hero0-Unarmed
+Graphics/Animations/Hero2-Axe
+Graphics/Animations/Hero2-Sword
+Graphics/Animations/Hero2-ThrowAxe
+Graphics/Animations/Hero2-Unarmed
+Graphics/Animations/Hero4-Axe
+Graphics/Animations/Hero4-Sword
+Graphics/Animations/Hero4-ThrowAxe
+Graphics/Animations/Hero4-Unarmed
+Graphics/Animations/Hero_20-Sword
+Graphics/Animations/Knight0-Axe
+Graphics/Animations/Knight0-Lance
+Graphics/Animations/Knight0-Sword
+Graphics/Animations/Knight0-ThrowAxe
+Graphics/Animations/Knight0-ThrowSword
+Graphics/Animations/Knight0-Unarmed
+Graphics/Animations/Lord_E1-Lance
+Graphics/Animations/Lord_E1-Unarmed
+Graphics/Animations/Lord_U0-Sword
+Graphics/Animations/Lord_U0-Unarmed
+Graphics/Animations/Mage Knight1-Magic
+Graphics/Animations/Mage Knight1-Staff
+Graphics/Animations/Mage Knight1-Unarmed
+Graphics/Animations/Mage Knight2-Magic
+Graphics/Animations/Mage0-Magic
+Graphics/Animations/Mage0-Unarmed
+Graphics/Animations/Mage1-Magic
+Graphics/Animations/Medic1-Staff
+Graphics/Animations/Medic1-Unarmed
+Graphics/Animations/Merc but stronger0-Fluff
+Graphics/Animations/Merc but stronger0-Sword
+Graphics/Animations/Merc but stronger0-Sword_
+Graphics/Animations/Merc but stronger0-Sword_2
+Graphics/Animations/Merc but stronger0-Swﾃｳrd
+Graphics/Animations/Merc but stronger0-Unarmed
+Graphics/Animations/Mercenary0-Sword
+Graphics/Animations/Mercenary0-Unarmed
+Graphics/Animations/Mercenary_M0-Fluff
+Graphics/Animations/Mercenary_M0-Sword
+Graphics/Animations/Mercenary_M0-Sword_2
+Graphics/Animations/Mercenary_M0
+Graphics/Animations/Minstrel0-Unarmed
+Graphics/Animations/Monarch0-Bow
+Graphics/Animations/Monarch0-Unarmed
+Graphics/Animations/Monk0-Magic
+Graphics/Animations/Monk0-Unarmed
+Graphics/Animations/Myrmidon0-Sword
+Graphics/Animations/Myrmidon0-Unarmed
+Graphics/Animations/Myrmidon1-Sword
+Graphics/Animations/Myrmidon1-Unarmed
+Graphics/Animations/Myrmidon2-Unarmed
+Graphics/Animations/Necrodragon0-Dragon
+Graphics/Animations/Necromancer0-Magic
+Graphics/Animations/Nomad Trooper0-Bow
+Graphics/Animations/Nomad Trooper0-Sword
+Graphics/Animations/Nomad Trooper0-Unarmed
+Graphics/Animations/Nomad Trooper2-Bow
+Graphics/Animations/Nomad Trooper2-Sword
+Graphics/Animations/Nomad Trooper2-Unarmed
+Graphics/Animations/Nomad0-Bow
+Graphics/Animations/Nomad0-Unarmed
+Graphics/Animations/Overlord0-Magic
+Graphics/Animations/Page0-Magic
+Graphics/Animations/Page0-Unarmed
+Graphics/Animations/Paladin0-Lance
+Graphics/Animations/Paladin0-Sword
+Graphics/Animations/Paladin0-Unarmed
+Graphics/Animations/Paladin1-Lance
+Graphics/Animations/Paladin1-Sword
+Graphics/Animations/Paladin1-Unarmed
+Graphics/Animations/Paladin2-Lance
+Graphics/Animations/Paladin4-Axe
+Graphics/Animations/Paladin4-Lance
+Graphics/Animations/Paladin4-ThrowAxe
+Graphics/Animations/Paladin4-Unarmed
+Graphics/Animations/Pegasus Knight1-Lance
+Graphics/Animations/Pegasus Knight1-Unarmed
+Graphics/Animations/Pegasus Knight3-Lance
+Graphics/Animations/Pegasus Knight3-Unarmed
+Graphics/Animations/Phalanx0-Axe
+Graphics/Animations/Phalanx0-ThrowAxe
+Graphics/Animations/Phalanx0-Unarmed
+Graphics/Animations/Phantom0-Magic
+Graphics/Animations/Phantom0-Unarmed
+Graphics/Animations/Pirate0-Axe
+Graphics/Animations/Pirate0-ThrowAxe
+Graphics/Animations/Pirate0-Unarmed
+Graphics/Animations/Priestess1-Sword
+Graphics/Animations/Pupil1-Magic
+Graphics/Animations/Pupil1-Unarmed
+Graphics/Animations/Recruit0-Lance
+Graphics/Animations/Recruit0-Unarmed
+Graphics/Animations/Rogue0-Sword
+Graphics/Animations/Rogue0-Unarmed
+Graphics/Animations/Rogue2-Sword
+Graphics/Animations/Rogue2-Unarmed
+Graphics/Animations/Sage0-Magic
+Graphics/Animations/Sage0-Staff
+Graphics/Animations/Sage0-Unarmed
+Graphics/Animations/Sage2-Fluff
+Graphics/Animations/Sage2-Magic
+Graphics/Animations/Sage2-Staff
+Graphics/Animations/Sage2-Sword
+Graphics/Animations/Sage2-Unarmed
+Graphics/Animations/Sage3-Magic
+Graphics/Animations/Sage3-Staff
+Graphics/Animations/Sage3-Unarmed
+Graphics/Animations/Sage4-Magic
+Graphics/Animations/Sage6-Magic
+Graphics/Animations/Sage6-Staff
+Graphics/Animations/Sage6-Unarmed
+Graphics/Animations/Sage_M0-Fluff
+Graphics/Animations/Sage_M0-Magic
+Graphics/Animations/Sage_M0-Staff
+Graphics/Animations/Sage_M0-Sword
+Graphics/Animations/Sage_M0-Unarmed
+Graphics/Animations/Scholar0-Magic
+Graphics/Animations/Scholar0-Unarmed
+Graphics/Animations/Scout1-Bow
+Graphics/Animations/Scout1-Unarmed
+Graphics/Animations/Shaman0-Magic
+Graphics/Animations/Shaman0-Unarmed
+Graphics/Animations/Skywatcher1-Lance
+Graphics/Animations/Skywatcher1-Unarmed
+Graphics/Animations/Sniper0-Bow
+Graphics/Animations/Sniper0-Unarmed
+Graphics/Animations/Sniper_C0-Bow
+Graphics/Animations/Sniper_C0-Unarmed
+Graphics/Animations/Sniper_C1-Bow
+Graphics/Animations/Sniper_C1-Fluff
+Graphics/Animations/Sniper_C1-Unarmed
+Graphics/Animations/Soldier0-Lance
+Graphics/Animations/Soldier0-Unarmed
+Graphics/Animations/Soldier2-Lance
+Graphics/Animations/Soldier2-Unarmed
+Graphics/Animations/Sorcerer0-Magic
+Graphics/Animations/Sorcerer0-Unarmed
+Graphics/Animations/Sorcerer1-Magic
+Graphics/Animations/Sorcerer1-Unarmed
+Graphics/Animations/Squire1-Sword
+Graphics/Animations/Squire1-Unarmed
+Graphics/Animations/Swordmaster0-Sword
+Graphics/Animations/Swordmaster0-Unarmed
+Graphics/Animations/Swordmaster_RS0-Crit
+Graphics/Animations/Swordmaster_RS0-Sword
+Graphics/Animations/Thief0-Sword
+Graphics/Animations/Thief0-Unarmed
+Graphics/Animations/Thief1-Sword
+Graphics/Animations/Thief1-Unarmed
+Graphics/Animations/Thief2-Sword
+Graphics/Animations/Thief2-Unarmed
+Graphics/Animations/Thief4-Sword
+Graphics/Animations/Thief4-Unarmed
+Graphics/Animations/Thief_V0-Sword
+Graphics/Animations/Thief_V0-ThrowSword
+Graphics/Animations/Thief_V0-Unarmed
+Graphics/Animations/Troubadour1-Staff
+Graphics/Animations/Troubadour1-Unarmed
+Graphics/Animations/Valkyrie1-Magic
+Graphics/Animations/Valkyrie1-Staff
+Graphics/Animations/Valkyrie1-Unarmed
+Graphics/Animations/Vanguard0-Lance
+Graphics/Animations/Vanguard0-Unarmed
+Graphics/Animations/Vanguard1-Lance
+Graphics/Animations/Vanguard1-Unarmed
+Graphics/Animations/Warrior0-Axe
+Graphics/Animations/Warrior0-Bow
+Graphics/Animations/Warrior0-ThrowAxe
+Graphics/Animations/Warrior0-Unarmed
+Graphics/Animations/Wight0-Sword
+Graphics/Animations/Wight_Bow0-Bow
+Graphics/Animations/Witch1-Staff
+Graphics/Animations/World Breaker0-Sword
+Graphics/Animations/World Breaker0-ThrowSword
+Graphics/Animations/Zweihander0-Sword
+Graphics/Animations/Effects/Aircalibur
+Graphics/Animations/Effects/Arcfire
+Graphics/Animations/Effects/Arcthunder
+Graphics/Animations/Effects/Astra
+Graphics/Animations/Effects/Barrier
+Graphics/Animations/Effects/Bolting
+Graphics/Animations/Effects/bread1
+Graphics/Animations/Effects/bread2
+Graphics/Animations/Effects/Class Change
+Graphics/Animations/Effects/Crimson Surge
+Graphics/Animations/Effects/DisruptionWaveBoom
+Graphics/Animations/Effects/Divine
+Graphics/Animations/Effects/Dust
+Graphics/Animations/Effects/Elfire
+Graphics/Animations/Effects/Elthunder
+Graphics/Animations/Effects/Elwind
+Graphics/Animations/Effects/Fenrir1
+Graphics/Animations/Effects/Fenrir2
+Graphics/Animations/Effects/Fire-Magic
+Graphics/Animations/Effects/Fire
+Graphics/Animations/Effects/Fire_Dark
+Graphics/Animations/Effects/Fix
+Graphics/Animations/Effects/Flux
+Graphics/Animations/Effects/Grimajoe_Spell
+Graphics/Animations/Effects/Heal
+Graphics/Animations/Effects/Hekat
+Graphics/Animations/Effects/LayeredGeneral
+Graphics/Animations/Effects/Lightning
+Graphics/Animations/Effects/Luna
+Graphics/Animations/Effects/LunacyBurst
+Graphics/Animations/Effects/Lunatic Burst
+Graphics/Animations/Effects/Mend
+Graphics/Animations/Effects/Meteor
+Graphics/Animations/Effects/Mimichan
+Graphics/Animations/Effects/MimichanBoom
+Graphics/Animations/Effects/Mind Wave
+Graphics/Animations/Effects/MindWaveBoom
+Graphics/Animations/Effects/Nosferatu
+Graphics/Animations/Effects/Nosferatwo
+Graphics/Animations/Effects/pegaderp
+Graphics/Animations/Effects/Physic
+Graphics/Animations/Effects/Pirate-Crit-Dust
+Graphics/Animations/Effects/Purge
+Graphics/Animations/Effects/Recover
+Graphics/Animations/Effects/Refresh-Deus
+Graphics/Animations/Effects/Refresh-El
+Graphics/Animations/Effects/Refresh-Mot
+Graphics/Animations/Effects/Refresh-Mulciber
+Graphics/Animations/Effects/Refresh-Set
+Graphics/Animations/Effects/Refresh
+Graphics/Animations/Effects/Restore
+Graphics/Animations/Effects/Sage-Rune
+Graphics/Animations/Effects/Shade
+Graphics/Animations/Effects/Shine
+Graphics/Animations/Effects/Silence
+Graphics/Animations/Effects/Sleep
+Graphics/Animations/Effects/Sol
+Graphics/Animations/Effects/Spiral Dive-Sword
+Graphics/Animations/Effects/Spiral Dive
+Graphics/Animations/Effects/Thunder-Magic
+Graphics/Animations/Effects/Thunder
+Graphics/Animations/Effects/wanstar
+Graphics/Animations/Effects/Wind-Magic
+Graphics/Animations/Effects/Wind
+Graphics/Animations/Effects/Worm
+Graphics/Animations/Effects/ziti
+Graphics/Autotiles/BernTilesetAnims1
+Graphics/Autotiles/BernTilesetAnims2
+Graphics/Autotiles/CoastalBridgeBridge
+Graphics/Autotiles/CoastalCastleWater1
+Graphics/Autotiles/CoastalCastleWater2
+Graphics/Autotiles/CoastalVillageWater1
+Graphics/Autotiles/CoastalVillageWater2
+Graphics/Autotiles/CoastalVillageWater3
+Graphics/Autotiles/FieldWater1
+Graphics/Autotiles/FieldWater2
+Graphics/Autotiles/MountainVillageWater1
+Graphics/Autotiles/MountainVillageWater2
+Graphics/Autotiles/MountainVillageWater3
+Graphics/Autotiles/MountainVillageWater4
+Graphics/Autotiles/Ship Tileset Anims 1a
+Graphics/Autotiles/Ship Tileset Anims 1b
+Graphics/Autotiles/Ship Tileset Anims 2
+Graphics/Autotiles/Ship Tileset Anims 3
+Graphics/Battlebacks/Arena-BG
+Graphics/Battlebacks/Arena-Melee
+Graphics/Battlebacks/Arena-Ranged
+Graphics/Battlebacks/Armory-Melee
+Graphics/Battlebacks/Armory-Ranged
+Graphics/Battlebacks/Bridge-Melee
+Graphics/Battlebacks/Bridge-Ranged
+Graphics/Battlebacks/Chest-Melee
+Graphics/Battlebacks/Chest-Ranged
+Graphics/Battlebacks/Cliff-Melee
+Graphics/Battlebacks/Cliff-Ranged
+Graphics/Battlebacks/Deck-Melee
+Graphics/Battlebacks/Deck-Ranged
+Graphics/Battlebacks/Desert-BG
+Graphics/Battlebacks/Desert-Melee
+Graphics/Battlebacks/Desert-Ranged
+Graphics/Battlebacks/Floor-BG
+Graphics/Battlebacks/Floor-Melee
+Graphics/Battlebacks/Floor-Ranged
+Graphics/Battlebacks/Forest-BG
+Graphics/Battlebacks/Forest-Melee
+Graphics/Battlebacks/Forest-Ranged
+Graphics/Battlebacks/Fort-BG
+Graphics/Battlebacks/Fort-Melee
+Graphics/Battlebacks/Fort-Ranged
+Graphics/Battlebacks/Gate(Fort)-Melee
+Graphics/Battlebacks/Gate(Fort)-Ranged
+Graphics/Battlebacks/Gate-Melee
+Graphics/Battlebacks/Gate-Ranged
+Graphics/Battlebacks/Hill-BG
+Graphics/Battlebacks/Hill-Melee
+Graphics/Battlebacks/Hill-Ranged
+Graphics/Battlebacks/House-Melee
+Graphics/Battlebacks/House-Ranged
+Graphics/Battlebacks/Lake-BG
+Graphics/Battlebacks/Lake-Melee
+Graphics/Battlebacks/Lake-Ranged
+Graphics/Battlebacks/Peak-BG
+Graphics/Battlebacks/Peak-Melee
+Graphics/Battlebacks/Peak-Ranged
+Graphics/Battlebacks/Pillar-Melee
+Graphics/Battlebacks/Pillar-Ranged
+Graphics/Battlebacks/Plains-BG
+Graphics/Battlebacks/Plains-Melee
+Graphics/Battlebacks/Plains-Ranged
+Graphics/Battlebacks/Plains_Desert-BG
+Graphics/Battlebacks/River-BG
+Graphics/Battlebacks/River-Melee
+Graphics/Battlebacks/River-Ranged
+Graphics/Battlebacks/Road-Melee
+Graphics/Battlebacks/Road-Ranged
+Graphics/Battlebacks/Ruins-BG
+Graphics/Battlebacks/Ruins-Melee
+Graphics/Battlebacks/Ruins-Ranged
+Graphics/Battlebacks/Sand-BG
+Graphics/Battlebacks/Sand-Melee
+Graphics/Battlebacks/Sand-Ranged
+Graphics/Battlebacks/Sand_Desert-BG
+Graphics/Battlebacks/Sea-BG
+Graphics/Battlebacks/Sea-Melee
+Graphics/Battlebacks/Sea-Ranged
+Graphics/Battlebacks/Sigil-Melee
+Graphics/Battlebacks/Sigil-Ranged
+Graphics/Battlebacks/Thicket-BG
+Graphics/Battlebacks/Thicket-Melee
+Graphics/Battlebacks/Thicket-Ranged
+Graphics/Battlebacks/Throne-BG
+Graphics/Battlebacks/Throne-Melee
+Graphics/Battlebacks/Throne-Ranged
+Graphics/Battlebacks/Vendor-Melee
+Graphics/Battlebacks/Vendor-Ranged
+Graphics/Battlebacks/Village-BG
+Graphics/Battlebacks/Village-Melee
+Graphics/Battlebacks/Village-Ranged
+Graphics/Battlebacks/Wall-Melee
+Graphics/Battlebacks/Wall-Ranged
+Graphics/Characters/AllEnemyAttackRange
+Graphics/Characters/AllEnemyStaffRange
+Graphics/Characters/AttackRange
+Graphics/Characters/Ballista_Ammo
+Graphics/Characters/Ballista_Bolt
+Graphics/Characters/BossIcon
+Graphics/Characters/Cursor
+Graphics/Characters/DangerIcon
+Graphics/Characters/EnemyAttackRange
+Graphics/Characters/EnemyStaffRange
+Graphics/Characters/MapAggregateM
+Graphics/Characters/MapAggregateM_move
+Graphics/Characters/MapArch MogallM
+Graphics/Characters/MapArch MogallM_move
+Graphics/Characters/MapArcherF
+Graphics/Characters/MapArcherF_move
+Graphics/Characters/MapArcherM
+Graphics/Characters/MapArcherM_move
+Graphics/Characters/MapArch_MogallM
+Graphics/Characters/MapArch_MogallM_move
+Graphics/Characters/MapAsistanF
+Graphics/Characters/MapAsistanF_move
+Graphics/Characters/MapAsistan_2F
+Graphics/Characters/MapAsistan_2F_move
+Graphics/Characters/MapAssassinM
+Graphics/Characters/MapAssassinM_move
+Graphics/Characters/MapAssassin_AvF
+Graphics/Characters/MapAssassin_AvF_move
+Graphics/Characters/MapAssassin_AvM
+Graphics/Characters/MapAssassin_AvM_move
+Graphics/Characters/MapBallista
+Graphics/Characters/MapBallista_RiderM
+Graphics/Characters/MapBerserkerM
+Graphics/Characters/MapBerserkerM_move
+Graphics/Characters/MapBerserker_EphM
+Graphics/Characters/MapBerserker_EphM_move
+Graphics/Characters/MapBishopF
+Graphics/Characters/MapBishopF_move
+Graphics/Characters/MapBishopM
+Graphics/Characters/MapBishopM_move
+Graphics/Characters/MapBrigandM
+Graphics/Characters/MapBrigandM_move
+Graphics/Characters/MapBunnyF
+Graphics/Characters/MapBunnyF_move
+Graphics/Characters/MapBunnyM
+Graphics/Characters/MapBunnyM_move
+Graphics/Characters/MapChampionM
+Graphics/Characters/MapChampionM_move
+Graphics/Characters/MapChinchillaF
+Graphics/Characters/MapChinchillaF_move
+Graphics/Characters/MapClericF
+Graphics/Characters/MapClericF_move
+Graphics/Characters/MapClericM
+Graphics/Characters/MapClericM_move
+Graphics/Characters/MapCohortM
+Graphics/Characters/MapCohortM_move
+Graphics/Characters/MapCorsairM
+Graphics/Characters/MapCorsairM_move
+Graphics/Characters/MapCrossbowmanM
+Graphics/Characters/MapCrossbowmanM_move
+Graphics/Characters/MapDancerF
+Graphics/Characters/MapDancerF_move
+Graphics/Characters/MapDeathgoyleM
+Graphics/Characters/MapDeathgoyleM_move
+Graphics/Characters/MapDivinerM
+Graphics/Characters/MapDivinerM_move
+Graphics/Characters/MapDracoknightM
+Graphics/Characters/MapDracoknightM_move
+Graphics/Characters/MapDragon MasterM
+Graphics/Characters/MapDragon MasterM_move
+Graphics/Characters/MapDreadnoughtM
+Graphics/Characters/MapDreadnoughtM_move
+Graphics/Characters/MapDrifterM
+Graphics/Characters/MapDrifterM_move
+Graphics/Characters/MapDrooidM
+Graphics/Characters/MapDrooidM_move
+Graphics/Characters/MapDruidF
+Graphics/Characters/MapDruidF_move
+Graphics/Characters/MapDruidM
+Graphics/Characters/MapDruidM_move
+Graphics/Characters/MapDruid_AshF
+Graphics/Characters/MapDruid_AshF_move
+Graphics/Characters/MapDruid_AshM
+Graphics/Characters/MapDruid_AshM_move
+Graphics/Characters/MapFalcoknightF
+Graphics/Characters/MapFalcoknightF_move
+Graphics/Characters/MapFallen AngelM
+Graphics/Characters/MapFallen AngelM_move
+Graphics/Characters/MapFell MarcM
+Graphics/Characters/MapFell MarcM_move
+Graphics/Characters/MapFighterM
+Graphics/Characters/MapFighterM_move
+Graphics/Characters/MapGendarmeM
+Graphics/Characters/MapGendarmeM_move
+Graphics/Characters/MapGeneralM
+Graphics/Characters/MapGeneralM_move
+Graphics/Characters/MapGreat KnightM
+Graphics/Characters/MapGreat KnightM_move
+Graphics/Characters/MapHalberdierM
+Graphics/Characters/MapHalberdierM_move
+Graphics/Characters/MapHeavy Ballista
+Graphics/Characters/MapHeavy Ballista_RiderM
+Graphics/Characters/MapHereticF
+Graphics/Characters/MapHereticF_move
+Graphics/Characters/MapHereticM
+Graphics/Characters/MapHereticM_move
+Graphics/Characters/MapHeroM
+Graphics/Characters/MapHeroM_move
+Graphics/Characters/MapKiller Ballista
+Graphics/Characters/MapKiller Ballista_RiderM
+Graphics/Characters/MapKnightM
+Graphics/Characters/MapKnightM_move
+Graphics/Characters/MapLord_EF
+Graphics/Characters/MapLord_EF_move
+Graphics/Characters/MapLord_TM
+Graphics/Characters/MapLord_TM_move
+Graphics/Characters/MapLord_UM
+Graphics/Characters/MapLord_UM_move
+Graphics/Characters/MapMage KnightF
+Graphics/Characters/MapMage KnightF_move
+Graphics/Characters/MapMage KnightM
+Graphics/Characters/MapMage KnightM_move
+Graphics/Characters/MapMageF
+Graphics/Characters/MapMageF_move
+Graphics/Characters/MapMageM
+Graphics/Characters/MapMageM_move
+Graphics/Characters/MapMedicF
+Graphics/Characters/MapMedicF_move
+Graphics/Characters/MapMerc but strongerM
+Graphics/Characters/MapMerc but strongerM_move
+Graphics/Characters/MapMercenaryM
+Graphics/Characters/MapMercenaryM_move
+Graphics/Characters/MapMercenary_MM
+Graphics/Characters/MapMercenary_MM_move
+Graphics/Characters/MapMinstrelM
+Graphics/Characters/MapMinstrelM_move
+Graphics/Characters/MapMonarchM
+Graphics/Characters/MapMonarchM_move
+Graphics/Characters/MapMonkM
+Graphics/Characters/MapMonkM_move
+Graphics/Characters/MapMyrmidonF
+Graphics/Characters/MapMyrmidonF_move
+Graphics/Characters/MapMyrmidonM
+Graphics/Characters/MapMyrmidonM_move
+Graphics/Characters/MapNecrodragonM
+Graphics/Characters/MapNecrodragonM_move
+Graphics/Characters/MapNecromancerM
+Graphics/Characters/MapNecromancerM_move
+Graphics/Characters/MapNomad TrooperM
+Graphics/Characters/MapNomad TrooperM_move
+Graphics/Characters/MapNomadF
+Graphics/Characters/MapNomadF_move
+Graphics/Characters/MapNomadM
+Graphics/Characters/MapNomadM_move
+Graphics/Characters/MapOverlordM
+Graphics/Characters/MapOverlordM_move
+Graphics/Characters/MapPageM
+Graphics/Characters/MapPageM_move
+Graphics/Characters/MapPaladinM
+Graphics/Characters/MapPaladinM_move
+Graphics/Characters/MapPegasus KnightF
+Graphics/Characters/MapPegasus KnightF_move
+Graphics/Characters/MapPhalanxM
+Graphics/Characters/MapPhalanxM_move
+Graphics/Characters/MapPhantomM
+Graphics/Characters/MapPhantomM_move
+Graphics/Characters/MapPirateM
+Graphics/Characters/MapPirateM_move
+Graphics/Characters/MapPupilF
+Graphics/Characters/MapPupilF_move
+Graphics/Characters/MapRecruitF
+Graphics/Characters/MapRecruitF_move
+Graphics/Characters/MapRecruitM
+Graphics/Characters/MapRecruitM_move
+Graphics/Characters/MapRogueM
+Graphics/Characters/MapRogueM_move
+Graphics/Characters/MapSageF
+Graphics/Characters/MapSageF_move
+Graphics/Characters/MapSageM
+Graphics/Characters/MapSageM_move
+Graphics/Characters/MapSage_MM
+Graphics/Characters/MapSage_MM_move
+Graphics/Characters/MapScholarM
+Graphics/Characters/MapScholarM_move
+Graphics/Characters/MapScoutF
+Graphics/Characters/MapScoutF_move
+Graphics/Characters/MapShamanM
+Graphics/Characters/MapShamanM_move
+Graphics/Characters/MapSkywatcherF
+Graphics/Characters/MapSkywatcherF_move
+Graphics/Characters/MapSniperF
+Graphics/Characters/MapSniperF_move
+Graphics/Characters/MapSniperM
+Graphics/Characters/MapSniperM_move
+Graphics/Characters/MapSniper_CF
+Graphics/Characters/MapSniper_CF_move
+Graphics/Characters/MapSoldierM
+Graphics/Characters/MapSoldierM_move
+Graphics/Characters/MapSorcererF
+Graphics/Characters/MapSorcererF_move
+Graphics/Characters/MapSorcererM
+Graphics/Characters/MapSorcererM_move
+Graphics/Characters/MapSquireF
+Graphics/Characters/MapSquireF_move
+Graphics/Characters/MapSwordmasterF
+Graphics/Characters/MapSwordmasterF_move
+Graphics/Characters/MapSwordmasterM
+Graphics/Characters/MapSwordmasterM_move
+Graphics/Characters/MapSwordmaster_RSM
+Graphics/Characters/MapSwordmaster_RSM_move
+Graphics/Characters/MapThiefF
+Graphics/Characters/MapThiefF_move
+Graphics/Characters/MapThiefM
+Graphics/Characters/MapThiefM_move
+Graphics/Characters/MapThief_VM
+Graphics/Characters/MapThief_VM_move
+Graphics/Characters/MapTransporter_WagonM
+Graphics/Characters/MapTransporter_WagonM_move
+Graphics/Characters/MapTroubadourF
+Graphics/Characters/MapTroubadourF_move
+Graphics/Characters/MapValkyrieF
+Graphics/Characters/MapValkyrieF_move
+Graphics/Characters/MapVanguardM
+Graphics/Characters/MapVanguardM_move
+Graphics/Characters/MapWarperM
+Graphics/Characters/MapWarriorM
+Graphics/Characters/MapWarriorM_move
+Graphics/Characters/MapWightM
+Graphics/Characters/MapWightM_move
+Graphics/Characters/MapWight_BowM
+Graphics/Characters/MapWight_BowM_move
+Graphics/Characters/MapWitchF
+Graphics/Characters/MapWitchF_move
+Graphics/Characters/MapWorld BreakerM
+Graphics/Characters/MapWorld BreakerM_move
+Graphics/Characters/MapWorld_BreakerM_move
+Graphics/Characters/MapZweihanderM
+Graphics/Characters/MapZweihanderM_move
+Graphics/Characters/MoveArrow
+Graphics/Characters/MoveRange
+Graphics/Characters/RescueIcon
+Graphics/Characters/StaffRange
+Graphics/Characters/StatusPlatform
+Graphics/Characters/Support
+Graphics/Characters/TalkIcon
+Graphics/Characters/TalkRange
+Graphics/Faces/Arch Mogall
+Graphics/Faces/Arena
+Graphics/Faces/Armory
+Graphics/Faces/Ash Clone
+Graphics/Faces/Ash
+Graphics/Faces/Ash_Clone
+Graphics/Faces/Avraxas
+Graphics/Faces/Bill
+Graphics/Faces/Bob
+Graphics/Faces/Char
+Graphics/Faces/Char_2
+Graphics/Faces/Ciraxis Squad_1
+Graphics/Faces/Ciraxis Squad_2
+Graphics/Faces/Ciraxis Squad_3
+Graphics/Faces/Ciraxis
+Graphics/Faces/Convoy
+Graphics/Faces/David
+Graphics/Faces/Dealer
+Graphics/Faces/Deathgoyle
+Graphics/Faces/Elise
+Graphics/Faces/Elise_Convo
+Graphics/Faces/Emil
+Graphics/Faces/Enemy_1
+Graphics/Faces/Enemy_2
+Graphics/Faces/Enemy_3
+Graphics/Faces/Ephraim
+Graphics/Faces/Gertrude
+Graphics/Faces/GlitchyJoe
+Graphics/Faces/Go
+Graphics/Faces/Gorgon
+Graphics/Faces/GrimaJoe
+Graphics/Faces/GrimaJoe_2
+Graphics/Faces/Hachi
+Graphics/Faces/Hellion_1
+Graphics/Faces/Hellion_2
+Graphics/Faces/Hellion_3
+Graphics/Faces/Hellion_4
+Graphics/Faces/Hellion_5
+Graphics/Faces/Hiro
+Graphics/Faces/Ichi
+Graphics/Faces/image0
+Graphics/Faces/Ju Ichi
+Graphics/Faces/Ju Ni
+Graphics/Faces/Ju
+Graphics/Faces/Kyu
+Graphics/Faces/Mad Eddy Shop
+Graphics/Faces/Marc
+Graphics/Faces/Marc_2
+Graphics/Faces/Mari
+Graphics/Faces/Mark
+Graphics/Faces/Marky
+Graphics/Faces/Matthew
+Graphics/Faces/Merc
+Graphics/Faces/Mofobolokonomor
+Graphics/Faces/Nana
+Graphics/Faces/Necrodragon
+Graphics/Faces/NecrodragonM
+Graphics/Faces/Ni
+Graphics/Faces/Olivia
+Graphics/Faces/Olivia_2
+Graphics/Faces/Phantom
+Graphics/Faces/Purt
+Graphics/Faces/R.S
+Graphics/Faces/Reisen
+Graphics/Faces/Roku
+Graphics/Faces/RS
+Graphics/Faces/Salamede
+Graphics/Faces/San
+Graphics/Faces/Secret
+Graphics/Faces/Sepour
+Graphics/Faces/Set
+Graphics/Faces/Shady Dude_1
+Graphics/Faces/Shady Dude_2
+Graphics/Faces/Shady Dude_3
+Graphics/Faces/Shady Dude_4
+Graphics/Faces/Shady Lady_1
+Graphics/Faces/Shady Lady_2
+Graphics/Faces/Shi
+Graphics/Faces/Sketchy Guy
+Graphics/Faces/Smolivia
+Graphics/Faces/SnarkyFoe
+Graphics/Faces/Torlo
+Graphics/Faces/Valtheus
+Graphics/Faces/Vandal
+Graphics/Faces/Vendor
+Graphics/Faces/Wight
+Graphics/Faces/Wight_Bow
+Graphics/Faces/Wolfram
+Graphics/Faces/Wolfram_2
+Graphics/Faces/Countries/Bandit Flags
+Graphics/Faces/Countries/Bern Flags
+Graphics/Faces/Countries/Default_Miniface
+Graphics/Faces/Countries/Etruria Flags
+Graphics/Faces/Countries/Ilia Flags
+Graphics/Faces/Countries/Inmate Flags
+Graphics/Faces/Countries/Killer Flags
+Graphics/Faces/Countries/Laus Flags
+Graphics/Faces/Countries/Member Flags
+Graphics/Faces/Countries/Ostia Flags
+Graphics/Faces/Countries/Rebel Flags
+Graphics/Faces/Countries/Sacae Flags
+Graphics/Faces/Countries/Tania Flags
+Graphics/Faces/Countries/Thria Flags
+Graphics/Faces/Countries/Traitor Flags
+Graphics/Faces/Countries/Western Flags
+Graphics/Fonts/Blue_100
+Graphics/Fonts/FE7_Chapter
+Graphics/Fonts/FE7_Chapter_Data
+Graphics/Fonts/FE7_Convo_Black
+Graphics/Fonts/FE7_Convo_Blue
+Graphics/Fonts/FE7_Convo_Red
+Graphics/Fonts/FE7_Convo_White
+Graphics/Fonts/FE7_Convo_Yellow
+Graphics/Fonts/FE7_Reel2
+Graphics/Fonts/FE7_Reel_Black
+Graphics/Fonts/FE7_Reel_Gold
+Graphics/Fonts/FE7_Reel_Invert
+Graphics/Fonts/FE7_Reel_White
+Graphics/Fonts/FE7_Text_Blue
+Graphics/Fonts/FE7_Text_Combat3
+Graphics/Fonts/FE7_Text_CombatBlue
+Graphics/Fonts/FE7_Text_CombatWhite
+Graphics/Fonts/FE7_Text_Exp
+Graphics/Fonts/FE7_Text_Green
+Graphics/Fonts/FE7_Text_Grey
+Graphics/Fonts/FE7_Text_HelpBlue
+Graphics/Fonts/FE7_Text_HelpYellow
+Graphics/Fonts/FE7_Text_Info
+Graphics/Fonts/FE7_Text_Keys
+Graphics/Fonts/FE7_Text_Numbers
+Graphics/Fonts/FE7_Text_Red
+Graphics/Fonts/FE7_Text_Stat1
+Graphics/Fonts/FE7_Text_Stat2
+Graphics/Fonts/FE7_Text_White
+Graphics/Fonts/FE7_Text_Yellow
+Graphics/Icons/Accessories
+Graphics/Icons/Affinity Icons
+Graphics/Icons/Aid
+Graphics/Icons/Axes
+Graphics/Icons/Bands
+Graphics/Icons/Boosters
+Graphics/Icons/Bows
+Graphics/Icons/Breads
+Graphics/Icons/Breath
+Graphics/Icons/Cards
+Graphics/Icons/Casual
+Graphics/Icons/Class Reel Weapons
+Graphics/Icons/Class
+Graphics/Icons/Class_Types
+Graphics/Icons/Consumables
+Graphics/Icons/Dark
+Graphics/Icons/Desserts
+Graphics/Icons/Fire
+Graphics/Icons/Fluff
+Graphics/Icons/Foods
+Graphics/Icons/Fooker
+Graphics/Icons/Lances
+Graphics/Icons/Light
+Graphics/Icons/Magazines
+Graphics/Icons/Mastery
+Graphics/Icons/Mythrils
+Graphics/Icons/Personal
+Graphics/Icons/PRF
+Graphics/Icons/Promoters
+Graphics/Icons/Rings
+Graphics/Icons/SkillIcons
+Graphics/Icons/SkillIconsMoar
+Graphics/Icons/Statuses
+Graphics/Icons/Staves
+Graphics/Icons/Swords
+Graphics/Icons/Thunder
+Graphics/Icons/Useables
+Graphics/Icons/Valuables
+Graphics/Icons/Weapon Level Icons
+Graphics/Icons/Wind
+Graphics/Palettes/Battlers/Arch Mogall0
+Graphics/Palettes/Battlers/Archer0
+Graphics/Palettes/Battlers/Archer1
+Graphics/Palettes/Battlers/Arch_Mogall0
+Graphics/Palettes/Battlers/Asistan1
+Graphics/Palettes/Battlers/Asistan1_Staff.png
+Graphics/Palettes/Battlers/Asistan_21
+Graphics/Palettes/Battlers/Asistan_M1
+Graphics/Palettes/Battlers/Assassin0
+Graphics/Palettes/Battlers/Assassin_Av0
+Graphics/Palettes/Battlers/Berserker0
+Graphics/Palettes/Battlers/Berserker_Eph0
+Graphics/Palettes/Battlers/Bishop0
+Graphics/Palettes/Battlers/Bishop2
+Graphics/Palettes/Battlers/Bishop3
+Graphics/Palettes/Battlers/Brigand0
+Graphics/Palettes/Battlers/Bunny0
+Graphics/Palettes/Battlers/Bunny1
+Graphics/Palettes/Battlers/Cleric0
+Graphics/Palettes/Battlers/Cohort0
+Graphics/Palettes/Battlers/Corsair0
+Graphics/Palettes/Battlers/Crossbowman0
+Graphics/Palettes/Battlers/Deathgoyle0
+Graphics/Palettes/Battlers/Diviner0
+Graphics/Palettes/Battlers/Dracoknight0
+Graphics/Palettes/Battlers/Dragon Master0
+Graphics/Palettes/Battlers/Drifter0
+Graphics/Palettes/Battlers/Drooid0
+Graphics/Palettes/Battlers/Druid0
+Graphics/Palettes/Battlers/Druid1
+Graphics/Palettes/Battlers/Druid2
+Graphics/Palettes/Battlers/Druid_Ash0
+Graphics/Palettes/Battlers/Druid_Ash1
+Graphics/Palettes/Battlers/EliseSheet.png
+Graphics/Palettes/Battlers/Falcoknight1
+Graphics/Palettes/Battlers/Fallen Angel0
+Graphics/Palettes/Battlers/Fenrir
+Graphics/Palettes/Battlers/Fighter0
+Graphics/Palettes/Battlers/Gendarme0
+Graphics/Palettes/Battlers/Gendarme1
+Graphics/Palettes/Battlers/Gendarme3
+Graphics/Palettes/Battlers/General0
+Graphics/Palettes/Battlers/Gorgon1
+Graphics/Palettes/Battlers/Great Knight0
+Graphics/Palettes/Battlers/Great Knight1
+Graphics/Palettes/Battlers/Great_Knight0
+Graphics/Palettes/Battlers/Great_Knight1
+Graphics/Palettes/Battlers/Halberdier0
+Graphics/Palettes/Battlers/Heretic0
+Graphics/Palettes/Battlers/Hero0
+Graphics/Palettes/Battlers/Hero2
+Graphics/Palettes/Battlers/Hero4
+Graphics/Palettes/Battlers/Knight0
+Graphics/Palettes/Battlers/Lord_E1
+Graphics/Palettes/Battlers/Lord_U0
+Graphics/Palettes/Battlers/Mage Knight1
+Graphics/Palettes/Battlers/Mage Knight2
+Graphics/Palettes/Battlers/Mage0
+Graphics/Palettes/Battlers/Mage1
+Graphics/Palettes/Battlers/Medic1
+Graphics/Palettes/Battlers/Merc but stronger0
+Graphics/Palettes/Battlers/Mercenary0
+Graphics/Palettes/Battlers/Mercenary_M0.png
+Graphics/Palettes/Battlers/Mercenary_M0
+Graphics/Palettes/Battlers/Minstrel0
+Graphics/Palettes/Battlers/Monarch0
+Graphics/Palettes/Battlers/Monk0
+Graphics/Palettes/Battlers/Myrmidon0
+Graphics/Palettes/Battlers/Myrmidon1
+Graphics/Palettes/Battlers/Myrmidon2
+Graphics/Palettes/Battlers/Necrodragon0
+Graphics/Palettes/Battlers/Necromancer0
+Graphics/Palettes/Battlers/Nomad Trooper0
+Graphics/Palettes/Battlers/Nomad Trooper2
+Graphics/Palettes/Battlers/Nomad0
+Graphics/Palettes/Battlers/Overlord0
+Graphics/Palettes/Battlers/Page0
+Graphics/Palettes/Battlers/Paladin0
+Graphics/Palettes/Battlers/Paladin1
+Graphics/Palettes/Battlers/Paladin2
+Graphics/Palettes/Battlers/Paladin4
+Graphics/Palettes/Battlers/Pegasus Knight1
+Graphics/Palettes/Battlers/Pegasus Knight3
+Graphics/Palettes/Battlers/Phalanx0
+Graphics/Palettes/Battlers/Phantom0
+Graphics/Palettes/Battlers/Pirate0
+Graphics/Palettes/Battlers/Priestess1
+Graphics/Palettes/Battlers/Pupil1
+Graphics/Palettes/Battlers/Recruit0
+Graphics/Palettes/Battlers/Rogue0
+Graphics/Palettes/Battlers/Rogue2
+Graphics/Palettes/Battlers/Sage0
+Graphics/Palettes/Battlers/Sage2
+Graphics/Palettes/Battlers/Sage3
+Graphics/Palettes/Battlers/Sage4
+Graphics/Palettes/Battlers/Sage6
+Graphics/Palettes/Battlers/Sage_M0
+Graphics/Palettes/Battlers/Scholar0
+Graphics/Palettes/Battlers/Scout1
+Graphics/Palettes/Battlers/Shaman0
+Graphics/Palettes/Battlers/Skywatcher1
+Graphics/Palettes/Battlers/Sniper0
+Graphics/Palettes/Battlers/Sniper_C0
+Graphics/Palettes/Battlers/Sniper_C1
+Graphics/Palettes/Battlers/Soldier0
+Graphics/Palettes/Battlers/Soldier2
+Graphics/Palettes/Battlers/Sorcerer0
+Graphics/Palettes/Battlers/Sorcerer1
+Graphics/Palettes/Battlers/Squire1
+Graphics/Palettes/Battlers/Swordmaster0
+Graphics/Palettes/Battlers/Swordmaster_RS0
+Graphics/Palettes/Battlers/Thief0
+Graphics/Palettes/Battlers/Thief1
+Graphics/Palettes/Battlers/Thief2
+Graphics/Palettes/Battlers/Thief4
+Graphics/Palettes/Battlers/Thief_V0
+Graphics/Palettes/Battlers/Troubadour1
+Graphics/Palettes/Battlers/Valkyrie1
+Graphics/Palettes/Battlers/Vanguard0
+Graphics/Palettes/Battlers/Vanguard1
+Graphics/Palettes/Battlers/Warrior0
+Graphics/Palettes/Battlers/Wight0
+Graphics/Palettes/Battlers/Wight_Bow0
+Graphics/Palettes/Battlers/Witch1
+Graphics/Palettes/Battlers/Zweihander0
+Graphics/Panoramas/Arena
+Graphics/Panoramas/Black
+Graphics/Panoramas/Camp-Night
+Graphics/Panoramas/Camp
+Graphics/Panoramas/Castle
+Graphics/Panoramas/cg1
+Graphics/Panoramas/cg2
+Graphics/Panoramas/Chamber
+Graphics/Panoramas/Charbread1
+Graphics/Panoramas/Charbread2
+Graphics/Panoramas/CiraxisCastle
+Graphics/Panoramas/Courtyard
+Graphics/Panoramas/Desert
+Graphics/Panoramas/Dungeon
+Graphics/Panoramas/EnragementRing
+Graphics/Panoramas/EnragementRing2
+Graphics/Panoramas/Garden
+Graphics/Panoramas/GOCG1
+Graphics/Panoramas/GOCG2
+Graphics/Panoramas/GOCG3
+Graphics/Panoramas/GrimaJoePointsToOven
+Graphics/Panoramas/Hill
+Graphics/Panoramas/KingSword
+Graphics/Panoramas/Mansion
+Graphics/Panoramas/MarcChest
+Graphics/Panoramas/MarcsPad
+Graphics/Panoramas/Market
+Graphics/Panoramas/MaskedMarc
+Graphics/Panoramas/mega_furt
+Graphics/Panoramas/memes
+Graphics/Panoramas/NorthernFort
+Graphics/Panoramas/Picnic
+Graphics/Panoramas/RageOven
+Graphics/Panoramas/SouthernFort
+Graphics/Panoramas/TGJ1
+Graphics/Panoramas/TGJ2
+Graphics/Panoramas/TGJ3
+Graphics/Panoramas/Town
+Graphics/Panoramas/TrippedShadyDude
+Graphics/Panoramas/UndergroundHall
+Graphics/Panoramas/White
+Graphics/Panoramas/Worldmap
+Graphics/Pictures/Antitoxin
+Graphics/Pictures/Arrows
+Graphics/Pictures/Attackable_Terrain_Icon
+Graphics/Pictures/Banner_Text
+Graphics/Pictures/Barrier
+Graphics/Pictures/Berserk
+Graphics/Pictures/Blue_Status_BG
+Graphics/Pictures/burst
+Graphics/Pictures/burst1
+Graphics/Pictures/burst2
+Graphics/Pictures/Buttons
+Graphics/Pictures/Buttons_360
+Graphics/Pictures/Buttons_Keyboard
+Graphics/Pictures/Buttons_Touch
+Graphics/Pictures/Chapter Transition Background
+Graphics/Pictures/Chapter Transition Banner
+Graphics/Pictures/Chapter Transition Sigil
+Graphics/Pictures/Class Reel Banner
+Graphics/Pictures/ClassChange_Battle
+Graphics/Pictures/ClassChange_Map
+Graphics/Pictures/Column
+Graphics/Pictures/Crit-Spark
+Graphics/Pictures/Drunk
+Graphics/Pictures/Elixir
+Graphics/Pictures/Fire Emblem Logo
+Graphics/Pictures/Flare
+Graphics/Pictures/FoW-Block
+Graphics/Pictures/GameOver_Background
+Graphics/Pictures/GameOver_Text
+Graphics/Pictures/Hit-Spark
+Graphics/Pictures/Immortal Sword Logo
+Graphics/Pictures/LevelUp_Battle
+Graphics/Pictures/LevelUp_Map
+Graphics/Pictures/Map_Grid
+Graphics/Pictures/Menu_Banner
+Graphics/Pictures/Menu_Hand
+Graphics/Pictures/Minimap_Sprites
+Graphics/Pictures/Minimap_Tiles
+Graphics/Pictures/Miss
+Graphics/Pictures/Miss1
+Graphics/Pictures/Miss2
+Graphics/Pictures/Miss3
+Graphics/Pictures/Miss4
+Graphics/Pictures/Miss_Map
+Graphics/Pictures/MouseCursor
+Graphics/Pictures/Multipliers
+Graphics/Pictures/NoDamage
+Graphics/Pictures/NoDamage1
+Graphics/Pictures/NoDamage2
+Graphics/Pictures/NoDamage3
+Graphics/Pictures/NoDamage4
+Graphics/Pictures/NoDamage_Map
+Graphics/Pictures/Option_Background
+Graphics/Pictures/Page_Arrows
+Graphics/Pictures/Poison
+Graphics/Pictures/Portrait_bg
+Graphics/Pictures/Potion
+Graphics/Pictures/Preparation_Background
+Graphics/Pictures/Preparation_Info_Text
+Graphics/Pictures/Press Start
+Graphics/Pictures/Pure Water
+Graphics/Pictures/RankingIcons
+Graphics/Pictures/Ranking_Banner
+Graphics/Pictures/Ranking_Burst
+Graphics/Pictures/Ranking_Letters
+Graphics/Pictures/Ranking_Star
+Graphics/Pictures/Restore
+Graphics/Pictures/Ring_Buff
+Graphics/Pictures/Ring_Effect
+Graphics/Pictures/Silence
+Graphics/Pictures/Sleep
+Graphics/Pictures/Sleep_Staff
+Graphics/Pictures/Slow
+Graphics/Pictures/Snag
+Graphics/Pictures/SoloAnim_Button_Icon
+Graphics/Pictures/Status_Background
+Graphics/Pictures/Status_Heal
+Graphics/Pictures/Status_Window_Design
+Graphics/Pictures/Stat_Up_Spark
+Graphics/Pictures/Team_Hp_Gauge
+Graphics/Pictures/TGJTrans
+Graphics/Pictures/Title Sword
+Graphics/Pictures/title_MARCS
+Graphics/Pictures/title_PRECIOUS
+Graphics/Pictures/Torch
+Graphics/Pictures/Torch_Flash
+Graphics/Pictures/Turn_Change
+Graphics/Pictures/Vulnerary
+Graphics/Pictures/Warp
+Graphics/Pictures/Weather
+Graphics/Pictures/Worldmap_Sprites
+Graphics/Tilesets/Bern
+Graphics/Tilesets/Castle
+Graphics/Tilesets/Coastal Bridge
+Graphics/Tilesets/Coastal_Bridge
+Graphics/Tilesets/Coastal_Castle
+Graphics/Tilesets/Coastal_Village
+Graphics/Tilesets/Desert
+Graphics/Tilesets/Fields
+Graphics/Tilesets/Fort
+Graphics/Tilesets/Mountain_Village
+Graphics/Tilesets/Ship_16
+Graphics/Tilesets/Tower
+Graphics/Tilesets/Urban
+Graphics/Tilesets/Village1
+Graphics/Titles/Splash1
+Graphics/Titles/Splash2
+Graphics/Titles/Splash3
+Graphics/Titles/splashes1
+Graphics/Titles/splashes2
+Graphics/Titles/Title BG
+Graphics/Windowskins/Class_Reel_Window
+Graphics/Windowskins/Combat_HP_Gauge
+Graphics/Windowskins/Combat_HUD
+Graphics/Windowskins/Combat_Map_HP_Ally1
+Graphics/Windowskins/Combat_Map_HP_Ally2
+Graphics/Windowskins/Combat_Map_HP_Enemy1
+Graphics/Windowskins/Combat_Map_HP_Enemy2
+Graphics/Windowskins/Combat_Map_HP_Gauge
+Graphics/Windowskins/Combat_Map_HP_Gauge_Fill
+Graphics/Windowskins/Combat_Popup
+Graphics/Windowskins/Combat_Window
+Graphics/Windowskins/Convo_Location_Window
+Graphics/Windowskins/Data_Ranking_Window
+Graphics/Windowskins/Data_Screen
+Graphics/Windowskins/Detail_Combat_Window
+Graphics/Windowskins/Exp_Window
+Graphics/Windowskins/FE_Scroll_Bar
+Graphics/Windowskins/FE_Window
+Graphics/Windowskins/Gold_Window
+Graphics/Windowskins/Headered_Window
+Graphics/Windowskins/Level_Up_Window
+Graphics/Windowskins/Map_Combat_HUD
+Graphics/Windowskins/Menu_Hand
+Graphics/Windowskins/Message_Window
+Graphics/Windowskins/Objective_Info
+Graphics/Windowskins/Options_Icons
+Graphics/Windowskins/Parchment_Window
+Graphics/Windowskins/Pick_Units_Components
+Graphics/Windowskins/Preparations_Item_Options_Window
+Graphics/Windowskins/Preparations_Screen
+Graphics/Windowskins/Preparations_Trade_Window
+Graphics/Windowskins/Rescue_Window
+Graphics/Windowskins/Shop_Portrait_bg
+Graphics/Windowskins/Status_LVEHP_BG
+Graphics/Windowskins/Stat_Bar
+Graphics/Windowskins/Stat_Bar_Fill
+Graphics/Windowskins/Steal_Window
+Graphics/Windowskins/Strat_Combat_Window
+Graphics/Windowskins/Support_Components
+Graphics/Windowskins/Terrain_Info
+Graphics/Windowskins/Trade_Window
+Graphics/Windowskins/Unit_Info
+Graphics/Windowskins/Unit_Window_Components
+Graphics/Windowskins/Worldmap_Text_Box
+Graphics/Windowskins/Worldmap_Window

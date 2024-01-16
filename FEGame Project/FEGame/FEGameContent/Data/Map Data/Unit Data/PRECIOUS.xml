@@ -1,0 +1,2257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="FEXNA_Library.Map_Unit_Data">
+    <Units>
+      <Item>
+        <Key>17 19</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Dude_2|Name
+78|Class ID
+0|Gender
+12|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+7|AI Mission
+0, 154, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 0, 0, 0, 0, 0, 121, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>16 12</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Lady_2|Name
+81|Class ID
+1|Gender
+13|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 153, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 0, 0, 0, 0, 0, 121, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>3 10</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>ShadeDruid</identifier>
+          <data>Shady Dude_4|Name
+84|Class ID
+0|Gender
+12|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 141, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 0, 0, 0, 0, 31, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>6 10</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Dude_1|Name
+51|Class ID
+0|Gender
+12|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 5, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>12 4</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Dude_1|Name
+61|Class ID
+0|Gender
+12|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 38, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>16 7</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Dude_1|Name
+70|Class ID
+0|Gender
+12|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 14, -1|Item 1
+0, 45, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+181, 121, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>19 13</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Dude_1|Name
+65|Class ID
+0|Gender
+16|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+3|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 25, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+181, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>6 8</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Dude_1|Name
+63|Class ID
+0|Gender
+10|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 64, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>16 16</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Dude_1|Name
+70|Class ID
+0|Gender
+12|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 16, -1|Item 1
+0, 38, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+121, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>4 6</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Dude_1|Name
+56|Class ID
+0|Gender
+10|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 83, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>11 9</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Dude_3|Name
+73|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+0|AI Mission
+0, 16, -1|Item 1
+0, 48, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+121, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>11 10</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Dude_3|Name
+73|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+0|AI Mission
+0, 41, -1|Item 1
+0, 15, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+121, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>15 9</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Dude_1|Name
+59|Class ID
+0|Gender
+12|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+0|AI Mission
+0, 38, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>15 10</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Dude_1|Name
+59|Class ID
+0|Gender
+12|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+0|AI Mission
+0, 38, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>18 15</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Dude_1|Name
+56|Class ID
+0|Gender
+13|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 86, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 31, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>27 12</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Dude_1|Name
+56|Class ID
+0|Gender
+15|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+3|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 88, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 121, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>22 12</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Dude_1|Name
+56|Class ID
+0|Gender
+13|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 85, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 71, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>26 21</Key>
+        <Value>
+          <type>character</type>
+          <identifier>Dealer</identifier>
+          <data>21|Actor ID
+2|Team
+0|AI Priority
+0|AI Mission</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>24 16</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Dude_2|Name
+80|Class ID
+0|Gender
+13|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 113, -1|Item 1
+0, 102, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 31, 71, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>20 18</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Dude_2|Name
+80|Class ID
+0|Gender
+15|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 103, -1|Item 1
+0, 122, -1|Item 2
+1, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 71, 0, 31, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>21 16</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Dude_1|Name
+53|Class ID
+0|Gender
+13|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 3, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>13 9</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Dude_2|Name
+79|Class ID
+0|Gender
+11|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+3|Build Type
+-1|Con
+0|AI Priority
+0|AI Mission
+0, 113, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 0, 71, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>27 7</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>AI2</identifier>
+          <data>Shady Dude_2|Name
+80|Class ID
+0|Gender
+13|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 102, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 31, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>13 10</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Dude_2|Name
+79|Class ID
+0|Gender
+11|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+3|Build Type
+-1|Con
+0|AI Priority
+0|AI Mission
+0, 123, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 0, 0, 71, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>2 7</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Dude_1|Name
+70|Class ID
+0|Gender
+10|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 34, -1|Item 1
+0, 3, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+1, 31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>25 14</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Dude_1|Name
+63|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 58, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>9 12</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Dude_1|Name
+56|Class ID
+0|Gender
+10|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 82, -1|Item 1
+0, 100, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 181, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>3 14</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Dude_1|Name
+62|Class ID
+0|Gender
+10|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 58, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>22 21</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Dude_1|Name
+70|Class ID
+0|Gender
+13|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 8, -1|Item 1
+0, 39, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+71, 31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>22 9</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Dude_1|Name
+65|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 4, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>27 18</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Dude_1|Name
+63|Class ID
+0|Gender
+13|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 64, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>23 19</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Dude_1|Name
+63|Class ID
+0|Gender
+16|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 79, -1|Item 1
+0, 72, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 181, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>14 15</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Dude_1|Name
+61|Class ID
+0|Gender
+10|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 39, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 181, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>7 4</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Dude_1|Name
+61|Class ID
+0|Gender
+12|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 38, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>15 21</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>AI3</identifier>
+          <data>Shady Dude_1|Name
+61|Class ID
+0|Gender
+16|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+3|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 44, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 181, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>18 10</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Dude_1|Name
+51|Class ID
+0|Gender
+15|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 12, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+71, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>5 12</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Dude_1|Name
+65|Class ID
+0|Gender
+10|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 8, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+71, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>7 9</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Dude_1|Name
+59|Class ID
+0|Gender
+10|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 33, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>2 9</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Dude_1|Name
+59|Class ID
+0|Gender
+10|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 33, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>10 6</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Dude_1|Name
+59|Class ID
+0|Gender
+10|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 38, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>17 8</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Dude_1|Name
+62|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 71, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 121, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>14 18</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Dude_1|Name
+62|Class ID
+0|Gender
+12|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 71, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 121, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>24 8</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>AI1</identifier>
+          <data>Shady Dude_1|Name
+62|Class ID
+0|Gender
+12|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 64, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>26 10</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Dude_4|Name
+84|Class ID
+0|Gender
+16|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 143, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 0, 0, 0, 0, 71, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>20 11</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Dude_1|Name
+63|Class ID
+0|Gender
+12|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 60, -1|Item 1
+0, 85, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 31, 71, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>22 17</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Dude_2|Name
+79|Class ID
+0|Gender
+13|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+3|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 134, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 0, 0, 0, 121, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>18 18</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>AI4</identifier>
+          <data>Shady Dude_1|Name
+65|Class ID
+0|Gender
+13|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 8, -1|Item 1
+0, 60, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+71, 0, 31, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>23 14</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Dude_1|Name
+62|Class ID
+0|Gender
+15|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 71, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 121, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>10 20</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Dude_1|Name
+63|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 71, -1|Item 1
+0, 85, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 121, 71, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>12 21</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Dude_2|Name
+79|Class ID
+0|Gender
+13|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 103, -1|Item 1
+0, 122, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 71, 0, 31, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>2 13</Key>
+        <Value>
+          <type>character</type>
+          <identifier>Salamede</identifier>
+          <data>20|Actor ID
+2|Team
+0|AI Priority
+8|AI Mission</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>2 3</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Dude_2|Name
+79|Class ID
+0|Gender
+11|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 133, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 0, 0, 0, 121, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+    </Units>
+    <Reinforcements>
+      <Item>
+        <type>character</type>
+        <identifier>Emil</identifier>
+        <data>26|Actor ID
+2|Team
+0|AI Priority
+6|AI Mission</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Shady Dude_3|Name
+73|Class ID
+0|Gender
+16|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+2|AI Mission
+0, 40, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Shady Dude_3|Name
+73|Class ID
+0|Gender
+16|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+2|AI Mission
+0, 40, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Shady Dude_1|Name
+56|Class ID
+0|Gender
+15|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+2|AI Mission
+0, 90, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 181, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Shady Dude_1|Name
+56|Class ID
+0|Gender
+15|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+2|AI Mission
+0, 90, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 121, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Shady Dude_1|Name
+62|Class ID
+0|Gender
+15|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+2|AI Mission
+0, 66, -1|Item 1
+0, 72, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 181, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Shady Dude_1|Name
+62|Class ID
+0|Gender
+15|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+2|AI Mission
+0, 66, -1|Item 1
+0, 72, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 181, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Shady Dude_1|Name
+59|Class ID
+0|Gender
+15|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+2|AI Mission
+0, 44, -1|Item 1
+0, 48, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 181, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Shady Dude_1|Name
+51|Class ID
+0|Gender
+15|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+2|AI Mission
+0, 16, -1|Item 1
+0, 18, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+181, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Shady Dude_1|Name
+51|Class ID
+0|Gender
+15|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+2|AI Mission
+0, 16, -1|Item 1
+0, 18, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+181, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Shady Dude_2|Name
+79|Class ID
+0|Gender
+15|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+2|AI Mission
+0, 105, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 121, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Shady Dude_2|Name
+79|Class ID
+0|Gender
+15|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+2|AI Mission
+0, 105, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 121, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Shady Dude_3|Name
+73|Class ID
+0|Gender
+16|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+2|AI Mission
+0, 40, -1|Item 1
+0, 55, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 181, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Shady Dude_1|Name
+70|Class ID
+0|Gender
+15|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+2|AI Mission
+0, 36, -1|Item 1
+0, 8, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+71, 31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Shady Dude_1|Name
+70|Class ID
+0|Gender
+15|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+2|AI Mission
+0, 18, -1|Item 1
+0, 38, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+181, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Shady Lady_1|Name
+76|Class ID
+1|Gender
+15|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+2|AI Mission
+0, 48, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 181, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Shady Lady_1|Name
+76|Class ID
+1|Gender
+15|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+2|AI Mission
+0, 48, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 181, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Shady Lady_1|Name
+76|Class ID
+1|Gender
+15|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+2|AI Mission
+0, 48, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 181, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Ciraxis Squad|Name
+70|Class ID
+0|Gender
+13|Level
+0|Exp
+3|Team
+15|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+2|AI Mission
+0, 8, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+71, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Ciraxis Squad|Name
+71|Class ID
+0|Gender
+13|Level
+0|Exp
+3|Team
+15|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+2|AI Mission
+0, 65, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+71, 71, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Ciraxis Squad|Name
+71|Class ID
+0|Gender
+13|Level
+0|Exp
+3|Team
+15|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+2|AI Mission
+0, 65, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+71, 71, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Ciraxis Squad|Name
+80|Class ID
+0|Gender
+13|Level
+0|Exp
+3|Team
+15|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 102, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 71, 71, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Ciraxis Squad|Name
+80|Class ID
+0|Gender
+13|Level
+0|Exp
+3|Team
+15|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 113, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 0, 71, 71, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Shady Dude_3|Name
+71|Class ID
+0|Gender
+16|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+2|AI Mission
+0, 9, -1|Item 1
+0, 35, -1|Item 2
+1, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+31, 31, 31, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Shady Dude_4|Name
+84|Class ID
+0|Gender
+16|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+2|AI Mission
+0, 143, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 0, 0, 0, 0, 71, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Shady Dude_3|Name
+71|Class ID
+0|Gender
+16|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+2|AI Mission
+0, 68, -1|Item 1
+0, 34, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+31, 31, 121, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Shady Dude_3|Name
+71|Class ID
+0|Gender
+16|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+2|AI Mission
+0, 64, -1|Item 1
+0, 5, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+31, 31, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Shady Dude_4|Name
+84|Class ID
+0|Gender
+16|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+2|AI Mission
+0, 144, -1|Item 1
+0, 151, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 0, 0, 0, 0, 121, 1, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier>BridgeAI</identifier>
+        <data>Shady Dude_1|Name
+62|Class ID
+0|Gender
+10|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 64, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Shady Lady_2|Name
+81|Class ID
+1|Gender
+14|Level
+0|Exp
+2|Team
+20|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+7|AI Mission
+0, 154, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 0, 0, 0, 0, 0, 121, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier>DropOff</identifier>
+        <data>Shady Lady_1|Name
+76|Class ID
+1|Gender
+15|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 16, -1|Item 1
+0, 54, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+121, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Shady Dude_2|Name
+78|Class ID
+0|Gender
+15|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+7|AI Mission
+0, 133, -1|Item 1
+0, 152, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 0, 0, 0, 71, 0, 31, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Shady Dude_1|Name
+65|Class ID
+0|Gender
+15|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 79, -1|Item 1
+0, 9, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+31, 0, 121, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Shady Dude_1|Name
+63|Class ID
+0|Gender
+15|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 90, -1|Item 1
+0, 67, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 71, 121, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Shady Dude_2|Name
+80|Class ID
+0|Gender
+15|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 103, -1|Item 1
+0, 113, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 71, 71, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Shady Dude_1|Name
+51|Class ID
+0|Gender
+15|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+2|AI Mission
+0, 19, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+251, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Shady Dude_3|Name
+73|Class ID
+0|Gender
+15|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+2|AI Mission
+0, 16, -1|Item 1
+0, 38, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+121, 71, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Shady Dude_3|Name
+73|Class ID
+0|Gender
+15|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+2|AI Mission
+0, 39, -1|Item 1
+0, 12, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+71, 31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Shady Dude_3|Name
+73|Class ID
+0|Gender
+15|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+2|AI Mission
+0, 13, -1|Item 1
+0, 35, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+121, 31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Shady Dude_1|Name
+67|Class ID
+0|Gender
+15|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+2|AI Mission
+0, 8, -1|Item 1
+0, 87, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+71, 0, 0, 71, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Shady Dude_1|Name
+67|Class ID
+0|Gender
+15|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+2|AI Mission
+0, 84, -1|Item 1
+0, 15, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+121, 0, 0, 31, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Shady Dude_1|Name
+67|Class ID
+0|Gender
+15|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+2|AI Mission
+0, 100, -1|Item 1
+0, 5, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+31, 0, 0, 181, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Shady Dude_3|Name
+71|Class ID
+0|Gender
+15|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+2|AI Mission
+0, 46, -1|Item 1
+0, 72, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 121, 181, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Shady Dude_3|Name
+71|Class ID
+0|Gender
+15|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+2|AI Mission
+0, 46, -1|Item 1
+0, 12, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+71, 121, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier>SketchyGuy</identifier>
+        <data>Sketchy Guy|Name
+17|Class ID
+0|Gender
+1|Level
+0|Exp
+3|Team
+10|Prepromote Levels
+0|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 3, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+    </Reinforcements>
+  </Asset>
+</XnaContent>

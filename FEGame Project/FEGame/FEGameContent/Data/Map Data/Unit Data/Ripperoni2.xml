@@ -1,0 +1,1248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="FEXNA_Library.Map_Unit_Data">
+    <Units>
+      <Item>
+        <Key>21 16</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>AIR3</identifier>
+          <data>Hellion_1|Name
+125|Class ID
+0|Gender
+10|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 87, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 71, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>16 14</Key>
+        <Value>
+          <type>character</type>
+          <identifier>David</identifier>
+          <data>32|Actor ID
+2|Team
+0|AI Priority
+1|AI Mission</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>14 19</Key>
+        <Value>
+          <type>character</type>
+          <identifier>GrimaJoe</identifier>
+          <data>29|Actor ID
+2|Team
+0|AI Priority
+1|AI Mission</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>13 12</Key>
+        <Value>
+          <type>character</type>
+          <identifier>SnarkyFoe</identifier>
+          <data>28|Actor ID
+2|Team
+0|AI Priority
+1|AI Mission</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>5 29</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>Move3</identifier>
+          <data>Marc_Mask|Name
+81|Class ID
+1|Gender
+20|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 133, -1|Item 1
+0, 154, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 0, 0, 0, 71, 0, 121, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>4 28</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>Move4</identifier>
+          <data>Marc_Mask|Name
+61|Class ID
+0|Gender
+20|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 72, -1|Item 1
+0, 46, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 121, 181, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>6 17</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>Move6</identifier>
+          <data>Marc_Mask|Name
+63|Class ID
+0|Gender
+20|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 71, -1|Item 1
+0, 90, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 121, 121, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>23 29</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>Move1</identifier>
+          <data>Marc_Mask|Name
+67|Class ID
+0|Gender
+20|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 90, -1|Item 1
+0, 16, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+121, 0, 0, 121, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>24 28</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>Move2</identifier>
+          <data>Marc_Mask|Name
+71|Class ID
+0|Gender
+20|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 71, -1|Item 1
+0, 46, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 121, 121, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>22 17</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>Move5</identifier>
+          <data>Marc_Mask|Name
+79|Class ID
+0|Gender
+20|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 103, -1|Item 1
+0, 154, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 71, 0, 0, 0, 0, 121, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>8 10</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Marc_Mask|Name
+80|Class ID
+0|Gender
+20|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 105, -1|Item 1
+0, 102, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 121, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>6 12</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>Move7</identifier>
+          <data>Marc_Mask|Name
+65|Class ID
+0|Gender
+20|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 16, -1|Item 1
+0, 71, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+121, 0, 121, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>20 10</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Marc_Mask|Name
+84|Class ID
+0|Gender
+20|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 145, -1|Item 1
+0, 154, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 0, 0, 0, 0, 121, 121, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>22 12</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>Move8</identifier>
+          <data>Marc_Mask|Name
+51|Class ID
+0|Gender
+20|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 16, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+121, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>12 14</Key>
+        <Value>
+          <type>character</type>
+          <identifier>GlitchyJoe</identifier>
+          <data>30|Actor ID
+2|Team
+0|AI Priority
+1|AI Mission</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>7 28</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Hellion_4|Name
+123|Class ID
+0|Gender
+20|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 201, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 251, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>15 12</Key>
+        <Value>
+          <type>character</type>
+          <identifier>Mark</identifier>
+          <data>31|Actor ID
+2|Team
+0|AI Priority
+1|AI Mission</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>21 28</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Hellion_4|Name
+123|Class ID
+0|Gender
+20|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 201, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 251, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>10 17</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Hellion_1|Name
+124|Class ID
+0|Gender
+10|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 13, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+121, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>10 24</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Hellion_1|Name
+125|Class ID
+0|Gender
+10|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 85, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 121, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>12 23</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Hellion_1|Name
+124|Class ID
+0|Gender
+10|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 13, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+121, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>5 26</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Hellion_2|Name
+126|Class ID
+0|Gender
+10|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 47, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 181, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>19 15</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>AIR1</identifier>
+          <data>Hellion_1|Name
+124|Class ID
+0|Gender
+10|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 13, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+121, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>7 14</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>AIL1</identifier>
+          <data>Hellion_1|Name
+124|Class ID
+0|Gender
+10|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 5, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>7 18</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>AIL3</identifier>
+          <data>Hellion_1|Name
+125|Class ID
+0|Gender
+10|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 87, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 71, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>23 10</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Hellion_1|Name
+124|Class ID
+0|Gender
+10|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 15, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+121, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>19 11</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>NDR</identifier>
+          <data>Hellion_4|Name
+123|Class ID
+0|Gender
+20|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 201, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 251, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>23 27</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Hellion_1|Name
+124|Class ID
+0|Gender
+10|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 25, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+181, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>8 30</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Hellion_3|Name
+127|Class ID
+0|Gender
+10|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 144, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 0, 0, 0, 0, 121, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>8 12</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>NDL</identifier>
+          <data>Hellion_4|Name
+123|Class ID
+0|Gender
+20|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 201, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 251, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>9 13</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Hellion_3|Name
+127|Class ID
+0|Gender
+10|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 143, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 0, 0, 0, 0, 121, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>25 30</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Hellion_2|Name
+126|Class ID
+0|Gender
+10|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 47, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 181, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>10 11</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>AIL2</identifier>
+          <data>Hellion_2|Name
+126|Class ID
+0|Gender
+10|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 47, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 181, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>3 2</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Marc_Mask|Name
+56|Class ID
+0|Gender
+10|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 97, -1|Item 1
+0, 96, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 71, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>23 14</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>AIR2</identifier>
+          <data>Hellion_2|Name
+126|Class ID
+0|Gender
+10|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 47, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 181, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>25 2</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Marc_Mask|Name
+56|Class ID
+0|Gender
+10|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 97, -1|Item 1
+0, 96, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 71, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>16 26</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Dude_3|Name
+71|Class ID
+0|Gender
+15|Level
+0|Exp
+3|Team
+30|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 72, -1|Item 1
+0, 35, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 31, 181, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>12 26</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Lady_2|Name
+80|Class ID
+1|Gender
+15|Level
+0|Exp
+3|Team
+30|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 122, -1|Item 1
+0, 103, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 71, 0, 71, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>13 25</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Dude_1|Name
+62|Class ID
+0|Gender
+15|Level
+0|Exp
+3|Team
+30|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 67, -1|Item 1
+0, 70, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 121, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>15 25</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Shady Dude_1|Name
+59|Class ID
+0|Gender
+15|Level
+0|Exp
+3|Team
+30|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 44, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 181, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>17 24</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Hellion_1|Name
+125|Class ID
+0|Gender
+10|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 85, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 71, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>18 25</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Hellion_3|Name
+127|Class ID
+0|Gender
+10|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 143, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 0, 0, 0, 0, 121, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>9 20</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Hellion_1|Name
+125|Class ID
+0|Gender
+10|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 87, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 71, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>19 18</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Hellion_2|Name
+126|Class ID
+0|Gender
+10|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 47, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 181, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>20 18</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Hellion_1|Name
+124|Class ID
+0|Gender
+10|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 13, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+121, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+        </Value>
+      </Item>
+    </Units>
+    <Reinforcements>
+      <Item>
+        <type>character</type>
+        <identifier>GrimaJoe2</identifier>
+        <data>34|Actor ID
+2|Team
+0|AI Priority
+3|AI Mission</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Hellion_4|Name
+123|Class ID
+0|Gender
+20|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 201, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 251, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Hellion_1|Name
+124|Class ID
+0|Gender
+15|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 13, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+121, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Hellion_1|Name
+125|Class ID
+0|Gender
+15|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 85, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 121, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Hellion_1|Name
+124|Class ID
+0|Gender
+20|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 25, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+181, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Hellion_2|Name
+126|Class ID
+0|Gender
+20|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 47, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 181, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Hellion_2|Name
+126|Class ID
+0|Gender
+15|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 48, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 181, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Hellion_3|Name
+127|Class ID
+0|Gender
+20|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 143, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 0, 0, 0, 0, 121, 0, 0, 0</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Hellion_3|Name
+127|Class ID
+0|Gender
+15|Level
+0|Exp
+2|Team
+30|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 145, -1|Item 1
+0, 0, -1|Item 2
+0, 0, -1|Item 3
+0, 0, -1|Item 4
+0, 0, -1|Item 5
+0, 0, -1|Item 6
+0, 0, 0, 0, 0, 0, 0, 0, 121, 0, 0, 0</data>
+      </Item>
+    </Reinforcements>
+  </Asset>
+</XnaContent>

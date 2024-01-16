@@ -1,0 +1,1021 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Generic="System.Collections.Generic" xmlns:FEXNA_BattleSprite_Editor="FEXNA_Core_Editor.FEXNA_BattleSprite_Editor">
+  <Asset Type="Generic:Dictionary[string,FEXNA_BattleSprite_Editor:Battler_Sprite_Palette_Data]">
+    <Item>
+      <Key>Arch Mogall0.png</Key>
+      <Value>
+        <Key>Arch Mogall0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF285058 FF489098 FF60D0C0 FF282828 FFD07838 FFF0A880 FFF0F080 FFF8C078 FF988018 FF583810 FFE85828 FFD8D030 FF983830 000080F8</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Archer0.png</Key>
+      <Value>
+        <Key>Archer0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF106878 FF70E0E0 FFB8D8F8 FF282828 FF704000 FFB86810 FFD8A858 FF20A8B0 FFF8C090 FFF8F8D0 FFF8F8F8 FF704830 FFD0B078 FFF8E8A0 FFD8F8F8 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Archer1.png</Key>
+      <Value>
+        <Key>Archer1.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF904000 FFF88028 FFF8B848 FFF8D890 FFD0B078 FFF8E8A0 FF905810 FFC07800 FFE8C078 FF282828 FFF8F8F8 FFF8F8D0 FF704830 FFF8C090 FFB8D8F8 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Asistan1.png</Key>
+      <Value>
+        <Key>Asistan1.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF282828 FF485060 FF304050 FFA06000 FFF8F830 FFF0A030 FFF8C090 FFF8F8D0 FF704830 FFF888C0 FFB858A0 FF708098 FFC0D8F0 FF385870 FF70A0B8 00000000</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Asistan1_Staff.png.png</Key>
+      <Value>
+        <Key>Asistan1_Staff.png.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF282828 FF485060 FF304050 FFA06000 FFF8F830 FFF0A030 FFF8C090 FFF8F8D0 FF704830 FFF888C0 FFB858A0 FF708098 FFC0D8F0 FF385870 FF70A0B8 00000000</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Asistan_21.png</Key>
+      <Value>
+        <Key>Asistan_21.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF282828 FFE8B070 FF085030 FF1870A0 FF10C090 FFF8F8F8 FF78C8A0 FFF8F0A8 FF805038 FF485060 FF304050 FFA06000 FFF8F830 FFF0A030 FFF8C090 FFF8F8D0 FF704830 FFF888C0 FFB858A0 FF503828 FFC0D8F0 FF708098 FF385870 FF70A0B8 FFA89058 FFD0C080 FF507080 FFC888D0 00000000</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Assassin0.png</Key>
+      <Value>
+        <Key>Assassin0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FFF8F8F8 FFE8E0B8 FFD8B888 FF605030 FFC0C8C0 FFD03830 FF782018 FFB0D0F0 FF7898B8 FF909890 FFA88870 FFA0A0A0 FF787878 FF484848 FF282828 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Assassin_Av0.png</Key>
+      <Value>
+        <Key>Assassin_Av0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF282828 FF39322C FF786556 FF594C41 FFDEC2AA FFA4846C FFEEEEDA FF3C497B FF6C7CB7 FF3C4047 FF323232 FF5A6069 FF2E3239 FFFEFEFE FF27274F FFB4B4B4 FF484848 FF46B4F3 FF292929 FFCB9A60 FFFFD099 FFF8F8F8 FF3C3C7B FFD8B888 FFE8E0B8 FF494949 FF787878 FF235A79 FFA0A0A0 00000000</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Berserker0.png</Key>
+      <Value>
+        <Key>Berserker0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF2858A0 FF48A0C8 FF58D8B0 FF587890 FF88A8C0 FFB0D0D8 FFC0B010 FFF8F808 FF282828 FFF8F8F8 FF704830 FFA86838 FFC88858 FFE8C088 FFF8F8D0 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Berserker_Eph0.png</Key>
+      <Value>
+        <Key>Berserker_Eph0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF587090 FFF0E8D0 FFF8F8F8 FF98B8D8 FFC0E0E8 FF282828 FF2050B8 FF3880E0 FF3B535E FF70B0E0 FFF0C070 FF3781A5 FF54A1C6 FF704028 FF78B8F0 FFA87850 FF2F2F2F FF848484 FF575757 FF51A2C4 FFD6D6D6 FF9FBEDF 00000000</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Bishop0.png</Key>
+      <Value>
+        <Key>Bishop0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF702868 FF886098 FFB890E0 FFB8B0F8 FFE0E0F8 FF18C0D8 FF90F8D0 FF407870 FF68B8B0 FF282828 FFF8B860 FFF8F8D0 FF784830 FFF8F8F8 FFF8F810 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Bishop2.png</Key>
+      <Value>
+        <Key>Bishop2.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Bishop3.png</Key>
+      <Value>
+        <Key>Bishop3.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF2050B0 FF0898E8 FF48B8F8 FF60B0E0 FFB8E8F8 FF58C8D8 FF90F8D0 FFB06000 FFF8C048 FFF8E890 FF282828 FFF8C088 FFF8F8D0 FF784830 FFF8F8F8 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Brigand0.png</Key>
+      <Value>
+        <Key>Brigand0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF3838D0 FF6898F8 FF68E8F8 FF785030 FFA06030 FF282828 FF7898B8 FFA0C0E0 FFC8E8F0 FFF8F8F8 FF704830 FFB07040 FFD09060 FFE8C088 FFF8F8D0 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Bunny0.png</Key>
+      <Value>
+        <Key>Bunny0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF206090 FF3CA0C0 FF68E0E0 FF989088 FFC8C8C0 FF384058 FF486088 FF5888A8 FFF8F810 FF282828 FFF8F8F8 FF604840 FFB07848 FFF8C070 FFF8F8C0 FF382818 FF885820 FFE08828 FFF8B050 FFF8F888 FFF8F8D8 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Bunny1.png</Key>
+      <Value>
+        <Key>Bunny1.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF385870 FFF8F8F8 FF282828 FF70A0B8 FFC0D8F0 FF981808 FFE83820 FFC078E0 FF9050A8 FFE8B8F8 FFF8C090 FFF8F8D0 FF704830 FFC08050 FF686868 FF404040 FF90A090 FFF888C0 FFB858A0 FF883080 FFC07858 FFF0B898 00000000</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Cleric0.png</Key>
+      <Value>
+        <Key>Cleric0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF3838C0 FF5080F8 FF68E8F8 FFA8F8F8 FF3838B0 FF4070F0 FF80C0F8 FF282828 FFF8C090 FFF8F8D0 FFF8F8F8 FF704830 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Cohort0.png</Key>
+      <Value>
+        <Key>Cohort0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF703810 FF984C18 FFC66820 FFE09848 FF404848 FF606868 FF909898 FFC0D0C8 FF282828 FFF8F8F8 FF705038 FFA5765A FFF8F8B0 FFE8C088 FFC09068 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Corsair0.png</Key>
+      <Value>
+        <Key>Corsair0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF2858A0 FF48A0C8 FF58D8B0 FFA8F8E0 FF7090B0 FF98B8D8 FFC0E0E8 FF282828 FF704830 FFA86838 FFC88858 FFE8C088 FFF8F8D0 FFF8F8F8 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Crossbowman0.png</Key>
+      <Value>
+        <Key>Crossbowman0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF681820 FFB02018 FFE84820 FF406838 FF68A850 FFB0D898 FF282828 FFF8F0B8 FFF8F8F8 FF704830 FFB07040 FFF8C090 FF7898B8 FFB0D0F0 FF507090 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Deathgoyle0.png</Key>
+      <Value>
+        <Key>Deathgoyle0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FFF8F8F8 FF88C0F8 FF6078D0 FF405078 FFB0F848 FF409860 FFC0C068 FF786838 FFB83028 FF803028 FFC070B8 FF884880 FF703070 FF481840 FF282828 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Diviner0.png</Key>
+      <Value>
+        <Key>Diviner0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF403830 FF605840 FF888058 FFB0B088 FF807870 FFC0B8B0 FF583808 FF886810 FFC0A030 FF282828 FFF8F8F8 FF583828 FF986848 FFF0C070 FFF8F8D0 FF382818 FF885820 FFE08828 FFF8B050 FFF8F888 FFF8F8D8 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Dracoknight0.png</Key>
+      <Value>
+        <Key>Dracoknight0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF086080 FF107888 FF30A0B8 FF40D0D8 FF504070 FF9888B8 FFB8A8F8 FF888858 FFD0D098 FF282828 FF403020 FFF0C090 FF806858 FFC08070 FFF8F8F8 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Dragon Master0.png</Key>
+      <Value>
+        <Key>Dragon Master0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF006040 FF007048 FF18B080 FF70C8B0 FF204898 FF1890C0 FF8890D8 FF6878A0 FFB0B0C8 FFE0E8E8 FF282828 FF403020 FF806858 FFC08070 FFF0C090 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Dreadnought0.png</Key>
+      <Value>
+        <Key>Dreadnought0.png</Key>
+        <Indexed>false</Indexed>
+        <Palette>FF292929 FF529CC5 FF39628B FF86E5FF FF00318B FF318BFF FF39395A FF204AB4 FF41B4FF FF52527B FF7B7B9C FFB4FFFF FFA4A4DE FF375874 FF2D2D35 FF477F9E FF334550 FF355372 FF4B8DB6 FF33333D FF2D3741 FF6EB6C9 FF232A35 FF2B3035 FF2A2C2F FF1E2B41 FF0E3D8B FF3F7099 FF95D7E2 FF4B5E5E FF79D2F0 FF40585E FF0A2F72 FF3D81B6 FF4C82A8 FF3970C6 FF083795 FF4587C0 FF144B99 FF1843A9 FF6CBEEC FF215EA8 00000000</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Drifter0.png</Key>
+      <Value>
+        <Key>Drifter0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF107088 FF20A898 FF50E0C8 FF907038 FFB8B028 FFF0F030 FF282828 FFF8B880 FFF8F8D0 FFB88858 FFF8F8F8 FF704830 FF80A8D0 FFB0D0F0 FF587CA0 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Drooid0.png</Key>
+      <Value>
+        <Key>Drooid0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF206820 FF489840 FF78D058 FF303038 FF404048 FF606068 FF403838 FF605850 FF908070 FF282828 FF704830 FFB88050 FFF8C090 FFF8F8D0 FFF8F8F8 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Druid0.png</Key>
+      <Value>
+        <Key>Druid0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF303848 FF90A0C0 FF602888 FF687888 FFE8C8F0 FF282828 FFB850F0 FF506078 FFF8F8D0 FF606810 FFA8B018 FFD0E028 FFF8F8F8 FF704830 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Druid1.png</Key>
+      <Value>
+        <Key>Druid1.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF407068 FF282828 FFA8E0E8 FFF8F8F8 FF68B8C0 FF78A0B0 FF587890 FF386070 FFE0F8F8 FFB0E8D8 FFF0A030 FF204850 FF603818 FFF8F8A8 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Druid2.png</Key>
+      <Value>
+        <Key>Druid2.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF33373F FF717999 FF363742 FF7A7C89 FFF8F8F8 FF5E5F69 FF4E526E FF282828 FF2D3145 FFF5F5E1 FFBDCDDD FF627A86 FFCDCDCD FF604C40 00000000</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Druid_Ash0.png</Key>
+      <Value>
+        <Key>Druid_Ash0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF282828 FFB15E2C FF452D1D FF584758 FFFFFFFF FF322C32 FFD59E6C FF734A31 FFFFFFD6 FF5F7689 FF35414C FFEADD46 FF5656AD FF32366D FF4B4E52 FF303134 00000000</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Druid_Ash1.png</Key>
+      <Value>
+        <Key>Druid_Ash1.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF282828 FF976547 FF3D2F25 FFC3A284 FFFDFDE4 FF664E3F FF66747F FF394047 FFDFD87D FF302D30 FF5A5A8E FF353859 FF544954 FFFFFFFF FF4C4E50 FF303132 00000000</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>EliseSheet.png.png</Key>
+      <Value>
+        <Key>EliseSheet.png.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Falcoknight1.png</Key>
+      <Value>
+        <Key>Falcoknight1.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF181060 FF2858D8 FF5898F8 FF7878D8 FFA0B8E0 FFD0E0F8 FF5890E0 FF78D0F8 FF181820 FFF8F8F8 FF403020 FF805840 FFF0A068 FFF8F8D0 FFF8F878 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Fallen Angel0.png</Key>
+      <Value>
+        <Key>Fallen Angel0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF181820 FFEFD7D7 FFF8F8F8 FFEDA6A6 FFE95050 FF98D0E0 FFC0F0F8 FFF8C090 FFF72828 FF704830 FFF8F8D0 FF282018 FF3F372F FF7A7A7A FF5B5B54 FFEA7575 FF282828 FF1A1A1A FF26262D FFEFD9D9 FFEDABAB FFEA7D7D FF9ED2E1 FFF8C396 FF353535 FFF73535 FF78533C FF352D26 FF443C35 FF5A5A53 FF808080 FFF82222 FF782222 FF443730 FF807B7B FF5A554E FF352821 FFF8BE91 FFF8F3CD FF784E37 FF262128 FFF82A2A FFE8F3FA FFF2FFFF FFF8F5F5 FFF82D2D FFF7FFFF FF32343B FFF6F7F7 FFEDB0B0 FFF83535 FFF5F9F7 FFF6FAFA FFF83939 FFF8FDFD FFE84545 FF403020 FFA07050 00000000</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Fell Marc0.png</Key>
+      <Value>
+        <Key>Fell Marc0.png</Key>
+        <Indexed>false</Indexed>
+        <Palette>000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Fighter0.png</Key>
+      <Value>
+        <Key>Fighter0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF503830 FF785848 FF907058 FF584030 FF806840 FF282828 FF7898B8 FFA0C0E0 FFC8E8F0 FFF8F8F8 FF805838 FFB07040 FFD09060 FFE8C088 FFF8F8D0 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Gendarme0.png</Key>
+      <Value>
+        <Key>Gendarme0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF780800 FFB81000 FFF84008 FFC06828 FFF0B868 FF282828 FF685038 FF987860 FFE8C088 FFF8F8B0 FFF8F8F8 FFC09068 FF6484A0 FF98B8D8 FFC0E0E8 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Gendarme1.png</Key>
+      <Value>
+        <Key>Gendarme1.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF404078 FF8080C0 FFC0C0F0 FF2050B8 FF5888F8 FF282828 FF685038 FF987860 FFE8C088 FFF8F8B0 FFF8F8F8 FFC09068 FF6484A0 FF98B8D8 FFC0E0E8 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Gendarme3.png</Key>
+      <Value>
+        <Key>Gendarme3.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF404078 FF8080C0 FFC0C0F0 FF2050B8 FF5888F8 FF282828 FFE8C088 FF685038 FFC09068 FFF8F8B0 FF987860 FFF8F8F8 FF6484A0 FF98B8D8 FFC0E0E8 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>General0.png</Key>
+      <Value>
+        <Key>General0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF981800 FFC04800 FFF08808 FFF0B848 FF482800 FF986828 FFD0B070 FFE8E8B8 FF602810 FF884010 FF282828 FFF8F8F8 FF506880 FF7098B0 FFC8D0C8 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Great Knight0.png</Key>
+      <Value>
+        <Key>Great Knight0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF085848 FF109080 FF40B8B0 FF383860 FF606080 FF9090A8 FFC8C0D0 FF383878 FF606098 FF9090B0 FF282828 FFF8C090 FF906850 FFF8F8B0 FFF0F0F0 FF5888A0 FF284860 FFA0B8D0 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Great Knight1.png</Key>
+      <Value>
+        <Key>Great Knight1.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF606080 FFF0F0F0 FF282828 FFC8C0D0 FF9090A8 FF809050 FF9090B0 FF89B650 FF4B7913 FFF8C090 FFF8F8B0 FFE6EE88 FF495919 FF906850 FF383860 FF282727 FFB81919 FF5B1818 FF7D1212 FF5A1919 FF282827 FF5F2710 FF602810 FF5F2810 FF986828 FF976728 FFE7E7B7 FFCFAF6F FFD0B070 FFCF2828 FF976727 FF986728 FFD02828 FFD0AF6F FFCF2727 FFB81818 FF986727 FFF7F7F7 FFE8E8B8 FFF8F8F8 FFCF2827 FF884010 FF883F10 FFA81818 00000000</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Great_Knight1.png</Key>
+      <Value>
+        <Key>Great_Knight1.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF606080 FFF0F0F0 FF282828 FFC8C0D0 FF9090A8 FF809050 FFBDBD84 FF89B650 FF4B7913 FFF8C090 FFF8F8B0 FFE6EE88 FF495919 FF906850 FF383860 00000000</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Halberdier0.png</Key>
+      <Value>
+        <Key>Halberdier0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF202050 FF383890 FF5050B8 FF383838 FF505050 FF686868 FF282828 FF704830 FFA87850 FFF8C090 FFF8F8D0 FFF8F8F8 FF6484A0 FFA0C2D8 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Heretic0.png</Key>
+      <Value>
+        <Key>Heretic0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF282828 FF39322C FF786556 FF594C41 FFDEC2AA FFA4846C FFEEEEDA FF3C497B FF6C7CB7 FF3C4047 FF323232 FF5A6069 FF2E3239 FFFEFEFE FF27274F FFB4B4B4 FF484848 FF46B4F3 FF292929 FFCB9A60 FFFFD099 FFF8F8F8 FF3C3C7B FFD8B888 FFE8E0B8 FF494949 FF787878 FF235A79 FFA0A0A0 00000000</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Hero0.png</Key>
+      <Value>
+        <Key>Hero0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF107088 FF20A898 FF50E0C8 FF907038 FFB8B028 FFF0F030 FF282828 FFF8C090 FFF8F8D0 FFB88858 FFF8F8F8 FFC0E0E8 FF98B8D8 FF704838 FF7090B0 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Hero2.png</Key>
+      <Value>
+        <Key>Hero2.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF282828 FF7A4F23 FF9F6A3C FF5E3C26 FFF8C090 FFF8F8D0 FFB88858 FFF8F8F8 FFC0E0E8 FF303870 FF5060C0 FF704838 FF90A0E0 FF98B8D8 FF7090B0 00000000</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Hero4.png</Key>
+      <Value>
+        <Key>Hero4.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF282828 FF10518B FF1970BD FF073259 FFF8C090 FFF8F8D0 FFB88858 FFF8F8F8 FFC0E0E8 FF7A7D8D FFB7BBD1 FF704838 FFDBDFF5 FF98B8D8 FF7090B0 00000000</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Knight0.png</Key>
+      <Value>
+        <Key>Knight0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF604800 FFE86000 FFF08808 FFF0B848 FF981800 FFC04800 FFE8E898 FF986858 FFD09060 FFF8D880 FF282828 FFF0F0F0 FFF0F8F0 FF282727 FFB91919 FFE7E7B7 FF986828 FF282827 FFD02828 FFCF2828 FFCFAF6F FF602810 FF5B1918 FF7D1211 FF976727 FF7E1212 FFB81919 FE282828 FF986727 FFD0AF6F FF7D1212 FF5B1818 FFB81818 FF602710 FFCF2827 FFD0B070 FF5A1919 FFCF2727 FF5B1919 FFF7F7F7 FF976728 FFE8E8B8 FFF8F8F8 FF5F2810 FF884010 FF873F10 FFA81818 FFA71818 FFB81918 FF5F2710 FF986728 FE5B1919 FF883F10 00000000</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Lord_E1.png</Key>
+      <Value>
+        <Key>Lord_E1.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF282828 FF383040 FF686880 FF504858 FFC0D8F0 FF70A0B8 FFC08050 FFF8C090 FFF8F8F8 FF704830 FFF8F8D0 FF385870 FF684820 FFA07838 FFE0B840 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Lord_U0.png</Key>
+      <Value>
+        <Key>Lord_U0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF282828 FF5860E0 FF9090F0 FF4040B8 FF508050 FF704028 FF406050 FFF0C070 FFA87850 FFF8F8F8 FFF0E8D0 FF68A078 FF6888A8 FF98B8D8 FFC0E0E8 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Mage Knight1.png</Key>
+      <Value>
+        <Key>Mage Knight1.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF483888 FF5050C0 FF8080E8 FF483880 FF6060D8 FF5080F8 FF48D8F8 FF9038B8 FFE090F8 FF282828 FFF8F0A8 FF705038 FFF8F8F8 FFE8B070 FFB08058 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Mage Knight2.png</Key>
+      <Value>
+        <Key>Mage Knight2.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF282828 FF322B1F FF64573F FF705038 FFF8F0A8 FFF8F8F8 FFE8B070 FF8AA665 FF42512E FF74352F FFAD4F46 FF5A6E3F FF6A824B FFB08058 00000000</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Mage0.png</Key>
+      <Value>
+        <Key>Mage0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF800008 FFD80000 FFF89040 FF000088 FF2858D8 FF40B8F8 FF9098A8 FFE0E0E8 FF883898 FFD880E8 FF282828 FFF8F8F8 FF704830 FFF8C090 FFF8F8D0 FF000040 FF0010A8 FF0020B8 FF0830E0 FF5078E0 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Mage1.png</Key>
+      <Value>
+        <Key>Mage1.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF603878 FFA060A8 FFD0A8F0 FF001090 FF1880C0 FF30B8D0 FF388040 FF40C848 FFA8F070 FF282828 FFF8F8F8 FF704830 FFC88850 FFF8C090 FFF8F8D0 FF000040 FF0010A8 FF0020B8 FF0830E0 FF5078E0 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Medic1.png</Key>
+      <Value>
+        <Key>Medic1.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF282828 FFA05028 FFF8E070 FFF0A040 FFF8F8D0 FFF8F8F8 FFF8C090 FF704830 FF883038 FFC08050 FFD05850 FF503838 FF685850 FF887050 FFC8B078 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Merc but stronger0.png</Key>
+      <Value>
+        <Key>Merc but stronger0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF6080A0 FFC0E0E8 FFF8F8F8 FF98B8D8 FF282828 FFB82800 FFE86018 FF780000 FFF8F0B8 FF705030 FFB07040 FFF8C090 FF383078 FF5848C8 FF9080D8 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Mercenary0.png</Key>
+      <Value>
+        <Key>Mercenary0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF383078 FF5848C8 FF9080D8 FF780000 FFB82800 FFE86018 FF282828 FF6080A0 FF98B8D8 FFC0E0E8 FFF8F8F8 FF705030 FFB07040 FFF8C090 FFF8F0B8 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Mercenary_M0.png</Key>
+      <Value>
+        <Key>Mercenary_M0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF626262 FFC0C4C4 FFF8F8F8 FF9C9C9C FF282828 FF737352 FF9C9483 FF624A41 FFF8F0B8 FF705030 FF624A94 FFFEFEFE FFF8C090 FF45325F FF3A3A29 FF7B41CD FFB07040 FF5A417B FF5A5A41 FF31305A FF624894 FF41305A FF646464 FF9A9A9A FF7F7F7F FF880015 FFFD4040 FFBF0202 00000000</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Mercenary_M0.png.png</Key>
+      <Value>
+        <Key>Mercenary_M0.png.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Minstrel0.png</Key>
+      <Value>
+        <Key>Minstrel0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF005080 FF2898C8 FF40D0F8 FFA8F8F8 FFF8F8F8 FF708040 FF98B068 FFB8E088 FF887010 FFA89030 FFD0C070 FF704830 FFF8C090 FFF8F8D0 FF282828 FF50A8F8 FFB0D8F8 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Monarch0.png</Key>
+      <Value>
+        <Key>Monarch0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF292929 FF7C9999 FFF5F8F8 FFBBCACA FF3B3126 FF967C61 FF62513F FFF8C090 FFA07860 FFF8F8B0 FF546748 FF2A7F41 FF93AA85 FF55C674 FFA58D74 00000000</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Monk0.png</Key>
+      <Value>
+        <Key>Monk0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF2818A0 FF4868C0 FF70B0E0 FFA0E0F8 FF704000 FFB86810 FFD8A858 FF282828 FFF8D080 FFF8F8D0 FFF8F8F8 FF886048 FFA88850 FFD8B878 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Myrmidon0.png</Key>
+      <Value>
+        <Key>Myrmidon0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF3838C0 FF5080F8 FF48D8F8 FFA8F8F8 FF603828 FF885840 FFB88868 FF282828 FF507090 FF7898B8 FFB0D0F0 FFF8F8F8 FF704830 FFF8C090 FFF8F8D0 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Myrmidon1.png</Key>
+      <Value>
+        <Key>Myrmidon1.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF007870 FF08C8A0 FF10E8A8 FFD8F8E8 FF505040 FF707068 FFA8A8A0 FF282828 FF507090 FF7898B8 FFB0D0F0 FFF8F8F8 FF704830 FFF8C090 FFF8F8D0 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Myrmidon2.png</Key>
+      <Value>
+        <Key>Myrmidon2.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF701818 FFBC5420 FFF88020 FFF8B038 FF785010 FFB07018 FFE89830 FF282828 FF507090 FF7898B8 FFB0D8F8 FFF8F8F8 FF704830 FFF8C090 FFF8F8D0 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Necrodragon0.png</Key>
+      <Value>
+        <Key>Necrodragon0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF886860 FF684068 FF382838 FFA0A0A8 FF707080 FFE0D8D8 FFA0C088 FF789058 FF486040 FFE0E8D8 FFC8C8A8 FFA8A070 FF786068 FF504028 FF282828 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Necromancer0.png</Key>
+      <Value>
+        <Key>Necromancer0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF181028 FF8D6D7A FF664653 FFD9BAC7 FFB393A5 FF755360 FF593946 FFFFF0FD FFF8F8F8 FF816470 FFB494A1 FF282828 FFD868A8 00000000</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Nomad Trooper0.png</Key>
+      <Value>
+        <Key>Nomad Trooper0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF2020A8 FF4068F0 FF78C0F8 FF80F8F8 FFB8A800 FFE8D000 FF487038 FF80C050 FF704028 FFA87020 FFB8A038 FFF0E868 FF282828 FFF0B878 FFF8F8F8 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Nomad Trooper2.png</Key>
+      <Value>
+        <Key>Nomad Trooper2.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF2020A8 FF4068F0 FF78C0F8 FF80F8F8 FFA04000 FFE07828 FF487038 FF80C050 FF704028 FFA87020 FFB8A038 FFF0E868 FF282828 FFE8B070 FFF8F8F8 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Nomad0.png</Key>
+      <Value>
+        <Key>Nomad0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF2020A8 FF4068F0 FF78C0F8 FF80F8F8 FF186020 FFA04000 FFE07828 FF387038 FF809858 FF687848 FF909060 FFC8C078 FF282828 FFF8F0A8 FFF8F8F8 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Overlord0.png</Key>
+      <Value>
+        <Key>Overlord0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FFD7D7D7 FF4787BF FF87AFD7 FF275FAF FF3F87B7 FF07376F FF07072F FFC7CFAF FFB7B767 FFA77F0F FF070707 FF8FCFCF FF571707 FF3FC7C7 FF1F8F9F 00000000</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Page0.png</Key>
+      <Value>
+        <Key>Page0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF385870 FF70A0B8 FFC0D8F0 FF303880 FF4870D0 FF68C0E8 FF901800 FFD04000 FFF87008 FF282828 FFF8F8F8 FF704830 FFC08050 FFF8C090 FFF8F8D0 FF000040 FF0010A8 FF0020B8 FF0830E0 FF5078E0 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Paladin0.png</Key>
+      <Value>
+        <Key>Paladin0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF903000 FFB84808 FFE07820 FFE8A848 FF3060D8 FF70B8F8 FF887060 FFE0C870 FFF8F8D8 FFF8F858 FF282828 FFA8B0C8 FFF8F8F8 FF708098 FFE8E8F8 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Paladin1.png</Key>
+      <Value>
+        <Key>Paladin1.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF7878B8 FF9898D8 FFC8C8F8 FFF0F0F8 FF2050B8 FF5888F8 FF987058 FFE8A858 FFF8F8D8 FFF8F848 FF282828 FF88B0B8 FFF8F8F8 FF608088 FFC0E0E0 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Paladin2.png</Key>
+      <Value>
+        <Key>Paladin2.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF282828 FFE8A848 FFF8F8F8 FFE07820 FF903000 FFB84808 FFE0C870 FF887060 FFE8E8F8 FFF8F8D8 FFF8F858 FFA8B0C8 FF708098 FF3060D8 FF70B8F8 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Paladin4.png</Key>
+      <Value>
+        <Key>Paladin4.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF282828 FF7840B0 FF504080 FF9868B8 FFB890E8 FFE8A858 FF886858 FFD8F8F8 FFF8F8D8 FFF8F8F8 FFF8F848 FF90B8C8 FF608898 FF404040 FF707070 FFE0C870 FF887060 FFE8E8F8 FFF8F858 FFA8B0C8 FF708098 00000000</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Pegasus Knight1.png</Key>
+      <Value>
+        <Key>Pegasus Knight1.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF103860 FF2880D8 FF58B8F8 FF70A8D8 FF98D0E0 FFC0F0F8 FFA88098 FFE8B8D8 FF282828 FFF8F8F8 FF403020 FF805840 FFF8A858 FFF8F8D0 FFF8F878 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Pegasus Knight3.png</Key>
+      <Value>
+        <Key>Pegasus Knight3.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF282828 FF98D0E0 FFC0F0F8 FFF8F8F8 FF403020 FF70A8D8 FF58B8F8 FF2880D8 FF805840 FFF8A858 FFF8F878 FF5858E0 FF78B0F8 FFF8F8D0 FF103860 00000000</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Phalanx0.png</Key>
+      <Value>
+        <Key>Phalanx0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF380070 FF500090 FF6800C8 FF9030F8 FF582820 FF803828 FF705030 FFB07040 FFF8C090 FFF8F0B8 FF282828 FFF8F8F8 FF506880 FF7098B0 FFC8D0C8 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Phantom0.png</Key>
+      <Value>
+        <Key>Phantom0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF303848 FF90A0C0 FFE8C8F0 FFB850F0 FF687888 FF282828 FF602888 FF704830 FFF8C090 FFF8F8D0 FF506078 FFE8E030 FFF8A838 FFF8F8F8 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Pirate0.png</Key>
+      <Value>
+        <Key>Pirate0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF2858A0 FF48A0C8 FF58D8B0 FF503818 FF906018 FF7090B0 FF98B8D8 FFC0E0E8 FF282828 FF704830 FFA86838 FFC88858 FFE8C088 FFF8F8D0 FFF8F8F8 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Pupil1.png</Key>
+      <Value>
+        <Key>Pupil1.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF383838 FF505050 FF707070 FF604058 FFB07098 FFD89CB8 FFF0C0C8 FF700818 FFA80810 FFD83010 FF282828 FFF8F8F8 FFF8C090 FFF8F8D0 FF986040 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Recruit0.png</Key>
+      <Value>
+        <Key>Recruit0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF303880 FF4870D0 FF68C0E8 FFA06000 FFF0A030 FFF8F830 FF282828 FFF8C090 FFC08050 FFF8F8D0 FF704830 FF385870 FF70A0B8 FFF8F8F8 FFC0D8F0 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Rogue0.png</Key>
+      <Value>
+        <Key>Rogue0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF602818 FF904018 FFD88028 FF404880 FF6070C0 FF88A0F0 FF885810 FFD09020 FF282828 FFF0C068 FFF8F8D0 FF704830 FF787878 FF484848 FFF8F8F8 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Rogue2.png</Key>
+      <Value>
+        <Key>Rogue2.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF5D4123 FF282828 FFFFFF99 FFB48351 FF786556 FF39322C FFCBCBCB FF757575 FFF8F8D0 FF424242 FF704830 FFA8A8A8 FFF8F8F8 FF787878 FF484848 00000000</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Sage0.png</Key>
+      <Value>
+        <Key>Sage0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF503078 FF8858C0 FFD0B0F0 FFE8E0F8 FF7070B0 FFA8B8E0 FFC8E0E8 FF6868C8 FFA0C0F8 FFB8E0E8 FF282828 FFF8C090 FF704830 FFF8F8F8 FFF8F8D0 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Sage2.png</Key>
+      <Value>
+        <Key>Sage2.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF282828 FF512F1D FF7D3C34 FFB55424 FFF8C090 FF42427F FF704830 FF7070B0 FFA8B8E0 FFF8F8F8 FF322A22 FFF8F8D0 FFC8E0E8 FF3F372F FF5B5B54 FF7A7A7A 00000000</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Sage3.png</Key>
+      <Value>
+        <Key>Sage3.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF001090 FF1880C0 FF30B8D0 FF503870 FF9860A0 FFB898D8 FF307838 FF40C848 FFA8F070 FF90C8E0 FF282828 FFF8C090 FFF8F8D0 FF704830 FFF8F8F8 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Sage4.png</Key>
+      <Value>
+        <Key>Sage4.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF222222 FF434343 FF565656 FF747474 FFCBCBCB FF363636 FFF8F8F8 FFF3F3F3 FF404040 FF515151 FF6C6C6C FF5D5D5D FF7A7A7A FF8C8C8C FF333333 00000000</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Sage6.png</Key>
+      <Value>
+        <Key>Sage6.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF282828 FF054329 FF155339 FF638652 FFF8C090 FF441A44 FF704830 FF582D5E FF704D7E FFF8F8F8 FF2F0C2C FFF8F8D0 FF53725E FF708F7B FF2E3932 00000000</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Sage_M0.png</Key>
+      <Value>
+        <Key>Sage_M0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF282828 FF5E3C26 FF8A5C35 FF9F6A3C FFF8C090 FF40342D FFF8F8F8 FFF8F8D0 FF663228 FF3B4BB2 FF5766C7 FF9A4638 FFCC5C46 FFDD6E57 FF252F70 FFA57A54 FF006A6A FF00D6D6 FF20FFFF FF003A3A FF33335E FF50351F FF461919 FF7C2B2B FFC96666 FFDA9797 FFDBFFFF 00000000</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Scholar0.png</Key>
+      <Value>
+        <Key>Scholar0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF303060 FF404080 FF5858B0 FF7878C0 FF782820 FFB03430 FFF05848 FF90A088 FFC8D0B8 FF282828 FF704830 FFF8F8D0 FFF8C090 FFB07848 FFF8F8F8 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Scout1.png</Key>
+      <Value>
+        <Key>Scout1.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF703010 FFC05808 FFE89030 FF206030 FF209040 FF50C870 FF282828 FFF8F8D0 FF704830 FFF8C090 FFF8F8F8 FFC08050 FF587CA0 FF80A8D0 FFB8D8F8 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Shaman0.png</Key>
+      <Value>
+        <Key>Shaman0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF486878 FF6890B0 FFA0B8D8 FF404848 FF586058 FF808078 FF986808 FFC0A010 FFF8E818 FF282828 FF704830 FFF8C090 FFF8F8D0 FFF8F8F8 FFB07848 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Skywatcher1.png</Key>
+      <Value>
+        <Key>Skywatcher1.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF185088 FF2880D8 FF58B8F8 FF186080 FF2088D8 FF58A8F8 FF282828 FF608088 FF88B0B8 FFC0E0E0 FFF8F8F8 FF704830 FFC08050 FFF8C090 FFF8F8D0 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Sniper0.png</Key>
+      <Value>
+        <Key>Sniper0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF3838C0 FF58E0F8 FFF8C090 FFF8F8D0 FFB0F8F8 FFF8F8F8 FF282828 FF489008 FF50E838 FFD8F870 FF704830 FFB0D0F0 FF7898B8 FF5080F8 FF507090 000080F8</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Sniper_C0.png</Key>
+      <Value>
+        <Key>Sniper_C0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF282828 FF7898B8 FF507090 FFF8F8F8 FF802010 FFD87858 FFF0B8A0 FFC04020 FFB0D0F0 FF2850C0 FF282890 FFB87840 FFF8B080 FFF8F8D0 FF704830 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Sniper_C1.png</Key>
+      <Value>
+        <Key>Sniper_C1.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF606060 FF73A5BD FFC6DEF7 FF282828 FFF8F8D0 FF383850 FF988898 FFF0B8B0 FF983848 FFC82888 FFF7A531 FFC86090 FFF870E8 FF903898 FFE86038 00000000</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Soldier0.png</Key>
+      <Value>
+        <Key>Soldier0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF602008 FFB05810 FFF09820 FF503018 FF785830 FFB88848 FF282828 FFF8C090 FFA87850 FFF8F8D0 FF704830 FFF8F8F8 FF6484A0 FFA0C2D8 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Soldier2.png</Key>
+      <Value>
+        <Key>Soldier2.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF6484A0 FFF8F8F8 FFA0C2D8 FF602008 FF971B17 FFCC3424 FF282828 FFA87850 FFF8C090 FF704830 FFF8F8D0 FF575757 FF919191 FF363636 00000000</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Sorcerer0.png</Key>
+      <Value>
+        <Key>Sorcerer0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF303848 FF506078 FF687888 FF90A0C0 FF602888 FFB850F0 FFE8C8F0 FFF8A838 FFE8E030 FF282828 FF704830 FFF8C090 FFF8F8D0 FFF8F8F8 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Sorcerer1.png</Key>
+      <Value>
+        <Key>Sorcerer1.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF380070 FF6048A0 FF8050D0 FFB078F0 FF5838A0 FFC088E0 FFE0C0F8 FFF8F038 FFC098D8 FFE8C8F8 FF704830 FF282828 FFF8B058 FFF8F8D0 FFF8F8F8 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Squire1.png</Key>
+      <Value>
+        <Key>Squire1.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF282828 FFF8C090 FFC08050 FFF8F8D0 FF7070B8 FF382868 FFB0B8D0 FFE0E8F0 FF704830 FF5888F8 FF2050B8 FF88B0B8 FF608088 FFC0E0E0 FFF8F8F8 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Swordmaster0.png</Key>
+      <Value>
+        <Key>Swordmaster0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF003078 FF1060C8 FF5098E8 FFB0F8F8 FF505040 FF707068 FFA8A8A0 FF282828 FFF8F0A8 FF886048 FFF8F8F8 FFE0A868 FF507090 FF7898B8 FFB0D8F8 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Swordmaster_RS0.png</Key>
+      <Value>
+        <Key>Swordmaster_RS0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF282828 FF333333 FF414040 FF5B5C5E FFF8C898 FFF8F8F8 FF3E4D80 FF3A2A57 FFB2BABA FF3F3E80 FF46465F FF66667E FF6D767F FF453839 FF3D2D2E FF827C7C FF999999 FF6C6A6A FFB5B5B0 FFFFFFEC FFF8F0A8 FF787872 FF788088 FF986848 FF2D0176 FFD09860 FF704830 00000000</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Thief0.png</Key>
+      <Value>
+        <Key>Thief0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF803010 FFB84030 FFF85048 FF286088 FF50B0B0 FFB86008 FFF8B058 FFF8E868 FF282828 FF406080 FF7898B8 FFB0D0F0 FFF8F8F8 FFF8B880 FFF8F8D0 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Thief1.png</Key>
+      <Value>
+        <Key>Thief1.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF286098 FF3098B8 FF68D0C0 FF008840 FF00B830 FFC05008 FFF88830 FFF8C850 FF282828 FF406080 FF7898B8 FFB0D0F0 FFF8F8F8 FFF8C090 FFF8F8D0 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Thief2.png</Key>
+      <Value>
+        <Key>Thief2.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF282828 FF362C39 FF544159 FF705678 FFF8B880 FFF8F8D0 FF262E36 FFF8F8F8 FF394961 FF386090 FF5F4F67 FF908098 FFC5C5CD FF4D5B53 FF899789 00000000</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Thief_V0.png</Key>
+      <Value>
+        <Key>Thief_V0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF282828 FF6B4C34 FF735A4A FF9C734A FFF8B880 FFF8F8D0 FF371D3D FFF8F8F8 FF41294A FF5A4162 FF7F5966 FFA88098 FFE8B8D8 FF683828 FF986848 FF406080 FFB0D0F0 FF7898B8 FFBDD5CD FF391839 00000000</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Troubadour1.png</Key>
+      <Value>
+        <Key>Troubadour1.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF602860 FFB820B8 FFE858E8 FFF8B0F8 FFD09808 FFF8F808 FFF0F058 FF282828 FF805038 FF503828 FFF8F8D0 FFF8F8F8 FFA89058 FFD0C080 FFF0B878 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Valkyrie1.png</Key>
+      <Value>
+        <Key>Valkyrie1.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF085030 FF10C090 FF78C8A0 FF304080 FF1870A0 FFA02800 FFF86820 FF282828 FFF8F8F8 FFF8F0A8 FF98C8E8 FFD0F8F8 FFE8B070 FF805038 FF507080 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Vanguard0.png</Key>
+      <Value>
+        <Key>Vanguard0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF705000 FFA08000 FFD0B820 FFF8E860 FF5068F0 FF98D8F8 FF38A078 FF90D8C0 FF282828 FFF8F8F8 FFF8F8B0 FF987860 FFE8C088 FF685038 FFC09068 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Vanguard1.png</Key>
+      <Value>
+        <Key>Vanguard1.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF405038 FF607838 FF90A848 FFC0C868 FF5068F0 FF98D8F8 FFC0A848 FFE8E878 FF282828 FFF8F8F8 FFF8F8B0 FF987860 FFE8C088 FF685038 FFC09068 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Warrior0.png</Key>
+      <Value>
+        <Key>Warrior0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF580828 FFC00858 FFE06060 FF987870 FFD8C0B8 FF282828 FF6080A0 FF88B0C8 FFC0E0F8 FFF8F8F8 FF704830 FFB07040 FFD09060 FFF8B888 FFF8F8D0 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Wight0.png</Key>
+      <Value>
+        <Key>Wight0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FFF8F8F8 FFA0A0B8 FF585878 FF303058 FFD8F8F8 FF98C0D0 FF385868 FFF08050 FFC82800 FF681818 FFE8B8F8 FFC078E0 FF9050A8 FF583850 FF282828 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Wight_Bow0.png</Key>
+      <Value>
+        <Key>Wight_Bow0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FFF8F8F8 FFA0A0B8 FF585878 FF303058 FFD8F8F8 FF98C0D0 FF385868 FFF08050 FFC82800 FF681818 FFE8B8F8 FFC078E0 FF9050A8 FF583850 FF282828 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Witch1.png</Key>
+      <Value>
+        <Key>Witch1.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FFA05008 FFD07810 FFE8B858 FF684008 FF987818 FFC8B050 FF383888 FF7080C0 FFB0B8D8 FF282828 FF704830 FFC88850 FFF8F8F8 FFF8C090 FFF8F8D0 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>World Breaker0.png</Key>
+      <Value>
+        <Key>World Breaker0.png</Key>
+        <Indexed>false</Indexed>
+        <Palette>FF282828 FF986828 FFD0B070 FFE8E8B8 FF5B1919 FF7E1212 FFB91919 FF884010 FFD02828 FF602810 00000000</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Zweihander0.png</Key>
+      <Value>
+        <Key>Zweihander0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF405838 FF607848 FF809858 FF985830 FFC07828 FFF89820 FF282828 FF606060 FFA0A0A0 FFD8D8D8 FFF8F8F8 FF705030 FFB07040 FFF8C090 FFF8F0B8 000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Fenrir.png</Key>
+      <Value>
+        <Key>Fenrir.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Arch_Mogall0.png</Key>
+      <Value>
+        <Key>Arch_Mogall0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Great_Knight0.png</Key>
+      <Value>
+        <Key>Great_Knight0.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF282828 FF9090A8 FFC8C0D0 FFF0F0F0 FF5888A0 FF284860 FFA0B8D0 FF606080 FFF8F8B0 FFF8C090 FF906850 FF383860 000080F8</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Gorgon1.png</Key>
+      <Value>
+        <Key>Gorgon1.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>000080FF</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Thief4.png</Key>
+      <Value>
+        <Key>Thief4.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>FF282828 FF6B4C34 FF735A4A FF9C734A FFF8B880 FFF8F8D0 FF371D3D FFF8F8F8 FF41294A FF5A4162 FF7F5966 FFA88098 FFE8B8D8 FF683828 FF986848 FF406080 FFB0D0F0 FF7898B8 FFBDD5CD FF391839 00000000</Palette>
+      </Value>
+    </Item>
+    <Item>
+      <Key>Asistan_M1.png</Key>
+      <Value>
+        <Key>Asistan_M1.png</Key>
+        <Indexed>true</Indexed>
+        <Palette>000080FF</Palette>
+      </Value>
+    </Item>
+  </Asset>
+</XnaContent>

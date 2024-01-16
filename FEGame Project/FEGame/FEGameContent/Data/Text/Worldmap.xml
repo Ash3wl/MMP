@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Generic="System.Collections.Generic">
+  <Asset Type="Generic:Dictionary[string,string]">
+    <Item>
+      <Key>Tr1-1</Key>
+      <Value>\f[5|Uther]Five months after the Etrurian border conflict,\w[5] it is still the
+only thing on the lips of the commons. Talks of Uther's|
+valor and of his ruthlessness are in equal popularity,\w[4] though
+the lord himself wishes they would speak of anything else.|
+Anything at all.|\f[5|nil]\scroll</Value>
+    </Item>
+    <Item>
+      <Key>Tr1-2</Key>
+      <Value>Thusly,\w[5] when a rider from Tania brings word of a new threat,|</Value>
+    </Item>
+    <Item>
+      <Key>Tr1-3</Key>
+      <Value>
+Uther leaps at the chance to put spur to flank and be rid of
+his home once more.|</Value>
+    </Item>
+    <Item>
+      <Key>Tr2-1</Key>
+      <Value>\f[2|Uther]After the liberation of Jennifer,\w[5] Uther's team discover a cache
+of incriminating documents in Beck's makeshift study.|
+These papers suggest a possible conspiracy,\w[7] a network
+of criminal outfits who control the ebb and flow of the Lycian|
+market by suppressing competition and increasing demand.|\f[2|nil]\scroll</Value>
+    </Item>
+    <Item>
+      <Key>Tr2-2</Key>
+      <Value>To confirm these suspicions,\w[5] Uther brings the documents to
+his father,|</Value>
+    </Item>
+    <Item>
+      <Key>Tr2-3</Key>
+      <Value> who then sets his spies to work chasing the ghostly
+trail of these expert con artists.|</Value>
+    </Item>
+    <Item>
+      <Key>Tr2-4</Key>
+      <Value>
+When a lead turns up in Sundale,\w[6] Uther is soon on his
+steed,\w[5] eager to put the stink of Ostia behind him again.|</Value>
+    </Item>
+    <Item>
+      <Key>Tr3-1</Key>
+      <Value>Corruption had rooted deep in Lycia,\w[6] with its tendrils choking
+the life from great cities and humble baileys alike.|</Value>
+    </Item>
+    <Item>
+      <Key>Tr3-2</Key>
+      <Value> Not so deep
+that it could not be cut out, however,\w[8] and cut it out Uther did,|
+and cauterized it with fire for good measure.|</Value>
+    </Item>
+    <Item>
+      <Key>Tr3-3</Key>
+      <Value>
+The campaign took weeks,\w[6] for the criminals would fade away like
+mist and spring forth again in places he had already cleansed;|\w[5]
+but Uther was not a man known for giving up easily.|</Value>
+    </Item>
+    <Item>
+      <Key>Tr3-4</Key>
+      <Value>
+Through bloodshed and bribery he found each villain in turn
+and in turn he gave them their just dues.|\scroll</Value>
+    </Item>
+    <Item>
+      <Key>Tr3-5</Key>
+      <Value>\f[2|Uther]It soon became clear that the scope of this treachery was far
+greater than anyone had anticipated.|</Value>
+    </Item>
+    <Item>
+      <Key>Tr3-6</Key>
+      <Value> After touching base
+with their foreign contacts,\f[5|Eiry]\w[7] Uther and his allies find evidence|
+of operations all across the dark continent.|\f[5|nil]</Value>
+    </Item>
+    <Item>
+      <Key>Tr3-7</Key>
+      <Value>
+Acting quickly,\f[5|Leonard]\w[6] Uther and Leonard draw up a plan to strike
+at all of the Ring's major power bases at once...|</Value>
+    </Item>
+  </Asset>
+</XnaContent>

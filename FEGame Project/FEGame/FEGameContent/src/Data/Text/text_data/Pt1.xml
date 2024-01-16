@@ -1,0 +1,920 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Generic="System.Collections.Generic">
+  <Asset Type="Generic:Dictionary[string,string]">
+    <Item>
+      <Key>Part1-Scene1</Key>
+      <Value>\music[UnveilTheMystery]\f[3|Marc]\g[MarcsPad]\s[3]\x[100]Uuuuggghhhhh....|\scrollJust got off work a bit earlier than
+usual today.\w[10] A bit of time before I
+head to bed,\w[5] huh.|\scroll\e[3|2]How to use this time...\wait[20]
+Ah,\w[5] I know...|</Value>
+    </Item>
+    <Item>
+      <Key>Part1-Scene1-2</Key>
+      <Value>\g[MarcChest1]\wait[20]\sound[Lockpick]\g[cg1]\name[-3|Marc]\s[-3]\x[100]Let's see...\wait[10]wait...\w[15] huh?|\s[-2]\sound[Map_Step_Armor1]\wait[10]\sound[Map_Step_Armor1]\wait[10]\sound[Map_Step_Armor1]\wait[20]\name[-3|Marc]\s[-3]\x[100]The hell?\wait[10] Where is...\wait[10] HUH?|\s[-2]\g[cg2]\name[-3|Marc]\s[-3]\x[100]W-WHAT THE HELL?!\w[15] WHERE DID...?!|</Value>
+    </Item>
+    <Item>
+      <Key>Part1-Scene2</Key>
+      <Value>\f[2|Ash]\f[5|Ciraxis]\g[CiraxisCastle]\music[What Comes from Darkness]\s[2]So what if I clone a bunch of
+Reisens,\w[5] and force Marc to fight
+all of them at once?|\s[5]No,\w[5] that's a silly idea.|\scrollWhat about my Ciraxatops?\w[15]
+Think we can sic it at Marc?|\s[2]Its training isn't going so well,\w[5]
+it keeps eating our dudes.\w[10]
+I don't think it's ready yet.|\s[5]Well we need SOMETHING
+ready for Ragefest,\w[5] and we
+can't screw it up like before.|\s[2]\e[2|2]Ugh,\w[5] that was a disaster,\w[5] remember
+what happened last time?|\s[5]\Yeah,\w[5] just as we were gearing up
+for Marc's climactic confrontation
+with GrimaJoe,\w[5] YOU scattered|
+everyone all across dimensions
+when your mass warping screwed up.\w[10]
+It took me 6 months to get back!|\s[2]What do you think
+happened to GrimaJoe?|\s[5]Hell if I care,\w[5] I've
+long since moved on.|\s[2]Don't you think he'll be a
+problem at some point?|\s[5]That's Marc's problem,\w[5] not mine.\w[10]
+\e[2|0]I'm more worried about Ragefest 5.|
+Apparently last time our submission
+suffered from a lack of "charm."\w[10]|\scroll......\w[30]|\scrollHey you!\w[15] In the back!\w[15]
+Say something charming.|\f[0|Ciraxis Squad_1]\m[0|1]\wait[2]\s[nil]\s[1]Who,\w[5] me?\w[15] Uhhh\w[5]...|\w[20]\scroll\e[1|1]\m[1|1]Squadala,\w[5] we're off!\w[15]
+\e[2|3]I wonder what's for DINNER!|\s[5]...\w[15]\e[2|0]That was terrible,\w[5]
+get out of my sight.|\s[1]Yes sir.|\s[-2]\r[1]\m[1|0]\wait[2]\s[5]Bah,\w[5] this is harder than I thought.|\w[10]\s[-2]\music[shiver]\wait[60]\e[2|2]\s[2]Whah?\w[15]|\scrollOh crap, is that who I think it is?
+Ciraxis,\w[5] I-I need to go eat real
+quick could you handle this?|\s[5]I guess so.|\s[-2]\r[2]\m[2|0]\wait[2]\r[2]\wait[20]\r[2]\wait[20]\r[2]\m[2|7]\wait[2]\music[nil]\sound[phoneanswer]\s[5]I hope you have a
+good reason to--|\music[UnveilTheMystery]\scrollOh?|
+...\w[15]
+...\wait[30]
+...\w[15]
+...\w[15]
+...\wait[30]
+Why would I do that?|
+...\w[15]
+...\wait[30]
+...\w[15]
+...\w[15]
+...\wait[30]
+So?|
+...\w[15]
+...\wait[30]\r[0]\m[0|2]\wait[2]\s[2]Okay,\w[5] I'm back.\w[10]
+Could you tell her I ate?|\s[5]It's Marc.|\s[2]\e[2|0]What?\w[15] It's like 5AM.\w[10]
+What does he want?|\s[5]Our help,\w[5] apparently.|\s[2]Why does he want our help?\w[15]
+Didn't we try to kill him last time?|\s[5]I'll put it on speaker.|\wait[10]\s[2]Hello...?|\s[-1]Ash?\w[15] Good.\w[10]
+Listen,\w[5] I need your help.|
+Some stuff was stolen from me,\w[5]
+but I managed to track it down.\w[10]
+It was taken to the Black Market.|
+I just need some help getting it all back.\w[10]
+Well?\w[15] What do you say?|\s[2]Stuff got stolen?\w[15]
+Eh,\w[5] why not.\w[10] Sure.\w[10]|\scrollYou got some time
+right,\w[5] Ciraxis?|\s[5]The Black Market might be worth a visit.\w[10]
+I suppose I can tag along,\w[5] don't expect
+me to do much though.|\s[-1]Cool.\w[10] I'll meet you there.|\s[-2]\sound[phoneanswer]\wait[10]\s[2]Wow.|\scrollDidn't expect you to accept
+the request,\w[5] Ciraxis.|\s[5]Insert reason here.|\s[2]Ah.\wait[10]|\scrollYeah,\w[5] that makes sense.|</Value>
+    </Item>
+    <Item>
+      <Key>Part1-Scene3</Key>
+      <Value>\music[UnveilTheMystery]\f[3|Marc]\g[Hill]\wait[10]\f[4|Avraxas]\wait[2]\f[5|Purt]\wait[2]\s[3]\e[3|1]Avraxas.\w[10] Purt.\w[10] Good to see you.\w[10]
+I appreciate you two taking the time
+out to assist me on such short notice.|\s[5]It's no problem.\w[10] I needed to head in
+this direction for a delivery anyways.|\s[4]Yeah,\w[5] plus,\w[5] we're always
+willing to give you a hand.|\s[3]If you're certain.\w[20]
+Oh,\e[3|2]\w[5] is that...\w[15]|\scrollWhat happened to Olivia?|\s[4]\e[4|5]\wait[10].\wait[10].\wait[10].\wait[20]\e[4|2]Don't ask.|\s[-2]\f[2|Char]\wait[2]\f[1|Elise_Convo]\wait[2]\s[2]Eyy.|\s[1]\e[1|1]Hi there!\w[15] Heard you
+needed some help?|\e[1|0]\s[-2]\f[6|Ciraxis]\wait[2]\f[5|nil]\wait[2]\f[5|Ash]\wait[2]\f[1|nil]\wait[2]\f[1|Wolfram]\s[5]Yo.|\s[1]You invite the others,\w[5] too?|\s[3]\e[3|0]Yeah.\w[10] This should be
+about everyone.|\f[6|nil]\f[6|Ciraxis]\s[6]Wait a minute,\w[5] Avraxas;\w[5] aren't
+you supposed to be dead?|\s[4]That's a very good
+question,\w[5] you see...|\s[6]Actually,\w[5] I don't care.|\s[-2]\f[5|nil]\f[5|Ash]\s[5]Okay,\w[5] cool.\w[10]|\scrollBefore we begin,\w[5] something's been
+on my mind for a while.\w[10]|
+Why ask us for help,\w[5] at least 1/3rd
+of this entire group has made an
+attempt on your life already.|
+Heck,\w[5] me and Ciraxis have even
+killed a former lover of yours.|\scrollAs in ACTUALLY KILLED.\w[10]
+She's fucking dead, dude.|\s[1]\e[1|3]What?\w[15] You killed...?|\s[3]Huh?|\s[-2]\f[6|nil]\f[6|Ciraxis]\s[6]Only losers care about what happens
+\e[5|2]to Sophia of all characters.|\s[1]\e[1|4]....\w[15]W-well,\w[5] we are all
+friendly here,\w[5] no?|\s[-2]\f[5|nil]\f[5|Ash]\e[5|2]\s[5]I mean,\w[5] yeah.\w[10] She was
+not a real per--\wait[15]\scrollEh-hem.\w[10] Right.|\s[3]\e[3|2]...\w[15]Wait\w[5] a minute.\w[10] Were you guys
+serious about that stuff?|
+Sophia may be as irrelevant as
+a wet tissue, but all of that
+was just for a contest.|\s[2]\e[2|2]Um...\w[15] I mean,\w[5] we have been doing some
+pretty serious damage to the world
+with these contests.|\s[3]It's not as if anyone would
+honestly be hurt.|\s[-2]\f[6|nil]\f[6|Ciraxis]\s[6]Well these things happen.|
+Do any of us seriously intend
+to make any attempts on Marc's
+life now?\w[15] I probably won't.|\e[1|0]\s[-2]\f[5|nil]\f[5|Ash]\e[5|2]\s[5]No...|\s[2]\e[2|1]Eh.|\s[3]....|\s[5]\e[5|0]Er...\w[15] Sorry for bringing
+it up at all then.|\s[3]Dude,\w[5] it's okay.|\s[-2]\f[5|nil]\wait[2]\f[5|Purt]\wait[2]\s[5]Moving on.\w[10] You mentioned that
+there was something stolen from
+you,\w[5] Marc?|\s[3]Y-yeah.\w[10] I got back home from work
+like usual and upon checking,\w[5] it was
+all gone.|\s[2]\e[2|0]Um,\w[5] what was all gone?|\s[3]Ah,\w[5] right.\w[10] Well--\wait[15]\s[-1]Heheh.\w[10] I can't wait to buy off
+the stuff they stole from that
+kid's place.|\s[3]...!|</Value>
+    </Item>
+    <Item>
+      <Key>Part1-Scene3-2</Key>
+      <Value>\music[RoyalAdvance]\f[4|Salamede]\g[Hill]\s[4]I just gotta head over to the southern
+fort,\w[5] then they're all mine for the buyin'.|\m[3|0]\wait[2]\wait[10]</Value>
+    </Item>
+    <Item>
+      <Key>Part1-Scene3-3</Key>
+      <Value>\f[1|Wolfram]\f[3|Marc]\f[2|Char]\f[4|Avraxas]\f[6|Ciraxis]\f[5|Purt]\g[Hill]\s[3]\e[3|2]Already!?\w[15]|\scrollGuys,\w[5] we gotta hurry up!\w[15]
+I'll explain later.|</Value>
+    </Item>
+    <Item>
+      <Key>Turn1Mari</Key>
+      <Value>\f[3|Mari]\s[3].w.|\scrollWhy am I here?\w[15]
+I didn't want to be here.|\scrollbye.|\m[3|7]\wait[4]</Value>
+    </Item>
+    <Item>
+      <Key>WestVillage</Key>
+      <Value>\f[5|Visitor]\s[-1]Whooooooo! I am the
+helpful hints ghost!|\r[5]\wait[10]\r[5]\s[-1]No no, don't bother looking for me.
+My invisibility reduces the workload
+on the artists!|\s[nil]\s[-1]Anyway, this world contains many features you
+may recognize from FE7x, so watch out!\wait[10]
+(If you haven't played FE7x, you should.)|\scrollFor example, most weapons have +2 might
+compared to what you're used to from FEGBA.
+Also, you can hold 6 items.|
+Bows get WTA at 2 range and WTD at 1 range,
+and if you don't have any equipped weapons,
+you always get WTD!|
+Something cool you can do is, if you talk to
+someone, you can still perform other actions, so
+don't hesitate to stop by and chat!|
+A couple units have skills that affect their
+movement which are somewhat buggy. If they
+act up, just suspend and resume.|
+There's no permadeath, but do mind your weapon
+uses! There are four parts, now after all. Oops,
+did I spoil that?|\scrollAnyway, have some gold, and good luck!|</Value>
+    </Item>
+    <Item>
+      <Key>SouthVillage</Key>
+      <Value>\f[2|GlitchyJoe]\name[2|Villager]\f[5|Visitor]\s[2]Oh, boy. You wouldn't believe
+how glad we all are to see
+your pennants. We've been holed|
+up here for weeks -\w[10] we were
+worried none of our messages
+made it.|
+We don't know the specifics, but
+that force showed up from inside
+the castle walls.| They look like
+mercenaries, but not very well
+organized ones.|
+Here, take this gold. For safety's
+sake, hit the shops nearby.|
+Good luck. We're all counting
+on you.|</Value>
+    </Item>
+    <Item>
+      <Key>UpperVillage</Key>
+      <Value>\f[5|Visitor]\s[5]...Hm?|</Value>
+    </Item>
+    <Item>
+      <Key>MarcBridge</Key>
+      <Value>\f[3|Marc]\s[3]\e[3|2]That upper fort looks suspicious,\w[5] but
+going that thief's path even after
+we defeat him may prove fruitful.|\scrollThough...|
+\e[3|3]If I continued along that thief's path;\w[5]
+\e[3|2]I should bring all the others with me,\w[5] too.\w[10]
+Who knows what could happen.|</Value>
+    </Item>
+    <Item>
+      <Key>SalamedeInFort</Key>
+      <Value>\f[2|Salamede]\s[2]Ow.|\scrollFuck,\w[5] my feet hurt.|</Value>
+    </Item>
+    <Item>
+      <Key>ExposedEnding</Key>
+      <Value>\wait[50]\g[Black]\music[donut]\wait[5]\g[GOCG1]\wait[100]\name[-3|Marc]\s[-3]No, no, no, no, no!! Why?! JUST WHY?!
+N-No way! This cannot be happening to me!
+How the hell was I not good enough?!|
+Now they'll all know and my reputation and
+everything will be ruined! Everything... it....
+Everything I've built over the years!|\scrollAAAAAAAAAAAAGGGGGGGGGGHHHHHHHHH!!|\s[-2]\name[-3|Ghost]\s[-3]With Marc failing to reobtain his Precious,
+it was quickly revealed to his fanbase, and
+the FE Community as a whole.|\scroll\g[GOCG2]It made such a huge blow to his reputation
+that his Youtube account soon faded into
+obscurity and was subsequently forgetten.|\s[-2]\wait[100]\event</Value>
+    </Item>
+    <Item>
+      <Key>DealerDefeated</Key>
+      <Value>\f[1|Purt]\f[3|Avraxas]\f[2|Dealer]\f[6|Ciraxis]\f[4|Marc]\g[SouthernFort]\s[4]\e[4|2]Where are they...|\scrollWhere are they...!|\s[2]I-I don't even have them.\w[10]
+Please let me go.|\s[4]What a waste of time.\w[10]
+Where are they,\w[5] then?|\s[2]T-the upper fort.\w[10] We store all
+of our stock in it's basement.|\s[4]How do I know you're not bullshitting me?|\s[3]\e[3|2]Let's check him.|\e[1|1]\e[2|1]\r[3]\s[1]\m[1|1]\wait[2]Broken Bolt Sword...\w[15]
+\m[1|1]\wait[2]Lockpick...\w[15]
+......|\scroll\m[1|1]\wait[2]Huh,\w[5]\e[1|0] what is this?|\s[4]Is there something wrong?
+........?|\scroll\wait[20]T-this is...|\s[-2]\f[1|nil]\f[3|nil]\f[2|nil]\f[6|nil]\f[4|nil]\g[Black]\g[KingSword]\sound[KingSwordGet]\wait[180]\name[-3|Marc]\s[-3]The King Sword from Thracia 776?!|\scrollAhahahaha!!\w[15] Perfect!\w[15] Now we can REALLY
+kick some ass!|\s[-2]\name[-3|Dealer]\s[-3]Is that enough?\w[15] I don't have anything
+else,\w[5] I swear!!|\s[-2]\name[-3|Ciraxis]\s[-3]Bah,\w[5] just some crappy sword for Marc?\w[15]
+This whole trip wasn't worth it at all.|\s[-2]\g[Black]\f[2|nil]\f[5|nil]\g[SouthernFort]\f[1|Purt]\f[3|Avraxas]\f[2|Dealer]\f[6|Ciraxis]\f[4|Marc]\s[4]Yeah,\w[5] whatever.\w[10]
+Let him go.|\s[2]FREEDOM!!!|\s[-2]\m[2|7]\wait[2]\r[3]\wait[2]\s[4]I had a feeling this would be
+worth it.\w[10] Guess it's a good
+thing I went this way.|
+Let's head over to the northern
+fort,\w[5] then.|</Value>
+    </Item>
+    <Item>
+      <Key>SketchyGuy</Key>
+      <Value>\f[5|Shady Dude_1]\s[5]Hey,\w[5] you,\w[5] yeah you.\w[10]
+Interested in some
+new units?|
+Just come talk to me
+and for 9,\w[5]000 Gold,\w[5]
+they're all yours.|</Value>
+    </Item>
+    <Item>
+      <Key>SketchyGuyTalk</Key>
+      <Value>\f[2|Marc]\f[5|Shady Dude_1]\s[5]You're a smart kid.\w[10]
+They're all yours.|</Value>
+    </Item>
+    <Item>
+      <Key>SketchyGuyNotEnough</Key>
+      <Value>\f[2|Marc]\f[5|Shady Dude_1]\s[5]You trying to scam\w[10]
+Me here, kid?|\scrollThis isn't enough.|\scrollWhat a waste of\w[10]
+my time.|</Value>
+    </Item>
+    <Item>
+      <Key>SketchyGuyWTF</Key>
+      <Value>\f[2|Marc]\f[5|Shady Dude_1]\s[2]Uh.\w[10] What the fuck,\w[5] dude.\w[10]
+They're red units,\w[5] not blue.|\s[5]\e[5|3]Oh fuck.\w[10] I copy-pasted the
+wrong units in the editor.|\s[2]\e[2|3]Can't you do anything
+about it at all?|\s[5]Not while the c--\wait[15]\scroll\e[2|2]....\w[15]Uh,\w[5] see you!|\s[-2]\m[5|7]\wait[2]\m[2|4]\wait[2]\s[4]Get back here,\w[5] you fucker!|</Value>
+    </Item>
+    <Item>
+      <Key>MercLance</Key>
+      <Value>\f[2|Enemy_1]\s[2]Crap.\w[10] I came out with the
+wrong weapon,\w[5] again.|\scrollToo bad I can't just use it
+like in real life,\w[5] so I guess
+I'm going to die.|</Value>
+    </Item>
+    <Item>
+      <Key>Part1-LastScene</Key>
+      <Value>\music[UnveilTheMystery]\f[5|Marc]\g[NorthernFort]\s[5]Huh.\w[10] He's out cold.|\f[3|Shady Dude_1]\wait[2]\s[3]Y-you took out Emil?!|\w[15]\s[5]\e[5|2]What?\w[15] You want to get
+knocked out,\w[5] too?|\f[3|Shady Dude_1]\s[3]\e[3|1]No!\w[15] It's just that t-this is a big deal!\w[15]
+Taking out Emil makes you our new
+commander!|\s[5]\e[5|3]Whoa,\w[5] what?|\f[2|Ash]\wait[2]\s[2]So,\w[5] now Marc has his own
+army,\w[5] then?\w[10] Cool.|\s[5]\e[5|0]Hold on a second.\w[10] The hell
+are you talking about?|\s[3]\e[3|0]Around these parts only the strong
+survive.\w[10] It only makes sense that
+the strongest among us lead us.|\scrollThat was Emil,\w[5] until you came along.|\s[5]I see...\w[15] okay,\w[5] so if I understand
+this right.\w[10]|\scrollIf I were to order you to,\w[5] say,\w[5] give
+me the latest loot that came in.|
+\e[5|1]You'd do it?|\s[3]Right away.|\s[5]Then do so.|\r[3]\wait[2]\m[3|0]\wait[2]\s[-2]\f[6|Wolfram]\wait[2]\f[1|Char]\wait[2]\s[6]Commander?|\s[5]Yeah,\w[5] how convenient.|\s[2]You sure accepted the
+position quick.|\s[5]If it gets the job done faster,\w[5]
+then it's for the best.|\s[-2]\r[0]\wait[2]\m[0|3]\wait[2]\s[3]C-commander!\w[15] Here...\w[15]\m[3|3]\wait[15]
+Ah,\w[5] this is heavy...|\s[5]Yes,\w[5]\m[5|5]\wait[15] yes!\w[15]\m[5|5]\wait[15] My...\w[15]
+My precious...!|\s[-2]\e[3|2]\wait[5]\sound[Swing2]\s[3]Ah!\wait[10]\s[-2]\w[15]\m[3|3]\sound[Snag_Fall]\wait[10]\m[3|4]\wait[2]\f[4|nil]</Value>
+    </Item>
+    <Item>
+      <Key>Part1-LastScene-2</Key>
+      <Value>\g[TrippedShadyDude]\wait[60]\name[-3|Marc]\s[-3]NO!\w[15] Don't!\w[15] My--\wait[15]\s[-2]\name[-3|Ash]\s[-3]...\w[15]Magazines?|\s[-2]\name[-3|Wolfram]\s[-3].......|\s[-2]\name[-3|Char]\s[-3]Hair...\w[15]porn...?\w[15] Um,\w[5] can't you get this stuff
+onlin--\wait[15] .\w[2].\w[2].\w[15]oh,\w[5] this one's cute.|\s[-2]\name[-3|Wolfram]\s[-3]Despite the covers...\w[15]
+these are...\w[15]oddly...|\s[-2]\name[-3|Ash]\s[-3]Oddly specific to hair?\w[15]
+Yeah.\w[10] Damn,\w[5] Marc.\w[10]|</Value>
+    </Item>
+    <Item>
+      <Key>Part1-LastScene-3</Key>
+      <Value>\f[5|Marc]\f[3|Shady Dude_1]\f[2|Ash]\f[6|Wolfram]\f[1|Char]\e[5|4]\g[NorthernFort]\s[5]Back off!\w[15] These are mine,\w[5]\m[5|5]\wait[15]\e[5|5] MINE!\w[15]
+You will tell nobody about what
+you saw today!\w[15]\e[5|2]|\s[6]\e[6|4]W-well...\w[15] we have what is
+needed,\w[5] correct?\w[15]|\e[6|0]\scroll...\w[15]Let's regroup,\w[5] then.|\s[-1]\music[nil]Not so fast.|\s[5]\e[5|2]UGH!!\w[15] What do you want now
+off-camera voice?|\s[-2]\music[KickTheButler]\f[1|nil]\f[2|nil]\f[3|nil]\f[6|nil]\f[2|David]\wait[2]\s[2]You're right where I
+want you to be.|\s[5]And who the fuck are you supposed
+to be,\w[5] another me?|\s[2]Basically.|\s[5]Okay,\w[5] lemme guess.|\scrollYou're StacheyJoe or something,\w[5] right?\w[15]
+What sort of evil clone plot brings you here?
+You just want to kill or make me suffer,\w[5] right?|
+You stole the magazines?|\s[2]...\w[15]Wow.\w[10] You really aren't up for this,\w[5]
+are you?\w[15]|\scrollMy name is David,\w[5] and I am not here
+to kill you at all,\w[5] Marc.|
+I am just here to ensure you and your
+friends here are captured.|\s[5]Pfft,\w[5] I've had enough to deal with tonight.\w[10]
+So,\w[5] hell no!\w[15] I'm not going anywhere.|\s[2]Heh.\w[10] That's rich.|\w[10]\scrollYou think I'd come by myself unprepared?
+My role was to keep you from leaving
+long enough for the spell to finish.|\s[5]A trap?\w[15] Wha--|</Value>
+    </Item>
+    <Item>
+      <Key>Ciraxis Squad</Key>
+      <Value>\f[3|Ciraxis Squad_1]\f[2|Ciraxis Squad_2]\f[1|Ciraxis Squad_3]\s[3]Alright, time for the finest
+knights of General Ciraxis
+to come to the rescue!|\s[2]Finest...? Aren't we literally the
+newest recruits on the team?|\s[3]Not today! This is the day
+we become heroes!|\s[-2]\event\s[1]Uh-oh.|</Value>
+    </Item>
+    <Item>
+      <Key>Ciraxis Suck</Key>
+      <Value>\f[5|Ciraxis]\s[5]Wow, you guys suck.|</Value>
+    </Item>
+    <Item>
+      <Key>Augury</Key>
+      <Value>\f[5|Marc]\g[Hill]\s[5]Okay, there are a few ways to go about this.|\scrollThere's a thief trying to reach the dealer to
+buy... Something important. We can kill him
+before that happens, or kill the dealer.|
+Alternatively, we can head straight for the
+boss in the northeastern fort, in hopes killing
+him will cause the enemy to rout.|\scrollWhatever we do, let's hurry up and do it!|</Value>
+    </Item>
+    <Item>
+      <Key>AshMari_1</Key>
+      <Value>\f[2|Ash]\e[2|3]\f[5|Mari]\s[2]Greetings,\w[5] beautiful rat creature.|\s[5]You ain't gettin' \e[2|2]nowhere
+calling me a rat.|\s[2]Okay,\w[5] how about this?|\scroll\e[2|3]Greetings,\w[5] beautiful rodent creature.|\s[5]I hate you.\w[10]\e[2|2]|\s[2]Beautiful chinchilla?|
+my adorable midget pumpk--\w[15]\s[-2]\m[5|3]\wait[5]\sound[Map_Step_FDragon]\m[3|3]\s[3]-bops-|\s[2]Ow.|\s[-2]\m[3|5]\wait[5]\s[-2]\wait[15]\s[2]Okay,\w[5] fine.\w[10]
+\e[2|1]Just Mari,\w[5] then.|\s[5]Duh.\w[10] What are you
+even doing?|\s[2]Just trying to have
+a little fun.|\s[5]Well,\w[5] don't.\w[10]
+Please stop.|\s[2]Oh,\w[5] well,\w[5] alright.|</Value>
+    </Item>
+    <Item>
+      <Key>AshWolfram_1</Key>
+      <Value>\f[2|Wolfram]\r[2]\s[2]What is this place?|\scrollIt feels so familiar,\w[5] and
+yet so....\w[15] different?|\f[5|Ash]\s[5]Uh,\w[5] hey.\w[10] \r[2]I couldn't help but
+overhear,\w[5] Wolfram.|\scrollWhat do you mean?\w[15]
+Have you been to a place
+like this before?|\s[2]...\w[15]I suppose.|\s[5]....\w[15]Huh?\w[15] ...\w[15]Uh,\w[5] okay then.|\s[-2]\wait[120]\s[5]...\w[15]Are you not going
+to tell me,\w[5] then?|\s[2]Pardon?\w[15]|\s[5]\e[5|2]Ah,\w[5] it's nothing.\w[10]
+Nevermind.|\s[-2]\f[5|nil]\s[2]What did he say...?|</Value>
+    </Item>
+    <Item>
+      <Key>MarcWolfram_1</Key>
+      <Value>\f[5|Wolfram]\f[2|Marc]\e[5|1]\r[5]\s[5]I summon the power of the sky
+and call upon thee the power
+of AIR\m[5|5]CALIBUR!!!|\scroll\e[5|0]...\w[15]No,\w[5] wait,\w[5] he's already dead.|\s[2]\e[2|3]Uh...\w[15]Wolfram?\w[15] Dude,\w[5] just chill for
+a bit.\w[10] You do remember that I can
+handle them too,\w[5] right?|\s[-2]\r[5]\s[5]It's fine,\w[5] I am ok!|\scroll.........|\s[2]\e[2|0]....\w[15]What?\w[15] What is it?\w[15]
+Is something wrong?|\s[5]I was just thinking...|\scrollDid Reisen\e[2|3] happen to tell you
+anything important about me?|\s[2]...\w[15]Huh?\w[15] What?\w[15] What's this
+about Reisen? I thought you
+had Momiji, or something.|\s[5]\e[5|4]What?\w[15] Nothing!|\s[-2]\wait[120]\s[5]So,\w[5] Marky.\w[10] \e[5|0]I will cast a spell
+that will make us stronger when
+we are close!|\s[2]Umm...?\w[15] \e[2|0]Oh.\w[10] It's called a
+support,\w[5] Wolfram......|\scrollUgh,\w[5] whatever,\w[5] just don't
+start crying.|\s[5]Alrighty!\w[15]\m[5|5]|</Value>
+    </Item>
+    <Item>
+      <Key>MarcReisen_1</Key>
+      <Value>\f[2|Reisen]\f[5|Marc]\s[5]Hey.|\s[2]...|\s[5]Do you HAVE to speak
+telepathically?|\scrollIt's not so noisy here
+that I couldn't hear you,\w[5]
+you know.|\s[2]...|\s[5]...\w[15]I guess that makes sense.|
+It's just a little weird to have
+my brain waves manipulated
+like that,\w[5] you know.|\s[2]...|\s[5]\e[5|6]H-hey,\w[5] stop it!\w[15] I would
+NOT think of that!|\s[2]\e[2|2]-giggles-\wait[15]\e[2|0]|\s[5]\e[5|1]...\w[15]Ah,\w[5] well.\w[10] Let's get
+back to the battle.|\s[2]\m[2|2]-nods-|</Value>
+    </Item>
+    <Item>
+      <Key>SetHiro_1</Key>
+      <Value>\f[2|Set]\f[5|Hiro]\s[5]Hoy there!|\s[2]H-hello...?|\s[5]Why the face?\w[15]
+You're not scared,\w[5]
+are you?|\s[2]I...\w[15] I am very scared,\w[5]
+thank you very much!|
+There's just too much
+action here!|\s[5]Well,\w[5] you seem to be doing
+fine if you ask me!|\s[2]M-maybe,\w[5] but aren't I just
+holding everyone--\wait[15]\s[5]Hold on there.|
+You know,\w[5] in my first battle,\w[5]
+I was far less skilled than
+even yourself!|
+But look at me now--a top
+apprentice of the renowned
+hero Grado!|
+You just need to have a
+little more confidence in
+yourself,\w[5] kid.|\s[2]C...\w[15]confidence?\w[15] B-but why would
+I be confident when--\wait[15]\s[5]Hold!|\scrollSo you're not confident in yourself.\w[10]
+But are you confident in me?|\s[2]Of...\w[15] of course!\w[15]
+You look really strong.|\s[5]Then just follow me,\w[5] and nothing bad
+will happen to you!|
+If you're confident in that,\w[5] then you
+can focus on your own fighting.|\s[2]I...\w[15] I See!\w[15] Thank you,\w[5] I...\w[15] don't
+actually feel much more confident,\w[5]
+but I'm glad!|\s[5]...\w[15]We all start somewhere.|</Value>
+    </Item>
+    <Item>
+      <Key>AshCiraxis_1</Key>
+      <Value>\f[2|Ash]\f[5|Ciraxis]\s[2]Ciraxis,\w[5] I know we're in the middle of
+battle,\w[5] but these guys are pretty
+easy anyways.|
+I've got a report for you,\w[5] may I?|\s[5]Go ahead.|\s[2]OK.\w[10] So,\w[5] our Ocean Campaign is going well.\w[10]
+The Mermen are posing little challenge
+to Fleet Admiral Neal's forces.|
+We'll be capturing yet another city of
+theirs within the hour.|\s[5]That'll teach em for their uppityness.\w[10]
+"Please stop turning our Seas into
+acid water" they said.|
+The nerve of those people!|\s[2]Also,\w[5] escapee 186-F from the quarantine
+chamber has been located and recaptured.|
+The soldiers responsible for this security
+failure have been dealt with and replaced.|\s[5]That's the one who keeps
+eating faces,\w[5] right?|\s[2]Yes,\w[5] I believe so.|\scrollAnyways,\w[5] Maki is having little difficulty
+taking over things in our absence;|
+however,\w[5] should Marc take too much
+of our time--\wait[15]\s[5]Yes yes,\w[5] whatever.\w[10] Let's just get this
+farce over with,\w[5] I miss my throne.|\s[2]Right.\w[10] I'll go yell at Marc
+to hurry up.|</Value>
+    </Item>
+    <Item>
+      <Key>CiraxisPurt_1</Key>
+      <Value>\f[2|Ciraxis]\f[5|Purt]\s[5]It's pretty rare that I see you
+out in the open.|\s[2]For good reason.\w[10] I'd much rather not
+be here right now;\w[5] I am a very busy
+man you know.|\s[5]Busy?\w[15] With what?|\s[2]Well you know...\w[15]stuff.\w[10]
+And things.|\s[5]What kinda stuff?\w[15] I don't really
+know much about you at all.|\s[2]That's not important,\w[5] you're asking
+too many questions.|
+You should spend less time badgering\e[5|3]
+me and more time doing whatever
+worthless thing it is you do.|\s[5]0h,\w[5] I deliver bread.\w[10]
+It's sorta my job.|\s[2]Fascinating,\w[5] goodbye.|\s[-2]\f[2|nil]\wait[30]\s[5]Not very talkative,\w[5] is he?|</Value>
+    </Item>
+    <Item>
+      <Key>SepourOlivia_1</Key>
+      <Value>\f[2|Sepour]\f[5|Smolivia]\name[5|Olivia]\s[2]Heya!|\s[5]Y-you can see me?|\s[2]'Course!\w[15] Why wouldn't I?|\s[5]It's just,\w[5] I'm...\w[15]
+so small...|
+And even then,\w[5] I
+don't have much
+presence...|\s[2]\e[2|1]I've seen smaller.\w[10]
+\e[2|0]Besides,\w[5] a cute outfit like that is
+definitely gonna be eye-catching!|\s[5]!|\s[2]\e[2|2]S-s-sorry!\w[15] I didn't--\wait[15]\s[5]N-no!\w[15] I'm sorry I reacted like that.|
+I like this outfit because it helps me
+feel more confident when I dance.|
+B-but when I'm not dancing...\w[15]|
+\s[2]Oh...\w[15] \e[2|0]Then why don't
+you dance for me!\w[15]
+I'd love to see!|\s[5]O-o-of course!|</Value>
+    </Item>
+    <Item>
+      <Key>SetOlivia_1</Key>
+      <Value>\f[2|Set]\m[2|3]\name[4|Olivia]\s[4]Eep!|\m[3|3]\s[3]Ah!\w[15] who's there?!|\s[4]D-Down here!\w[15]\s[3]Huh?\w[15]\m[3|3]\wait[2] AHH!\w[15]\r[3]\m[3|0]|\s[4]Ohh...\w[15] Sorry!|</Value>
+    </Item>
+    <Item>
+      <Key>HiroGertrude_1</Key>
+      <Value>\f[2|Hiro]\f[5|Gertrude]\s[5]Why hello there,\w[5] young sir.\w[10]
+You remind me an awful lot of
+my grandson,\w[5] you know that?\w[15]
+He was a nice young man.\w[10]
+Hair just like yours.\w[10] Then his
+best friend became sick,\w[5] so
+he took one of my old swords
+and went to find some materials
+for one of my old recipes for an
+elixir.\w[10] Very good recipe,\w[5] by the
+way,\w[5] I can give it to you if you
+want.\w[10] But he didn't even ask me!\w[15]
+But wouldn't you know,\w[5] he got
+himself in a big pot of trouble
+when he got surrounded by wild
+hounds!\w[15] He goodness-be would
+have died had I not rode in on
+old Betsy here in to save him!\w[15]
+Then he told me he was going
+to find the world's greatest hero
+and train under him until he
+could take care of all of us.\w[10]
+I haven't seen him since,\w[5] but I
+know he's out there making me
+proud.|\s[2]\e[2|2]Grandma,\w[5] we had dinner together last week.|</Value>
+    </Item>
+    <Item>
+      <Key>SepourElise_1</Key>
+      <Value>\f[2|Elise_Convo]\f[5|Sepour]\s[2]Hi there!|\s[5]Hallo!\w[15] How are you?|\s[2]I'm good!|
+I just wanted to get a closer
+look at your pegasus,\w[5] if you
+don't mind?|\s[5]Not at all!\w[15] Look away!|\m[2|3]\s[3]Wow,\w[5] so shiny...|\s[5]\e[5|1]Glad you noticed!\w[15]
+It's a lot of work--|\scrollI brush her twice a day,\w[5]
+plus weekly baths!|
+But it's tooootally worth
+it,\w[5] don't you think?|\s[3]Yeah!\w[15] I wish we had pegasi where I live.\w[10]
+I really miss getting to see animals up
+close like this...|\s[5]\e[5|0]Where's that?\w[15]
+Pegasi are EVERYWHERE
+where I'm from.|\s[3]I-I,\w[5] uh...\w[15] far away!\w[15]
+Really far away.|\s[5]\e[5|2]Oh,\w[5] that's...\w[15] that's a shame...\w[15]
+We probably won't be able to...\w[15]
+See...\w[15] Each other again,\w[5] huh?|\s[3]Aw,\w[5] don't worry about that!\w[15]
+We travel around a lot--you'll probably
+see me again before you know it!|\s[5]\e[5|0]R-really?\w[15] Awesome!\w[15]
+I really,\w[5]\e[5|1] really look
+forward to it!|\s[3]Me too,\w[5] hehehe!|</Value>
+    </Item>
+    <Item>
+      <Key>CiraxisGertrude_1</Key>
+      <Value>\f[2|Ciraxis]\f[5|Gertrude]\s[2]I like your style.|\s[5]Why thank you,\w[5] dearie!\w[15] This armor is from--\wait[10]\s[2]I didn't ask for your life story.\w[10] Goodbye.|\f[2|nil]\s[5]...\w[15] Oh my.\w[10]
+A man of few words,\w[5] I see.|</Value>
+    </Item>
+    <Item>
+      <Key>ReisenElise_1</Key>
+      <Value>\f[2|Elise_Convo]\f[5|Reisen]\s[2]Reisen!\w[15] I have a question for you!|\s[5]...|\s[2]\m[2|2]Wh-whoa!\w[15] Wait,\w[5] do that again!|\s[5]...|\s[2]I hear you speaking,\w[5] but
+your mouth isn't moving
+at all!\w[15] \e[2|1]That's so cool!|\s[5]...\w[15] ...|\s[2]\e[2|0]...|\s[5]...|\s[2]\e[2|2]Wow!\w[15] This...\w[15] \e[2|0]Wait,\w[5] no.|
+\e[2|1]...\w[15]\e[2|0] ...\w[15] ...|\s[5]\e[5|1]...\w[15] ...|\s[2]...\w[15] \e[2|1]...|\s[5]\e[5|0]...|</Value>
+    </Item>
+    <Item>
+      <Key>SetPurt_1</Key>
+      <Value>\f[2|Set]\f[5|Purt]\s[2]E-excuse me?|\s[5]Hola.\w[10] What's up?|\s[2]...\w[15] Um...\w[15] How can I be
+strong like you?|\s[5]\e[5|3]Me?\w[15] I've never thought of myself as
+very strong,\w[5] but I guess I've been
+around the block a few times.|\s[2]Which block?\w[15]\s[5]\e[5|2]...\wait[5] \e[5|0]Anyway,\w[5] your form looks pretty alright--
+you just need practice.|
+I can stick by you to help set up some
+shots if you need some help.|\s[2]Y-yes please!|\scrollIf I can get strong like you,\w[5]
+I'll do anything!|\s[5]\e[5|1]Anything?|\s[2]Anything!|\s[5]\e[5|0]Then let's start with that guy.\w[10]
+I'll reel him in,\w[5] and you finish
+him off,\w[5] okay?|\s[2]O-okay!\w[15] Let's go!|\f[2|nil]\s[5]\e[5|2](I hope I'm doing this right.\w[10]
+I've never been a teacher before...\w[15])|</Value>
+    </Item>
+    <Item>
+      <Key>SetMarc_1</Key>
+      <Value>\f[2|Set]\f[5|Marc]\s[5]\e[5|1]Hey.|\s[2]H-hello,\w[5] sir!|\s[5]\e[5|2]...\wait[15] \e[5|0] At ease.|\s[2]Yes,\w[5] sir!|\s[5]I'd really prefer if you didn't do that.\w[10]
+Just treat me normally.\w[10] We're all
+fighting together,\w[5] here.|\s[2]Y-yes...\wait[10] ...\wait[10] Yes.|\s[5]\e[5|1]Anyway,\w[5] I'll be counting on you
+to get some good level-ups,\w[5]
+okay?|\s[2]Of...\w[15]of course!\w[15] My growth rates are
+the third highest in the game!|\s[5]\e[5|2]...\w[15]Wait,\w[5] third highest?\w[15]
+Okay, never mind.|\s[nil]\f[5|nil]\s[7]Let's see if I can find out who's higher...|\s[2]...|</Value>
+    </Item>
+    <Item>
+      <Key>MariElise_1</Key>
+      <Value>\f[2|Mari]\f[5|Elise_Convo]\s[2]Fuck you Elise\e[5|2] you piece of living trash,\w[5] waste of pixels,\w[5]
+inferior loli.\w[10] Should have let you die in the fucking pot castle.\w[10]
+Can't even kill yourself to accomplish anything.|\f[6|Char_2]\e[6|1]\s[6]...|
+No.|</Value>
+    </Item>
+    <Item>
+      <Key>CharSepour_1</Key>
+      <Value>\f[2|Sepour]\f[5|Char]\s[2]Hey there!\w[15] You're the
+cantoforce lady,\w[5] right?|\s[5]I-I...\w[15] guess?|\s[2]Well,\w[5] how do you do it?|
+I think I've got the attack down,\w[5]
+but I can't disengage fast enough
+to do more than one.\w[10] here,\w[5] see?|\f[2|nil]\s[0]AAAH MY FACE\f[2|Sepour]\s[2]Just like that!\w[15] What am I doing wrong?|\s[5]Um...\w[15] Honestly it's not a general skill like that.|
+I think it's only for bows.|\e[5|1] Maybe javelins or...|
+maybe some hand axes.|\s[2]\e[2|1]Javelins,\w[5] you say?|\s[5]\e[5|2]Erm...|\s[2]\e[2|0]Show me!\w[15] Pleeaaaase?\w[15]
+I'll show you something,\w[5] too!|\s[5]\e[5|0]Um...\w[15] After the battle?|\s[2]Alright!\w[15] I'm gonna hold you to that!|\f[2|nil]\s[5]...|</Value>
+    </Item>
+    <Item>
+      <Key>AvOlivia_1</Key>
+      <Value>\f[5|Avraxas]\f[4|Olivia_2]\e[5|3]\s[5]How are you holding up,\w[5] Olivia?|\s[4]I'm okay...\w[15] lots of walking,\w[5]
+with these little legs.|\s[5]...\w[15]Don't worry.\w[10] I can keep carrying
+you the entire time,\w[5] like now.|\s[4]..........!|\scrollN-No!\w[15] You can't do that!\w[15]
+You'll be far too distracted
+to fight,\w[5] Avie.|
+I am fine with walking.|\s[5]Okay,\w[5] I understand.|
+Once this is over,\w[5] we can start
+finding a way to get you back
+to normal.|\s[4]B-but how?\w[15] We don't even
+know how I got like this!|\s[5]Well,\w[5] mysterious magic will always
+have mysterious countermagic.|
+Perhaps we can find something
+useful here at the Black Market?\w[15]
+Worth a try while we're here.|\s[4]I hope so...|\s[5]Don't worry about it,\w[5] Dear.\w[10]
+We'll get through this.|\scrollEverything will be right and
+perfect by Friday.|\s[4]...\w[15]Yes.\w[10] I trust you,\w[5] Avie...|\s[5]Don't trust me.|
+Trust us.|\scrollDate night will be perfect as always,\w[5]
+I promise.|
+...\w[15]And if not,\w[5] we could always put
+that little theater we made to use.|\s[4]M-Maybe...|</Value>
+    </Item>
+    <Item>
+      <Key>CharElise_1</Key>
+      <Value>\f[2|Char]\f[5|Elise_Convo]\s[5]Hey,\w[5] how's it going?|\s[2]Alright,\w[5] you?|\s[5]I'm good!|\s[nil]\s[5]So...\w[15] How's the light level?|\s[2]It's...\w[15]alright...?\w[15]
+Lot...\w[15] brighter when
+you're nearby...|\s[5]Then maybe we should hold hands!|
+...\w[15]You know.\w[10] So I don't get lost or
+anything,\w[5] in all this darkness.|\s[2]Heh...\w[15] Yes,\w[5] if you insist.|\m[2|3]\m[5|4]\s[4]!|\scrollAgreed just like that,\w[5] and in public,\w[5] no less?\w[15]
+Someone's feeling naughty...|\s[3]Eheh...\w[15] It's...\w[15]
+So you don't get lost or
+anything,\w[5] you know?|\s[4]Riiight,\w[5] of course.|\s[3]...|\s[4]...|\f[3|nil]\f[4|nil]\s[nil]\s[-1]-chu-|</Value>
+    </Item>
+    <Item>
+      <Key>AvPurt_1</Key>
+      <Value>\g[memes]\s[-1]JOJOJOJOJOJOJOJOJOJOJOJOJOJOJOJOJOJOJOJOJOJOJOJOJOJOJOJOJO|</Value>
+    </Item>
+    <Item>
+      <Key>CharAsh_1</Key>
+      <Value>\f[2|Ash]\f[5|Char]\s[2]Yo,\w[5] Char,\w[5] what're you doing here?|\s[5]Uh...\w[15] Marc called and said he needed
+help with something?\w[15] Why,\w[5] you?|\s[2]Same with me.\w[10] We had the time,\w[5]
+so we drove in one of our vehicl--
+uh,\w[5] carriage?|
+...\w[15]Eh,\w[5] actually,\w[5] it doesn't matter.|\s[5]Hm...\w[15] Sounds like quite a transport,\w[5]
+if it can carry that guy.|\s[2]Yeah,\w[5] they're made of sturdy stuff.\w[10]
+We used to just teleport everywhere,\w[5]
+but I-- \e[2|2] ....\w[15]Er...\w[15] yeah.|\s[5]...\w[15]But...?|\s[2]Oh...\w[15] I didn't tell you about that
+bit,\w[5] did I.|
+Listen,\w[5] you wouldn't exactly
+get it,\w[5] but warp magic is...|
+Well...\w[15] It's really fucking
+hard to do.|
+Once,\w[5] I decided on the bright
+idea of warping a large group\e[5|2]
+of people around,\w[5] and....|
+Well,\w[5] to say the least,\w[5] it didn't
+go so well.|\s[5]Mm,\w[5] yeah...\w[15]
+That's...\w[15]why I'm generally not a fan of
+warping.\w[10] Especially stuff like that,\w[5]
+I'd rather just...|
+\e[5|1]Send them into another time or something.\w[10]
+\e[5|0]Really anything but teleportation.|\s[2]Yeah....\w[15] since then,\w[5] I haven't wanted to
+try warping anything again,\w[5] really.\w[10]
+I just...\w[15] think about it,\w[5] and it....\w[15]\scroll...|\scroll\e[2|0]No,\w[5] I'm sorry,\w[5] you probably don't want to
+hear this.|\s[5]It's alright.\w[10] If anything,\w[5] I'm glad to know
+I won't be getting warped around today.|</Value>
+    </Item>
+    <Item>
+      <Key>AshAshClone_1</Key>
+      <Value>\f[1|Ash]\f[5|Ash Clone]\r[5]\s[1]...\w[15]Hey...\w[15] what are you looking at?|\m[1|2]
+No,\w[5] is that...|\m[2|1]\scrollWhy are you duplicates
+evacuating people again for?!|\s[5]....|\s[1]You...\w[15] We've been over this.\w[10] My mind
+cannot be that conflicted,\w[5] can it?\w[15]\scrollWhy do you still play the hero?|\s[5]....|\s[1]\e[1|2]So,\w[5] that's it huh.\w[10] Damn.|</Value>
+    </Item>
+    <Item>
+      <Key>VandalEvent</Key>
+      <Value>\f[2|Vandal]\s[2]Hm...? Hey...
+What's this?|</Value>
+    </Item>
+    <Item>
+      <Key>VandalEvent2</Key>
+      <Value>\f[2|Ash]\f[1|Char]\f[3|Vandal]\f[5|Ciraxis]\f[6|Avraxas]\s[2]Huh? Mari?|\s[5]REEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE|\s[2]AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA|</Value>
+    </Item>
+    <Item>
+      <Key>VandalEvent3</Key>
+      <Value>\f[2|Vandal]\s[2]....W-What...
+The... fuck...|</Value>
+    </Item>
+    <Item>
+      <Key>AshSmilies_1</Key>
+      <Value>\f[5|Smilies]\f[2|Ash]\s[5]Ash.|\s[2]So,\w[5] you acually came.\w[10]
+You were a little late to
+the party,\w[5] you know.|\s[5]You didn't exactly specify
+where in the Black Market
+we would be meeting.|\s[2]What?\w[15]
+I couldn't have...|\scroll\e[2|2]...\w[15]Did I really?|\s[5]You didn't.|\s[2]\e[5|2]Smilies,\w[5] I'm sorry,\w[5] man.\w[10]
+I never usually forget stuff
+like that.|
+It's just five in the morning,\w[5]
+and I was in a bit of a rush,\w[5]
+so,\w[5] I forgot.|\s[5]It's no big deal,\w[5] really.\w[10] I'm always
+willing to help you five out.|
+Wasn't difficult to find your group.\w[10]
+Had a quick run over with my
+horse and spotted Ciraxis.|
+Just try not to leave out such
+an important detail next time.|\s[2]R-Right.|\scroll\e[2|0]Well,\w[5] It's good to see you
+actually showed up.|\s[5]What?\w[15] Did you think
+I wouldn't show up?|\s[2]\e[2|2]...\w[15]I'll admit...\w[15]
+I had my doubts.|\s[5]Ash,\w[5] I'm not THAT cold,\w[5] you know.\w[10]
+I don't just ghost on people when
+they need me for something.|\s[2]\e[2|0]Gee,\w[5] that's awfully specific.|
+Didn't take you for one to hold
+a grudge.\w[10] Talk about out of
+character.|\s[5]\e[5|0]Quit it.\w[10] That was not the intention,\w[5]
+\e[2|3]and I'm sure you realize that.|\s[2]Ahahah,\w[5] sorry.|\s[5]Well,\w[5] anyways,\w[5] we probably don't
+have much longer to chat.|
+\e[2|0]So,\w[5] let's switch focus to the
+battle again.|\s[2]Right.|</Value>
+    </Item>
+    <Item>
+      <Key>EphraimMarc_1</Key>
+      <Value>\f[5|Ephraim]\f[2|Marc]\e[2|1]\s[2]Hey,\w[5] Ephraim.|\e[5|0]\s[5]Oh hey,\w[5] what's up\e[2|7]?|\s[2]Besides this whole fetch quest thing...|\scroll\e[2|0]I'm doing alright.\w[10] \e[2|1]I appreciate the
+help of an old buddy.|\e[5|2]\s[5]It's fine.\w[10] It wouldn't have been
+nice of me to refuse,\w[5] haha.|\e[2|7]\s[2]That's also at least one more person
+who hasn't tried to kill\e[5|3] me,\w[5] here
+helping me.|\s[5]I wonder\e[2|0] how many of those
+exist at this point.|\s[2]Now that you mention it...|\scroll\e[2|7]A LOT of people have tried to kill me by
+now,\w[5] huh?\w[15] Evil clones,\w[5] magic chinchillas...\w[15]
+I wish they would tone it down a notch.|\e[5|2]\s[5]I think it's pretty obvious,\w[5] why there's
+a lot of them.\w[10] \e[5|0]Every hero\e[2|3] needs a villain,\w[5]
+if I were to guess.|\s[2]I guess?|\scroll\e[2|0]I'm getting bored of being the hero all the
+time.\w[10] It's getting so overdone by this point.\w[10]
+\e[2|7]I'm not even that heroic\e[5|3] of a character.|\s[5]So you'd rather be an enemy?|
+\e[5|2]Hasn't that been done before,\w[5] though?|\e[2|0]\s[2]Yeah I know,\w[5] but like...|\scroll\e[2|1]I feel like I can be an awesome fucking villain.\w[10]
+I'd just need some good motivation and shit.|\s[5]I wonder about that.|\scroll\e[5|3]Though from a technical standpoint,\w[5] I--\wait[15]\s[2]Yeah like,\w[5] I feel like I can be have this
+really cool\e[5|2] gray morality.|
+You know,\w[5] make the player question
+his ideals and shit?|
+Then you can have this sick battle where
+Reisen and I wo--\wait[15]\s[5]I know what you're getting at.|
+I mean...\w[15]\e[5|0] I would say\e[2|0] it can be good.|\s[2]I dunno.|\scroll\e[2|7]I wouldn't say it's relatively easy,\w[5] but
+you know,\w[5] like,\w[5] \e[2|1]I always advise people
+to think outside the box and shit.|\e[5|3]\s[5]I mean sure,\w[5] that's all good and all,\w[5] but...\w[15]
+It doesn't\e[2|3] solve the issue.|\s[2]Huh?\w[15]\e[5|2]|\s[5]Didn't you just say you wanted people
+to "tone it down"\e[2|0] with killing you?|
+\s[2]I did.\w[10]\e[5|3]|\s[5]If you're the enemy,\w[5] that only
+makes it worse.|\s[2]...\w[15]\e[2|7]Fuck.|\scrollI guess I'm always prone to dying
+no matter what.\w[10] \e[2|0]Can't I get a break
+for a change?|\scroll\e[2|7]...\w[15]\e[5|2]\wait[20]|\s[5]Don't look at me like that.\w[10] \e[5|3]You were
+the one who named it Ragefest.\w[10]
+\e[5|0]I just did what you asked for.|\s[2]Alright.|\scroll\e[2|0]Guess I'll just go die then.|\s[-2]\f[2|nil]\w[5]\s[5]Ah Marc...\w[15]
+\e[5|3]What is this contest doing to you?|</Value>
+    </Item>
+    <Item>
+      <Key>CiraxisRS_1</Key>
+      <Value>\f[2|RS]\f[5|Ciraxis]\s[2]General Ciraxis.|\s[5]Hmm?\w[15]
+What is it?|\s[2]We must talk.|\s[5]Make it quick.|\s[2]\e[2|3]Just why am I here,\w[5] exactly?|\s[5]Because I ordered you to be here.|\s[2]This isn't my responsibility.|\s[5]Oh,\w[5] what's that about now?|\s[2]\e[2|3]I was only recently hired as the Chief
+of Security.\w[10]\e[2|0] I've only barely begun
+updating the security apparatus,|
+instead of being here,\w[5] it would be more
+important to--\wait[15]\s[5]Wrong.|\s[2]...\w[15]\e[2|3]\m[2|2]Excuse me?|\s[5]My orders hold the highest importance.|\s[2]\e[2|0]It would benefit you more if I--\wait[15]\s[5]Haven't you read your contract?|\s[2]\e[2|4]Every word of it.|\s[5]Did you read the fine print?|\s[2]\e[2|0]Affirmative.|\s[5]Did you read between the lines?|\s[2]...\w[15]\e[2|0]Affirmative...|\s[5]Did you read it backwards?|\s[2]...\w[15]\e[2|3]\m[2|2]I...|\s[5]Did you read the blank space?|\s[2]...\w[15]\e[2|4]It's blank.\w[10]
+\e[2|0]There's nothing there.|\s[5]...|\s[2]\e[2|0]Are\m[2|2]...\w[15]you serious?|\s[5]Well,\w[5] that's on you then.\w[10]
+Can't blame you for missing it,\w[5] honestly.\w[10]
+It was written in invisible\e[2|4] ink and all.|\s[2]...\w[15]That's nonsense.|\s[5]"The subject's assignments,\w[5] job description
+and life are at the mercy of Ciraxis and as
+such;\w[5] prone to adjustments.|
+Any violation of this will result in severe
+punishment.\w[10]"|\s[2]\e[2|4]Absurd.|\s[5]Couldn't care less what you think.\w[10]
+You were the one who signed it.\w[10]
+Just do as you're told,\w[5] gnat.|\s[2]\e[2|3]...|\s[-2]\m[5|4]\s[-2]\s[4]Your pay and benefits are more than generous.\w[10]
+The faster you get this done the faster you can
+continue with your duties back at base.|\s[-2]\m[2|1]\s[-2]\s[1]\e[1|0]\m[1|1]Very well then,\w[5] Sir.|\s[-2]\f[1|nil]\w[5]\s[4]...\w[15]Sir?|\s[-2]\f[1|RS]\w[5]\s[1]...\w[15]Lord Ciraxis.|\s[4]...|\e[1|3]\s[1]...\w[15]Supreme Commander Ciraxis.|\s[4]That works.\w[10] Now get lost.\w[10]
+We've wasted enough time here.|\s[1]A\m[1|1]...\w[15] Very well.|\s[-2]\f[1|nil]\w[5]\r[4]\s[4]I'll never understand these people.|\scrollWhat part of "obey without question"
+do they not understand?|</Value>
+    </Item>
+    <Item>
+      <Key>MattMarc_1</Key>
+      <Value>\f[2|Matthew]\f[5|Marc]\s[2]Heyo Marc!\w[15]
+\e[2|1]Thanks for the mission.|\s[5]Hm?\w[15] \e[5|1]Oh,\w[5] Matthew.\w[10]
+Don't mention it.|\scroll\e[5|7]I really need to get my stuff
+back.\w[10] \e[5|1]Any help counts,\w[5] even
+if it's you guys.|\s[2]Hey thanks!\w[15] \e[2|0]Wait...\w[15]\e[2|2]that was
+a compliment,\w[5] right?|\s[5]Sure it was.\w[10] \e[5|7]You guys have saved
+my ass before too.|\scroll\r[5](Even\e[2|0] if that was debatably canon.\w[10])|\s[2]What\e[5|0]\r[5] did you say?|\s[5]Nothing.\w[10] Either way,\w[5] it's nice
+to have you two.|\e[2|1]\s[2]No problem.\w[10] \e[2|0]You already seem to
+have a team yourself,\w[5] though.|\s[5]\r[5]Oh,\w[5] these guys?|\scroll\r[5]Yeah,\w[5] they're...\wait[10] \e[5|7]old friends of mine.\w[10]
+\e[5|1]Don't\e[2|2] get on their bad sides.|\s[2]Oh uh,\w[5] ok?\w[15] \e[2|0]No need to worry about
+me.\w[10] \e[2|1]I'm used to dealing with a rowdy
+team,\w[5] you know.|\s[5]Oh yeah,\w[5] your team.\w[10] \e[5|0]Must be hard
+to be ordered around all the time.|\s[2]Ye--\wait[15]\scroll...\w[15]\e[2|2]Wait,\w[5] what?|\scrollI don't get ordered around!\w[15]
+I'm\e[5|7] the leader!|\s[5]Wait.|\scrollYOU'RE the leader?\w[15] \e[5|0]I thought
+the leader was Vandal\m[2|2].|\s[2]...\w[15]Vandal\e[5|7]?|\s[5]Or,\w[5] you know,\w[5] that angry girl...\w[15]
+What was her name\e[5|3]...\wait[30]Penny?\w[15]
+\e[5|1]Yeah,\w[5] that one.|\s[2]...\w[15]\m[2|2]Peggie?|\s[5]You just seem so...\w[15]passive\m[2|2], you know?\w[15]
+Not really much of a leader type and all.|\s[2]...\w[15]Passive?|\s[5]Yeah,\w[5] yeah.|\scroll\e[5|0]Don't you agree that
+it makes more sense?|\s[2]...\w[15]\e[5|7]|\s[5]Uh...\w[15]Matthew?\w[15]
+Are you doing alright?|\s[2]\e[2|0]Huh?|\scrollOh yeah,\w[5] I'm uh...\w[15]\m[2|2]\e[2|1]I'm fine!|
+Now if you excuse me,\w[5] \e[2|0]I uh...\w[15]
+\m[2|2]\e[2|2]need\e[5|0] a minute.|\s[-2]\m[2|0]\w[5]\s[5]Huh?\w[15] What's up with him?\w[15]
+\e[5|7]Did I say something wrong?|\s[-2]\m[0|2]\e[2|2]\s[2]I said I'm fine!\w[15] \m[2|2]I just...\w[15]\m[2|2]I just...\w[15]
+\m[2|2]\e[2|3]My eyes are just a bit sweaty
+right now.|\s[-2]\m[2|0]\w[5]\s[5]\e[5|0]I think I hurt his feelings.|\s[0]I'm...\w[15]\e[5|7]fine!\w[15]
+...\wait[10]sniff\wait[10]...|\s[5]Yeah,\w[5] he's not fine.|</Value>
+    </Item>
+    <Item>
+      <Key>PurtMatt_1</Key>
+      <Value>\f[2|Purt]\s[2]...|\s[7]...Huh?|\scrollHey, you there!|\s[2]Huh?|\f[7|Matthew]\s[-2]\m[7|5]\w[2]\s[5]Yes, hello, hi, salutations.|\scrollDo I know you from somewhere?
+You seem oddly familiar...|\s[2]Oh, it's you!|\scrollIt's nice to see a customer.
+Your name was...Matthew\e[5|1]?|\s[5]OH YEAH, I do know you!
+You're the bread delivery guy!|\scrollYour bread is amazing, by the way.|\s[2]Freshest\e[5|0] in the business.|\s[5]What are you doing here though?
+\e[5|2]I wouldn't expect a baker in this
+sort of place.|\s[2]Let's just say I got some
+work to do\e[5|0].|\s[5]I see.|\scroll\e[5|1]A baker and a fighter?
+You must have quite the life.|\s[2]I guess you could say that.|\scrollI've heard that you're a fighter too.
+You've helped Marc once before,
+haven't you?|\s[5]Ah, yes, that was quite a trip.|\scroll\e[5|0]Though my team seems a lot less...
+"dynamic" than yours.|
+You seem very..."cheery"\e[2|3] compared
+to the others.|\s[2]I'll take that as a compliment.|\scroll\e[2|0]You seem pretty "cheery" yourself,
+you know.|\s[5]\e[5|2]You got me there, I guess.
+\e[5|0]Sounds like I barely know
+you at all, huh?|\s[2]We can catch up later if you want.
+Maybe over\e[5|1] some bread?|\s[5]Sounds good to me!
+I'll be sure to order a
+lot more from now on.|\s[2]The Agonist Bakery thanks
+you for your business.|\s[5]Oh yeah, and your name is...?|\s[2]Purt.
+Purt Agonist\e[5|0].|\s[5]...|\scrollOh. \e[5|2]That's uh...\wait[20]definitely\e[2|3]
+an interesting name.|\s[2]If I had a coin for everytime someone
+said that... There'd be a lot less bread
+for me to deliver.|</Value>
+    </Item>
+    <Item>
+      <Key>RSAsh_1</Key>
+      <Value>\f[2|Ash]\f[5|RS]\r[5]\s[2]Uh, hey, R.S.\r[5] Could I
+get you for a bit?|\s[-2]\s[5]What is the reason for this, Sir?
+Is there some sort of issue?|\s[2]No, no, it's none of that.
+I was just hoping we could
+have a nice talk\e[5|3].|
+You work for me, yet I hardly
+know you at all.|\s[5]You request information?|\s[2]I guess you could say that...|
+This isn't work though, I just
+want to talk. It will be good
+for both of us, I feel.|\s[5]Just...\wait[20]talk? \e[5|2]Ah, I comprehend.|
+Is this is a safety procedure?
+Fortifying bonds to increase battle
+prowess.|
+If so, I'll gladly abide by my duty, Sir.|\s[2]Uh...\wait[20]sure\wait[20]...
+If that makes it
+easier for you.|\s[-2]\wait[60]\e[2|2]\wait[60]\s[2]So...\w[20]yeah\w[20]...|\scrollAren't you going to say
+something? \e[2|0]What is it
+that's holding\e[5|0] you up?|\s[5]That would be the ground\e[2|2], Sir.|\s[2]No, I didn't mean\w[20]... \e[2|0]Nevermind, listen...
+You're the Chief of Security, aren't you?
+Something interesting must have happened.|
+Just tell me about how your day was.|\s[5]Oh, I see now.|\scroll\e[5|2]Would you like to receive
+my daily report, Sir?|\s[2]Yeah, sure, \e[5|0]that works.|\s[5]At exactly 10:47 in the morning, a soldier
+was seen slipping some sort of powder
+on Lord Ciraxis' usual breakfast, sir.|
+The soldier was immediatly sent to the
+"Fun House" until further notice.|\s[2]Oh, really?
+Did someone try to
+poison Ciraxis?|\s[5]After further analysis, the powder was
+identified as salt.\e[5|3]|
+We tried to contact the accused soldier
+afterwards, but we couldn't get a response
+over his bloodcurdling screams.|
+\e[5|0]At 15:18, the sound of footsteps was heard
+on the garden. \e[5|2]The Chief of our Air Force,
+Soh, dealt with the invader.|
+\e[5|0]The trespasser was a kid who lost his ball
+after playing.|\s[2]...|\s[5]\e[5|3]The ball was successfully retrieved, though the
+kid may be in need of mental help, Sir. His mount\e[2|2]
+had some\wait[20]... difficulties, you could say.|
+\e[5|0]\e[2|0]At 18:53, officers Wally and Warren were seen 
+trying to steal Fleet Admiral Neal's beverage
+supplies, and have been relocated to subject
+186-F's testing grounds.|
+\e[5|2]At 03:26, I personally took care of all soldiers
+who were sleeping before our appointed bedtime
+of 10 AM, Sir.|
+\e[5|0]At 04:43, a red sock was seen mixed with the
+laundry of--\wait[15]\s[2]Listen, just stop right there, please.
+That's more\e[5|2] than enough.|\s[5]Affirmative, Sir.|\scroll\e[5|0]Reducing\e[2|2] maximum word
+output by 40%.|\s[2]No, that's the opposite of what
+I want.|
+\e[2|0]Listen, we can talk after we get
+Marc's stuff back, ok? I'll check
+back\e[5|2] with you in a minute.|\s[5]Affirmative, Sir.|
+I'll await you in 60 seconds.|\s[2]....|\s[-2]\f[2|nil]\w[2]\e[5|0]\s[5]...\w[20]59\wait[20]...\wait[20]58\wait[20]....|</Value>
+    </Item>
+    <Item>
+      <Key>VandalMatthew_1</Key>
+      <Value>\f[2|Matthew]\f[5|Vandal]\e[5|2]\s[5]Yo Matty boi.
+You've been holding out well?|\s[2]Yeah, I'm good.
+This was all a bit sudden\e[5|0], though.|\s[5]Not like that ever\e[2|2] stops us, right?|\s[2]Sadly, you're right.|\scroll\e[2|0]You seem\e[5|2] pretty comfortable though.
+Why is that?|\s[5]You noticed? Well, let's just
+say these sorts of places
+are kind of my territory.|\s[2]Huh?|\scrollSo you've been here\e[5|0] before?|\s[5]Are you kidding me?
+Where do you think our
+post-mission loot goes?|\s[2]Oh. \r[2]So you sell our stuff\e[5|2] on
+this Black Market?|\s[5]Hey, I didn't say that!|\scrollI only sell leftover goods and
+enemy junk. I don't sell our stuff.|
+\e[5|3]...\w[30]for cheap, anyw--\wait[15]\r[2]\s[2]What did you say?|\s[5]Oh, \e[5|2]nothing, nothing.
+\e[5|0]Just talking to myself.|\e[2|2]\s[2]Anyway, if you know these guys...
+\e[2|0]Can't you just get Marc's stuff
+witout fighting\e[5|2]?|\s[5]About that...|\scroll\e[5|3]Let's just say these guys
+aren't exactly my friends...|\s[2]What do you mean?|\s[5]I may have...\w[20]\e[5|2]been kicked
+out\e[2|2] of this place.|\s[2]What? Why?|\s[5]Stole from the Commander.
+\e[5|0]It was a really cool cape,
+I swear.|\s[2]Oh, for the love of...|\scroll\e[2|0]Well, there goes that plan, then.
+I guess fighting\e[5|2] is the only option.|\s[5]Yep, seems\e[2|2] so.|\s[2]Alright, just promise you won't
+do something like this again.
+Sheesh.|\s[-2]\f[2|nil]\w[2]\s[-2]\s[5]Haha...\wait[20]\e[5|0]nah.|</Value>
+    </Item>
+    <Item>
+      <Key>VandalAsh_1</Key>
+      <Value>\f[2|Ash]\s[2]Hmm...\w[15] We should hurry up.\w[10]
+I'm sure Ciraxis must be
+getting impatient...|\s[7]HEY\e[2|2],\w[5] YOU THERE!|\r[2]\s[2]Uh,\w[5] what?\w[15] \r[2]Who's there?|\s[7]HAAAAAAAH--\wait[15]\f[7|Vandal]\e[7|4]\s[-2]\m[7|1]\w[10]\s[-2]\m[2|5]\r[5]\s[5]\e[5|0]Woah\r[1],\w[5] watch out there.|\s[1]YOU!|\s[-2]\m[1|2]\s[-2]\s[2]What do you think
+you're doing?|\s[5]Huh?\w[15] Well,\w[5] I could ask
+you the same.|\s[2]Don't play dumb with me.
+You almost zapped me on
+the way here!|\s[5]Did I really?\w[15] I don't recall that.
+Though looking at you again...|
+\e[5|3]You do seem to resemble a common
+burglar\e[2|2]. It must have been a
+misunderstanding.|\s[2]I prefer the term,\w[5] "treasure hunter".|
+\e[2|4]And don't give me that "I forgot" shit!
+You were looking right at me when you
+did it.|\s[5]Uh-huh.\w[10] How curious.\w[10] Hmmmm....
+\e[5|0]Ah,\w[5] I get it now.\w[10] \e[5|3]It must have
+been one of my clones\e[2|3].|\s[2]Clones?\w[15] \e[2|2]Well,\w[5] whatever.\w[10]
+\e[5|2]What matters is that you
+don't do it again.|\s[5]Jeez\e[2|4], what a temper.|\s[2]\e[5|2]I COULD HAVE DIED!|\s[5]\e[5|3]But you didn't, did you?\w[10]
+You should be glad.|
+\e[5|0]And besides,\w[5] if you're a thief,\w[5]
+couldn't you have dodged tha--\wait[15]\e[2|2]\s[2]Don't finish that sentence,\w[5]
+please.|\s[5]Uh,\w[5] ok?|\e[2|0]\s[2]So,\w[5] since you clearly owe me
+for that, now...|
+Is there anything else you can
+clone besides yourself?|\s[5]Oh,\w[5] I\e[2|2] dunno,\w[5] maybe.|\s[2]What is the source of that power?\w[15]
+Is it natural,\w[5] a tome,\w[5] an artifact?|\s[-2]\m[2|3]\w[2]\s[-2]\s[3]\e[3|0]Are you by chance carrying it?|\e[5|2]\s[5]...\wait[20]Yeah,\w[5] no.\w[10] Step back now.\w[10]
+\e[5|0]I'd rather not have anything
+stolen.|\s[-2]\m[3|2]\e[2|2]\s[-2]\s[2]Stolen? \e[2|0]C'mon,\w[5] I wouldn't
+just do that...|\s[5]You shouldn't grin while
+you say that.|\s[2]Don't you believe me?|\s[5]...|\f[6|Ash_Clone]\s[6]...|\s[2]Wait,\w[5] is that the clone from befo--\wait[15]\scrollAAAAH!!|\s[-2]\m[2|0]\w[2]\f[0|nil]\w[5]\m[6|0]\wait[10]\s[-2]\w[60]\m[5|3]\s[-2]\s[3]....|\scroll\e[2|3]And there he goes...
+Too easy, heheh...|</Value>
+    </Item>
+  </Asset>
+</XnaContent>

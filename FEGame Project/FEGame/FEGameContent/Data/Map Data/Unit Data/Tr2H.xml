@@ -1,0 +1,1318 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="FEXNA_Library.Map_Unit_Data">
+    <Units>
+      <Item>
+        <Key>4 13</Key>
+        <Value>
+          <type>character</type>
+          <identifier>Uther</identifier>
+          <data>1|Actor ID
+1|Team
+0|AI Priority
+0|AI Mission
+</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>4 12</Key>
+        <Value>
+          <type>character</type>
+          <identifier>Hassar</identifier>
+          <data>8|Actor ID
+1|Team
+0|AI Priority
+0|AI Mission
+</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>5 14</Key>
+        <Value>
+          <type>character</type>
+          <identifier>Madelyn</identifier>
+          <data>6|Actor ID
+1|Team
+0|AI Priority
+0|AI Mission
+</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>5 16</Key>
+        <Value>
+          <type>character</type>
+          <identifier>Cybil</identifier>
+          <data>9|Actor ID
+1|Team
+0|AI Priority
+0|AI Mission
+</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>5 12</Key>
+        <Value>
+          <type>character</type>
+          <identifier>Wallace</identifier>
+          <data>15|Actor ID
+1|Team
+0|AI Priority
+0|AI Mission
+</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>3 12</Key>
+        <Value>
+          <type>character</type>
+          <identifier>Bennet</identifier>
+          <data>14|Actor ID
+1|Team
+0|AI Priority
+0|AI Mission
+</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>2 14</Key>
+        <Value>
+          <type>character</type>
+          <identifier>Lenny</identifier>
+          <data>13|Actor ID
+1|Team
+0|AI Priority
+0|AI Mission
+</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>4 15</Key>
+        <Value>
+          <type>character</type>
+          <identifier>Fargus</identifier>
+          <data>33|Actor ID
+1|Team
+0|AI Priority
+0|AI Mission
+</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>2 13</Key>
+        <Value>
+          <type>character</type>
+          <identifier>Magnus</identifier>
+          <data>10|Actor ID
+1|Team
+0|AI Priority
+0|AI Mission
+</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>3 16</Key>
+        <Value>
+          <type>character</type>
+          <identifier>Hyde</identifier>
+          <data>19|Actor ID
+1|Team
+0|AI Priority
+0|AI Mission
+</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>36 10</Key>
+        <Value>
+          <type>character</type>
+          <identifier>Boston</identifier>
+          <data>175|Actor ID
+2|Team
+50|AI Priority
+800|AI Mission
+</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>40 8</Key>
+        <Value>
+          <type>character</type>
+          <identifier>Alec</identifier>
+          <data>176|Actor ID
+2|Team
+25|AI Priority
+501|AI Mission
+</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>8 4</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Rebel|Name
+16|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+0|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 3, 46|Item 1
+0, 0, 0|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+71, 0, 0, 0, 0, 0, 0, 0, 0, 0|Weapon Levels</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>15 5</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>Group1Myrm</identifier>
+          <data>Rebel|Name
+16|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+0|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 3, 46|Item 1
+0, 0, 0|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+71, 0, 0, 0, 0, 0, 0, 0, 0, 0
+</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>40 10</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>AlecMyrm1</identifier>
+          <data>Rebel|Name
+16|Class ID
+0|Gender
+13|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+401|AI Mission
+0, 3, 46|Item 1
+0, 0, 0|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+71, 0, 0, 0, 0, 0, 0, 0, 0, 0
+</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>41 9</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>AlecMyrm2</identifier>
+          <data>Rebel|Name
+16|Class ID
+0|Gender
+13|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+401|AI Mission
+0, 3, 46|Item 1
+0, 0, 0|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+71, 0, 0, 0, 0, 0, 0, 0, 0, 0
+</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>17 4</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>Group1Archer</identifier>
+          <data>Rebel|Name
+19|Class ID
+0|Gender
+13|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+0|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 83, 45|Item 1
+0, 0, 0|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+0, 0, 0, 31, 0, 0, 0, 0, 0, 0
+</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>37 11</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Rebel|Name
+19|Class ID
+0|Gender
+13|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+0|Build Type
+-1|Con
+0|AI Priority
+203|AI Mission
+0, 83, 45|Item 1
+0, 0, 0|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+0, 0, 0, 31, 0, 0, 0, 0, 0, 0|Weapon Levels</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>35 21</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>KillerLongbow</identifier>
+          <data>Member|Name
+55|Class ID
+1|Gender
+4|Level
+0|Exp
+2|Team
+24|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 87, 20|Item 1
+0, 0, 0|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+0, 0, 0, 121, 0, 0, 0, 0, 0, 0
+</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>12 10</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Rebel|Name
+22|Class ID
+0|Gender
+13|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+0|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 33, 45|Item 1
+0, 0, 0|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+0, 31, 0, 0, 0, 0, 0, 0, 0, 0|Weapon Levels</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>16 11</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>HorseslayerSoldier</identifier>
+          <data>Rebel|Name
+22|Class ID
+0|Gender
+13|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+0|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 35, 18|Item 1
+0, 0, 0|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+0, 31, 0, 0, 0, 0, 0, 0, 0, 0
+</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>35 16</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>Group2Soldier1</identifier>
+          <data>Rebel|Name
+22|Class ID
+0|Gender
+12|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 39, 35|Item 1
+0, 0, 0|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+0, 71, 0, 0, 0, 0, 0, 0, 0, 0
+</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>34 17</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>Group2Soldier2</identifier>
+          <data>Rebel|Name
+22|Class ID
+0|Gender
+12|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+0|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 33, 45|Item 1
+0, 34, 20|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+0, 71, 0, 0, 0, 0, 0, 0, 0, 0
+</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>34 20</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>DoorKeySoldier</identifier>
+          <data>Rebel|Name
+22|Class ID
+0|Gender
+11|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 39, 35|Item 1
+1, 11, 1|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+0, 71, 0, 0, 0, 0, 0, 0, 0, 0
+</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>19 10</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Rebel|Name
+30|Class ID
+0|Gender
+12|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 59, 45|Item 1
+0, 0, 0|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+0, 0, 71, 0, 0, 0, 0, 0, 0, 0|Weapon Levels</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>19 11</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Rebel|Name
+30|Class ID
+0|Gender
+12|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 59, 45|Item 1
+0, 0, 0|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+0, 0, 71, 0, 0, 0, 0, 0, 0, 0|Weapon Levels</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>41 8</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>KnightCrestCohort</identifier>
+          <data>Rebel|Name
+30|Class ID
+0|Gender
+12|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+401|AI Mission
+0, 59, 45|Item 1
+1, 38, 1|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+0, 0, 71, 0, 0, 0, 0, 0, 0, 0
+</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>24 16</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Rebel|Name
+30|Class ID
+0|Gender
+13|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 59, 45|Item 1
+0, 0, 0|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+0, 0, 71, 0, 0, 0, 0, 0, 0, 0|Weapon Levels</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>24 15</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Rebel|Name
+30|Class ID
+0|Gender
+13|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 61, 18|Item 1
+0, 0, 0|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+0, 0, 71, 0, 0, 0, 0, 0, 0, 0|Weapon Levels</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>29 8</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>Group2Monk</identifier>
+          <data>Rebel|Name
+39|Class ID
+0|Gender
+10|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+0|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 132, 30|Item 1
+0, 0, 0|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+0, 0, 0, 0, 0, 0, 0, 31, 0, 0
+</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>35 11</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Rebel|Name
+39|Class ID
+0|Gender
+10|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+0|Build Type
+-1|Con
+0|AI Priority
+203|AI Mission
+0, 132, 30|Item 1
+0, 0, 0|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+0, 0, 0, 0, 0, 0, 0, 31, 0, 0|Weapon Levels</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>24 18</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>CenterDraco1</identifier>
+          <data>Merc_Bern|Name
+23|Class ID
+0|Gender
+17|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+201|AI Mission
+0, 38, 30|Item 1
+0, 0, 0|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+0, 71, 0, 0, 0, 0, 0, 0, 0, 0
+</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>23 19</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>CenterDraco2</identifier>
+          <data>Merc_Bern|Name
+23|Class ID
+0|Gender
+17|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+201|AI Mission
+0, 33, 45|Item 1
+0, 0, 0|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+0, 71, 0, 0, 0, 0, 0, 0, 0, 0
+</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>15 25</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Merc_Bern|Name
+23|Class ID
+0|Gender
+15|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+203|AI Mission
+0, 33, 45|Item 1
+0, 0, 0|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+0, 71, 0, 0, 0, 0, 0, 0, 0, 0
+</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>16 26</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Merc_Bern|Name
+23|Class ID
+0|Gender
+15|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+203|AI Mission
+0, 38, 30|Item 1
+0, 0, 0|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+0, 71, 0, 0, 0, 0, 0, 0, 0, 0
+</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>15 4</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>Group1Merc</identifier>
+          <data>Rebel|Name
+27|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+0|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 3, 46|Item 1
+0, 0, 0|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+71, 0, 0, 0, 0, 0, 0, 0, 0, 0
+</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>13 11</Key>
+        <Value>
+          <type>generic</type>
+          <identifier></identifier>
+          <data>Rebel|Name
+27|Class ID
+0|Gender
+13|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+0|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 3, 46|Item 1
+0, 0, 0|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+71, 0, 0, 0, 0, 0, 0, 0, 0, 0|Weapon Levels</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>40 19</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>SteelSwordMerc</identifier>
+          <data>Rebel|Name
+27|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 8, 30|Item 1
+0, 0, 0|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+121, 0, 0, 0, 0, 0, 0, 0, 0, 0
+</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>37 16</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>Group2Merc</identifier>
+          <data>Rebel|Name
+27|Class ID
+0|Gender
+15|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 8, 30|Item 1
+0, 0, 0|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+121, 0, 0, 0, 0, 0, 0, 0, 0, 0
+</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>15 13</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>Warrior</identifier>
+          <data>Member|Name
+63|Class ID
+0|Gender
+5|Level
+0|Exp
+2|Team
+23|Prepromote Levels
+2|Build Type
+-1|Con
+10|AI Priority
+1|AI Mission
+0, 64, 30|Item 1
+0, 65, 18|Item 2
+1, 1, 5|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+0, 0, 181, 1, 0, 0, 0, 0, 0, 0
+</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>29 23</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>Pirate1</identifier>
+          <data>Pirate_Rebel|Name
+26|Class ID
+0|Gender
+12|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+104|AI Mission
+0, 59, 45|Item 1
+0, 60, 20|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+0, 0, 31, 0, 0, 0, 0, 0, 0, 0
+</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>30 25</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>Pirate2</identifier>
+          <data>Pirate_Rebel|Name
+26|Class ID
+0|Gender
+12|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+104|AI Mission
+0, 59, 45|Item 1
+0, 60, 20|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+0, 0, 31, 0, 0, 0, 0, 0, 0, 0
+</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>22 6</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>NorthThief</identifier>
+          <data>Rebel|Name
+17|Class ID
+0|Gender
+10|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+0|Build Type
+-1|Con
+0|AI Priority
+300|AI Mission
+0, 7, 40|Item 1
+1, 14, 15|Item 2
+1, 39, 1|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+31, 0, 0, 0, 0, 0, 0, 0, 0, 0
+</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>9 11</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>MemberCardThief</identifier>
+          <data>Rebel|Name
+17|Class ID
+0|Gender
+8|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+0|Build Type
+-1|Con
+0|AI Priority
+305|AI Mission
+0, 7, 40|Item 1
+1, 14, 15|Item 2
+1, 82, -1|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+31, 0, 0, 0, 0, 0, 0, 0, 0, 0
+</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>28 9</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>Group2Soldier3</identifier>
+          <data>Rebel|Name
+22|Class ID
+0|Gender
+12|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+0|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 33, 45|Item 1
+0, 34, 20|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+0, 71, 0, 0, 0, 0, 0, 0, 0, 0
+</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>36 16</Key>
+        <Value>
+          <type>generic</type>
+          <identifier>Group2Longbow</identifier>
+          <data>Member|Name
+55|Class ID
+1|Gender
+4|Level
+0|Exp
+2|Team
+24|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+1|AI Mission
+0, 87, 20|Item 1
+0, 0, 0|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+0, 0, 0, 121, 0, 0, 0, 0, 0, 0
+</data>
+        </Value>
+      </Item>
+    </Units>
+    <Reinforcements>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Member|Name
+63|Class ID
+0|Gender
+2|Level
+0|Exp
+2|Team
+23|Prepromote Levels
+1|Build Type
+-1|Con
+10|AI Priority
+2|AI Mission
+0, 64, 30|Item 1
+0, 60, 20|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+0, 0, 121, 1, 0, 0, 0, 0, 0, 0
+</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Rebel|Name
+22|Class ID
+0|Gender
+17|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+0|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 33, 45|Item 1
+0, 34, 20|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+0, 31, 0, 0, 0, 0, 0, 0, 0, 0|Weapon Levels</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Rebel|Name
+22|Class ID
+0|Gender
+15|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+0|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 33, 45|Item 1
+0, 0, 0|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+0, 31, 0, 0, 0, 0, 0, 0, 0, 0|Weapon Levels</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Rebel|Name
+30|Class ID
+0|Gender
+18|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 59, 45|Item 1
+0, 0, 0|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+0, 0, 71, 0, 0, 0, 0, 0, 0, 0|Weapon Levels</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Rebel|Name
+39|Class ID
+0|Gender
+15|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 132, 30|Item 1
+0, 0, 0|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+0, 0, 0, 0, 0, 0, 0, 31, 0, 0|Weapon Levels</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Merc_Bern|Name
+23|Class ID
+0|Gender
+17|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+203|AI Mission
+0, 36, 18|Item 1
+0, 0, 0|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+0, 71, 0, 0, 0, 0, 0, 0, 0, 0
+</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Merc_Bern|Name
+23|Class ID
+0|Gender
+17|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+203|AI Mission
+0, 33, 45|Item 1
+0, 0, 0|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+0, 71, 0, 0, 0, 0, 0, 0, 0, 0
+</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Rebel|Name
+27|Class ID
+0|Gender
+20|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 8, 35|Item 1
+0, 0, 0|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+71, 0, 0, 0, 0, 0, 0, 0, 0, 0|Weapon Levels</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Rebel|Name
+27|Class ID
+0|Gender
+20|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 8, 35|Item 1
+0, 0, 0|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+71, 0, 0, 0, 0, 0, 0, 0, 0, 0|Weapon Levels</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Pirate_Rebel|Name
+26|Class ID
+0|Gender
+12|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+104|AI Mission
+0, 59, 45|Item 1
+0, 60, 20|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+0, 0, 31, 0, 0, 0, 0, 0, 0, 0|Weapon Levels</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Rebel|Name
+17|Class ID
+0|Gender
+12|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+305|AI Mission
+0, 7, 40|Item 1
+1, 14, 15|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+31, 0, 0, 0, 0, 0, 0, 0, 0, 0|Weapon Levels</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Rebel|Name
+19|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+1|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 83, 45|Item 1
+0, 0, 0|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+0, 0, 0, 31, 0, 0, 0, 0, 0, 0|Weapon Levels</data>
+      </Item>
+      <Item>
+        <type>generic</type>
+        <identifier></identifier>
+        <data>Member|Name
+55|Class ID
+1|Gender
+4|Level
+0|Exp
+2|Team
+24|Prepromote Levels
+2|Build Type
+-1|Con
+0|AI Priority
+3|AI Mission
+0, 87, 20|Item 1
+0, 0, 0|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+0, 0, 0, 121, 0, 0, 0, 0, 0, 0
+</data>
+      </Item>
+    </Reinforcements>
+  </Asset>
+</XnaContent>

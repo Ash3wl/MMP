@@ -1,0 +1,2756 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Generic="System.Collections.Generic">
+  <Asset Type="Generic:Dictionary[int,FEXNA_Library.Data_Skill]">
+    <Item>
+      <Key>1</Key>
+      <Value>
+        <Id>1</Id>
+        <Name>Calling BS</Name>
+        <Description>If this unit has more than 1HP, can
+survive any attack with 1HP left.</Description>
+        <Abstract>GUTS</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>2</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>2</Key>
+      <Value>
+        <Id>2</Id>
+        <Name>Determination</Name>
+        <Description></Description>
+        <Abstract>DETER</Abstract>
+        <Image_Name>Personal</Image_Name>
+        <Image_Index>1</Image_Index>
+        <Animation_Id>1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>3</Key>
+      <Value>
+        <Id>3</Id>
+        <Name>Dash</Name>
+        <Description>Command: Give up other actions to move again.</Description>
+        <Abstract>DASH</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>18</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>4</Key>
+      <Value>
+        <Id>4</Id>
+        <Name>Frenzy</Name>
+        <Description></Description>
+        <Abstract>FRENZY</Abstract>
+        <Image_Name>Personal</Image_Name>
+        <Image_Index>3</Image_Index>
+        <Animation_Id>2</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>5</Key>
+      <Value>
+        <Id>5</Id>
+        <Name>Vantage</Name>
+        <Description>Eliza is deadly, cunning, and ready
+to preempt any move you make.
+(Always strikes first)</Description>
+        <Abstract>VANT</Abstract>
+        <Image_Name>Personal</Image_Name>
+        <Image_Index>4</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>6</Key>
+      <Value>
+        <Id>6</Id>
+        <Name>Cancel</Name>
+        <Description></Description>
+        <Abstract>CANCEL</Abstract>
+        <Image_Name>Personal</Image_Name>
+        <Image_Index>5</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>8</Key>
+      <Value>
+        <Id>8</Id>
+        <Name>Faith</Name>
+        <Description>Years of piety and reverence have 
+made the priest's soul pure.
+(Increase staff healing power by 5 HP per tier)</Description>
+        <Abstract>FAITH</Abstract>
+        <Image_Name>Class</Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>9</Key>
+      <Value>
+        <Id>9</Id>
+        <Name>Dodge +10</Name>
+        <Description>The most coveted art is the ability
+to outwit the fates themselves.
+(Grants Dodge +10)</Description>
+        <Abstract>DODGE10</Abstract>
+        <Image_Name>Class</Image_Name>
+        <Image_Index>1</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>10</Key>
+      <Value>
+        <Id>10</Id>
+        <Name>Critical +5</Name>
+        <Description>Expertise in dealing killing blows
+requires dedicated training.
+(Grants Crit +5)</Description>
+        <Abstract>CRIT5</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>35</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>11</Key>
+      <Value>
+        <Id>11</Id>
+        <Name>Critical +10</Name>
+        <Description>Expertise in dealing killing blows
+requires dedicated training.
+(Grants Crit +10)</Description>
+        <Abstract>CRIT10</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>35</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>12</Key>
+      <Value>
+        <Id>12</Id>
+        <Name>Critical + 15</Name>
+        <Description>Expertise in dealing killing blows
+requires dedicated training.
+(Grants Crit +15)</Description>
+        <Abstract>CRIT15</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>35</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>13</Key>
+      <Value>
+        <Id>13</Id>
+        <Name>Canto</Name>
+        <Description>A well-trained rider can perform
+many tasks mid-gallop.
+(Can use leftover move after most actions)</Description>
+        <Abstract>CANTO</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>40</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>14</Key>
+      <Value>
+        <Id>14</Id>
+        <Name>Savior</Name>
+        <Description>Fighting on another’s behalf is 
+second nature to the heroic.
+(No penalties from rescuing, allows Cover)</Description>
+        <Abstract>SAVIOR</Abstract>
+        <Image_Name>Class</Image_Name>
+        <Image_Index>6</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>15</Key>
+      <Value>
+        <Id>15</Id>
+        <Name>Focus</Name>
+        <Description>Steady footing can make all the
+difference in a clash.
+(Pow/Def +2 when moving one tile or less)</Description>
+        <Abstract>FOCUS</Abstract>
+        <Image_Name>Class</Image_Name>
+        <Image_Index>7</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>16</Key>
+      <Value>
+        <Id>16</Id>
+        <Name>Forest Movement</Name>
+        <Description></Description>
+        <Abstract>FRSTMV</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>17</Key>
+      <Value>
+        <Id>17</Id>
+        <Name>Floaties</Name>
+        <Description>Can traverse water.
+        Cliffs, not so much.</Description>
+        <Abstract>SEAMV</Abstract>
+        <Image_Name>Class</Image_Name>
+        <Image_Index>8</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>18</Key>
+      <Value>
+        <Id>18</Id>
+        <Name>Climb</Name>
+        <Description>One needs both agility and power
+in order to scale sheer rock.
+(Can traverse mountains)</Description>
+        <Abstract>MNTNMV</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>19</Key>
+      <Value>
+        <Id>19</Id>
+        <Name>Pathfinding</Name>
+        <Description>Rather than face a foe head-on,
+a nomad can take to better ground.
+(Lower movement costs in rough terrain)</Description>
+        <Abstract>NMDMV</Abstract>
+        <Image_Name>Class</Image_Name>
+        <Image_Index>10</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>20</Key>
+      <Value>
+        <Id>20</Id>
+        <Name>Siege Training</Name>
+        <Description>It takes more than a common
+mind to tame the machine.
+(Allows Ballista operation)</Description>
+        <Abstract>SIEGE</Abstract>
+        <Image_Name>Class</Image_Name>
+        <Image_Index>11</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>21</Key>
+      <Value>
+        <Id>21</Id>
+        <Name>Knife</Name>
+        <Description>Short, easy to conceal throwing blades
+that favor finesse and utility over power.
+(Swords: Skl boosts Str, Mgt -3, Hit +10)</Description>
+        <Abstract>KNIFE</Abstract>
+        <Image_Name>Class</Image_Name>
+        <Image_Index>13</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>22</Key>
+      <Value>
+        <Id>22</Id>
+        <Name>Crossbow</Name>
+        <Description>A mechanical bow doesn't need a
+strong wielder - it helps, however.
+(Bows: Mgt multiplied, Str instead gives AS)</Description>
+        <Abstract>CROSSBOW</Abstract>
+        <Image_Name>Class</Image_Name>
+        <Image_Index>14</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>23</Key>
+      <Value>
+        <Id>23</Id>
+        <Name>Steal</Name>
+        <Description>If you're faster than an enemy, you can steal from them.
+Steal rate influenced by level difference and item value;
+Nubby enemies or steel weapons are easy to steal, but
+strong enemies or brave weapons may be impossible.</Description>
+        <Abstract>STEAL</Abstract>
+        <Image_Name>SkillIconsMoar</Image_Name>
+        <Image_Index>7</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>24</Key>
+      <Value>
+        <Id>24</Id>
+        <Name>Thieving</Name>
+        <Description>tbh this skill doesn't seem to do
+anything but i didn't wanna remove
+it just in case, ya know?</Description>
+        <Abstract></Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>25</Key>
+      <Value>
+        <Id>25</Id>
+        <Name>Pick</Name>
+        <Description>Security mechanisms and thieves
+have long been in an arms race.
+(Open doors and chests)</Description>
+        <Abstract>PICK</Abstract>
+        <Image_Name>Class</Image_Name>
+        <Image_Index>17</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>26</Key>
+      <Value>
+        <Id>26</Id>
+        <Name>Nihil</Name>
+        <Description>A challenge that cuts to the soul:
+dare you face me in a fair fight?
+(Nullifies enemy skills, canceled by Nihil)</Description>
+        <Abstract>NIHIL</Abstract>
+        <Image_Name>Personal</Image_Name>
+        <Image_Index>6</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>27</Key>
+      <Value>
+        <Id>27</Id>
+        <Name>Plentitude</Name>
+        <Description>Restores HP equal to half damage dealt.</Description>
+        <Abstract>NOSF</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>32</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>28</Key>
+      <Value>
+        <Id>28</Id>
+        <Name>Guerilla</Name>
+        <Description></Description>
+        <Abstract>GUER</Abstract>
+        <Image_Name>Personal</Image_Name>
+        <Image_Index>8</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>29</Key>
+      <Value>
+        <Id>29</Id>
+        <Name>Prestige</Name>
+        <Description></Description>
+        <Abstract>PSTG</Abstract>
+        <Image_Name>Personal</Image_Name>
+        <Image_Index>9</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>30</Key>
+      <Value>
+        <Id>30</Id>
+        <Name>Cyclone</Name>
+        <Description></Description>
+        <Abstract>CYCLONE</Abstract>
+        <Image_Name>Personal</Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>31</Key>
+      <Value>
+        <Id>31</Id>
+        <Name>Vendetta</Name>
+        <Description></Description>
+        <Abstract>VENDE</Abstract>
+        <Image_Name>Personal</Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>32</Key>
+      <Value>
+        <Id>32</Id>
+        <Name>Flight</Name>
+        <Description>Grants Canto, and Mov +2 unless rescuing.</Description>
+        <Abstract>FLIGHT</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>3</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>33</Key>
+      <Value>
+        <Id>33</Id>
+        <Name>Anticipation</Name>
+        <Description>Auto-equip preferred weapon when attacked.</Description>
+        <Abstract>ANTICI</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>34</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>34</Key>
+      <Value>
+        <Id>34</Id>
+        <Name>Siege Mastery</Name>
+        <Description>True mastery of the siegecrafts
+takes sacrifice, talent, and vision.
+(Ballista operation, +5Mgt with ballistae)</Description>
+        <Abstract>SIEGEMST</Abstract>
+        <Image_Name>Class</Image_Name>
+        <Image_Index>12</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>35</Key>
+      <Value>
+        <Id>35</Id>
+        <Name>Sacrifice</Name>
+        <Description>All true knights aspire to martyrdom; a
+meaningful death for the good of others.
+(Heal another, sacrificing up to Lck x2 HP)</Description>
+        <Abstract>SACRIFICE</Abstract>
+        <Image_Name>Class</Image_Name>
+        <Image_Index>20</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>36</Key>
+      <Value>
+        <Id>36</Id>
+        <Name>Nullify</Name>
+        <Description></Description>
+        <Abstract>NULL</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>37</Key>
+      <Value>
+        <Id>37</Id>
+        <Name>Fortune</Name>
+        <Description></Description>
+        <Abstract>FORT</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>38</Key>
+      <Value>
+        <Id>38</Id>
+        <Name>Blessing</Name>
+        <Description></Description>
+        <Abstract>BLESS</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>41</Key>
+      <Value>
+        <Id>41</Id>
+        <Name>Astra</Name>
+        <Description></Description>
+        <Abstract>ASTRA</Abstract>
+        <Image_Name>Mastery</Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>2</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>42</Key>
+      <Value>
+        <Id>42</Id>
+        <Name>Lethality</Name>
+        <Description></Description>
+        <Abstract>LETHAL</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>43</Key>
+      <Value>
+        <Id>43</Id>
+        <Name>Silent Movement</Name>
+        <Description>Can pass through enemies.</Description>
+        <Abstract>SILENT</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>4</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>44</Key>
+      <Value>
+        <Id>44</Id>
+        <Name>Longbow</Name>
+        <Description>Secret techniques and modifications 
+allow for firing over great distances.
+(Grants Range +1 for Bows)</Description>
+        <Abstract>LONGBOW</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>45</Key>
+      <Value>
+        <Id>45</Id>
+        <Name>Multi-shot</Name>
+        <Description></Description>
+        <Abstract></Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>46</Key>
+      <Value>
+        <Id>46</Id>
+        <Name>Point Blank Shot</Name>
+        <Description></Description>
+        <Abstract>PNTBLNK</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>47</Key>
+      <Value>
+        <Id>47</Id>
+        <Name>Luna</Name>
+        <Description>Command (Skl): Use the enemy's might
+against them, like moon reflecting sun.
+(Doubles Mgt, halves enemy Def)</Description>
+        <Abstract>LUNA</Abstract>
+        <Image_Name>Mastery</Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>3</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>48</Key>
+      <Value>
+        <Id>48</Id>
+        <Name>Pierce</Name>
+        <Description></Description>
+        <Abstract>PIERCE</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>49</Key>
+      <Value>
+        <Id>49</Id>
+        <Name>Swoop</Name>
+        <Description>Dracoknights can dive in at breakneck
+speeds, and disengage just as swiftly.
+(Initiate a melee attack within 3 range)</Description>
+        <Abstract>SWOOP</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>50</Key>
+      <Value>
+        <Id>50</Id>
+        <Name>Colossus</Name>
+        <Description>It's a universal rule: might makes
+right; the more might, the better.
+(Con - enemy Con added to Atk, max 5)</Description>
+        <Abstract>COLOSSUS</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>51</Key>
+      <Value>
+        <Id>51</Id>
+        <Name>Rage</Name>
+        <Description>The only place a berserker finds
+peace is in the clamor of battle.
+(Hit and Avoid boosted by Crit rate)</Description>
+        <Abstract>RAGE</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>52</Key>
+      <Value>
+        <Id>52</Id>
+        <Name>Dominance</Name>
+        <Description></Description>
+        <Abstract>DOMINANCE</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>53</Key>
+      <Value>
+        <Id>53</Id>
+        <Name>Veteran</Name>
+        <Description>An experienced fighter knows to make 
+do with what he has on hand.
+(Bonus Weapon Masteries, Double WExp)</Description>
+        <Abstract>VETERAN</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>54</Key>
+      <Value>
+        <Id>54</Id>
+        <Name>Attack Canto</Name>
+        <Description>Can use leftover move after attacking</Description>
+        <Abstract>STRAFING</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>25</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>55</Key>
+      <Value>
+        <Id>55</Id>
+        <Name>Commando</Name>
+        <Description></Description>
+        <Abstract>CMNDO</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>56</Key>
+      <Value>
+        <Id>56</Id>
+        <Name>Sol</Name>
+        <Description>Command (Lck x2): Holy fervor renews
+strength, like the warmth of the sun.
+(Recovers HP equal to damage done)</Description>
+        <Abstract>SOL</Abstract>
+        <Image_Name>Mastery</Image_Name>
+        <Image_Index>15</Image_Index>
+        <Animation_Id>1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>57</Key>
+      <Value>
+        <Id>57</Id>
+        <Name>Spirited Charge</Name>
+        <Description></Description>
+        <Abstract></Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>58</Key>
+      <Value>
+        <Id>58</Id>
+        <Name>Sharp</Name>
+        <Description>Move through an enemy while attacking</Description>
+        <Abstract>TRAMPLE</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>59</Key>
+      <Value>
+        <Id>59</Id>
+        <Name>Shield Mastery</Name>
+        <Description></Description>
+        <Abstract>SHIELD</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>60</Key>
+      <Value>
+        <Id>60</Id>
+        <Name>Kamaitachi</Name>
+        <Description>Knights such as this possess the might
+to deal death from afar with any weapon.
+(Allow attacking at 2 range with Hit -20)</Description>
+        <Abstract>KAMAI</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>61</Key>
+      <Value>
+        <Id>61</Id>
+        <Name>Bastion</Name>
+        <Description></Description>
+        <Abstract>BASTION</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>62</Key>
+      <Value>
+        <Id>62</Id>
+        <Name>Bread Strike</Name>
+        <Description>Command (Skl + Spd): Retreat skyward
+to set up a devastating dive attack.
+(Grants Mgt/Crt +8, nonflying targets only)</Description>
+        <Abstract>SPRLDVE</Abstract>
+        <Image_Name>Mastery</Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>4</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>63</Key>
+      <Value>
+        <Id>63</Id>
+        <Name>Renewal</Name>
+        <Description>Restores 5 HP on turn start.</Description>
+        <Abstract>RENEW</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>33</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>64</Key>
+      <Value>
+        <Id>64</Id>
+        <Name>Smite</Name>
+        <Description>The old scriptures preach of wrath
+and justice, and the end of evil.
+(Mgt and WTA bonus doubled vs Dark)</Description>
+        <Abstract>SMITE</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>66</Key>
+      <Value>
+        <Id>66</Id>
+        <Name>Academic</Name>
+        <Description>A scholar for life, with
+few secrets left to learn.
+(Bonus Weapon Masteries, Double WExp)</Description>
+        <Abstract>ACADEMIC</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>67</Key>
+      <Value>
+        <Id>67</Id>
+        <Name>Entropic Shield</Name>
+        <Description>A field of chaotic magic surrounds the
+mage, keeping them safe.
+(Grants Avoid +25 vs physical weapons)</Description>
+        <Abstract>ENTROP</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>68</Key>
+      <Value>
+        <Id>68</Id>
+        <Name>Celerity</Name>
+        <Description>On a thin line between strength and
+frailty, agility makes its home.
+(Grants Mov + 2)</Description>
+        <Abstract>CELERITY</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>69</Key>
+      <Value>
+        <Id>69</Id>
+        <Name>Curse</Name>
+        <Description></Description>
+        <Abstract></Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>70</Key>
+      <Value>
+        <Id>70</Id>
+        <Name>Dreaded</Name>
+        <Description>Morale cannot hold against one so
+subsumed in darkness.
+(Enemy Hit/Crit -10 within 3 tiles)</Description>
+        <Abstract>DREAD</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>71</Key>
+      <Value>
+        <Id>71</Id>
+        <Name>Thaumaturgy</Name>
+        <Description></Description>
+        <Abstract>THAUM</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>72</Key>
+      <Value>
+        <Id>72</Id>
+        <Name>Nova</Name>
+        <Description>Command (Res): Channel the fury of the
+elements, like the rage of a dying star.
+(Doubles Mgt, halves enemy Res)</Description>
+        <Abstract>NOVA</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>28</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>73</Key>
+      <Value>
+        <Id>73</Id>
+        <Name>Peerless</Name>
+        <Description></Description>
+        <Abstract>PEERLESS</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>74</Key>
+      <Value>
+        <Id>74</Id>
+        <Name>Flare</Name>
+        <Description></Description>
+        <Abstract>FLARE</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>75</Key>
+      <Value>
+        <Id>75</Id>
+        <Name>Dance</Name>
+        <Description>Lets an ally move again. Duh.</Description>
+        <Abstract>DANCE</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>17</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>76</Key>
+      <Value>
+        <Id>76</Id>
+        <Name>Provision</Name>
+        <Description>Quick access to bindings and supplies
+allows allies to return to the fight sooner.
+(Heals adjacent allies 10 HP each turn)</Description>
+        <Abstract>PROVISION</Abstract>
+        <Image_Name>Class</Image_Name>
+        <Image_Index>21</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>77</Key>
+      <Value>
+        <Id>77</Id>
+        <Name>Machinist</Name>
+        <Description>Supporting an army means assembling
+all manner of war machines and defenses.
+(Can deploy and maintain siege engines)</Description>
+        <Abstract>MACHINE</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>78</Key>
+      <Value>
+        <Id>78</Id>
+        <Name>Hit +10</Name>
+        <Description>A keen eye, a calculating mind, and a
+thousand hours of training behind every hit.
+(Grants Hit +10)</Description>
+        <Abstract>HIT10</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>35</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>79</Key>
+      <Value>
+        <Id>79</Id>
+        <Name>Hit +25</Name>
+        <Description>A keen eye, a calculating mind, and a
+thousand hours of training behind every hit.
+(Grants Hit +25)</Description>
+        <Abstract>HIT25</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>35</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>80</Key>
+      <Value>
+        <Id>80</Id>
+        <Name>Evasiveness</Name>
+        <Description>Careful use of blocking, parrying, and rolling
+keep professional warriors out of harm's way.
+(Grants Avoid +10 except at WTD)</Description>
+        <Abstract>EVASIVE</Abstract>
+        <Image_Name>Class</Image_Name>
+        <Image_Index>1</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>81</Key>
+      <Value>
+        <Id>81</Id>
+        <Name>Pow +3</Name>
+        <Description>Power +3</Description>
+        <Abstract>POW+3</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>82</Key>
+      <Value>
+        <Id>82</Id>
+        <Name>Skl +3</Name>
+        <Description>Skill +3</Description>
+        <Abstract>SKL+3</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>83</Key>
+      <Value>
+        <Id>83</Id>
+        <Name>Spd +3</Name>
+        <Description>Speed +3</Description>
+        <Abstract>SPD+3</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>84</Key>
+      <Value>
+        <Id>84</Id>
+        <Name>Lck +3</Name>
+        <Description>Luck +3</Description>
+        <Abstract>LCK+3</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>85</Key>
+      <Value>
+        <Id>85</Id>
+        <Name>Def +3</Name>
+        <Description>Defense +3</Description>
+        <Abstract>DEF+3</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>86</Key>
+      <Value>
+        <Id>86</Id>
+        <Name>Res +3</Name>
+        <Description>Resistance +3</Description>
+        <Abstract>RES+3</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>91</Key>
+      <Value>
+        <Id>91</Id>
+        <Name>Pow +5</Name>
+        <Description>Power +5</Description>
+        <Abstract>POW+5</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>92</Key>
+      <Value>
+        <Id>92</Id>
+        <Name>Skl +5</Name>
+        <Description>Skill +5</Description>
+        <Abstract>SKL+5</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>93</Key>
+      <Value>
+        <Id>93</Id>
+        <Name>Spd +5</Name>
+        <Description>Speed +5</Description>
+        <Abstract>SPD+5</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>94</Key>
+      <Value>
+        <Id>94</Id>
+        <Name>Disruption</Name>
+        <Description>Mastery over the forces of 
+magic and those who command it.
+(Atk +5 vs Magic except at WTD)</Description>
+        <Abstract>TOMEBREAK</Abstract>
+        <Image_Name>Class</Image_Name>
+        <Image_Index>7</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>96</Key>
+      <Value>
+        <Id>96</Id>
+        <Name>HP Growth% +20</Name>
+        <Description></Description>
+        <Abstract>HP%+20</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>97</Key>
+      <Value>
+        <Id>97</Id>
+        <Name>Pow Growth% +10</Name>
+        <Description></Description>
+        <Abstract>POW%+10</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>98</Key>
+      <Value>
+        <Id>98</Id>
+        <Name>Skl Growth% +10</Name>
+        <Description></Description>
+        <Abstract>SKL%+10</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>99</Key>
+      <Value>
+        <Id>99</Id>
+        <Name>Spd Growth% +10</Name>
+        <Description></Description>
+        <Abstract>SPD%+10</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>100</Key>
+      <Value>
+        <Id>100</Id>
+        <Name>Lck Growth% +10</Name>
+        <Description></Description>
+        <Abstract>LCK%+10</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>101</Key>
+      <Value>
+        <Id>101</Id>
+        <Name>Def Growth% +10</Name>
+        <Description></Description>
+        <Abstract>DEF%+10</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>102</Key>
+      <Value>
+        <Id>102</Id>
+        <Name>Res Growth% +10</Name>
+        <Description></Description>
+        <Abstract>RES%+10</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>103</Key>
+      <Value>
+        <Id>103</Id>
+        <Name>Affinity Growth% +10</Name>
+        <Description></Description>
+        <Abstract>AFFIN%+10</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>111</Key>
+      <Value>
+        <Id>111</Id>
+        <Name>Pow +2</Name>
+        <Description>Power +2</Description>
+        <Abstract>POW+2</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>112</Key>
+      <Value>
+        <Id>112</Id>
+        <Name>Skl +2</Name>
+        <Description>Skill +2</Description>
+        <Abstract>SKL+2</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>113</Key>
+      <Value>
+        <Id>113</Id>
+        <Name>Spd +2</Name>
+        <Description>Speed +2</Description>
+        <Abstract>SPD+2</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>114</Key>
+      <Value>
+        <Id>114</Id>
+        <Name>Lck +2</Name>
+        <Description>Luck +2</Description>
+        <Abstract>LCK+2</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>115</Key>
+      <Value>
+        <Id>115</Id>
+        <Name>Def +2</Name>
+        <Description>Defense +2</Description>
+        <Abstract>DEF+2</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>116</Key>
+      <Value>
+        <Id>116</Id>
+        <Name>Res +2</Name>
+        <Description>Resistance +2</Description>
+        <Abstract>RES+2</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>117</Key>
+      <Value>
+        <Id>117</Id>
+        <Name>Con +2</Name>
+        <Description>Constitution +2</Description>
+        <Abstract>CON+2</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>118</Key>
+      <Value>
+        <Id>118</Id>
+        <Name>Affinity Stats +1</Name>
+        <Description></Description>
+        <Abstract>AFFIN+1</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>121</Key>
+      <Value>
+        <Id>121</Id>
+        <Name>Sleep</Name>
+        <Description></Description>
+        <Abstract>SLEEP</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>122</Key>
+      <Value>
+        <Id>122</Id>
+        <Name>Slow</Name>
+        <Description></Description>
+        <Abstract>SLOW</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>123</Key>
+      <Value>
+        <Id>123</Id>
+        <Name>Drunk</Name>
+        <Description></Description>
+        <Abstract>DRUNK</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>124</Key>
+      <Value>
+        <Id>124</Id>
+        <Name>Renewal</Name>
+        <Description>Restores 5 HP on turn start.</Description>
+        <Abstract>RENEW</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>33</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>131</Key>
+      <Value>
+        <Id>131</Id>
+        <Name>Deus's Geas</Name>
+        <Description></Description>
+        <Abstract>DEUS</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>132</Key>
+      <Value>
+        <Id>132</Id>
+        <Name>Mulciber's Iron</Name>
+        <Description></Description>
+        <Abstract>MULCIBER</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>133</Key>
+      <Value>
+        <Id>133</Id>
+        <Name>Set's Litany</Name>
+        <Description></Description>
+        <Abstract>SET</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>134</Key>
+      <Value>
+        <Id>134</Id>
+        <Name>Mot's Mercy</Name>
+        <Description></Description>
+        <Abstract>MOT</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>135</Key>
+      <Value>
+        <Id>135</Id>
+        <Name>El's Passage</Name>
+        <Description></Description>
+        <Abstract>EL</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>136</Key>
+      <Value>
+        <Id>136</Id>
+        <Name>Deus's Cursed Geas</Name>
+        <Description></Description>
+        <Abstract>DEUSCURSE</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>137</Key>
+      <Value>
+        <Id>137</Id>
+        <Name>Mulciber's Cursed Iron</Name>
+        <Description></Description>
+        <Abstract>MULCIBERCURSE</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>138</Key>
+      <Value>
+        <Id>138</Id>
+        <Name>Set's Cursed Litany</Name>
+        <Description></Description>
+        <Abstract>SETCURSE</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>139</Key>
+      <Value>
+        <Id>139</Id>
+        <Name>Mot's Cursed Mercy</Name>
+        <Description></Description>
+        <Abstract>MOTCURSE</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>140</Key>
+      <Value>
+        <Id>140</Id>
+        <Name>El's Cursed Passage</Name>
+        <Description></Description>
+        <Abstract>ELCURSE</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>141</Key>
+      <Value>
+        <Id>141</Id>
+        <Name>Bargain</Name>
+        <Description></Description>
+        <Abstract>BARGAIN</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>142</Key>
+      <Value>
+        <Id>142</Id>
+        <Name>Member</Name>
+        <Description></Description>
+        <Abstract>MEMBER</Abstract>
+        <Image_Name>SkillIconsMoar</Image_Name>
+        <Image_Index>9</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>143</Key>
+      <Value>
+        <Id>143</Id>
+        <Name>Cantoforce</Name>
+        <Description>Attacking/using items consumes one movement instead
+of ending turn. Not refreshed after dancing.
+(If moverange breaks, just suspend/resume.
+This was actually really hard to code...)</Description>
+        <Abstract>CANTOFORCE</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>11</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>144</Key>
+      <Value>
+        <Id>144</Id>
+        <Name>Preventing BS</Name>
+        <Description>In combat with this unit, hit rates
+below 20 (10 for crit) become 0.
+Above 80 (40 for crit) become 100.</Description>
+        <Abstract>RELIABLE</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>1</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>145</Key>
+      <Value>
+        <Id>145</Id>
+        <Name>(NYI)Reisenskill</Name>
+        <Description>idk yo something.</Description>
+        <Abstract>BUNNY</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>146</Key>
+      <Value>
+        <Id>146</Id>
+        <Name>Stealth</Name>
+        <Description>Invisibility lets this unit
+freely pass by enemies.</Description>
+        <Abstract>SILENT</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>4</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>147</Key>
+      <Value>
+        <Id>147</Id>
+        <Name>Juggernaut</Name>
+        <Description>Takes half damage from all attacks.
+Cannot dodge.</Description>
+        <Abstract>JUGGER</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>8</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>148</Key>
+      <Value>
+        <Id>148</Id>
+        <Name>Mostly Lazy</Name>
+        <Description>Unless an enemy is within 5 spaces,
+can only move one space.</Description>
+        <Abstract>LAZY</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>9</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>149</Key>
+      <Value>
+        <Id>149</Id>
+        <Name>Inspiration</Name>
+        <Description>Allies within 2 spaces
+gain +4 pow/def/res.</Description>
+        <Abstract>INSPIRE</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>13</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>150</Key>
+      <Value>
+        <Id>150</Id>
+        <Name>Yuri's Poise</Name>
+        <Description>Adjacent allies receive +2 pow and +6 def/res.
+Bonus +2pow/def/res to girls who like girls.</Description>
+        <Abstract>YURI</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>12</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>151</Key>
+      <Value>
+        <Id>151</Id>
+        <Name>On A Roll</Name>
+        <Description>When initiating combat, gain two stacks of +2 pow/spd.
+Lose one stack at the start of each player phase.
+(Only gain stacks if using Metal Claw)</Description>
+        <Abstract>ROLL</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>15</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>152</Key>
+      <Value>
+        <Id>152</Id>
+        <Name>(NYI)Special Dance</Name>
+        <Description>After dancing for an ally,
+they gain +2 pow/def/res.</Description>
+        <Abstract>OLIVIA</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>153</Key>
+      <Value>
+        <Id>153</Id>
+        <Name>Delivery!</Name>
+        <Description>Weighed down by deliveries.
+Acts as if carrying a unit.</Description>
+        <Abstract>PURT</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>20</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>154</Key>
+      <Value>
+        <Id>154</Id>
+        <Name>Annoying</Name>
+        <Description>Adjacent units suffer -7
+all stats except HP.</Description>
+        <Abstract>ANNOYING</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>27</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>155</Key>
+      <Value>
+        <Id>155</Id>
+        <Name>Phantasm</Name>
+        <Description>Can walk through walls.</Description>
+        <Abstract>PHANT</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>156</Key>
+      <Value>
+        <Id>156</Id>
+        <Name>Immortal</Name>
+        <Description>Cannot be damaged.</Description>
+        <Abstract>IMMORT</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>24</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>157</Key>
+      <Value>
+        <Id>157</Id>
+        <Name>Pacifist</Name>
+        <Description>Cannot attack</Description>
+        <Abstract></Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>158</Key>
+      <Value>
+        <Id>158</Id>
+        <Name>...Mostly</Name>
+        <Description>...Unless this unit can deal at least
+1000x an enemy's max HP in damage.</Description>
+        <Abstract></Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>159</Key>
+      <Value>
+        <Id>159</Id>
+        <Name>Tenacious</Name>
+        <Description>When at half HP or less, gains
+avoid equal to missing HP.</Description>
+        <Abstract>TENA</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>23</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>160</Key>
+      <Value>
+        <Id>160</Id>
+        <Name>Duplication</Name>
+        <Description>Creates a clone of the user with set stats.
+Clones share HP, status, and inventory.
+May move unpredictably after spawning.</Description>
+        <Abstract>DUPE</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>6</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>161</Key>
+      <Value>
+        <Id>161</Id>
+        <Name>Ziti Strike</Name>
+        <Description>After 10 rounds of combat, become able to unleash
+an attack with 2x weapon might and 100% crit rate.</Description>
+        <Abstract>ZITI</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>162</Key>
+      <Value>
+        <Id>162</Id>
+        <Name>Pierce</Name>
+        <Description>blop</Description>
+        <Abstract>OLDSWOOP</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>163</Key>
+      <Value>
+        <Id>163</Id>
+        <Name>Treasure-Hungry</Name>
+        <Description>Intense thirst for treasure lets this unit shrug off attacks
+until their greed overcomes...
+idk whatever big def boost that drops over time. also reduces
+the effect of poison and negates defense-piercing effects</Description>
+        <Abstract>SALAMI</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>41</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>164</Key>
+      <Value>
+        <Id>164</Id>
+        <Name>Adept</Name>
+        <Description>(Speed/2) chance for an attack to hit twice. Instead of
+critical hits, weapon crit adds to activation chance.</Description>
+        <Abstract>ADEPT</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>16</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>165</Key>
+      <Value>
+        <Id>165</Id>
+        <Name>Stavethrift</Name>
+        <Description>Can use staves without lowering durability.</Description>
+        <Abstract></Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>14</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>166</Key>
+      <Value>
+        <Id>166</Id>
+        <Name>Dark Angel</Name>
+        <Description>After 5 turns, able to become a Fallen Angel for 3 turns:
++8 to all stats, don't consume tome uses, and can fly,
+but can't use staves and gain much less EXP.</Description>
+        <Abstract>WOLFRAM</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>21</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>167</Key>
+      <Value>
+        <Id>167</Id>
+        <Name>mai preshush</Name>
+        <Description>easy there smeagol</Description>
+        <Abstract>ENRAGE</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>168</Key>
+      <Value>
+        <Id>168</Id>
+        <Name>Selfless</Name>
+        <Description>Can rescue allies regardless of Con stat.</Description>
+        <Abstract>SELFLESS</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>7</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>169</Key>
+      <Value>
+        <Id>169</Id>
+        <Name>Warp</Name>
+        <Description></Description>
+        <Abstract>WARP</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>170</Key>
+      <Value>
+        <Id>170</Id>
+        <Name>Immortal-ish</Name>
+        <Description>50% chance to take no
+damage from any attack.</Description>
+        <Abstract>BASTION</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>24</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>171</Key>
+      <Value>
+        <Id>171</Id>
+        <Name>Lunar Arms</Name>
+        <Description>Is a user of special mind-based attacks.
+And ordinary, everyday staves.</Description>
+        <Abstract></Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>5</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>172</Key>
+      <Value>
+        <Id>172</Id>
+        <Name>halluc</Name>
+        <Description></Description>
+        <Abstract>HALLUC</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>173</Key>
+      <Value>
+        <Id>173</Id>
+        <Name>numb</Name>
+        <Description></Description>
+        <Abstract>NUMB</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>174</Key>
+      <Value>
+        <Id>174</Id>
+        <Name>Room to Grow</Name>
+        <Description>Boosts every stat except HP
+by this unit's level.</Description>
+        <Abstract>EST</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>22</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>175</Key>
+      <Value>
+        <Id>175</Id>
+        <Name>Charisma</Name>
+        <Description>buffs allies doop</Description>
+        <Abstract>CHARI</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>176</Key>
+      <Value>
+        <Id>176</Id>
+        <Name>Pow +10</Name>
+        <Description>Power +10</Description>
+        <Abstract>POW+10</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>177</Key>
+      <Value>
+        <Id>177</Id>
+        <Name>Skl +10</Name>
+        <Description>Skill +10</Description>
+        <Abstract>SKL+10</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>178</Key>
+      <Value>
+        <Id>178</Id>
+        <Name>Res +10</Name>
+        <Description>Resistance +10</Description>
+        <Abstract>RES+10</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>179</Key>
+      <Value>
+        <Id>179</Id>
+        <Name>Def +20</Name>
+        <Description>Defense +20</Description>
+        <Abstract>DEF+20</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>180</Key>
+      <Value>
+        <Id>180</Id>
+        <Name></Name>
+        <Description></Description>
+        <Abstract>PIGTAILS</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>181</Key>
+      <Value>
+        <Id>181</Id>
+        <Name></Name>
+        <Description></Description>
+        <Abstract>FLUFFS</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>182</Key>
+      <Value>
+        <Id>182</Id>
+        <Name></Name>
+        <Description></Description>
+        <Abstract>MANES</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>183</Key>
+      <Value>
+        <Id>183</Id>
+        <Name></Name>
+        <Description></Description>
+        <Abstract>BARE</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>184</Key>
+      <Value>
+        <Id>184</Id>
+        <Name></Name>
+        <Description></Description>
+        <Abstract>THICK</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>185</Key>
+      <Value>
+        <Id>185</Id>
+        <Name></Name>
+        <Description></Description>
+        <Abstract>LOOSE</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>186</Key>
+      <Value>
+        <Id>186</Id>
+        <Name>Hidden</Name>
+        <Description>Few enemies would even think to
+attack units they can't see.</Description>
+        <Abstract>HIDDEN</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>19</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>187</Key>
+      <Value>
+        <Id>187</Id>
+        <Name>Recover</Name>
+        <Description>Restores all HP
+on turn start.</Description>
+        <Abstract>SEPOUR</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>26</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>188</Key>
+      <Value>
+        <Id>188</Id>
+        <Name>Dragonskin+</Name>
+        <Description>Take half damage from all attacks. Critical hits
+against this unit deal 2x damage instead of 3x.
+Also immune to status ailments.</Description>
+        <Abstract>DRAGONSKIN</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>36</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>189</Key>
+      <Value>
+        <Id>189</Id>
+        <Name>Rightful Marc</Name>
+        <Description>Activation skills apply passively.</Description>
+        <Abstract>RIGHTMARC</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>39</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>190</Key>
+      <Value>
+        <Id>190</Id>
+        <Name>Pavaegis</Name>
+        <Description>(Def/Res depending on opponent's weapon)%
+chance to take half damage.</Description>
+        <Abstract></Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>38</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>191</Key>
+      <Value>
+        <Id>191</Id>
+        <Name>Bucatini Strike</Name>
+        <Description>If this unit would deal less than their level in damage,
+(Unit's level)% chance to deal their level in damage.
+AKA, 20% chance to deal 20 damage,
+if display damage is less than 20.</Description>
+        <Abstract></Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>37</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>192</Key>
+      <Value>
+        <Id>192</Id>
+        <Name>Developer's Foresight</Name>
+        <Description>Can only use Prf weapons.</Description>
+        <Abstract></Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>10</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>193</Key>
+      <Value>
+        <Id>193</Id>
+        <Name>Defiance</Name>
+        <Description>Half of damage taken added to damage dealt.</Description>
+        <Abstract>DEFIANCE</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>28</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>194</Key>
+      <Value>
+        <Id>194</Id>
+        <Name>Confusion</Name>
+        <Description>Units who enter combat with this unit will
+have 0 accuracy for the next 3 turns.</Description>
+        <Abstract>CONFUSION</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>31</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>195</Key>
+      <Value>
+        <Id>195</Id>
+        <Name>Immunity</Name>
+        <Description>Immune to status effects.</Description>
+        <Abstract>IMMUNITY</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>29</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>196</Key>
+      <Value>
+        <Id>196</Id>
+        <Name>Shielding</Name>
+        <Description>This unit is able to operate the shield room.
+While inside, boss Marcs have +50 def/res.
+Also, this unit must be killed at 1 or 2 range.</Description>
+        <Abstract>SHIELDING</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>30</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>197</Key>
+      <Value>
+        <Id>197</Id>
+        <Name>Link Shield</Name>
+        <Description>This unit has +50 def/res while GrimaJoe
+is operating the shield room.</Description>
+        <Abstract>SHIELDED</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>30</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>198</Key>
+      <Value>
+        <Id>198</Id>
+        <Name>Confused</Name>
+        <Description></Description>
+        <Abstract>CONFUSED</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>199</Key>
+      <Value>
+        <Id>199</Id>
+        <Name>BFH</Name>
+        <Description></Description>
+        <Abstract>BFH</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>200</Key>
+      <Value>
+        <Id>200</Id>
+        <Name>Backsword</Name>
+        <Description></Description>
+        <Abstract>BACKSWORD</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>201</Key>
+      <Value>
+        <Id>201</Id>
+        <Name>Fizzb</Name>
+        <Description></Description>
+        <Abstract>FIZZB</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>202</Key>
+      <Value>
+        <Id>202</Id>
+        <Name>Bob</Name>
+        <Description></Description>
+        <Abstract>OMEGATRUMP</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>203</Key>
+      <Value>
+        <Id>203</Id>
+        <Name>Inox</Name>
+        <Description></Description>
+        <Abstract>INOX</Abstract>
+        <Image_Name></Image_Name>
+        <Image_Index>0</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>204</Key>
+      <Value>
+        <Id>204</Id>
+        <Name>Sure Shot+</Name>
+        <Description>
+User has 100% accuracy and 2x weapon mgt,
+and ignores half of foe's def/res.</Description>
+        <Abstract>SURE</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>42</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>205</Key>
+      <Value>
+        <Id>205</Id>
+        <Name>Vandalized</Name>
+        <Description>ono u got hit by vandal you have -3 spd and -1def/res</Description>
+        <Abstract>VANDYNERF</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>42</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>206</Key>
+      <Value>
+        <Id>206</Id>
+        <Name>Vandetta</Name>
+        <Description>gives permanent crit bonus when hit</Description>
+        <Abstract>VANDY2</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>42</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>207</Key>
+      <Value>
+        <Id>207</Id>
+        <Name>Edgy Loner</Name>
+        <Description>Unit has a +4 buff to all stats that decreases by
+2 for each ally in 2 spaces (Can't go negative)</Description>
+        <Abstract>LONER</Abstract>
+        <Image_Name>SkillIconsMoar</Image_Name>
+        <Image_Index>12</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>208</Key>
+      <Value>
+        <Id>208</Id>
+        <Name>Speed Metal</Name>
+        <Description>Both combatants have 100% accuracy.</Description>
+        <Abstract>SPEEDMETAL</Abstract>
+        <Image_Name>SkillIconsMoar</Image_Name>
+        <Image_Index>13</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>209</Key>
+      <Value>
+        <Id>209</Id>
+        <Name>Obstruct</Name>
+        <Description>Enemies cannot pass through
+this unit, even with Stealth.</Description>
+        <Abstract>OBSTRUCT</Abstract>
+        <Image_Name>SkillIconsMoar</Image_Name>
+        <Image_Index>14</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>210</Key>
+      <Value>
+        <Id>210</Id>
+        <Name>Voice of Experience</Name>
+        <Description>Adjacent allies gain 1.5x exp from battle.</Description>
+        <Abstract>EXPVOICE</Abstract>
+        <Image_Name>SkillIconsMoar</Image_Name>
+        <Image_Index>11</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>211</Key>
+      <Value>
+        <Id>211</Id>
+        <Name>Dark Angle</Name>
+        <Description>+8 all stats if unit's HP is
+less than 10% Max HP.</Description>
+        <Abstract>ANGLE</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>42</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>212</Key>
+      <Value>
+        <Id>212</Id>
+        <Name>Hiatus</Name>
+        <Description>Command: Become immobile but invincible
+until command is used again.
+Cannot use while rescuing.</Description>
+        <Abstract>HIATUS</Abstract>
+        <Image_Name>SkillIconsMoar</Image_Name>
+        <Image_Index>1</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>213</Key>
+      <Value>
+        <Id>213</Id>
+        <Name>Charitable Return</Name>
+        <Description>Gain +1 to all stats for each ally in 2 spaces.</Description>
+        <Abstract>CHARIT</Abstract>
+        <Image_Name>SkillIconsMoar</Image_Name>
+        <Image_Index>5</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>214</Key>
+      <Value>
+        <Id>214</Id>
+        <Name>Reliable Fighter</Name>
+        <Description>Always has WTA.</Description>
+        <Abstract>RELIABLE</Abstract>
+        <Image_Name>SkillIconsMoar</Image_Name>
+        <Image_Index>6</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>215</Key>
+      <Value>
+        <Id>215</Id>
+        <Name>Deadly Reach</Name>
+        <Description>All axes can be thrown.</Description>
+        <Abstract>REACH</Abstract>
+        <Image_Name>SkillIconsMoar</Image_Name>
+        <Image_Index>3</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>216</Key>
+      <Value>
+        <Id>216</Id>
+        <Name>hiatusing</Name>
+        <Description></Description>
+        <Abstract>HIATUSING</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>1</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>217</Key>
+      <Value>
+        <Id>217</Id>
+        <Name>Cheese Grater</Name>
+        <Description>Unit is immune to attacks from
+further than 3 range.</Description>
+        <Abstract>CHEESE</Abstract>
+        <Image_Name>SkillIconsMoar</Image_Name>
+        <Image_Index>15</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>218</Key>
+      <Value>
+        <Id>218</Id>
+        <Name>Vandalized-ized</Name>
+        <Description></Description>
+        <Abstract>VANDYNERFED</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>42</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>219</Key>
+      <Value>
+        <Id>219</Id>
+        <Name>Dimensional Dissonance</Name>
+        <Description>Effective (2x tome might)
+against human enemies.</Description>
+        <Abstract>PHANTO</Abstract>
+        <Image_Name>SkillIconsMoar</Image_Name>
+        <Image_Index>10</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>220</Key>
+      <Value>
+        <Id>220</Id>
+        <Name>Horsie!</Name>
+        <Description>Command: Mount or dismount.
+Mounted: 8 move with Canto+.
+Unmounted: 6 move with Stavethrift.</Description>
+        <Abstract>FRANZ</Abstract>
+        <Image_Name>SkillIconsMoar</Image_Name>
+        <Image_Index>2</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>221</Key>
+      <Value>
+        <Id>221</Id>
+        <Name>Bootleg Astra</Name>
+        <Description>(Speed / 2)% chance to deal 4.5x damage.
+When activated, crits deal 2x (9x total)</Description>
+        <Abstract>ASTRAAA</Abstract>
+        <Image_Name>SkillIconsMoar</Image_Name>
+        <Image_Index>4</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>222</Key>
+      <Value>
+        <Id>222</Id>
+        <Name>desp spear</Name>
+        <Description></Description>
+        <Abstract>DESPSPEAR</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>42</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>223</Key>
+      <Value>
+        <Id>223</Id>
+        <Name>wiltyrose</Name>
+        <Description></Description>
+        <Abstract>WILTED</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>42</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>224</Key>
+      <Value>
+        <Id>224</Id>
+        <Name>rs sword</Name>
+        <Description></Description>
+        <Abstract>FATHEROFBOOBS</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>42</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+    <Item>
+      <Key>225</Key>
+      <Value>
+        <Id>225</Id>
+        <Name>rs sword 2</Name>
+        <Description></Description>
+        <Abstract>FATHEROFBOOBS2</Abstract>
+        <Image_Name>SkillIcons</Image_Name>
+        <Image_Index>42</Image_Index>
+        <Animation_Id>-1</Animation_Id>
+        <Map_Anim_Id>-1</Map_Anim_Id>
+      </Value>
+    </Item>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="FEXNA_Library.Map_Event_Data">
+    <Events>
+      <Item>
+        <name>Outro</name>
+        <trigger>0</trigger>
+        <trigger_action>0</trigger_action>
+        <trigger_timing>0</trigger_timing>
+        <trigger_turn>0</trigger_turn>
+        <data>
+          <Item>
+            <Key>5</Key>
+            <Value>
+              <Item>-8</Item>
+              <Item>-24</Item>
+              <Item>16</Item>
+              <Item>56</Item>
+              <Item>0</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>211</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>1</Key>
+            <Value>
+              <Item>Chapter</Item>
+              <Item>Tr1Outro</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>2</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>213</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>17</Key>
+            <Value>
+              <Item>0</Item>
+              <Item>0</Item>
+              <Item>0</Item>
+              <Item>255</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>132</Key>
+            <Value>
+              <Item>60</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>3</Key>
+            <Value>
+              <Item>90</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>123</Key>
+            <Value>
+              <Item>Tr1</Item>
+            </Value>
+          </Item>
+        </data>
+      </Item>
+    </Events>
+  </Asset>
+</XnaContent>

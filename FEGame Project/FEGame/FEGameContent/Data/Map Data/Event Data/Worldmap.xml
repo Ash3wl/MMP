@@ -1,0 +1,1190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="FEXNA_Library.Map_Event_Data">
+    <Events>
+      <Item>
+        <name>Tr1Worldmap</name>
+        <trigger>0</trigger>
+        <trigger_action>0</trigger_action>
+        <trigger_timing>0</trigger_timing>
+        <trigger_turn>0</trigger_turn>
+        <data>
+          <Item>
+            <Key>211</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>131</Key>
+            <Value>
+              <Item>A Hint of Things to Come</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>102</Key>
+            <Value>
+              <Item>Ostia</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>141</Key>
+            <Value>
+              <Item>993, 708</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>12</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>142</Key>
+            <Value>
+              <Item>PlayerId</Item>
+              <Item>901, 695</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>1</Key>
+            <Value>
+              <Item>Chapter</Item>
+              <Item>Tr1-1</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>2</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>3</Key>
+            <Value>
+              <Item>15</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>144</Key>
+            <Value>
+              <Item>0</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>3</Key>
+            <Value>
+              <Item>15</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>102</Key>
+            <Value>
+              <Item>Tania</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>141</Key>
+            <Value>
+              <Item>1153, 770</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>12</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>102</Key>
+            <Value>
+              <Item>Abelia moves from Tania to Ostia</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>142</Key>
+            <Value>
+              <Item>PlayerId</Item>
+              <Item>1249, 774</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>3</Key>
+            <Value>
+              <Item>10</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>151</Key>
+            <Value>
+              <Item>PlayerId</Item>
+              <Item>true</Item>
+              <Item>16</Item>
+              <Item>1249, 774</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>152</Key>
+            <Value>
+              <Item>0</Item>
+              <Item>8</Item>
+              <Item>1179, 779</Item>
+              <Item>1114, 774</Item>
+              <Item>1081, 755</Item>
+              <Item>1059, 752</Item>
+              <Item>988, 747</Item>
+              <Item>942, 736</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>155</Key>
+            <Value>
+              <Item>0</Item>
+              <Item>false</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>3</Key>
+            <Value>
+              <Item>15</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>1</Key>
+            <Value>
+              <Item>Chapter</Item>
+              <Item>Tr1-2</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>2</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>3</Key>
+            <Value>
+              <Item>5</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>156</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>3</Key>
+            <Value>
+              <Item>45</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>102</Key>
+            <Value>
+              <Item>Uther moves from Caelin to Jennifer</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>142</Key>
+            <Value>
+              <Item>EnemyId</Item>
+              <Item>1282, 805</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>3</Key>
+            <Value>
+              <Item>10</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>151</Key>
+            <Value>
+              <Item>PlayerId</Item>
+              <Item>true</Item>
+              <Item>1</Item>
+              <Item>1179, 779</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>152</Key>
+            <Value>
+              <Item>0</Item>
+              <Item>4</Item>
+              <Item>1249, 774</Item>
+              <Item>1254, 793</Item>
+              <Item>1267, 806</Item>
+              <Item>1282, 805</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>3</Key>
+            <Value>
+              <Item>15</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>1</Key>
+            <Value>
+              <Item>Chapter</Item>
+              <Item>Tr1-3</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>2</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>3</Key>
+            <Value>
+              <Item>30</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>250</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>213</Key>
+            <Value />
+          </Item>
+        </data>
+      </Item>
+      <Item>
+        <name>Tr2Worldmap</name>
+        <trigger>0</trigger>
+        <trigger_action>0</trigger_action>
+        <trigger_timing>0</trigger_timing>
+        <trigger_turn>0</trigger_turn>
+        <data>
+          <Item>
+            <Key>211</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>131</Key>
+            <Value>
+              <Item>A Hint of Things to Come</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>102</Key>
+            <Value>
+              <Item>Jennifer</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>141</Key>
+            <Value>
+              <Item>1250, 810</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>12</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>142</Key>
+            <Value>
+              <Item>PlayerId</Item>
+              <Item>1282, 805</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>1</Key>
+            <Value>
+              <Item>Chapter</Item>
+              <Item>Tr2-1</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>2</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>3</Key>
+            <Value>
+              <Item>15</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>144</Key>
+            <Value>
+              <Item>0</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>3</Key>
+            <Value>
+              <Item>15</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>102</Key>
+            <Value>
+              <Item>Ostia</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>141</Key>
+            <Value>
+              <Item>990, 732</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>12</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>102</Key>
+            <Value>
+              <Item>Uther and Ulric</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>142</Key>
+            <Value>
+              <Item>PlayerId</Item>
+              <Item>901, 695</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>3</Key>
+            <Value>
+              <Item>5</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>151</Key>
+            <Value>
+              <Item>PlayerId</Item>
+              <Item>true</Item>
+              <Item>1</Item>
+              <Item>917, 703</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>151</Key>
+            <Value>
+              <Item>CitizenId</Item>
+              <Item>false</Item>
+              <Item>MapBishopM</Item>
+              <Item>885, 703</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>3</Key>
+            <Value>
+              <Item>15</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>1</Key>
+            <Value>
+              <Item>Chapter</Item>
+              <Item>Tr2-2</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>2</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>3</Key>
+            <Value>
+              <Item>10</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>102</Key>
+            <Value>
+              <Item>Spies move out</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>154</Key>
+            <Value>
+              <Item>1</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>151</Key>
+            <Value>
+              <Item>CitizenId</Item>
+              <Item>false</Item>
+              <Item>MapThiefM</Item>
+              <Item>901, 695</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>152</Key>
+            <Value>
+              <Item>2</Item>
+              <Item>4</Item>
+              <Item>898, 729</Item>
+              <Item>917, 762</Item>
+              <Item>939, 809</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>155</Key>
+            <Value>
+              <Item>2</Item>
+              <Item>false</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>151</Key>
+            <Value>
+              <Item>CitizenId</Item>
+              <Item>false</Item>
+              <Item>MapThiefM</Item>
+              <Item>901, 695</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>152</Key>
+            <Value>
+              <Item>3</Item>
+              <Item>4</Item>
+              <Item>909, 705</Item>
+              <Item>968, 709</Item>
+              <Item>1017, 699</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>155</Key>
+            <Value>
+              <Item>3</Item>
+              <Item>false</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>151</Key>
+            <Value>
+              <Item>PlayerId</Item>
+              <Item>true</Item>
+              <Item>13</Item>
+              <Item>901, 695</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>152</Key>
+            <Value>
+              <Item>4</Item>
+              <Item>5</Item>
+              <Item>942, 736</Item>
+              <Item>988, 747</Item>
+              <Item>1059, 752</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>155</Key>
+            <Value>
+              <Item>4</Item>
+              <Item>false</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>3</Key>
+            <Value>
+              <Item>5</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>1</Key>
+            <Value>
+              <Item>Chapter</Item>
+              <Item>Tr2-3</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>2</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>3</Key>
+            <Value>
+              <Item>15</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>156</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>155</Key>
+            <Value>
+              <Item>1</Item>
+              <Item>true</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>3</Key>
+            <Value>
+              <Item>45</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>102</Key>
+            <Value>
+              <Item>Uther moves from Ostia to Sundale</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>142</Key>
+            <Value>
+              <Item>EnemyId</Item>
+              <Item>1159, 880</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>152</Key>
+            <Value>
+              <Item>0</Item>
+              <Item>8</Item>
+              <Item>942, 736</Item>
+              <Item>988, 747</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>157</Key>
+            <Value>
+              <Item>0</Item>
+              <Item>990, 732</Item>
+              <Item>1080, 826</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>152</Key>
+            <Value>
+              <Item>0</Item>
+              <Item>8</Item>
+              <Item>1059, 752</Item>
+              <Item>1081, 755</Item>
+              <Item>1114, 774</Item>
+              <Item>1158, 818</Item>
+              <Item>1159, 880</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>3</Key>
+            <Value>
+              <Item>15</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>1</Key>
+            <Value>
+              <Item>Chapter</Item>
+              <Item>Tr2-4</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>2</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>3</Key>
+            <Value>
+              <Item>30</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>250</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>213</Key>
+            <Value />
+          </Item>
+        </data>
+      </Item>
+      <Item>
+        <name>Tr3Worldmap</name>
+        <trigger>0</trigger>
+        <trigger_action>0</trigger_action>
+        <trigger_timing>0</trigger_timing>
+        <trigger_turn>0</trigger_turn>
+        <data>
+          <Item>
+            <Key>211</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>131</Key>
+            <Value>
+              <Item>A Hint of Things to Come</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>102</Key>
+            <Value>
+              <Item>Sundale</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>141</Key>
+            <Value>
+              <Item>1130, 816</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>12</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>142</Key>
+            <Value>
+              <Item>PlayerId</Item>
+              <Item>1159, 880</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>142</Key>
+            <Value>
+              <Item>EnemyId</Item>
+              <Item>1059, 752</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>142</Key>
+            <Value>
+              <Item>EnemyId</Item>
+              <Item>1002, 813</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>142</Key>
+            <Value>
+              <Item>EnemyId</Item>
+              <Item>988, 747</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>142</Key>
+            <Value>
+              <Item>EnemyId</Item>
+              <Item>1155, 680</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>142</Key>
+            <Value>
+              <Item>EnemyId</Item>
+              <Item>901, 695</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>142</Key>
+            <Value>
+              <Item>EnemyId</Item>
+              <Item>1246, 873</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>142</Key>
+            <Value>
+              <Item>EnemyId</Item>
+              <Item>1211, 727</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>3</Key>
+            <Value>
+              <Item>5</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>151</Key>
+            <Value>
+              <Item>PlayerId</Item>
+              <Item>true</Item>
+              <Item>1</Item>
+              <Item>1159, 880</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>1</Key>
+            <Value>
+              <Item>Chapter</Item>
+              <Item>Tr3-1</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>2</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>3</Key>
+            <Value>
+              <Item>15</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>102</Key>
+            <Value>
+              <Item>Uther moves from Sundale to Laus</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>152</Key>
+            <Value>
+              <Item>0</Item>
+              <Item>8</Item>
+              <Item>1158, 818</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>157</Key>
+            <Value>
+              <Item>0</Item>
+              <Item>1031, 748</Item>
+              <Item>1130, 833</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>152</Key>
+            <Value>
+              <Item>0</Item>
+              <Item>8</Item>
+              <Item>1114, 774</Item>
+              <Item>1081, 755</Item>
+              <Item>1059, 752</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>3</Key>
+            <Value>
+              <Item>15</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>1</Key>
+            <Value>
+              <Item>Chapter</Item>
+              <Item>Tr3-2</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>2</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>1</Key>
+            <Value>
+              <Item>Chapter</Item>
+              <Item>Tr3-3</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>2</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>158</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>3</Key>
+            <Value>
+              <Item>15</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>141</Key>
+            <Value>
+              <Item>1040, 748</Item>
+              <Item>4</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>12</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>3</Key>
+            <Value>
+              <Item>15</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>102</Key>
+            <Value>
+              <Item>Uther gets to work</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>154</Key>
+            <Value>
+              <Item>0</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>3</Key>
+            <Value>
+              <Item>60</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>155</Key>
+            <Value>
+              <Item>0</Item>
+              <Item>true</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>3</Key>
+            <Value>
+              <Item>15</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>145</Key>
+            <Value>
+              <Item>1059, 752</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>3</Key>
+            <Value>
+              <Item>10</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>144</Key>
+            <Value>
+              <Item>1</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>142</Key>
+            <Value>
+              <Item>PlayerId</Item>
+              <Item>1059, 752</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>3</Key>
+            <Value>
+              <Item>50</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>145</Key>
+            <Value>
+              <Item>1002, 813</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>3</Key>
+            <Value>
+              <Item>10</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>144</Key>
+            <Value>
+              <Item>1</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>142</Key>
+            <Value>
+              <Item>PlayerId</Item>
+              <Item>1002, 813</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>3</Key>
+            <Value>
+              <Item>50</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>145</Key>
+            <Value>
+              <Item>988, 747</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>3</Key>
+            <Value>
+              <Item>10</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>144</Key>
+            <Value>
+              <Item>1</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>142</Key>
+            <Value>
+              <Item>PlayerId</Item>
+              <Item>988, 747</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>3</Key>
+            <Value>
+              <Item>50</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>145</Key>
+            <Value>
+              <Item>1155, 680</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>3</Key>
+            <Value>
+              <Item>10</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>144</Key>
+            <Value>
+              <Item>1</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>142</Key>
+            <Value>
+              <Item>PlayerId</Item>
+              <Item>1155, 680</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>3</Key>
+            <Value>
+              <Item>50</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>145</Key>
+            <Value>
+              <Item>901, 695</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>3</Key>
+            <Value>
+              <Item>10</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>144</Key>
+            <Value>
+              <Item>1</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>142</Key>
+            <Value>
+              <Item>PlayerId</Item>
+              <Item>901, 695</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>3</Key>
+            <Value>
+              <Item>50</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>146</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>3</Key>
+            <Value>
+              <Item>30</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>1</Key>
+            <Value>
+              <Item>Chapter</Item>
+              <Item>Tr3-4</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>2</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>3</Key>
+            <Value>
+              <Item>10</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>144</Key>
+            <Value>
+              <Item>0</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>144</Key>
+            <Value>
+              <Item>0</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>144</Key>
+            <Value>
+              <Item>0</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>144</Key>
+            <Value>
+              <Item>0</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>144</Key>
+            <Value>
+              <Item>0</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>144</Key>
+            <Value>
+              <Item>0</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>144</Key>
+            <Value>
+              <Item>0</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>3</Key>
+            <Value>
+              <Item>5</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>102</Key>
+            <Value>
+              <Item>Ostia</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>141</Key>
+            <Value>
+              <Item>993, 708</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>12</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>3</Key>
+            <Value>
+              <Item>15</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>1</Key>
+            <Value>
+              <Item>Chapter</Item>
+              <Item>Tr3-5</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>2</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>1</Key>
+            <Value>
+              <Item>Chapter</Item>
+              <Item>Tr3-6</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>2</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>1</Key>
+            <Value>
+              <Item>Chapter</Item>
+              <Item>Tr3-7</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>2</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>3</Key>
+            <Value>
+              <Item>30</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>250</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>213</Key>
+            <Value />
+          </Item>
+        </data>
+      </Item>
+      <Item>
+        <name>Generic Worldmap</name>
+        <trigger>0</trigger>
+        <trigger_action>0</trigger_action>
+        <trigger_timing>0</trigger_timing>
+        <trigger_turn>0</trigger_turn>
+        <data>
+          <Item>
+            <Key>211</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>131</Key>
+            <Value>
+              <Item>A Hint of Things to Come</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>3</Key>
+            <Value>
+              <Item>30</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>102</Key>
+            <Value>
+              <Item>Wherever</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>141</Key>
+            <Value>
+              <Item>889, 635</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>12</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>3</Key>
+            <Value>
+              <Item>30</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>250</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>213</Key>
+            <Value />
+          </Item>
+        </data>
+      </Item>
+    </Events>
+  </Asset>
+</XnaContent>

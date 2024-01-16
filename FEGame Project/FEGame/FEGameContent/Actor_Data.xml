@@ -1,0 +1,1860 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Generic="System.Collections.Generic">
+  <Asset Type="Generic:Dictionary[int,FEXNA_Library.Data_Actor]">
+    <Item>
+      <Key>1</Key>
+      <Value>
+        <Id>1</Id>
+        <Name>Marc</Name>
+        <Description>Here to "entertain" you.</Description>
+        <ClassId>79</ClassId>
+        <Level>10</Level>
+        <BaseStats>40 19 23 19 12 11 4 9</BaseStats>
+        <Growths>100 200 300 200 100 100 100</Growths>
+        <WLvl>181 0 0 0 121 71 71 71 31 31 0 0</WLvl>
+        <Gender>2</Gender>
+        <Affinity>Wind</Affinity>
+        <Items>
+          <Item>0 3 0</Item>
+          <Item>0 8 0</Item>
+          <Item>0 142 0</Item>
+          <Item>1 2 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports>
+          <Item>UtherMarcus</Item>
+          <Item>UtherEiry</Item>
+          <Item>UtherLenny</Item>
+        </Supports>
+        <Skills>1 144</Skills>
+      </Value>
+    </Item>
+    <Item>
+      <Key>2</Key>
+      <Value>
+        <Id>2</Id>
+        <Name>Reisen</Name>
+        <Description>Second-best hair in
+the known universe.</Description>
+        <ClassId>88</ClassId>
+        <Level>20</Level>
+        <BaseStats>50 30 30 30 30 30 30 5</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <WLvl>0 0 0 0 0 0 0 251 0 181 0 0</WLvl>
+        <Gender>1</Gender>
+        <Affinity>Dark</Affinity>
+        <Items>
+          <Item>0 131 0</Item>
+          <Item>0 132 0</Item>
+          <Item>0 151 0</Item>
+          <Item>1 3 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports>
+          <Item>UtherMarcus</Item>
+          <Item>MarcusDora</Item>
+          <Item>MarcusEagler</Item>
+          <Item>MarcusAugustus</Item>
+        </Supports>
+        <Skills>32 146</Skills>
+      </Value>
+    </Item>
+    <Item>
+      <Key>3</Key>
+      <Value>
+        <Id>3</Id>
+        <Name>Ash</Name>
+        <Description>Lost his tileset,
+but denies it.</Description>
+        <ClassId>84</ClassId>
+        <Level>10</Level>
+        <BaseStats>33 22 13 11 10 2 24 9</BaseStats>
+        <Growths>100 300 100 100 100 100 300</Growths>
+        <WLvl>0 0 0 0 0 71 0 0 121 251 0 0</WLvl>
+        <Gender>2</Gender>
+        <Affinity>Anima</Affinity>
+        <Items>
+          <Item>0 152 0</Item>
+          <Item>0 154 0</Item>
+          <Item>0 168 0</Item>
+          <Item>0 115 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports>
+          <Item>KenDora</Item>
+          <Item>KenFargus</Item>
+          <Item>KenChester</Item>
+        </Supports>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>4</Key>
+      <Value>
+        <Id>4</Id>
+        <Name>Ciraxis</Name>
+        <Description></Description>
+        <ClassId>72</ClassId>
+        <Level>15</Level>
+        <BaseStats>80 28 25 0 15 30 5 25</BaseStats>
+        <Growths>400 100 100 100 100 0 100</Growths>
+        <WLvl>251 181 251 0 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>2</Gender>
+        <Affinity>Ice</Affinity>
+        <Items>
+          <Item>0 28 0</Item>
+          <Item>0 80 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports>
+          <Item>MarcusDora</Item>
+          <Item>KenDora</Item>
+          <Item>DoraAbelia</Item>
+        </Supports>
+        <Skills>147 148</Skills>
+      </Value>
+    </Item>
+    <Item>
+      <Key>5</Key>
+      <Value>
+        <Id>5</Id>
+        <Name>Char</Name>
+        <Description>Literally the worst.</Description>
+        <ClassId>55</ClassId>
+        <Level>12</Level>
+        <BaseStats>28 12 10 16 20 8 4 6</BaseStats>
+        <Growths>100 200 100 200 200 100 100</Growths>
+        <WLvl>0 0 0 96 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>1</Gender>
+        <Affinity>Anima</Affinity>
+        <Items>
+          <Item>0 83 0</Item>
+          <Item>0 86 0</Item>
+          <Item>0 90 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports>
+          <Item>MarcusEagler</Item>
+          <Item>EaglerMaddy</Item>
+          <Item>EaglerToni</Item>
+          <Item>EaglerHassar</Item>
+          <Item>EaglerWallace</Item>
+        </Supports>
+        <Skills>143</Skills>
+      </Value>
+    </Item>
+    <Item>
+      <Key>6</Key>
+      <Value>
+        <Id>6</Id>
+        <Name>Elise</Name>
+        <Description>Literally the best.</Description>
+        <ClassId>89</ClassId>
+        <Level>7</Level>
+        <BaseStats>20 13 7 11 16 4 13 4</BaseStats>
+        <Growths>100 400 100 200 300 100 200</Growths>
+        <WLvl>0 0 0 0 0 0 0 0 0 181 0 0</WLvl>
+        <Gender>1</Gender>
+        <Affinity>Wind</Affinity>
+        <Items>
+          <Item>0 151 0</Item>
+          <Item>0 164 0</Item>
+          <Item>0 161 0</Item>
+          <Item>0 162 0</Item>
+          <Item>0 169 0</Item>
+          <Item>1 1 0</Item>
+        </Items>
+        <Supports>
+          <Item>EaglerMaddy</Item>
+          <Item>MaddyHassar</Item>
+          <Item>MaddyWallace</Item>
+          <Item>MaddyRoeis</Item>
+        </Supports>
+        <Skills>150 149</Skills>
+      </Value>
+    </Item>
+    <Item>
+      <Key>7</Key>
+      <Value>
+        <Id>7</Id>
+        <Name>Avraxas</Name>
+        <Description>Keep away from burgers.</Description>
+        <ClassId>52</ClassId>
+        <Level>11</Level>
+        <BaseStats>30 18 30 30 4 7 9 7</BaseStats>
+        <Growths>300 200 0 0 100 200 200</Growths>
+        <WLvl>121 0 0 0 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>2</Gender>
+        <Affinity>Thunder</Affinity>
+        <Items>
+          <Item>0 10 0</Item>
+          <Item>1 24 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports>
+          <Item>EaglerToni</Item>
+          <Item>ToniCybil</Item>
+          <Item>ToniBennet</Item>
+        </Supports>
+        <Skills>151</Skills>
+      </Value>
+    </Item>
+    <Item>
+      <Key>8</Key>
+      <Value>
+        <Id>8</Id>
+        <Name>Olivia</Name>
+        <Description>Somehow became
+the size of a violet.</Description>
+        <ClassId>108</ClassId>
+        <Level>1</Level>
+        <BaseStats>18 3 8 9 5 3 2 1</BaseStats>
+        <Growths>300 400 600 800 900 300 500</Growths>
+        <WLvl>0 0 0 0 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>1</Gender>
+        <Affinity>Dark</Affinity>
+        <Items>
+          <Item>1 92 0</Item>
+          <Item>1 94 0</Item>
+          <Item>1 1 0</Item>
+          <Item>1 27 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports>
+          <Item>EaglerHassar</Item>
+          <Item>MaddyHassar</Item>
+          <Item>HassarCybil</Item>
+          <Item>HassarWallace</Item>
+        </Supports>
+        <Skills>75</Skills>
+      </Value>
+    </Item>
+    <Item>
+      <Key>9</Key>
+      <Value>
+        <Id>9</Id>
+        <Name>Purt</Name>
+        <Description>Literal bread lord.
+Not made of bread.</Description>
+        <ClassId>68</ClassId>
+        <Level>19</Level>
+        <BaseStats>54 24 29 27 19 14 15 8</BaseStats>
+        <Growths>200 200 100 200 200 200 200</Growths>
+        <WLvl>0 0 0 251 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>2</Gender>
+        <Affinity>Wind</Affinity>
+        <Items>
+          <Item>0 87 0</Item>
+          <Item>0 89 0</Item>
+          <Item>1 3 0</Item>
+          <Item>1 3 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports>
+          <Item>ToniCybil</Item>
+          <Item>HassarCybil</Item>
+          <Item>CybilMagnus</Item>
+          <Item>CybilAugustus</Item>
+        </Supports>
+        <Skills>153</Skills>
+      </Value>
+    </Item>
+    <Item>
+      <Key>10</Key>
+      <Value>
+        <Id>10</Id>
+        <Name>Wolfram</Name>
+        <Description></Description>
+        <ClassId>79</ClassId>
+        <Level>20</Level>
+        <BaseStats>69 19 14 14 14 24 13 13</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <WLvl>0 0 0 0 0 181 251 0 0 121 0 0</WLvl>
+        <Gender>2</Gender>
+        <Affinity>Thunder</Affinity>
+        <Items>
+          <Item>0 123 0</Item>
+          <Item>0 115 0</Item>
+          <Item>0 151 0</Item>
+          <Item>1 1 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports>
+          <Item>CybilMagnus</Item>
+          <Item>MagnusEiry</Item>
+          <Item>MagnusFargus</Item>
+          <Item>MagnusWallace</Item>
+        </Supports>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>11</Key>
+      <Value>
+        <Id>11</Id>
+        <Name>Set</Name>
+        <Description></Description>
+        <ClassId>22</ClassId>
+        <Level>1</Level>
+        <BaseStats>22 6 9 8 9 4 1 8</BaseStats>
+        <Growths>800 700 900 800 600 500 400</Growths>
+        <WLvl>0 31 0 0 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>0</Gender>
+        <Affinity>Thunder</Affinity>
+        <Items>
+          <Item>0 33 0</Item>
+          <Item>0 34 0</Item>
+          <Item>1 1 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports>
+          <Item>UtherEiry</Item>
+          <Item>MagnusEiry</Item>
+          <Item>EiryLenny</Item>
+          <Item>EiryHyde</Item>
+        </Supports>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>12</Key>
+      <Value>
+        <Id>12</Id>
+        <Name>Hiro</Name>
+        <Description>Apprentice of Grado.</Description>
+        <ClassId>65</ClassId>
+        <Level>1</Level>
+        <BaseStats>25 0 0 8 12 7 2 25</BaseStats>
+        <Growths>95 0 0 65 60 40 20</Growths>
+        <WLvl>181 0 181 0 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>0</Gender>
+        <Affinity>Light</Affinity>
+        <Items>
+          <Item>0 15 0</Item>
+          <Item>0 71 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports>
+          <Item>MarcusAugustus</Item>
+          <Item>CybilAugustus</Item>
+          <Item>AugustusLenny</Item>
+        </Supports>
+        <Skills>159</Skills>
+      </Value>
+    </Item>
+    <Item>
+      <Key>13</Key>
+      <Value>
+        <Id>13</Id>
+        <Name>???</Name>
+        <Description>???</Description>
+        <ClassId>83</ClassId>
+        <Level>10</Level>
+        <BaseStats>1 24 22 20 0 0 0 0</BaseStats>
+        <Growths>0 200 200 200 0 0 0</Growths>
+        <WLvl>0 0 0 0 0 0 0 121 0 0 0 0</WLvl>
+        <Gender>0</Gender>
+        <Affinity>Light</Affinity>
+        <Items>
+          <Item>0 131 0</Item>
+          <Item>0 136 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports>
+          <Item>UtherLenny</Item>
+          <Item>EiryLenny</Item>
+          <Item>AugustusLenny</Item>
+          <Item>LennyRoeis</Item>
+        </Supports>
+        <Skills>155</Skills>
+      </Value>
+    </Item>
+    <Item>
+      <Key>14</Key>
+      <Value>
+        <Id>14</Id>
+        <Name>Gertrude</Name>
+        <Description>Jeigan hag.</Description>
+        <ClassId>71</ClassId>
+        <Level>18</Level>
+        <BaseStats>49 26 29 18 11 19 7 9</BaseStats>
+        <Growths>-900 -900 -700 -800 -200 -800 -300</Growths>
+        <WLvl>121 121 121 121 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>0</Gender>
+        <Affinity>Earth</Affinity>
+        <Items>
+          <Item>0 8 0</Item>
+          <Item>0 46 0</Item>
+          <Item>0 85 0</Item>
+          <Item>1 23 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports>
+          <Item>ToniBennet</Item>
+          <Item>BennetFargus</Item>
+          <Item>BennetChester</Item>
+        </Supports>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>15</Key>
+      <Value>
+        <Id>15</Id>
+        <Name>Mofobolokonomor</Name>
+        <Description>No relation.</Description>
+        <ClassId>34</ClassId>
+        <Level>15</Level>
+        <BaseStats>45 10 5 5 0 30 30 15</BaseStats>
+        <Growths>100 100 100 100 0 0 0</Growths>
+        <WLvl>0 121 0 0 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>0</Gender>
+        <Affinity>Thunder</Affinity>
+        <Items>
+          <Item>0 64 0</Item>
+          <Item>0 60 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports>
+          <Item>EaglerWallace</Item>
+          <Item>MaddyWallace</Item>
+          <Item>HassarWallace</Item>
+          <Item>MagnusWallace</Item>
+        </Supports>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>16</Key>
+      <Value>
+        <Id>16</Id>
+        <Name>Sepour</Name>
+        <Description>There's probably a pun here?</Description>
+        <ClassId>37</ClassId>
+        <Level>14</Level>
+        <BaseStats>21 9 13 17 12 6 12 8</BaseStats>
+        <Growths>100 0 200 300 100 0 100</Growths>
+        <WLvl>0 71 0 0 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>1</Gender>
+        <Affinity>Fire</Affinity>
+        <Items>
+          <Item>0 32 0</Item>
+          <Item>0 34 20</Item>
+          <Item>1 21 1</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports>
+          <Item>DoraAbelia</Item>
+          <Item>AbeliaChester</Item>
+          <Item>AbeliaHyde</Item>
+        </Supports>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>17</Key>
+      <Value>
+        <Id>17</Id>
+        <Name>Bob</Name>
+        <Description>Marc's collective viewerbase.</Description>
+        <ClassId>121</ClassId>
+        <Level>14</Level>
+        <BaseStats>10 0 0 0 0 0 0 30</BaseStats>
+        <Growths>900 900 900 900 900 900 900</Growths>
+        <WLvl>71 0 0 0 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>0</Gender>
+        <Affinity>Earth</Affinity>
+        <Items>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports>
+          <Item>KenChester</Item>
+          <Item>BennetChester</Item>
+          <Item>AbeliaChester</Item>
+        </Supports>
+        <Skills>155</Skills>
+      </Value>
+    </Item>
+    <Item>
+      <Key>18</Key>
+      <Value>
+        <Id>18</Id>
+        <Name>Mari</Name>
+        <Description>Didn't want to be here and will probably
+leave on turn 1 if you try to field her.</Description>
+        <ClassId>84</ClassId>
+        <Level>5</Level>
+        <BaseStats>10 30 30 30 30 30 30 2</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <WLvl>0 0 0 0 181 181 181 251 181 181 0 0</WLvl>
+        <Gender>0</Gender>
+        <Affinity>Anima</Affinity>
+        <Items>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports>
+          <Item>MaddyRoeis</Item>
+          <Item>LennyRoeis</Item>
+          <Item>RoeisHyde</Item>
+        </Supports>
+        <Skills>157 158 156</Skills>
+      </Value>
+    </Item>
+    <Item>
+      <Key>19</Key>
+      <Value>
+        <Id>19</Id>
+        <Name>Hyde</Name>
+        <Description>Witch-hunter and inquisitor. Trained
+in torture, poison, and philosophy.</Description>
+        <ClassId>47</ClassId>
+        <Level>10</Level>
+        <BaseStats>40 10 14 11 12 9 11 10</BaseStats>
+        <Growths>60 40 25 20 40 35 40</Growths>
+        <WLvl>0 0 0 0 0 0 0 121 0 0 0 0</WLvl>
+        <Gender>0</Gender>
+        <Affinity>Fire</Affinity>
+        <Items>
+          <Item>0 133 25</Item>
+          <Item>1 3 3</Item>
+          <Item>1 42 1</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports>
+          <Item>EiryHyde</Item>
+          <Item>AbeliaHyde</Item>
+          <Item>RoeisHyde</Item>
+        </Supports>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>20</Key>
+      <Value>
+        <Id>20</Id>
+        <Name>Fargus</Name>
+        <Description>A captain with neither boat nor
+crew. Brighter than he appears.</Description>
+        <ClassId>49</ClassId>
+        <Level>9</Level>
+        <BaseStats>38 11 8 9 4 9 8 12</BaseStats>
+        <Growths>60 30 40 30 50 30 30</Growths>
+        <WLvl>0 0 71 0 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>0</Gender>
+        <Affinity>Thunder</Affinity>
+        <Items>
+          <Item>0 59 45</Item>
+          <Item>0 60 20</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports>
+          <Item>KenFargus</Item>
+          <Item>MagnusFargus</Item>
+          <Item>BennetFargus</Item>
+        </Supports>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>26</Key>
+      <Value>
+        <Id>26</Id>
+        <Name>Tristan</Name>
+        <Description>The last hope of his people, charged
+with uniting Elibe against its doom.</Description>
+        <ClassId>98</ClassId>
+        <Level>5</Level>
+        <BaseStats>28 10 7 11 7 4 2 9</BaseStats>
+        <Growths>75 50 45 50 55 35 15</Growths>
+        <WLvl>0 0 31 0 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>0</Gender>
+        <Affinity>Earth</Affinity>
+        <Items>
+          <Item>0 74 40</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports />
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>27</Key>
+      <Value>
+        <Id>27</Id>
+        <Name>Celeste</Name>
+        <Description>The somewhat belligerent leader
+of the Grey Drake mercenary band.</Description>
+        <ClassId>35</ClassId>
+        <Level>8</Level>
+        <BaseStats>39 10 8 5 4 12 7 11</BaseStats>
+        <Growths>95 40 40 40 45 50 35</Growths>
+        <WLvl>71 0 0 0 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>1</Gender>
+        <Affinity>Ice</Affinity>
+        <Items>
+          <Item>0 8 30</Item>
+          <Item>1 73 -1</Item>
+          <Item>1 1 5</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports />
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>28</Key>
+      <Value>
+        <Id>28</Id>
+        <Name>Shen</Name>
+        <Description>A blind man from Etruria's streets
+whose training helps him to fight.</Description>
+        <ClassId>6</ClassId>
+        <Level>6</Level>
+        <BaseStats>32 7 3 9 6 8 1 9</BaseStats>
+        <Growths>65 25 30 25 45 35 25</Growths>
+        <WLvl>0 0 1 0 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>0</Gender>
+        <Affinity>Light</Affinity>
+        <Items>
+          <Item>0 57 25</Item>
+          <Item>1 1 5</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports />
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>29</Key>
+      <Value>
+        <Id>29</Id>
+        <Name>Gado</Name>
+        <Description>An overgrown orphan from Etruria
+with a big heart and a bigger grin.</Description>
+        <ClassId>5</ClassId>
+        <Level>5</Level>
+        <BaseStats>36 10 7 5 3 2 4 9</BaseStats>
+        <Growths>85 35 25 25 30 25 30</Growths>
+        <WLvl>0 0 31 0 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>0</Gender>
+        <Affinity>Thunder</Affinity>
+        <Items>
+          <Item>0 59 45</Item>
+          <Item>1 1 5</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports />
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>30</Key>
+      <Value>
+        <Id>30</Id>
+        <Name>Reno</Name>
+        <Description>An exile from the secret city of
+Arcadia, and Tristan's close friend.</Description>
+        <ClassId>9</ClassId>
+        <Level>5</Level>
+        <BaseStats>26 6 10 7 8 1 5 7</BaseStats>
+        <Growths>50 30 40 45 40 20 25</Growths>
+        <WLvl>0 0 0 0 0 0 0 31 0 0 0 0</WLvl>
+        <Gender>0</Gender>
+        <Affinity>Ice</Affinity>
+        <Items>
+          <Item>0 131 40</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports />
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>31</Key>
+      <Value>
+        <Id>31</Id>
+        <Name>Jericho</Name>
+        <Description>A lazy, gluttonous mage whose
+identity is mysteriously guarded.</Description>
+        <ClassId>48</ClassId>
+        <Level>7</Level>
+        <BaseStats>35 10 7 7 6 7 8 11</BaseStats>
+        <Growths>65 40 30 40 30 30 45</Growths>
+        <WLvl>0 0 0 0 0 0 0 0 71 0 0 0</WLvl>
+        <Gender>0</Gender>
+        <Affinity>Wind</Affinity>
+        <Items>
+          <Item>0 141 40</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports />
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>32</Key>
+      <Value>
+        <Id>32</Id>
+        <Name>Elaice</Name>
+        <Description>The polite, studious apprentice of
+the famous Witch of the Wastes.</Description>
+        <ClassId>43</ClassId>
+        <Level>9</Level>
+        <BaseStats>32 12 10 8 9 4 9 8</BaseStats>
+        <Growths>65 35 30 35 60 25 45</Growths>
+        <WLvl>0 0 0 0 0 0 0 0 0 71 0 0</WLvl>
+        <Gender>1</Gender>
+        <Affinity>Light</Affinity>
+        <Items>
+          <Item>0 169 0</Item>
+          <Item>0 170 0</Item>
+          <Item>1 1 5</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports />
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>33</Key>
+      <Value>
+        <Id>33</Id>
+        <Name>Fargus</Name>
+        <Description>A captain with neither boat nor
+crew. Brighter than he appears.</Description>
+        <ClassId>49</ClassId>
+        <Level>10</Level>
+        <BaseStats>41 11 8 13 4 9 8 12</BaseStats>
+        <Growths>60 30 40 30 50 30 30</Growths>
+        <WLvl>0 0 121 0 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>0</Gender>
+        <Affinity>Thunder</Affinity>
+        <Items>
+          <Item>0 64 30</Item>
+          <Item>0 65 18</Item>
+          <Item>1 64 -1</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports />
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>41</Key>
+      <Value>
+        <Id>41</Id>
+        <Name>Eliza</Name>
+        <Description>Scion of a noble house of Ilia and
+commander of the "Silent Hunters".</Description>
+        <ClassId>100</ClassId>
+        <Level>8</Level>
+        <BaseStats>37 7 8 10 4 9 6 8</BaseStats>
+        <Growths>80 45 45 40 45 50 35</Growths>
+        <WLvl>0 31 0 0 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>1</Gender>
+        <Affinity>Dark</Affinity>
+        <Items>
+          <Item>0 50 35</Item>
+          <Item>1 1 5</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports>
+          <Item>ElizaBrendan</Item>
+          <Item>ElizaMelanie</Item>
+          <Item>ElizaWilliam</Item>
+        </Supports>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>42</Key>
+      <Value>
+        <Id>42</Id>
+        <Name>Brendan</Name>
+        <Description>The last Reed, retired from
+the defunct "free companies".</Description>
+        <ClassId>63</ClassId>
+        <Level>1</Level>
+        <BaseStats>46 15 7 6 5 11 2 15</BaseStats>
+        <Growths>130 75 60 45 35 60 40</Growths>
+        <WLvl>0 0 121 121 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>0</Gender>
+        <Affinity>Light</Affinity>
+        <Items>
+          <Item>0 64 30</Item>
+          <Item>0 86 0</Item>
+          <Item>1 1 5</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports>
+          <Item>ElizaBrendan</Item>
+          <Item>BrendanVaida</Item>
+        </Supports>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>43</Key>
+      <Value>
+        <Id>43</Id>
+        <Name>Melanie</Name>
+        <Description>A vicious girl from the streets of
+Aquleia who aspires to win at life.</Description>
+        <ClassId>17</ClassId>
+        <Level>9</Level>
+        <BaseStats>30 5 14 15 6 7 2 6</BaseStats>
+        <Growths>55 15 60 65 25 40 20</Growths>
+        <WLvl>1 0 0 0 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>1</Gender>
+        <Affinity>Anima</Affinity>
+        <Items>
+          <Item>0 2 25</Item>
+          <Item>1 14 15</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports>
+          <Item>ElizaMelanie</Item>
+          <Item>MelanieZephyr</Item>
+          <Item>MelanieSaka</Item>
+        </Supports>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>44</Key>
+      <Value>
+        <Id>44</Id>
+        <Name>Zephyr</Name>
+        <Description>A signed Ilian huntress, slow to
+comprehend but swift with a spear.</Description>
+        <ClassId>37</ClassId>
+        <Level>7</Level>
+        <BaseStats>31 6 8 12 11 3 4 7</BaseStats>
+        <Growths>55 35 45 30 50 45 40</Growths>
+        <WLvl>0 31 0 0 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>1</Gender>
+        <Affinity>Wind</Affinity>
+        <Items>
+          <Item>0 32 25</Item>
+          <Item>0 34 20</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports>
+          <Item>MelanieZephyr</Item>
+        </Supports>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>45</Key>
+      <Value>
+        <Id>45</Id>
+        <Name>Vaida</Name>
+        <Description>A wandering Draco Knight.
+Defensive and mysterious.</Description>
+        <ClassId>23</ClassId>
+        <Level>10</Level>
+        <BaseStats>43 10 7 6 6 13 1 9</BaseStats>
+        <Growths>80 50 40 45 45 45 35</Growths>
+        <WLvl>0 71 0 0 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>1</Gender>
+        <Affinity>Fire</Affinity>
+        <Items>
+          <Item>0 38 30</Item>
+          <Item>1 2 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports>
+          <Item>BrendanVaida</Item>
+        </Supports>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>46</Key>
+      <Value>
+        <Id>46</Id>
+        <Name>Saka</Name>
+        <Description>A warrior from a distant land
+with alien mannerisms.</Description>
+        <ClassId>27</ClassId>
+        <Level>14</Level>
+        <BaseStats>36 10 13 11 8 6 11 7</BaseStats>
+        <Growths>55 30 35 60 35 35 50</Growths>
+        <WLvl>121 0 0 0 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>1</Gender>
+        <Affinity>Water</Affinity>
+        <Items>
+          <Item>0 10 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports>
+          <Item>MelanieSaka</Item>
+          <Item>SakaElle</Item>
+        </Supports>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>47</Key>
+      <Value>
+        <Id>47</Id>
+        <Name>Pent</Name>
+        <Description></Description>
+        <ClassId>40</ClassId>
+        <Level>9</Level>
+        <BaseStats>39 10 13 14 9 8 10 6</BaseStats>
+        <Growths>40 35 30 35 50 20 35</Growths>
+        <WLvl>0 0 0 0 121 0 31 0 0 0 0 0</WLvl>
+        <Gender>0</Gender>
+        <Affinity>Ice</Affinity>
+        <Items>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports />
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>48</Key>
+      <Value>
+        <Id>48</Id>
+        <Name>Louise</Name>
+        <Description></Description>
+        <ClassId>19</ClassId>
+        <Level>6</Level>
+        <BaseStats>34 8 11 12 12 6 8 5</BaseStats>
+        <Growths>40 25 40 40 65 20 45</Growths>
+        <WLvl>0 0 0 121 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>1</Gender>
+        <Affinity>Light</Affinity>
+        <Items>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports />
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>49</Key>
+      <Value>
+        <Id>49</Id>
+        <Name>Lloyd</Name>
+        <Description></Description>
+        <ClassId>16</ClassId>
+        <Level>6</Level>
+        <BaseStats>35 9 11 14 8 5 5 7</BaseStats>
+        <Growths>70 20 40 45 55 30 30</Growths>
+        <WLvl>121 0 0 0 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>2</Gender>
+        <Affinity>Anima</Affinity>
+        <Items>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports />
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>50</Key>
+      <Value>
+        <Id>50</Id>
+        <Name>Linus</Name>
+        <Description></Description>
+        <ClassId>27</ClassId>
+        <Level>8</Level>
+        <BaseStats>39 11 10 8 5 10 4 10</BaseStats>
+        <Growths>105 30 20 30 50 45 20</Growths>
+        <WLvl>31 0 0 0 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>2</Gender>
+        <Affinity>Thunder</Affinity>
+        <Items>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports />
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>51</Key>
+      <Value>
+        <Id>51</Id>
+        <Name>Elle</Name>
+        <Description>A holy warrior of fierce talent
+who is reluctant to lead.</Description>
+        <ClassId>78</ClassId>
+        <Level>1</Level>
+        <BaseStats>30 8 11 12 8 8 6 8</BaseStats>
+        <Growths>140 85 80 65 60 40 70</Growths>
+        <WLvl>0 0 0 0 0 0 0 71 0 1 0 0</WLvl>
+        <Gender>3</Gender>
+        <Affinity>Water</Affinity>
+        <Items>
+          <Item>0 132 30</Item>
+          <Item>1 25 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports>
+          <Item>SakaElle</Item>
+          <Item>WilliamElle</Item>
+        </Supports>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>52</Key>
+      <Value>
+        <Id>52</Id>
+        <Name>William</Name>
+        <Description>A quiet pastor. Somewhat
+severe in manner, yet kind.</Description>
+        <ClassId>38</ClassId>
+        <Level>9</Level>
+        <BaseStats>35 7 8 8 12 7 12 7</BaseStats>
+        <Growths>90 20 20 30 55 40 45</Growths>
+        <WLvl>0 0 0 0 0 0 0 0 0 71 0 0</WLvl>
+        <Gender>0</Gender>
+        <Affinity>Fire</Affinity>
+        <Items>
+          <Item>0 152 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports>
+          <Item>ElizaWilliam</Item>
+          <Item>WilliamElle</Item>
+        </Supports>
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>53</Key>
+      <Value>
+        <Id>53</Id>
+        <Name>Dom</Name>
+        <Description></Description>
+        <ClassId>33</ClassId>
+        <Level>11</Level>
+        <BaseStats>47 15 10 5 6 17 8 12</BaseStats>
+        <Growths>115 50 30 20 40 55 20</Growths>
+        <WLvl>0 0 71 0 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>1</Gender>
+        <Affinity>Dark</Affinity>
+        <Items>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports />
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>54</Key>
+      <Value>
+        <Id>54</Id>
+        <Name>Riot</Name>
+        <Description></Description>
+        <ClassId>52</ClassId>
+        <Level>5</Level>
+        <BaseStats>41 13 15 17 14 11 13 8</BaseStats>
+        <Growths>60 40 65 45 20 25 20</Growths>
+        <WLvl>181 0 0 71 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>1</Gender>
+        <Affinity>Earth</Affinity>
+        <Items>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports />
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>55</Key>
+      <Value>
+        <Id>55</Id>
+        <Name>Pierre</Name>
+        <Description></Description>
+        <ClassId>20</ClassId>
+        <Level>15</Level>
+        <BaseStats>50 15 15 10 15 10 5 10</BaseStats>
+        <Growths>50 25 25 25 25 25 25</Growths>
+        <WLvl>0 0 0 71 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>0</Gender>
+        <Affinity>Anima</Affinity>
+        <Items>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports />
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>61</Key>
+      <Value>
+        <Id>61</Id>
+        <Name>Zora</Name>
+        <Description></Description>
+        <ClassId>108</ClassId>
+        <Level>10</Level>
+        <BaseStats>35 12 16 22 20 8 12 7</BaseStats>
+        <Growths>45 15 35 75 65 25 50</Growths>
+        <WLvl>121 0 0 0 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>1</Gender>
+        <Affinity>Water</Affinity>
+        <Items>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports />
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>62</Key>
+      <Value>
+        <Id>62</Id>
+        <Name>Mundus</Name>
+        <Description>
+</Description>
+        <ClassId>51</ClassId>
+        <Level>10</Level>
+        <BaseStats>45 13 16 16 6 12 9 10</BaseStats>
+        <Growths>110 130 150 140 30 50 10</Growths>
+        <WLvl>181 0 0 0 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>1</Gender>
+        <Affinity>Ice</Affinity>
+        <Items>
+          <Item>0 6 20</Item>
+          <Item>1 3 3</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports />
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>63</Key>
+      <Value>
+        <Id>63</Id>
+        <Name>Dayan</Name>
+        <Description></Description>
+        <ClassId>67</ClassId>
+        <Level>8</Level>
+        <BaseStats>50 15 20 18 9 14 11 9</BaseStats>
+        <Growths>45 40 40 50 40 45 40</Growths>
+        <WLvl>121 0 0 181 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>0</Gender>
+        <Affinity>Anima</Affinity>
+        <Items>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports />
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>64</Key>
+      <Value>
+        <Id>64</Id>
+        <Name>Hawkeye</Name>
+        <Description></Description>
+        <ClassId>25</ClassId>
+        <Level>5</Level>
+        <BaseStats>42 10 8 8 12 12 6 10</BaseStats>
+        <Growths>105 40 30 30 55 20 35</Growths>
+        <WLvl>0 0 71 0 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>0</Gender>
+        <Affinity>Wind</Affinity>
+        <Items>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports />
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>65</Key>
+      <Value>
+        <Id>65</Id>
+        <Name>Kirin</Name>
+        <Description>Wife, mother, diplomat, and knight -
+a woman of many responsibilities.</Description>
+        <ClassId>76</ClassId>
+        <Level>5</Level>
+        <BaseStats>39 12 11 14 9 8 14 9</BaseStats>
+        <Growths>105 60 45 65 40 40 80</Growths>
+        <WLvl>121 121 0 0 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>1</Gender>
+        <Affinity>Fire</Affinity>
+        <Items>
+          <Item>0 54 20</Item>
+          <Item>0 8 30</Item>
+          <Item>1 2 4</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports />
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>66</Key>
+      <Value>
+        <Id>66</Id>
+        <Name>Maya</Name>
+        <Description></Description>
+        <ClassId>109</ClassId>
+        <Level>8</Level>
+        <BaseStats>36 9 5 7 12 9 7 7</BaseStats>
+        <Growths>220 110 55 25 60 40 130</Growths>
+        <WLvl>0 0 0 0 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>0</Gender>
+        <Affinity>Dark</Affinity>
+        <Items>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports />
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>67</Key>
+      <Value>
+        <Id>67</Id>
+        <Name>Lionel</Name>
+        <Description></Description>
+        <ClassId>69</ClassId>
+        <Level>15</Level>
+        <BaseStats>59 23 16 18 15 23 15 12</BaseStats>
+        <Growths>95 35 40 25 20 45 20</Growths>
+        <WLvl>0 181 251 0 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>0</Gender>
+        <Affinity>Wind</Affinity>
+        <Items>
+          <Item>0 52 20</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports />
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>68</Key>
+      <Value>
+        <Id>68</Id>
+        <Name>Isolde</Name>
+        <Description></Description>
+        <ClassId>80</ClassId>
+        <Level>10</Level>
+        <BaseStats>49 23 19 16 20 11 26 7</BaseStats>
+        <Growths>70 35 35 40 50 30 60</Growths>
+        <WLvl>0 0 0 0 121 121 251 0 0 181 0 0</WLvl>
+        <Gender>1</Gender>
+        <Affinity>Water</Affinity>
+        <Items>
+          <Item>0 128 20</Item>
+          <Item>0 155 8</Item>
+          <Item>1 65 -1</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports />
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>76</Key>
+      <Value>
+        <Id>76</Id>
+        <Name>Elbert</Name>
+        <Description>Marquess of Pherae. Reluctant to
+abandon his family, but eager to help.</Description>
+        <ClassId>70</ClassId>
+        <Level>1</Level>
+        <BaseStats>44 13 15 16 12 15 12 10</BaseStats>
+        <Growths>80 35 35 30 35 25 30</Growths>
+        <WLvl>181 121 0 0 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>0</Gender>
+        <Affinity>Earth</Affinity>
+        <Items>
+          <Item>0 16 20</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports />
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>77</Key>
+      <Value>
+        <Id>77</Id>
+        <Name>Solomon</Name>
+        <Description></Description>
+        <ClassId>71</ClassId>
+        <Level>17</Level>
+        <BaseStats>61 24 17 12 14 22 10 16</BaseStats>
+        <Growths>30 30 25 15 25 35 40</Growths>
+        <WLvl>181 0 181 0 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>0</Gender>
+        <Affinity>Fire</Affinity>
+        <Items>
+          <Item>1 1 5</Item>
+          <Item>0 12 25</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports />
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>78</Key>
+      <Value>
+        <Id>78</Id>
+        <Name>Belmont</Name>
+        <Description>Beloved rising star Dragon-General,
+fallen to the earth and forgotten.</Description>
+        <ClassId>61</ClassId>
+        <Level>1</Level>
+        <BaseStats>58 20 18 19 13 19 9 12</BaseStats>
+        <Growths>65 45 25 40 45 45 20</Growths>
+        <WLvl>0 121 121 0 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>0</Gender>
+        <Affinity>Light</Affinity>
+        <Items>
+          <Item>0 42 20</Item>
+          <Item>1 27 1</Item>
+          <Item>1 61 -1</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports />
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>86</Key>
+      <Value>
+        <Id>86</Id>
+        <Name>Isaac</Name>
+        <Description>Sir Isaac the Dragon-Blooded of
+the Pheraean Knights Elite.</Description>
+        <ClassId>62</ClassId>
+        <Level>12</Level>
+        <BaseStats>61 20 23 18 14 17 10 15</BaseStats>
+        <Growths>90 30 35 15 35 35 15</Growths>
+        <WLvl>0 0 251 0 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>0</Gender>
+        <Affinity>Ice</Affinity>
+        <Items>
+          <Item>0 66 20</Item>
+          <Item>0 60 20</Item>
+          <Item>1 3 3</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports />
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>87</Key>
+      <Value>
+        <Id>87</Id>
+        <Name>Meredith</Name>
+        <Description>Sir Meredith the Strong of
+the Pheraean Knights Elite.</Description>
+        <ClassId>79</ClassId>
+        <Level>3</Level>
+        <BaseStats>43 17 15 20 16 11 15 9</BaseStats>
+        <Growths>60 30 20 30 40 30 50</Growths>
+        <WLvl>0 0 0 0 71 121 181 1 0 0 0 0</WLvl>
+        <Gender>3</Gender>
+        <Affinity>Fire</Affinity>
+        <Items>
+          <Item>0 123 20</Item>
+          <Item>0 112 30</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports />
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>88</Key>
+      <Value>
+        <Id>88</Id>
+        <Name>Deacon</Name>
+        <Description>Sir Deacon the Bright of
+the Pheraean Knights Elite.</Description>
+        <ClassId>113</ClassId>
+        <Level>15</Level>
+        <BaseStats>43 0 8 14 22 10 16 9</BaseStats>
+        <Growths>55 0 25 50 70 40 75</Growths>
+        <WLvl>0 0 0 0 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>0</Gender>
+        <Affinity>Wind</Affinity>
+        <Items>
+          <Item>1 91 10</Item>
+          <Item>1 1 5</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports />
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>101</Key>
+      <Value>
+        <Id>101</Id>
+        <Name>Mazda</Name>
+        <Description>A captain of Bern's honor guard.
+Equally ugly inside and out.</Description>
+        <ClassId>33</ClassId>
+        <Level>3</Level>
+        <BaseStats>34 9 4 3 3 10 4 13</BaseStats>
+        <Growths>100 55 40 20 25 60 10</Growths>
+        <WLvl>0 0 31 0 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>0</Gender>
+        <Affinity>Dark</Affinity>
+        <Items>
+          <Item>0 59 45</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports />
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>107</Key>
+      <Value>
+        <Id>107</Id>
+        <Name>Darin</Name>
+        <Description>Darin is now the Marquess
+of Laus, and proudly so.</Description>
+        <ClassId>30</ClassId>
+        <Level>5</Level>
+        <BaseStats>36 10 6 4 5 12 10 12</BaseStats>
+        <Growths>90 40 30 25 20 50 20</Growths>
+        <WLvl>0 0 31 0 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>0</Gender>
+        <Affinity>Light</Affinity>
+        <Items>
+          <Item>0 59 45</Item>
+          <Item>0 60 20</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports />
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>171</Key>
+      <Value>
+        <Id>171</Id>
+        <Name>Anoleis</Name>
+        <Description>A well-loved playboy at home,
+and a fierce warrior on tour.</Description>
+        <ClassId>27</ClassId>
+        <Level>8</Level>
+        <BaseStats>35 10 7 9 4 8 4 10</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <WLvl>121 0 0 0 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>0</Gender>
+        <Affinity>Wind</Affinity>
+        <Items>
+          <Item>0 13 25</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports />
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>172</Key>
+      <Value>
+        <Id>172</Id>
+        <Name>Sarathi</Name>
+        <Description>Middle-aged Bernite who is eager
+to retire, but a slave to his cause.</Description>
+        <ClassId>31</ClassId>
+        <Level>9</Level>
+        <BaseStats>33 11 10 8 5 10 6 10</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <WLvl>0 91 0 0 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>0</Gender>
+        <Affinity>Earth</Affinity>
+        <Items>
+          <Item>0 38 30</Item>
+          <Item>0 34 20</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports />
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>173</Key>
+      <Value>
+        <Id>173</Id>
+        <Name>Beck</Name>
+        <Description>A mysterious agent of Bern's
+military intelligence force.</Description>
+        <ClassId>34</ClassId>
+        <Level>10</Level>
+        <BaseStats>39 13 12 5 6 13 5 14</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <WLvl>0 121 0 0 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>0</Gender>
+        <Affinity>Thunder</Affinity>
+        <Items>
+          <Item>0 43 25</Item>
+          <Item>0 40 18</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports />
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>175</Key>
+      <Value>
+        <Id>175</Id>
+        <Name>Boston</Name>
+        <Description>A veteran of many coups and wars.
+More importantly, a deadly swordsman.</Description>
+        <ClassId>65</ClassId>
+        <Level>7</Level>
+        <BaseStats>52 20 15 14 10 16 14 13</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <WLvl>121 1 181 1 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>0</Gender>
+        <Affinity>Dark</Affinity>
+        <Items>
+          <Item>0 71 20</Item>
+          <Item>0 15 20</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports />
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>176</Key>
+      <Value>
+        <Id>176</Id>
+        <Name>Alec</Name>
+        <Description>A witch of the Bernese ranges, proud
+of the legends carved around her deeds.</Description>
+        <ClassId>80</ClassId>
+        <Level>4</Level>
+        <BaseStats>43 16 13 16 18 15 14 6</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <WLvl>0 0 0 0 71 121 1 0 0 1 0 0</WLvl>
+        <Gender>1</Gender>
+        <Affinity>Fire</Affinity>
+        <Items>
+          <Item>0 103 20</Item>
+          <Item>0 115 5</Item>
+          <Item>1 11 1</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports />
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>182</Key>
+      <Value>
+        <Id>182</Id>
+        <Name>Crane</Name>
+        <Description>The leader of the world's
+largest underworld industry.</Description>
+        <ClassId>84</ClassId>
+        <Level>16</Level>
+        <BaseStats>62 30 23 15 6 16 23 11</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <WLvl>0 0 0 0 0 0 0 0 251 1 0 0</WLvl>
+        <Gender>0</Gender>
+        <Affinity>Water</Affinity>
+        <Items>
+          <Item>0 146 20</Item>
+          <Item>0 144 15</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports />
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>183</Key>
+      <Value>
+        <Id>183</Id>
+        <Name>Stephen</Name>
+        <Description>Crane's personal attendant
+and master of security.</Description>
+        <ClassId>88</ClassId>
+        <Level>14</Level>
+        <BaseStats>53 21 17 16 22 14 22 9</BaseStats>
+        <Growths>0 0 0 0 0 0 0</Growths>
+        <WLvl>0 0 0 0 0 0 0 181 0 0 0 0</WLvl>
+        <Gender>0</Gender>
+        <Affinity>Anima</Affinity>
+        <Items>
+          <Item>0 133 25</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports />
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>201</Key>
+      <Value>
+        <Id>201</Id>
+        <Name>Bart</Name>
+        <Description>Farmer, innkeep, and self-elected
+leader of the men of the vale.</Description>
+        <ClassId>63</ClassId>
+        <Level>1</Level>
+        <BaseStats>42 12 6 9 6 10 7 13</BaseStats>
+        <Growths>95 35 25 30 30 30 25</Growths>
+        <WLvl>0 0 71 71 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>0</Gender>
+        <Affinity>Fire</Affinity>
+        <Items>
+          <Item>0 77 20</Item>
+          <Item>0 94 18</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports />
+        <Skills />
+      </Value>
+    </Item>
+    <Item>
+      <Key>202</Key>
+      <Value>
+        <Id>202</Id>
+        <Name>Kalten</Name>
+        <Description>Ulric's nephew and commander of
+the Ostian knights and royal guard.</Description>
+        <ClassId>73</ClassId>
+        <Level>4</Level>
+        <BaseStats>50 19 16 12 10 20 11 16</BaseStats>
+        <Growths>65 70 30 20 15 30 30</Growths>
+        <WLvl>121 181 0 0 0 0 0 0 0 0 0 0</WLvl>
+        <Gender>0</Gender>
+        <Affinity>Ice</Affinity>
+        <Items>
+          <Item>0 46 20</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+          <Item>0 0 0</Item>
+        </Items>
+        <Supports />
+        <Skills />
+      </Value>
+    </Item>
+  </Asset>
+</XnaContent>

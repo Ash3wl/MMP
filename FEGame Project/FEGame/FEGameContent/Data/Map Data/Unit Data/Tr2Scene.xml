@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="FEXNA_Library.Map_Unit_Data">
+    <Units>
+      <Item>
+        <Key>5 11</Key>
+        <Value>
+          <type>generic</type><identifier></identifier>
+          <data>Rebel|Name
+16|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+1|Build Type
+7|Con
+0|AI Priority
+3|AI Mission
+0, 3, 46|Item 1
+0, 0, 0|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+71, 0, 0, 0, 0, 0, 0, 0, 0, 0|Weapon Levels</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>3 11</Key>
+        <Value>
+          <type>generic</type><identifier></identifier>
+          <data>Rebel|Name
+16|Class ID
+0|Gender
+14|Level
+0|Exp
+2|Team
+10|Prepromote Levels
+1|Build Type
+7|Con
+0|AI Priority
+3|AI Mission
+0, 3, 46|Item 1
+0, 0, 0|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+71, 0, 0, 0, 0, 0, 0, 0, 0, 0|Weapon Levels</data>
+        </Value>
+      </Item>
+    </Units>
+    <Reinforcements />
+  </Asset>
+</XnaContent>

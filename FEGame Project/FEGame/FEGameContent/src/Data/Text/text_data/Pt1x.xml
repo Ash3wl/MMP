@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Generic="System.Collections.Generic">
+  <Asset Type="Generic:Dictionary[string,string]">
+    <Item>
+      <Key>Part1x-Scene1</Key>
+      <Value>\music[KickTheButler]\f[2|Ash]\f[6|Wolfram]\f[1|Char]\g[Castle]\s[2]....\w[15]W-Whoa.|\s[6]Were we just warped away?|\s[1]Looks like it.|\f[3|Avraxas]\m[6|5]\wait[4]\f[6|Ciraxis]\wait[4]\f[4|Purt]\s[3]Where's Marc and that guy?|\s[4]I think his name was David.\w[10]
+I don't see either of them.|\f[2|nil]\f[2|Ash]\s[2]I can feel Marc's magic
+nearby,\w[5] actually.\w[10]
+So,\w[5] he can't be far at all.|\f[5|nil]\f[5|Wolfram]\s[5]Okay,\w[5] that's good to hear,\w[5] but...\w[15]
+take a look over there.|\s[-2]\wait[50]\f[1|nil]\f[2|nil]\f[3|nil]\f[4|nil]\f[5|nil]\f[6|nil]\g[Black]\g[MaskedMarc]\wait[50]\name[-3|Marc?]\s[-3]AHAHAHHAHHAHAAHA!!!! REISEN! REISEN!
+I JUST WANT TO FEEL YOUR TOUCH!!!
+AHAHAHHHAHSAHSHADSHAKFHKASAKDHK!|\s[-2]\wait[50]\name[-3|Avraxas]\s[-3]Uh....\w[15] what the fuck is that?
+Is that supposed to be Marc?|\s[-2]\name[-3|Wolfram]\s[-3]With how they're acting, I wouldn't expect
+anybody to believe it.|\s[-2]\name[-3|Char]\s[-3]Maybe it's cosplay?|\s[-2]\name[-3|Ash]\s[-3]Guys,\w[5] I seriously doubt it would be cos--
+....\w[15]Well,\w[5] actually,\w[5] now that I think about it.\w[10]
+I don't think I doubt it at all.|\s[-2]\name[-3|Ciraxis]\s[-3]Can we get on with things already?|\s[-2]\name[-3|Purt]\s[-3]He's right.\w[10] Come on,\w[5] guys.|\s[-2]\g[Black]\g[Castle]\f[2|Ash]\f[6|Wolfram]\f[1|Char]\f[3|Avraxas]\f[5|Wolfram]\f[6|Ciraxis]\f[4|Purt]\s[4]We have a mission here.\w[10]
+We need to get to Marc!\w[15]
+He probably needs our help.|
+Who we fight to get there
+doesn't matter!|</Value>
+    </Item>
+    <Item>
+      <Key>Augury</Key>
+      <Value>\f[5|Ash]\f[1|Ash Clone]\f[2|Ash Clone]\g[Castle]\s[5]Okay,\w[5] so,\w[5] we have a few
+ways to tackle this.|\s[1]We can just go down and rush,\w[5]
+removing as many foes as we
+need to in the process.|\s[5]And the alternatives?|\s[2]There are cracked walls about,\w[5]
+so perhaps we may use those
+to speed things up?|\s[1]I dunno,\w[5] though,\w[5] seems dangerous.\w[10]
+I caught a glimpse of a armored man
+who we may have trouble with.|\s[5]An armored man you say?\w[15] I wonder
+how Ciraxis would fare against them.|
+Sounds like that's a solid idea if we're
+well-prepared.\w[10] Heck,\w[5] could be the key
+to getting out fast.|
+Is there anything else of note?|\s[1]There is a room full of chests
+to the north-west.|\s[2]Some enemies seem to have
+chest keys on them.|\s[5]I see...\w[15] I should check and see
+if we have the Enragement Ring
+still,\w[5] or if a thief is with us.|
+It's certainly a bother to have to
+deal with foes for mere chest keys
+like that.|\s[2]We need to secure this stairway
+to the north.\w[10] I sense that Marc is
+in that direction.|\s[5]I'd say at least three people are
+neccessary to completely secure
+the route upstairs.|
+Alright,\w[5] let's get to it,\w[5] then!|</Value>
+    </Item>
+    <Item>
+      <Key>Augury2</Key>
+      <Value>\f[5|Ash]\g[Castle]\s[5]Several things here:|
+1.\w[10] We can simply go down and work
+our way through the enemy.|\scroll2.\w[10] Possibly make use of cracked walls
+to progress quicker.|\scroll3.\w[10] Be wary of some armored individual
+by one of the cracked walls.|\scroll3.\w[10] Lots of chests at the top left.\w[10]
+Enemies have chest keys.|\scrollBut,\w[5] most importantly,\w[5] we need at least
+three people to secure the stairway!|</Value>
+    </Item>
+    <Item>
+      <Key>Failure</Key>
+      <Value>\music[silence]\name[-3|Ghost]\s[-3]....\w[15]And so,\w[5] time passes.|\s[-2]\wait[50]\music[donut]\g[Black]\wait[5]\g[UndergroundHall]\f[2|Purt]\s[2]Marc?\w[15] Marc!|\s[-2]\f[6|Ciraxis]\wait[4]\f[5|Ash]\s[5]Nothing...\w[15]\e[2|2]|\f[6|nil]\f[6|Ciraxis]\s[6]It seems a battle
+took place here.|\s[-2]\f[1|Wolfram]\wait[4]\f[3|Char]\wait[4]\f[4|Avraxas]\e[4|6]\s[1]And Marc was alone.\w[10]
+I'd say outnumbered,\w[5] too.|\s[4]Alone and outnumbered...\w[15]
+That's...|\s[3]Do we have any idea
+where he could be now?|\s[-2]\f[5|nil]\f[5|Ash]\s[5]I can pick up remnants
+of magic,\w[5] but...\w[15] no.|\scroll\e[5|2]I've got nothing.|\s[-2]\f[1|nil]\f[1|Wolfram]\e[1|4]\s[1]Same for me,\w[5] unfortunately.|\s[-2]\f[2|nil]\f[2|Purt]\e[2|2]\s[2]So,\w[5] we've got jack shit.\w[10]
+No,\w[5] this can't be right.|
+\e[2|3]Come on,\w[5] guys,\w[5] let's search
+some more.|\s[-2]\wait[50]\name[-3|Ghost]\s[-3]Try and try as they could,\w[5] the group were
+never able to find Marc that day.|\scrollThere were simply no tangible leads to pick
+up on.|\scrollSince that day,\w[5] they never saw Marc ever
+again.|\scroll\wait[5]\f[1|nil]\f[2|nil]\f[3|nil]\f[4|nil]\f[5|nil]\f[6|nil]\wait[5]\g[GOCG2]His Youtube account soon faded into
+obscurity and was subsequently forgetten.|\s[-2]\wait[100]\event</Value>
+    </Item>
+    <Item>
+      <Key>FakeChest</Key>
+      <Value>\s[-1]What?\w[15] No way!!\w[15] The chest!\w[15]
+It's painted on the floor!|
+Oh,\w[5] wait,\w[5] didn't we do this
+gag already?|</Value>
+    </Item>
+    <Item>
+      <Key>GlitchyJoeLeaves</Key>
+      <Value>\f[5|GlitchyJoe]\s[5]....!|</Value>
+    </Item>
+    <Item>
+      <Key>Valtheus Go</Key>
+      <Value>\f[5|Valtheus]\s[5]....|</Value>
+    </Item>
+  </Asset>
+</XnaContent>

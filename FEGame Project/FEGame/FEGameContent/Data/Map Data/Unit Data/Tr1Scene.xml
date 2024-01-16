@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="FEXNA_Library.Map_Unit_Data">
+    <Units>
+      <Item>
+        <Key>4 3</Key>
+        <Value>
+          <type>character</type><identifier></identifier>
+          <data>1|Actor ID
+1|Team
+0|AI Priority
+0|AI Mission</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>8 3</Key>
+        <Value>
+          <type>character</type><identifier></identifier>
+          <data>101|Actor ID
+1|Team
+0|AI Priority
+0|AI Mission</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>2 20</Key>
+        <Value>
+          <type>character</type><identifier></identifier>
+          <data>8|Actor ID
+1|Team
+0|AI Priority
+0|AI Mission</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>7 2</Key>
+        <Value>
+          <type>character</type><identifier></identifier>
+          <data>16|Actor ID
+1|Team
+0|AI Priority
+0|AI Mission</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>4 18</Key>
+        <Value>
+          <type>temporary</type><identifier></identifier>
+          <data>Sarathi|Name
+31|Class ID
+0|Gender
+7|Level
+0|Exp
+2|Team
+27|HP Max
+27|HP
+8|Pow
+10|Skl
+7|Spd
+5|Lck
+9|Def
+5|Res
+10|Con
+0|AI Priority
+500|AI Mission
+0, 38, 30|Item 1
+0, 34, 20|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+0, 91, 0, 0, 0, 0, 0, 0, 0, 0|Weapon Levels</data>
+        </Value>
+      </Item>
+      <Item>
+        <Key>6 18</Key>
+        <Value>
+          <type>temporary</type><identifier></identifier>
+          <data>Anoleis|Name
+27|Class ID
+0|Gender
+6|Level
+0|Exp
+2|Team
+28|HP Max
+28|HP
+8|Pow
+7|Skl
+9|Spd
+4|Lck
+7|Def
+4|Res
+10|Con
+0|AI Priority
+500|AI Mission
+0, 13, 25|Item 1
+0, 0, 0|Item 2
+0, 0, 0|Item 3
+0, 0, 0|Item 4
+0, 0, 0|Item 5
+0, 0, 0|Item 6
+121, 0, 0, 0, 0, 0, 0, 0, 0, 0|Weapon Levels</data>
+        </Value>
+      </Item>
+    </Units>
+    <Reinforcements />
+  </Asset>
+</XnaContent>

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Generic="System.Collections.Generic">
+  <Asset Type="Generic:Dictionary[string,string]">
+    <Item>
+      <Key>TrueEnding</Key>
+      <Value>\music[WalkinUpAStorm]\f[3|Char]\f[2|Ash]\f[1|Ciraxis]\f[4|Purt]\f[5|Marc]\f[6|Avraxas]\g[UndergroundHall]\e[5|2]\wait[2]\s[5]Ok, it's over right?
+No more MarkyJoe rejects?|\s[1]Probably. \e[5|0]It doesn't get much
+more final boss-y than that.|\s[-2]\f[2|nil]\f[2|Ash]\s[2]I'm glad that loose plot point was
+settled at last, now the ghost of
+Title Here can finally rest in peace.|\s[3]That wasn't too bad.
+\e[3|1]Anyone else hungry though?|\s[6]It was a long day, and now while we're
+plot relevant. I have to say I'm glad
+we saw it through to the end.|\s[4]I am, too. Now if you all excuse me,
+I have a delivery to make.|\s[-2]\f[3|nil]\wait[2]\f[3|Wolfram]\wait[2]\s[3]Who were you delivering it
+to, again?|\scrollIs the fresh bread not cold
+by this point?|\s[4]Of course it's not, I've been at this
+for years. I know all the tricks.|\s[-2]\f[4|nil]\wait[15]\s[5]Seems GrimaJoe dropped what was
+left of the bread, what should we
+do with it?|\s[-2]\f[1|nil]\f[1|Ciraxis]\s[1]Clearly there is nobody more deserving
+of it than me, so I'll just...|
+Wait, where did---\wait[15]\s[-2]\wait[10]\f[1|nil]\f[2|nil]\f[3|nil]\f[4|nil]\f[5|nil]\f[6|nil]\name[-3|Char]\g[Charbread1]\wait[30]\s[-3]...Is this sourdough?|\s[-2]\wait[15]\g[Charbread2]\wait[30]\s[-3]Oh, what were you all talking about?|\s[-2]\g[Black]\wait[5]\g[UndergroundHall]\f[2|Ciraxis]\f[5|Ash]\s[2]...Today was trash.
+C'mon Ash, we're leaving.|\s[5]Uhh, yeah okay, but before that.
+What about that oven over
+there?|\scrollIt made that ultimate bread or
+whatever, right?|\s[2]Take it with us, we deserve something
+for all this nonsense Marc dragged
+us into.|\s[5]Alright.|\s[-2]\f[2|nil]\f[5|nil]\g[Black]\wait[5]\g[UndergroundHall]\f[1|Char]\f[3|Wolfram]\f[5|Marc]\f[6|Avraxas]\s[5]With that taken care of...
+What a morning. Sheesh.|\s[3]\e[3|4]I'm about ready to collapse...|\s[-2]\f[2|Purt]\wait[2]\s[6]That was quick.
+How did it go?|\s[2]\e[3|0]Actually, I'm still delivering it.|\s[5]Huh?|\s[2]One of the Marcvirate we just
+defeated ordered a few loaves
+from me.|\s[5]Are you serious?|\scrollWhat are the odds of
+that happening?|\s[2]Well, since I'm already here.
+You want to pay for it, Marc?|
+We could have a picnic, or
+something like that.|\s[5]Eh. \e[5|1]Why not.|\scrollA picnic sounds great
+right about now.|\s[-2]\f[1|nil]\f[2|nil]\f[3|nil]\f[5|nil]\f[6|nil]\g[Black]\wait[5]\g[Picnic]\wait[40]\name[-3|Ghost]\s[-3]And so, they had a picnic and everything
+was resolved, blah blah blah.|\event</Value>
+    </Item>
+    <Item>
+      <Key>Augury</Key>
+      <Value>\f[5|Marc]\e[5|2]\g[UndergroundHall]\s[5]Alright,\w[5] there are those Sigil things.\w[10]
+\e[5|3]I think I remember seeing them in
+Awakening or something?|
+Pretty sure they spawn more enemies.|
+But I'm hardly worried there...\w[15]\e[5|2] Those
+guys surrounding GrimaJoe look strong.\w[10]
+I should make sure we're all prepared|
+There's not much else to say about this.\w[10]
+We just need to take down GrimaJoe!|</Value>
+    </Item>
+    <Item>
+      <Key>GrimaJoeEnding</Key>
+      <Value>\music[silence]\wait[50]\music[donut]\g[Black]\wait[50]\name[-3|Ghost]\s[-3]With Marc failing to defeat GrimaJoe, he
+was mocked, as expected... but then...
+something truly horrific occured.|\scrollGrimaJoe took Marc and ate him alive as
+his friends watched on, utterly powerless.|\scroll...And that is where his story ends.|\scrollTo the public, Marc's disappearance is
+shrouded in mystery.|\scrollSince that day, his comrads who went along
+on this quest act as if they know nothing
+of what occured. How strange.|\scrollOne guess is GrimaJoe took them as his
+personal slaves and brainwashed them.|\scrollPerhaps the even was so scarring it
+became repressed in their memories?|\scrollNobody will likely ever truly know what
+happened on that fateful night.|\scroll\g[GOCG3]Afterwards, GrimaJoe took over Marc's
+everything. Heck, he even changed the
+name of all related social media.|
+Much to the initial confusion of fans.|\scrollGrimaJoe proved surprisingly popular with
+just about everyone, and he surpassed all
+others on the website in subscribers.|\scrollHe became the most beloved Youtuber to
+nearly 330 Million fans for the rest of the
+site's lifespan.\scrollMarc's existance soon faded into obscurity
+and he was subsequently forgetten.
+GrimaJoe taking his place in their minds.|\s[-2]\wait[100]\event</Value>
+    </Item>
+  </Asset>
+</XnaContent>

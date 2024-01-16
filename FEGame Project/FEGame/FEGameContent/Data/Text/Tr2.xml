@@ -1,0 +1,369 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Generic="System.Collections.Generic">
+  <Asset Type="Generic:Dictionary[string,string]">
+    <Item>
+      <Key>Tr2Intro</Key>
+      <Value>\f[2|Uther]\f[1|Leonard]\f[4|Madelyn]\f[5|Wallace]\f[6|Hassar]\g[Town]\s[2]Thanks again for coming, Lady Madelyn.|\s[4]\x[150]Give it not another thought, m'lord.
+Sir Wallace practically begged me for
+a chance to... how did you put it?|\s[5]\x[90]I want to stay in practice, ma'am.|\s[4]\x[150]No, you said something much wittier.
+What was it?|\s[5]\x[90]...|\s[2]Another time, Madelyn. And Hassar, I
+cannot express how fortuitous it was
+you and your cadre were visiting Caelin.|\s[6]\x[105]Ah, w-well...|\s[4]\x[150]Hee. What daddy doesn't know...|\s[5]\x[90]Madelyn, please! I don't have much of
+a reputation as it stands.|\s[2]Moving on.|\f[4|nil]\f[5|nil]\f[6|nil]\wait[20]\f[4|Cybil]\f[6|Bennet]\s[2]Miss Cybil, always a pleasure.|\s[4]\x[144]I'll take you at your word.|\s[2]I see you've some new fighters with you.
+Is Toni occupied elsewhere, then?|\f[5|Fargus]\s[5]\x[90]Ken we skip to th' briefing? I only brought
+bourbon enough for 'n hour or two.|\s[2]Of course. Leonard here is
+my most capable agent.\w[5]
+Leonard, if you would?|\s[1]\x[120]Aye, aye.|\s[-2]\f[2|nil]\wait[20]\m[1|2]\s[2]\x[120]Assuming you dashing fellows are good at
+what you do, I don't need to tell you about
+Lord Uther's activity during the last Anima.|\s[6]\x[108]The Bernites' occupation of Jennifer, yeah?|\s[4]\x[144]It was an independent operation, you dolt.
+Word has it that the ring responsible has
+operations all over the continent,|
+and they're even screwing their kinsmen
+out of their earnings.|\s[2]\x[120]Oh my, you're as sharp in mind as you are
+in dress. Now, these guys are well-organized,|
+well-funded, and a little too good at hiding
+their secrets. Beck was one of their best,|
+but he chose poor company. The only reason
+we have this lead is because his goons were
+sloppy, and we can't expect to get lucky again.|
+We play coy with these chaps and the whole
+dance floor empties, leaving us with the
+fat guy and the one with the weird moustache.|\s[6]\x[108]Uh...|\s[4]\x[144]Let nothing escape or the entire ring
+goes into hiding.|\s[6]\x[108]Right.|\s[5]\x[90]Are we sure we've got th' right place?
+These folk all look native t' me.|\f[1|Hyde]\s[1]\x[110]Look again, corsair. The militia are local,
+but do they seem like the kind of men you
+would have guard your peoples?|\s[5]\x[90]Slack-jaws, lard-arses, and incompetents.
+Seems like yer standard Lycian
+command structure.|\s[1]\x[110]I suggest you get some air, Captain.
+You will need to see straight if you
+hope to be of use today.|\s[5]\x[90]Hmph.|\s[-2]\f[5|nil]\wait[20]\s[2]\x[120]Intense! Anyway, the more fastidious among
+you have probably noticed what our buxom friend
+was missing. Patrolmen aren't usually so happy|
+with their position, and they're usually not
+led by muscle-bound eidolons who're clearly
+in their prime.| Our targets stirred the peasants
+into a revolt and got themselves a whole army
+to take the place with.|\s[4]\x[144]I think I recognize some of these guys...
+Real professionals. Remember that hostage
+crisis down in Badon?|\s[6]\x[108]Yeah, I'd heard of that...|
+A gaggle of pirates tried holding some diplomats
+for ransom off the coast. They were feeding the
+sharks within the hour.|\s[1]\x[110]And we are to weigh ourselves against
+the men responsible?|\s[2]\x[120]If it's too much for you, my dear...|\s[1]\x[110]No. There is no man alive who might divert
+my course. I have come here to complete a task,
+and complete it I shall.|\s[4]\x[144]Right, your mark. I'd almost forgotten.|\s[2]\x[120]Hmmmm?|\s[4]\x[144]The good inquisitor agreed to aid us on the
+terms that we not interfere with his work.|
+One of his flock has escaped and submerged
+himself in Sundale.|\s[-2]\f[5|Magnus]\s[5]\x[95]And we have the time to
+seek missing altar boys.|\s[1]\x[110]Mark my words, ruffian. The prisoner I seek
+is one of the most dangerous beasts you will
+ever have the displeasure of knowing.|
+For so long as he may enact his will, every
+kingdom in our land lies on the cusp of ruin.
+He is a mastermind, a warrior, and a demon.|
+This rebellion of yours hardly sizes up.|\s[5]\x[95]...I stand corrected.|\s[2]\x[120]Don't mess yourself, child. We'll find your boy,
+but we've got other things to work out first.|\s[1]\x[110]Very well.|\s[-2]\f[1|nil]\f[5|nil]\s[4]\x[144]Fargus!|\s[-2]\f[5|Fargus]\s[4]\x[144]Let's hear it, then.|\s[2]\x[120]The turncoats shouldn't prove too dangerous.
+They've got the backing of a raided Pheraen
+treasury in their favor, but none of the training.|
+The local pirates seem to have struck
+a deal, and have been stripping the town
+periodically since the lawmen were slain.|
+It's likely they'll be called to action
+when we begin. It's the Ring's men we
+need to watch for, though.|
+You'll pick them on sight; armed to the teeth,
+vicious as wild dogs, and as cold as the steel
+that protects them.|
+We'll need to make full use of the assets
+Lady Madelyn brought, yes sir.|\s[4]\x[144]Bennet, map.|\s[6]\x[108]Aye.|\s[4]\x[144]We enter from the west?|\s[2]\x[120]Right. They've abandoned this side of the city
+to rioters, so we'll find no opposition until
+we're practically inside the castle's walls.|
+They'll be fiercely guarding this series of
+bridges, here -\w[15] the only access to the castle
+gates. We'll be staving off rebels, mercenaries,|
+pirates, and if I'm not mistaken,
+a wing of dracoknights.|\s[5]\x[90]Not th' only way in.|\s[2]\x[120]Well, of course. You can challenge the
+pirates on their territory, but it's a
+long swim to the south cape.|\s[4]\x[144]And we don't really have the time.|\s[5]\x[90]Just sayin'.|\s[2]\x[120]We'll see what happens. Our main focus is
+the villa -\w[10] there's probably a few locals
+still trapped in the chaos who'd be grateful|
+for a way out. I'm familiar with the local
+alchemist -\w[10] she's pretty stubborn, so she's
+probably still running salves to those who remain.|
+We might be able to make use of her wares.
+I've a few other "friends" who used to operate from
+here, but I doubt they'd still be hanging around.|\s[6]\x[108]What about inside?|\s[2]\x[120]I don't know. The men running this operation
+are sharper than anyone I've ever crossed.
+All I can tell you is that the padfoots I sent|
+in were charred beyond recognition when they
+were pulled from the sea.|\s[4]\x[144]Pah. A sage is the last thing we need.|\s[2]\x[120]These men would have put slip to a sage, dear.
+This was something far swifter and far fiercer.|</Value>
+    </Item>
+    <Item>
+      <Key>Tr2Scene1</Key>
+      <Value>\f[5|Uther]\f[6|Hassar]\f[2|Leonard]\f[1|Cybil]\s[5]Everyone's in position?|\s[1]\x[144]Everyone except Bennet.
+Fall in, you rat!\w[5]
+Bloody conscripts.|\s[5]Good enough. We hit hard and don't stop until
+I can sit upon that throne and rest my feet on
+their commander's corpse. Understand?|\s[2]\x[120]Just give the--|</Value>
+    </Item>
+    <Item>
+      <Key>Tr2Scene2</Key>
+      <Value>\f[6|FighterM-2]\name[6|Warrior]\fc[6|Member]\s[6]\x[85]There's the signal. And here I thought
+the boss had gone paranoid again.|
+Axes ready, boys!
+The party's starting!|</Value>
+    </Item>
+    <Item>
+      <Key>Tr2Scene3</Key>
+      <Value>\f[3|Uther]\f[1|Leonard]\s[1]\x[120]Oops.|\s[3]Shit. Move out, boys and girls!
+We've got a long day ahead of us.|</Value>
+    </Item>
+    <Item>
+      <Key>Tr2VillageNW</Key>
+      <Value>\r[2]\f[2|PirateM-2]\name[2|Pirate]\fc[2|Rebel]\wait[1]\m[2|2]\wait[60]\m[2|2]\wait[30]\f[6|Visitor]\s[6]...|\s[2]Yeah, who is it? You one of th' mercs?
+\m[2|2]\w[15]We're almost done here, mate.| Jewelry
+and silks and th' like have already
+been moved,|\m[2|2] we're just checking for
+spices an' art and then we're out o'
+yer hair.|\scroll...\wait[5]\r[2]\wait[10]Eh?|\m[6|5]\s[5]...You're done now.
+Hand over everything you have.|\s[-2]\m[2|1]\s[1]Aw, shit. Alright, we surrender.|</Value>
+    </Item>
+    <Item>
+      <Key>Tr2VillageNE</Key>
+      <Value>\f[2|Woman1Villager]\name[2|Villager]\f[5|Visitor]\s[2]Have ye visited the arena up yonder
+road, neighbor?| I don't know how,
+but that bootlick, Harrison, is still
+in business!| There's not fifty of us
+left in the Dale, an' those of us ken
+wield a blade worth a damn were either|
+recruited or killed, so it's pretty
+blighted obvious the bastard's dealing
+with the invaders.| I bet he was pretty
+bloody happy to get his bloated hands
+on castle gold...|\scrollLook, this is an old heirloom from
+th' days when my father served.|
+It was a gift from the late
+Marquess Pherae, so I think...|
+I think there would be justice in you
+putting it to use.| Round up the ones
+who did this, and that includes the daft
+pricks who betrayed us.|\scrollDo you hear me, neighbor? All of them.|</Value>
+    </Item>
+    <Item>
+      <Key>Tr2VillageCenter</Key>
+      <Value>\f[5|Visitor]\wait[20]\r[5]\wait[45]\r[5]\wait[30]\s[5]...Empty. Looks like they left
+in a hurry...\w[5] what a mess.|\scrollHm?\w[5] Oh, this could be useful.|</Value>
+    </Item>
+    <Item>
+      <Key>Tr2VillageRoeisHyde</Key>
+      <Value>\f[5|Hyde]\s[5]\x[110]...\w[5]There. Come out.|\s[-2]\f[1|Roeis]\wait[10]\m[1|2]\wait[20]\s[2]\x[80]Okay, okay. \w[15]\x[130]Now you go hide,
+and I'll come find you!|\s[5]\x[110]...|\s[2]\x[80]]Well, it's not like anything else was going
+to work. \w[15]\x[130]Are we going with the shackles
+this time, or something more exotic?|
+\e[2|1]I hear good things about travel via maiden.|\s[5]\x[110]What would the point be? Like a serpent,
+you writhe out of anything we put you in.|\s[2]\x[130]Well, I am quite proud of my scales.|\s[5]\x[110]It so happens today that I've an obligation
+to fulfil. You will help me with it.|\s[2]\x[130]\e[2|0]Oh, that sounds fun.\e[2|1] Yes, I'd quite like that.|\e[2|0]\s[5]\x[110]I thought as much. Come, then.
+Stay where I can see you.|</Value>
+    </Item>
+    <Item>
+      <Key>Tr2VillageRoeisUther</Key>
+      <Value>\f[2|Roeis]\f[5|Uther]\s[5]Hands where I can see them, stranger.|\s[2]\x[130]Oho. It's not often someone sneaks up on me.|\s[5]I'm just that sort of fellow.
+What's your business here?
+Why do you hide?|\s[2]\x[80]I did not wish to be found.|\s[5]That makes sense, I suppose.
+And is it these cutthroats you hide from?|\s[2]\x[130]Aren't they just terrifying?|\s[5]No, there's more to it than that.
+You chose this place with purpose.|\s[2]\x[80]You're here with Hyde, aren't you?|\s[5]Indeed. You'll be staying at sword-point
+until we rejoin the others.|\s[2]\x[80]I apologize for cutting you off.
+You seemed to be enjoying your advantage--|\s[5]Hasten your steps.|\s[2]\x[80]Ah.. What about our witty banter?\w[15]\x[130]
+Okay!\w[5] Ow!|</Value>
+    </Item>
+    <Item>
+      <Key>Tr2VillageRoeisOther</Key>
+      <Value>\f[5|Visitor]\s[5]Ah! A trap...\w[16]
+If I just...\w[20]\m[5|5]\w[10] There!\w[5]
+That could have been bad.|\s[-2]\f[2|Roeis]\s[2]\x[80]It still could be.|\s[5]S-stay where you are!\w[8]
+Are you... the man the
+inquisitor is looking for?|\s[2]\x[80]...\w[12]
+...This inquisitor,\w[15]
+does he have a name?|\s[5]Hyde, \w[3]if I'm not mistaken.
+Are you to enter our custody?|\s[2]\x[80]Hm. I can think of no
+reason why I would not.
+\wait[20]\x[130]\e[2|1]Lead on, my jailer!|\s[-2]\m[2|3]\wait[5]\s[3]\x[130]Take me wherever my fate
+may decide!|\s[-2]\m[5|6]\s[6]Uh...|</Value>
+    </Item>
+    <Item>
+      <Key>Tr2HouseN</Key>
+      <Value>\f[1|SoldierM-0]\name[1|Soldier]\fc[1|Pherae]\f[5|Visitor]\s[1]You...\w[5] You're with the sortie from Caelin,
+aren't you? Please, come inside.|\s[-2]\m[1|2]\wait[20]\s[2]We're from the local garrison. Only the six
+of us survived, and we weren't sure we'd
+make it through another cold night.|
+I'll give you the short version. We were
+changing shifts. Familiar men emerged from
+the darkness, offering ale and rest for|
+tired feet. They took our hands and then
+lunged with their daggers. We lost half
+our men in that first moment.| The alarm
+went up, and the wallmen assembled. Each
+archer took his post, prepared his bow,|
+and was knocked down in turn by an
+unseen sharpshooter. We footmen were
+mobilized.| We charged into the darkness
+only to be blinded by sharp pulses
+of light.|\scrollSuddenly there were only ten men guarding
+Sundale.| We choked on the smell of burnt
+hair and were shocked by the touch of our
+very own armor.\w[5] We were undone.|\scrollNow, here we are. No matter how many men
+you bring with you, just remember to
+look up, lest you lose them all.|</Value>
+    </Item>
+    <Item>
+      <Key>Tr2HouseSW</Key>
+      <Value>\g[House]\f[2|Man4Villager]\name[2|Villager]\f[5|Visitor]\s[2]You know anything about Longbowmen,
+soldier?|
+No, listen, Longbowmen are a unique
+breed of Archer. Unless you've a
+specialized weapon, or a marksman with|
+similar training, you'll find your own
+arrows falling short while theirs sail
+over your head.|
+I can't explain how they shoot so far,
+but I can offer some advice...
+Be mindful of their abilities.|
+Try to bait them with someone sturdy
+before you go making a bad decision.|
+When it comes down to it, you might
+have to avoid them entirely!|
+I don't know that it'll do you any good,
+but you need every edge you can get.\w[10]
+Take back Sundale.|</Value>
+    </Item>
+    <Item>
+      <Key>Tr2Outro1</Key>
+      <Value>\g[Castle]\f[4|Uther]\f[2|Boston]\f[1|Fargus]\e[4|2]\b[2|2]\s[4]Stand, you cur!\w[8] Or have we knocked
+the man out of you already?|\s[2]\x[90]...Haah...|\s[4]Stand!\w[8] I fucking told you to--|\name[0|Wallace]\s[0]\x[83]My lord.|\s[4]...Blast it all.|\s[-2]\wait[8]\f[2|nil]\f[1|nil]\wait[12]\f[1|Leonard]\f[2|Wallace]\s[2]\x[83]If I'm not speaking out of turn,\w[8] the man
+will need his brains\w[12] inside\w[26] his skull for
+us to make use of them.|\s[4]Wise counsel,\w[8] as always.
+He's yours, Leonard.|\s[1]\x[120]My lord is too kind.|\s[4]Shut your mouth and do your
+job.\w[12] It has been a long day.|\s[1]\x[120]Aye, aye.|\s[2]\x[83]Lady Madelyn expects you
+in the gardens,\w[8] m'lord.|\s[4]...\w[16]\e[4|0]\w[4]Of course she does.\w[12] Tell her I'll be a
+moment.\w[8] I need... to freshen up.|\s[2]\x[83]My lord.|\s[-2]\wait[8]\f[1|nil]\f[2|nil]\wait[12]\f[1|Fargus]\f[2|Cybil]\s[1]\x[88]Y'sounded just like one'o me boys
+back there,\w[8] Uther.\w[8] I'm prouder fer it.
+Ain't no dignity in serving a woman.|\s[2]\x[144]\m[2|2]Hmph.|\s[1]\x[88]Ar, like y' count.\w[8] Ain't no man
+ever set foot on me ship with a
+tongue as blue as yers,\w[32] ma'am.|\s[4]Can we get on with this?\w[12]
+I ache for an ale.|\s[2]\x[144]Well said.\w[8] Hassar is busy
+doting on that unbearable princess,\w[12]
+so do not expect a bargain.|</Value>
+    </Item>
+    <Item>
+      <Key>Tr2Outro1HydeRoeis</Key>
+      <Value>\s[-2]\f[6|Hyde]\wait[8]\s[6]\x[110]I have my prize.
+\r[4]\wait[8]I'll not disturb you any further.|\s[4]Please,\w[8] accept my gratitude,
+if not a boon.\w[12] You fought well.|\s[6]\x[110]And you, my lord.\w[12] I must confess,\w[8] I drew certain
+conclusions when we met on the morn...|\s[4]By no fault of your own.\w[12] I prefer to project
+an image of sorts,\w[8] for many reasons.|\s[6]\x[110]You are indeed an astute tactician, my lord.
+May this victory grant you fortune.|\s[4]Thank you.|\s[-2]\wait[20]\f[6|nil]</Value>
+    </Item>
+    <Item>
+      <Key>Tr2Outro1Hyde</Key>
+      <Value>\s[-2]\f[6|Hyde]\wait[8]\s[6]\x[110]Sorrow weighs heavily upon my shoulders.
+\r[4]\wait[12]It was not coin I sought this day...|\s[2]\x[144]A shame, to be sure.\w[8] Will you
+not accept compensation?|\s[4]And at the least,\w[6] my condolences.\w[10] Your
+mark slipped out in the commotion, I hear.|\s[6]\x[110]A mistake which will cost the blood of
+your people, I fear.\w[8] Not even the finest
+of gems would ease such pain.|\s[2]\x[144]Very well.\w[16] At least allow me
+to provide you with steed...|\s[6]\x[110]Agreed.\w[8] You will find me at the chapel.|\s[2]\x[144]Until then.|\s[4]...Good day.|</Value>
+    </Item>
+    <Item>
+      <Key>Tr2Outro1Roeis</Key>
+      <Value>\s[-2]\f[6|Roeis]\wait[8]\s[6]\x[130]Oh,\w[8] is it payday?|\s[2]\x[144]Ugh.\w[12] Who let the jackal in?|\s[4]He fought as well as any of your men,
+by my reckoning.|\s[1]\x[88]Hrmph.\w[8] If ye call what he does fighting.|\s[2]\x[144]I'll not deny the usefulness
+of a little magical support.|\s[4]You'll accept responsibility for him, then?|\s[2]\x[144]Better than having him roaming,\w[8] I suppose.|\s[-2]\wait[6]\e[6|1]\wait[30]</Value>
+    </Item>
+    <Item>
+      <Key>Tr2Outro1Magnus</Key>
+      <Value>\s[-2]\f[6|Magnus]\wait[12]\s[6]\x[95]On with it, then.\w[12] I expect three women at each
+arm by sundown.\w[12] By the gods,\w[8] we deserve it.|\s[4]Mm.\w[8] It has been something of a trial.|\s[1]\x[88]Pah,\w[8] forget th' women.\w[12] I'd trade it all
+for a bath were it off'red right now.|\s[6]\x[95]Are you hearing this?\w[8]
+"Forget the women", he says!|\s[2]\x[144]He's probably still thirsting for some
+\w[12]"bonnie lass"\w[26] he left back at port, eh?|\s[4]Heh.|\s[1]\x[88]Shut yer traps,\w[8] the lot o' ya.|</Value>
+    </Item>
+    <Item>
+      <Key>Tr2Outro1Bennet</Key>
+      <Value>\s[-2]\f[6|Bennet]\wait[12]\s[6]\x[108]Living saint,\w[8] I thought I'd died in that mess
+and had to live it out for the rest of eternity.\w[8]
+Let's have it, then.|\s[2]\x[144]Peace,\w[8] soldier,\w[8] or we'll be celebrating on
+bread.\w[12] I'm sure Lord Uther has enough
+stress without\w[6] dogs\w[12] biting at his ankles.|\s[6]\x[108]I-\w[8]I meant no disrespect...|\s[4]It's nothing.|\s[2]\x[144]Fargus,\w[8] I'd think this matter would
+be best discussed over drink.\w[8]
+We lost good warriors today.|\s[1]\x[88]I'm not one t' mourn a bigger
+share,\w[8] but if it calls fer booze...|</Value>
+    </Item>
+    <Item>
+      <Key>Tr2Outro1Cybil</Key>
+      <Value>\s[4]I'm not looking for one.\w[16] How does
+twelve thousand suit you?|\s[2]\x[144]Fits like a glove, m'lord.\w[12]
+I'll trouble you no further.|\s[4]A thousand thanks.|\s[2]\x[144]Come,\w[8] Fargus.\w[16] Drink's on me, it seems.|\s[1]\x[88]You know what I like to hear.\w[8] May
+lady Fate bring you mercy, Uther.|\s[4]Mm.|</Value>
+    </Item>
+    <Item>
+      <Key>Tr2Outro2</Key>
+      <Value>\g[Garden]\f[2|Uther]\f[5|Madelyn]\f[6|Hassar]\wait[12]\s[2]I wish you hadn't come,\w[8] Madelyn.\w[12] Today's
+battle scarred even my calloused psyche;\w[8]
+it was a true bloodbath.|
+If your father knew...|\s[5]\x[150]\m[5|5]I am no longer a child, Uther!\w[12] This ugliness was
+no worse than any other I've endured by your side.|\e[2|2]\s[2]This does not ease my heart,\w[8] woman!|\s[-2]\m[6|5]\wait[8]\s[2]...|\s[5]\x[105]...|\e[2|0]\wait[6]\s[2]You know my meaning.\w[12] You are not a soldier,
+Madelyn,\w[8] not by birth,\w[8] nor by nature.|
+I am shamed to have ever drawn my blade in
+your presence,\w[8] let alone waged war at your side.|\s[5]\x[105]You deny her ability on the field?|\s[2]Of course not.|\s[6]\x[150]Then there is nothing to discuss.|\s[2]Well,\w[8] though the worst is over, we may yet occupy
+these walls for weeks -\w[20] I do hear that Elbert is
+on his way,\w[8] so there is that to look forward to.|\s[6]\x[150]\wait[12]\m[6|6]Oh!\w[8] Hassar,\w[8] you absolutely must meet
+Elbert!\w[10] He's so thoroughly charming.
+You might learn something, hm?|\s[5]\x[105]M'lady,\w[8] you insult me.|\s[2]You'll be staying, then?|\s[6]\x[150]Perhaps.\w[12] I don't much look forward
+to riding home and back.|\s[2]And Hassar?\w[12] Would your men
+accept another assignment?|\s[5]\x[105]Most of them.\w[10] They'll need to rest before
+we move out,\w[8] so I can at least provide
+security until the militia sorts itself out.|\s[2]Very good.\w[8] I will see you both tomorrow, then.|\s[6]\x[150]Good night,\w[8] m'lord.|\s[2]Mm.|\s[-2]\wait[5]\f[1|nil]\f[2|nil]\f[3|nil]\f[4|nil]\f[5|nil]\f[6|nil]\wait[5]</Value>
+    </Item>
+    <Item>
+      <Key>Tr2Outro3</Key>
+      <Value>\g[Dungeon]\f[6|Leonard]\r[2]\f[2|Wallace]\wait[32]\s[6]\x[120]How do I always find myself celebrating
+in such conditions,\w[8] sir Wallace?|
+I cannot find words to describe my
+longing for streamers and music...|\s[2]\x[83]Then cease speaking.|\s[6]\x[120]Oh, you're such a downer.|
+...|
+...Sigh...|
+Even the pigswill in the cellars
+above would satisfy me!|\s[2]\x[83]My lord!|\s[-2]\m[2|4]\wait[12]\f[2|Uther]\wait[8]\s[2]At ease.\w[12] Did he speak?|\s[6]\x[120]At a cost.|\s[2]...Piss and mud,\w[16] I'd mistake him for served venison
+had I not known better!\w[12] Whose handiwork is this?\wait[10]
+\m[2|2]There's barely anything left!|\s[4]\x[83]I kept my back turned for a reason.|\s[6]\x[120]What can I say?\w[10] He was persistent.|\s[2]Living saint,\w[8] where was this
+side of you on the field?|\s[6]\x[120]Oh,\w[8] but you'll be happy to hear what
+he bartered for his death with.|\s[2]Let's discuss this elsewhere,\w[8] please.\w[12] I fear I will
+lose my rations.\w[20] Wallace, get...\w[16] do...\w[8]
+something...\w[8] about that.|\s[-2]\wait[20]\f[2|nil]\f[6|nil]\s[4]\x[83]This is horseshit.|</Value>
+    </Item>
+    <Item>
+      <Key>Tr2TalkHydeRoeis</Key>
+      <Value>\f[2|Hyde]\wait[12]\f[5|Roeis]\wait[8]\s[2]\x[110]So, they smoked you out?\w[8] Very well.
+Stay where I can see you.|\s[5]\x[130]Yes, master. Shall I sit?|\s[2]\x[110]If you must.|\wait[6]\m[5|5]\s[5]\x[130]Shall I roll over?|\s[2]\x[110]Fine.|\wait[12]\r[5]\wait[12]\r[5]\wait[15]\s[5]\x[130]And shall I--|\s[2]\x[110]Are you done?|\s[5]\x[85]I suppose I am.|</Value>
+    </Item>
+    <Item>
+      <Key>Tr2TalkMagnusRoeis</Key>
+      <Value>\f[2|Magnus]\wait[12]\f[5|Roeis]\wait[8]\s[2]\x[95]So you're our wild-man, \w[8]then? The genius
+with fangs of ire and belly full of doomsday?|\s[5]\x[85]I'm not what I am, if that's what you fear.|\s[2]\x[95]That doesn't mean anything. \w[12]Who are you?
+Why is the inquisitor so ensorceled by you?|\s[5]\x[130]Me?|\s[2]\x[95]Who else?|\s[5]\x[85]I am but a scar where space once was.\w[8]
+I move through your world as much as
+you move through mine.|\s[2]\x[95]Look, weirdo, I didn't come to you for riddles.
+\w[10]What are your skills? \w[10]What's your history?
+\w[10]Can I turn my back on you?|\s[5]\x[130]Oh, definitely not.\wait[6]\x[85] I'd break your neck.|\s[2]\x[95]What's your problem, freak?|\s[5]\x[130]I'm dangerous. Hrrrr... Raaaar!|\s[2]\x[95]...\w[8]This is going nowhere.\w[10] Do you even
+understand what's happening here?|\s[5]\x[130]You're asking me things.\w[8] They're dumb things,
+but I don't have much better to do.|
+\wait[6]\x[85]Well, besides the fighting.|\s[2]\x[95]Finally, you're making sense.|\s[5]\x[85]No, Magnus.\w[26] You're just catching up.|\s[2]\x[95]Hrm.|</Value>
+    </Item>
+    <Item>
+      <Key>Tr2MapSave1</Key>
+      <Value>\f[5|Uther]\wait[4]\s[5]\x[100]Now, the battle begins in earnest.\w[12]
+We must be prepared for anything.|</Value>
+    </Item>
+  </Asset>
+</XnaContent>

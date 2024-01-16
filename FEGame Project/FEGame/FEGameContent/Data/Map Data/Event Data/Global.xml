@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="FEXNA_Library.Map_Event_Data">
+    <Events>
+      <Item>
+        <name>Turn 1 - Mari on field</name>
+        <trigger>2</trigger>
+        <trigger_action>1</trigger_action>
+        <trigger_timing>0</trigger_timing>
+        <trigger_turn>1</trigger_turn>
+        <data>
+          <Item>
+            <Key>201</Key>
+            <Value>
+              <Item>Actor has Unit</Item>
+              <Item>180</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>1</Key>
+            <Value>
+              <Item>Chapter</Item>
+              <Item>Turn1Mari</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>2</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>1</Key>
+            <Value>
+              <Item>Chapter</Item>
+              <Item>VandalEvent2</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>2</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>3</Key>
+            <Value>
+              <Item>20</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>11</Key>
+            <Value>
+              <Item>Unit_of_Actor18</Item>
+              <Item>4</Item>
+              <Item>24</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>12</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>64</Key>
+            <Value>
+              <Item>18</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>111</Key>
+            <Value>
+              <Item>40</Item>
+              <Item>Set</Item>
+              <Item>true</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>204</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>250</Key>
+            <Value />
+          </Item>
+        </data>
+      </Item>
+      <Item>
+        <name>Wolfram Angel</name>
+        <trigger>2</trigger>
+        <trigger_action>5</trigger_action>
+        <trigger_timing>1</trigger_timing>
+        <trigger_turn>1</trigger_turn>
+        <data>
+          <Item>
+            <Key>201</Key>
+            <Value>
+              <Item>Actor has Unit</Item>
+              <Item>10</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>201</Key>
+            <Value>
+              <Item>Wolframing</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>201</Key>
+            <Value>
+              <Item>Actor Class</Item>
+              <Item>10</Item>
+              <Item>79</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>133</Key>
+            <Value>
+              <Item>Battle Sounds</Item>
+              <Item>Wolfram</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>51</Key>
+            <Value>
+              <Item>false</Item>
+              <Item>10</Item>
+              <Item>95</Item>
+              <Item>true</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>20</Key>
+            <Value>
+              <Item>Unit_of_Actor10</Item>
+              <Item>SaturosBattle</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>204</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>203</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>201</Key>
+            <Value>
+              <Item>Actor Class</Item>
+              <Item>10</Item>
+              <Item>95</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>133</Key>
+            <Value>
+              <Item>Battle Sounds</Item>
+              <Item>Wolfram2</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>20</Key>
+            <Value>
+              <Item>Unit_of_Actor10</Item>
+              <Item>null</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>51</Key>
+            <Value>
+              <Item>false</Item>
+              <Item>10</Item>
+              <Item>79</Item>
+              <Item>true</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>204</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>204</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>204</Key>
+            <Value />
+          </Item>
+        </data>
+      </Item>
+      <Item>
+        <name>Wolfram Unangel</name>
+        <trigger>2</trigger>
+        <trigger_action>1</trigger_action>
+        <trigger_timing>0</trigger_timing>
+        <trigger_turn>1</trigger_turn>
+        <data>
+          <Item>
+            <Key>252</Key>
+            <Value>
+              <Item>Wolfram Angel</Item>
+              <Item>false</Item>
+            </Value>
+          </Item>
+        </data>
+      </Item>
+      <Item>
+        <name>Wolfram Force Unangel</name>
+        <trigger>2</trigger>
+        <trigger_action>1</trigger_action>
+        <trigger_timing>0</trigger_timing>
+        <trigger_turn>1</trigger_turn>
+        <data>
+          <Item>
+            <Key>20</Key>
+            <Value>
+              <Item>Unit_of_Actor10</Item>
+              <Item>null</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>59</Key>
+            <Value>
+              <Item>false</Item>
+              <Item>10</Item>
+              <Item>33</Item>
+              <Item>false</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>51</Key>
+            <Value>
+              <Item>false</Item>
+              <Item>10</Item>
+              <Item>79</Item>
+              <Item>true</Item>
+            </Value>
+          </Item>
+        </data>
+      </Item>
+      <Item>
+        <name>Elise Mount</name>
+        <trigger>2</trigger>
+        <trigger_action>5</trigger_action>
+        <trigger_timing>1</trigger_timing>
+        <trigger_turn>1</trigger_turn>
+        <data>
+          <Item>
+            <Key>201</Key>
+            <Value>
+              <Item>Actor has Unit</Item>
+              <Item>6</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>201</Key>
+            <Value>
+              <Item>Horsieing</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>201</Key>
+            <Value>
+              <Item>Actor Class</Item>
+              <Item>6</Item>
+              <Item>89</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>51</Key>
+            <Value>
+              <Item>false</Item>
+              <Item>6</Item>
+              <Item>87</Item>
+              <Item>true</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>204</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>203</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>201</Key>
+            <Value>
+              <Item>Actor Class</Item>
+              <Item>6</Item>
+              <Item>87</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>51</Key>
+            <Value>
+              <Item>false</Item>
+              <Item>6</Item>
+              <Item>89</Item>
+              <Item>true</Item>
+            </Value>
+          </Item>
+          <Item>
+            <Key>204</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>204</Key>
+            <Value />
+          </Item>
+          <Item>
+            <Key>204</Key>
+            <Value />
+          </Item>
+        </data>
+      </Item>
+    </Events>
+  </Asset>
+</XnaContent>
